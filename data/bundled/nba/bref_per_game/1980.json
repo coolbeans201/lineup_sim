@@ -1,0 +1,5170 @@
+[
+  {
+    "player_id": "bref_abdulka01_1980_LAL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 10.8,
+      "AST": 4.5,
+      "STL": 1.0,
+      "BLK": 3.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_abernto01_1980_GSW",
+    "player_name": "Tom Abernethy",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.9,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_adamsal01_1980_PHX",
+    "player_name": "Alvan Adams",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 8.1,
+      "AST": 4.3,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_architi01_1980_BOS",
+    "player_name": "Tiny Archibald",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 2.5,
+      "AST": 8.4,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_awtrede01_1980_CHI",
+    "player_name": "Dennis Awtrey",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 4.4,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bailegu01_1980_WAS",
+    "player_name": "Gus Bailey",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.4,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_baileja01_1980_OKC",
+    "player_name": "James Bailey",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.9,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_ballagr01_1980_WAS",
+    "player_name": "Greg Ballard",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 7.8,
+      "AST": 1.9,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bantomi01_1980_IND",
+    "player_name": "Mike Bantom",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 5.9,
+      "AST": 3.6,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_barnema01_1980_LAC",
+    "player_name": "Marvin Barnes",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 3.9,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_barryri01_1980_HOU",
+    "player_name": "Rick Barry",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 3.3,
+      "AST": 3.7,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bensoke01_1980_2TM",
+    "player_name": "Kent Benson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 6.2,
+      "AST": 2.4,
+      "STL": 1.0,
+      "BLK": 1.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bensoke01_1980_MIL",
+    "player_name": "Kent Benson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 5.9,
+      "AST": 2.3,
+      "STL": 1.0,
+      "BLK": 1.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_beshode01_1980_CHI",
+    "player_name": "Del Beshore",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 0.9,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bibbyhe01_1980_PHI",
+    "player_name": "Henry Bibby",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 2.5,
+      "AST": 3.7,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_birdla01_1980_BOS",
+    "player_name": "Larry Bird",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 10.4,
+      "AST": 4.5,
+      "STL": 1.7,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_birdsot01_1980_SAC",
+    "player_name": "Otis Birdsong",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 22.7,
+      "REB": 4.0,
+      "AST": 2.5,
+      "STL": 1.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_boonero01_1980_2TM",
+    "player_name": "Ron Boone",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 2.8,
+      "AST": 3.8,
+      "STL": 1.2,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_boonero01_1980_UTA",
+    "player_name": "Ron Boone",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 2.9,
+      "AST": 4.0,
+      "STL": 1.2,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bosweto01_1980_2TM",
+    "player_name": "Tom Boswell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 5.6,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bosweto01_1980_UTA",
+    "player_name": "Tom Boswell",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 5.4,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_boynewi01_1980_BKN",
+    "player_name": "Winford Boynes",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.1,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bradlal01_1980_HOU",
+    "player_name": "Alonzo Bradley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 0.3,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bradldu01_1980_IND",
+    "player_name": "Dudley Bradley",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 2.7,
+      "AST": 3.1,
+      "STL": 2.6,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bratzmi01_1980_PHX",
+    "player_name": "Mike Bratz",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.0,
+      "AST": 2.7,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_breweji01_1980_POR",
+    "player_name": "Jim Brewer",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 3.8,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_brewero01_1980_POR",
+    "player_name": "Ron Brewer",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 2.6,
+      "AST": 2.6,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bridgju01_1980_MIL",
+    "player_name": "Junior Bridgeman",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 3.7,
+      "AST": 2.9,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bristal01_1980_UTA",
+    "player_name": "Allan Bristow",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 6.2,
+      "AST": 4.2,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_brownfr01_1980_OKC",
+    "player_name": "Fred Brown",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 1.9,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_brownjo01_1980_2TM",
+    "player_name": "John Brown",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.2,
+      "AST": 0.6,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_brownjo01_1980_ATL",
+    "player_name": "John Brown",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bryanjo01_1980_LAC",
+    "player_name": "Joe Bryant",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 6.4,
+      "AST": 1.8,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_bucknqu01_1980_MIL",
+    "player_name": "Quinn Buckner",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 3.6,
+      "AST": 5.7,
+      "STL": 2.0,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_burleto01_1980_SAC",
+    "player_name": "Tom Burleson",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.9,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_busedo01_1980_PHX",
+    "player_name": "Don Buse",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.9,
+      "AST": 4.0,
+      "STL": 1.6,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_byrnema01_1980_LAL",
+    "player_name": "Marty Byrnes",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.8,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_calvima01_1980_UTA",
+    "player_name": "Mack Calvin",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.8,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_carrau01_1980_CLE",
+    "player_name": "Austin Carr",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 2.1,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_carrke01_1980_2TM",
+    "player_name": "Kenny Carr",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 7.4,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_carrke01_1980_CLE",
+    "player_name": "Kenny Carr",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 7.7,
+      "AST": 1.0,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_carrml01_1980_BOS",
+    "player_name": "M.L. Carr",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 4.0,
+      "AST": 1.9,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cartwbi01_1980_NYK",
+    "player_name": "Bill Cartwright",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 21.7,
+      "REB": 8.9,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 1.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_catchha01_1980_MIL",
+    "player_name": "Harvey Catchings",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 5.7,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 2.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_chanedo01_1980_BOS",
+    "player_name": "Don Chaney",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.2,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cheekma01_1980_PHI",
+    "player_name": "Maurice Cheeks",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 3.5,
+      "AST": 7.0,
+      "STL": 2.3,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cheniph01_1980_2TM",
+    "player_name": "Phil Chenier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 1.8,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cheniph01_1980_WAS",
+    "player_name": "Phil Chenier",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 2.2,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cheniph01_1980_IND",
+    "player_name": "Phil Chenier",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_choneji01_1980_LAL",
+    "player_name": "Jim Chones",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 6.9,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cleamji01_1980_2TM",
+    "player_name": "Jim Cleamons",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 1.9,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cleamji01_1980_NYK",
+    "player_name": "Jim Cleamons",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 0.9,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cleamji01_1980_WAS",
+    "player_name": "Jim Cleamons",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.3,
+      "AST": 4.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_collido01_1980_PHI",
+    "player_name": "Doug Collins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 2.6,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cookje01_1980_PHX",
+    "player_name": "Jeff Cook",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.7,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_coopemi01_1980_LAL",
+    "player_name": "Michael Cooper",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 2.8,
+      "AST": 2.7,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_coopewa01_1980_GSW",
+    "player_name": "Wayne Cooper",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 6.4,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_copelho01_1980_NYK",
+    "player_name": "Hollis Copeland",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.1,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_corzida01_1980_WAS",
+    "player_name": "Dave Corzine",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.1,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_coughjo01_1980_GSW",
+    "player_name": "John Coughran",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.8,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cowenda01_1980_BOS",
+    "player_name": "Dave Cowens",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 8.1,
+      "AST": 3.1,
+      "STL": 1.0,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_crissch01_1980_ATL",
+    "player_name": "Charlie Criss",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.4,
+      "AST": 3.0,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_cummipa01_1980_MIL",
+    "player_name": "Pat Cummings",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 3.4,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dandrbo01_1980_WAS",
+    "player_name": "Bob Dandridge",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 5.5,
+      "AST": 4.0,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dantlad01_1980_UTA",
+    "player_name": "Adrian Dantley",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 28.0,
+      "REB": 7.6,
+      "AST": 2.8,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_davisjo01_1980_IND",
+    "player_name": "Johnny Davis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 2.8,
+      "AST": 5.4,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_daviswa03_1980_PHX",
+    "player_name": "Walter Davis",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 3.6,
+      "AST": 4.5,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dawkida01_1980_PHI",
+    "player_name": "Darryl Dawkins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 8.7,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 1.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dawkipa01_1980_UTA",
+    "player_name": "Paul Dawkins",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.2,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_demicla01_1980_NYK",
+    "player_name": "Larry Demic",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 5.9,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dietrco01_1980_CHI",
+    "player_name": "Coby Dietrick",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.6,
+      "AST": 2.7,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_douglle01_1980_DET",
+    "player_name": "Leon Douglas",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 7.2,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_drewjo01_1980_ATL",
+    "player_name": "John Drew",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 5.9,
+      "AST": 1.3,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_duerote01_1980_DET",
+    "player_name": "Terry Duerod",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 1.5,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dunlemi01_1980_HOU",
+    "player_name": "Mike Dunleavy",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 2.0,
+      "AST": 4.1,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_dunntr01_1980_POR",
+    "player_name": "T.R. Dunn",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.0,
+      "AST": 1.8,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_edwarja01_1980_IND",
+    "player_name": "James Edwards",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 7.0,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 1.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_elliobo01_1980_BKN",
+    "player_name": "Bob Elliott",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.4,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_ellisbo02_1980_DEN",
+    "player_name": "Bo Ellis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.4,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_elmorle01_1980_SAC",
+    "player_name": "Len Elmore",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 4.4,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_englial01_1980_2TM",
+    "player_name": "Alex English",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 7.8,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_englial01_1980_IND",
+    "player_name": "Alex English",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 7.0,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_englial01_1980_DEN",
+    "player_name": "Alex English",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 9.4,
+      "AST": 3.4,
+      "STL": 1.2,
+      "BLK": 1.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_ervinju01_1980_PHI",
+    "player_name": "Julius Erving",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 26.9,
+      "REB": 7.4,
+      "AST": 4.6,
+      "STL": 2.2,
+      "BLK": 1.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_evansea01_1980_DET",
+    "player_name": "Earl Evans",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.1,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_evansmi01_1980_SAS",
+    "player_name": "Mike Evans",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.4,
+      "AST": 2.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_fernser01_1980_BOS",
+    "player_name": "Eric Fernsten",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_fordch01_1980_BOS",
+    "player_name": "Chris Ford",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 2.5,
+      "AST": 2.9,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_forddo01_1980_2TM",
+    "player_name": "Don Ford",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.5,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_forddo01_1980_LAL",
+    "player_name": "Don Ford",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.9,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_forddo01_1980_CLE",
+    "player_name": "Don Ford",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 4.1,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_fordph01_1980_SAC",
+    "player_name": "Phil Ford",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 2.1,
+      "AST": 7.4,
+      "STL": 1.7,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_freewo01_1980_LAC",
+    "player_name": "World B. Free",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 30.2,
+      "REB": 3.5,
+      "AST": 4.2,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_furlote01_1980_2TM",
+    "player_name": "Terry Furlow",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 2.6,
+      "AST": 3.9,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_furlote01_1980_ATL",
+    "player_name": "Terry Furlow",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 2.0,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_furlote01_1980_UTA",
+    "player_name": "Terry Furlow",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 2.8,
+      "AST": 4.0,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_galemi01_1980_SAS",
+    "player_name": "Mike Gale",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.3,
+      "AST": 4.7,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_garlaga01_1980_DEN",
+    "player_name": "Gary Garland",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_gerargu01_1980_SAC",
+    "player_name": "Gus Gerard",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.4,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_gervige01_1980_SAS",
+    "player_name": "George Gervin",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 33.1,
+      "REB": 5.2,
+      "AST": 2.6,
+      "STL": 1.4,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_gilmoar01_1980_CHI",
+    "player_name": "Artis Gilmore",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 9.0,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 1.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_givenja01_1980_ATL",
+    "player_name": "Jack Givens",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.0,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_glennmi01_1980_NYK",
+    "player_name": "Mike Glenn",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 0.9,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_gondrgl01_1980_DEN",
+    "player_name": "Glen Gondrezick",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.4,
+      "AST": 1.4,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_greenda01_1980_CHI",
+    "player_name": "Dave Greenwood",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 9.4,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 1.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_greenmi01_1980_SAC",
+    "player_name": "Mike Green",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 5.4,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_greveke01_1980_WAS",
+    "player_name": "Kevin Grevey",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 2.9,
+      "AST": 2.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_griffpa01_1980_SAS",
+    "player_name": "Paul Griffin",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 5.3,
+      "AST": 3.0,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_grossbo01_1980_POR",
+    "player_name": "Bob Gross",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 4.0,
+      "AST": 3.7,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_grunfer01_1980_SAC",
+    "player_name": "Ernie Grunfeld",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.9,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hamilro01_1980_DET",
+    "player_name": "Roy Hamilton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.5,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hardyja01_1980_UTA",
+    "player_name": "James Hardy",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 5.3,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hassejo01_1980_IND",
+    "player_name": "Joe Hassett",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.3,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hawesst01_1980_ATL",
+    "player_name": "Steve Hawes",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 6.0,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hayesel01_1980_WAS",
+    "player_name": "Elvin Hayes",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 23.0,
+      "REB": 11.1,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 2.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_haywosp01_1980_LAL",
+    "player_name": "Spencer Haywood",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 4.6,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_heardga01_1980_PHX",
+    "player_name": "Gar Heard",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 4.6,
+      "AST": 1.2,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hendege01_1980_BOS",
+    "player_name": "Gerald Henderson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.1,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hendeto01_1980_HOU",
+    "player_name": "Tom Henderson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.7,
+      "AST": 4.2,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_highjo01_1980_PHX",
+    "player_name": "Johnny High",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.1,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hillar01_1980_ATL",
+    "player_name": "Armond Hill",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.7,
+      "AST": 5.4,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hillmda01_1980_GSW",
+    "player_name": "Darnell Hillman",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.7,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hollabr01_1980_LAL",
+    "player_name": "Brad Holland",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.4,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hollili01_1980_2TM",
+    "player_name": "Lionel Hollins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 1.9,
+      "AST": 3.4,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hollili01_1980_POR",
+    "player_name": "Lionel Hollins",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 1.0,
+      "AST": 2.5,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hollili01_1980_PHI",
+    "player_name": "Lionel Hollins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 2.6,
+      "AST": 4.1,
+      "STL": 1.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hubbaph01_1980_DET",
+    "player_name": "Phil Hubbard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 5.0,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hugheki01_1980_DEN",
+    "player_name": "Kim Hughes",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 4.7,
+      "AST": 1.1,
+      "STL": 0.9,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_hustoge01_1980_NYK",
+    "player_name": "Geoff Huston",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 0.8,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_isselda01_1980_DEN",
+    "player_name": "Dan Issel",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 23.8,
+      "REB": 8.8,
+      "AST": 2.4,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jeelaab01_1980_POR",
+    "player_name": "Abdul Jeelani",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 3.5,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnscl01_1980_IND",
+    "player_name": "Clemon Johnson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 5.0,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 1.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsde01_1980_OKC",
+    "player_name": "Dennis Johnson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 5.1,
+      "AST": 4.1,
+      "STL": 1.8,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsed02_1980_ATL",
+    "player_name": "Eddie Johnson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 2.5,
+      "AST": 4.7,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsge02_1980_BKN",
+    "player_name": "George Johnson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 7.4,
+      "AST": 2.1,
+      "STL": 0.7,
+      "BLK": 3.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsge03_1980_DEN",
+    "player_name": "George Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 7.8,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1980_OKC",
+    "player_name": "John Johnson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 5.3,
+      "AST": 5.2,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsma01_1980_MIL",
+    "player_name": "Marques Johnson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.7,
+      "REB": 7.4,
+      "AST": 3.5,
+      "STL": 1.3,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsma02_1980_LAL",
+    "player_name": "Magic Johnson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG-PF",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 7.7,
+      "AST": 7.3,
+      "STL": 2.4,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsmi01_1980_IND",
+    "player_name": "Mickey Johnson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 8.3,
+      "AST": 4.2,
+      "STL": 1.9,
+      "BLK": 1.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsol01_1980_CHI",
+    "player_name": "Ollie Johnson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.1,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_johnsvi01_1980_OKC",
+    "player_name": "Vinnie Johnson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.4,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jonesbo01_1980_PHI",
+    "player_name": "Bobby Jones",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 5.6,
+      "AST": 1.8,
+      "STL": 1.3,
+      "BLK": 1.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jonesca01_1980_PHI",
+    "player_name": "Caldwell Jones",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 11.9,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 2.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jonesdw01_1980_2TM",
+    "player_name": "Dwight Jones",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.0,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jonesdw01_1980_HOU",
+    "player_name": "Dwight Jones",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 3.4,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jonesdw01_1980_CHI",
+    "player_name": "Dwight Jones",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 5.6,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jonesma01_1980_HOU",
+    "player_name": "Major Jones",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 4.6,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_jordaed01_1980_BKN",
+    "player_name": "Eddie Jordan",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 3.3,
+      "AST": 6.8,
+      "STL": 2.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_judkije01_1980_BOS",
+    "player_name": "Jeff Judkins",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.0,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kelleri01_1980_2TM",
+    "player_name": "Rich Kelley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 6.4,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 1.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kelleri01_1980_BKN",
+    "player_name": "Rich Kelley",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 7.0,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 1.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kelleri01_1980_PHX",
+    "player_name": "Rich Kelley",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 5.1,
+      "AST": 2.2,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kelsegr01_1980_DET",
+    "player_name": "Greg Kelser",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 5.5,
+      "AST": 2.2,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kenonla01_1980_SAS",
+    "player_name": "Larry Kenon",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 9.9,
+      "AST": 3.0,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kiffiir01_1980_SAS",
+    "player_name": "Irv Kiffin",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.5,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kingre01_1980_SAC",
+    "player_name": "Reggie King",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 6.9,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_knighbi01_1980_IND",
+    "player_name": "Billy Knight",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 4.8,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_knighto01_1980_NYK",
+    "player_name": "Toby Knight",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 6.1,
+      "AST": 1.9,
+      "STL": 1.4,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kramejo01_1980_PHX",
+    "player_name": "Joel Kramer",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.8,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kuestjo01_1980_IND",
+    "player_name": "John Kuester",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 0.6,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_kupchmi01_1980_WAS",
+    "player_name": "Mitch Kupchak",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.6,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_laceysa01_1980_SAC",
+    "player_name": "Sam Lacey",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 8.0,
+      "AST": 5.7,
+      "STL": 1.4,
+      "BLK": 1.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_lagarto01_1980_OKC",
+    "player_name": "Tom LaGarde",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.8,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_lambejo01_1980_CLE",
+    "player_name": "John Lambert",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 4.8,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_landsma01_1980_2TM",
+    "player_name": "Mark Landsberger",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 8.0,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_landsma01_1980_CHI",
+    "player_name": "Mark Landsberger",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 8.3,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_landsma01_1980_LAL",
+    "player_name": "Mark Landsberger",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 7.1,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_laniebo01_1980_2TM",
+    "player_name": "Bob Lanier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 19.2,
+      "REB": 8.8,
+      "AST": 2.9,
+      "STL": 1.2,
+      "BLK": 1.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_laniebo01_1980_DET",
+    "player_name": "Bob Lanier",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 21.7,
+      "REB": 10.1,
+      "AST": 3.3,
+      "STL": 1.0,
+      "BLK": 1.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_laniebo01_1980_MIL",
+    "player_name": "Bob Lanier",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 6.9,
+      "AST": 2.4,
+      "STL": 1.4,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_leaveal01_1980_HOU",
+    "player_name": "Allen Leavell",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.4,
+      "AST": 5.4,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_leero01_1980_2TM",
+    "player_name": "Ron Lee",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.0,
+      "AST": 4.0,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_leero01_1980_ATL",
+    "player_name": "Ron Lee",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 1.1,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_leero01_1980_DET",
+    "player_name": "Ron Lee",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.9,
+      "AST": 5.6,
+      "STL": 2.7,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_longjo01_1980_DET",
+    "player_name": "John Long",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 4.9,
+      "AST": 3.0,
+      "STL": 1.9,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_lucasjo01_1980_GSW",
+    "player_name": "John Lucas",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 2.8,
+      "AST": 7.5,
+      "STL": 1.7,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_lucasma01_1980_2TM",
+    "player_name": "Maurice Lucas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 8.5,
+      "AST": 3.3,
+      "STL": 0.7,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_lucasma01_1980_POR",
+    "player_name": "Maurice Lucas",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 7.9,
+      "AST": 3.0,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_lucasma01_1980_BKN",
+    "player_name": "Maurice Lucas",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 9.6,
+      "AST": 3.8,
+      "STL": 0.9,
+      "BLK": 1.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mackol01_1980_2TM",
+    "player_name": "Ollie Mack",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.4,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mackol01_1980_LAL",
+    "player_name": "Ollie Mack",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 0.8,
+      "AST": 0.7,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mackol01_1980_CHI",
+    "player_name": "Ollie Mack",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 2.1,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_malonmo01_1980_HOU",
+    "player_name": "Moses Malone",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 25.8,
+      "REB": 14.5,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 1.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_malovst01_1980_3TM",
+    "player_name": "Steve Malovic",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 2.2,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_malovst01_1980_LAC",
+    "player_name": "Steve Malovic",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_maravpe01_1980_2TM",
+    "player_name": "Pete Maravich",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_maravpe01_1980_BOS",
+    "player_name": "Pete Maravich",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 1.5,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_maxwece01_1980_BOS",
+    "player_name": "Cedric Maxwell",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 8.8,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_maysc01_1980_CHI",
+    "player_name": "Scott May",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 4.0,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcadobo01_1980_DET",
+    "player_name": "Bob McAdoo",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.1,
+      "REB": 8.1,
+      "AST": 3.4,
+      "STL": 1.3,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcelrji01_1980_2TM",
+    "player_name": "Jim McElroy",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 1.5,
+      "AST": 3.4,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcelrji01_1980_DET",
+    "player_name": "Jim McElroy",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 1.4,
+      "AST": 4.5,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcelrji01_1980_ATL",
+    "player_name": "Jim McElroy",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.6,
+      "AST": 2.1,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcginge01_1980_2TM",
+    "player_name": "George McGinnis",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 9.6,
+      "AST": 4.6,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcginge01_1980_DEN",
+    "player_name": "George McGinnis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 10.3,
+      "AST": 4.9,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcginge01_1980_IND",
+    "player_name": "George McGinnis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 8.5,
+      "AST": 4.0,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mckinbi01_1980_SAC",
+    "player_name": "Billy McKinney",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.1,
+      "AST": 3.3,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mcmilto01_1980_ATL",
+    "player_name": "Tom McMillen",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 4.2,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mengejo01_1980_CHI",
+    "player_name": "John Mengelt",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 0.6,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_meriwjo01_1980_NYK",
+    "player_name": "Joe Meriweather",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 5.4,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 1.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_meyerda01_1980_MIL",
+    "player_name": "Dave Meyers",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 5.7,
+      "AST": 2.8,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mitchmi01_1980_CLE",
+    "player_name": "Mike Mitchell",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 22.2,
+      "REB": 7.2,
+      "AST": 1.1,
+      "STL": 0.9,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_mixst01_1980_PHI",
+    "player_name": "Steve Mix",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 3.6,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_moncrsi01_1980_MIL",
+    "player_name": "Sidney Moncrief",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 4.4,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_moneyer01_1980_2TM",
+    "player_name": "Eric Money",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 1.7,
+      "AST": 4.2,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_moneyer01_1980_DET",
+    "player_name": "Eric Money",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 1.8,
+      "AST": 4.3,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_monroea01_1980_NYK",
+    "player_name": "Earl Monroe",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 0.7,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_murphca01_1980_HOU",
+    "player_name": "Calvin Murphy",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 2.0,
+      "AST": 3.9,
+      "STL": 1.9,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_natersw01_1980_LAC",
+    "player_name": "Swen Nater",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 15.0,
+      "AST": 2.9,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_nattca01_1980_2TM",
+    "player_name": "Calvin Natt",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.9,
+      "REB": 8.9,
+      "AST": 2.2,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_nattca01_1980_BKN",
+    "player_name": "Calvin Natt",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 9.7,
+      "AST": 2.1,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_nattca01_1980_POR",
+    "player_name": "Calvin Natt",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.4,
+      "REB": 7.1,
+      "AST": 2.3,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_newlimi01_1980_BKN",
+    "player_name": "Mike Newlin",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 3.4,
+      "AST": 4.0,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_nixonno01_1980_LAL",
+    "player_name": "Norm Nixon",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 2.8,
+      "AST": 7.8,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_olberma01_1980_SAS",
+    "player_name": "Mark Olberding",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 5.6,
+      "AST": 4.4,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_owensto01_1980_POR",
+    "player_name": "Tom Owens",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 7.5,
+      "AST": 2.6,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_parisro01_1980_GSW",
+    "player_name": "Robert Parish",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 10.9,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 1.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_parkeso01_1980_GSW",
+    "player_name": "Sonny Parker",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 5.7,
+      "AST": 3.1,
+      "STL": 2.1,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_paultbi01_1980_2TM",
+    "player_name": "Billy Paultz",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 7.0,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_paultbi01_1980_SAS",
+    "player_name": "Billy Paultz",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 6.8,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_paultbi01_1980_HOU",
+    "player_name": "Billy Paultz",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 7.2,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_paxsoji02_1980_POR",
+    "player_name": "Jim Paxson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_peckwi01_1980_SAS",
+    "player_name": "Wiley Peck",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 3.5,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_pellosa01_1980_ATL",
+    "player_name": "Sam Pellom",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_pheglro01_1980_2TM",
+    "player_name": "Roger Phegley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.4,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_pheglro01_1980_WAS",
+    "player_name": "Roger Phegley",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 2.3,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_pheglro01_1980_BKN",
+    "player_name": "Roger Phegley",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 2.5,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_pietkst01_1980_LAC",
+    "player_name": "Stan Pietkiewicz",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 0.9,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_poquebe01_1980_UTA",
+    "player_name": "Ben Poquette",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 6.8,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 2.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_porteke01_1980_WAS",
+    "player_name": "Kevin Porter",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.2,
+      "AST": 6.5,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_raycl01_1980_GSW",
+    "player_name": "Clifford Ray",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 5.8,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_redmoma01_1980_SAC",
+    "player_name": "Marlon Redmond",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_reidro01_1980_HOU",
+    "player_name": "Robert Reid",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 5.8,
+      "AST": 3.2,
+      "STL": 1.7,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_restake01_1980_SAS",
+    "player_name": "Kevin Restani",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 4.7,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_richacl01_1980_PHI",
+    "player_name": "Clint Richardson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.4,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_richami01_1980_NYK",
+    "player_name": "Michael Ray Richardson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 6.6,
+      "AST": 10.1,
+      "STL": 3.2,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_roberan01_1980_DEN",
+    "player_name": "Anthony Roberts",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_robeyri01_1980_BOS",
+    "player_name": "Rick Robey",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 6.5,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_robinbi01_1980_SAC",
+    "player_name": "Bill Robinzine",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 6.5,
+      "AST": 0.8,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_robincl01_1980_BKN",
+    "player_name": "Cliff Robinson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 7.2,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_robintr01_1980_PHX",
+    "player_name": "Truck Robinson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 9.4,
+      "AST": 1.7,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_robisda01_1980_CLE",
+    "player_name": "Dave Robisch",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 8.0,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_rochejo01_1980_DEN",
+    "player_name": "John Roche",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 1.4,
+      "AST": 4.9,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_rollitr01_1980_ATL",
+    "player_name": "Tree Rollins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 9.4,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 3.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_roundda01_1980_ATL",
+    "player_name": "Dan Roundfield",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 10.3,
+      "AST": 2.3,
+      "STL": 1.2,
+      "BLK": 1.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_russeca02_1980_CLE",
+    "player_name": "Campy Russell",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 5.5,
+      "AST": 4.2,
+      "STL": 1.8,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_scottal01_1980_PHX",
+    "player_name": "Alvin Scott",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.9,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_scottch01_1980_DEN",
+    "player_name": "Charlie Scott",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 2.4,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_sheltlo01_1980_OKC",
+    "player_name": "Lonnie Shelton",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 7.7,
+      "AST": 1.9,
+      "STL": 1.2,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_shortpu01_1980_GSW",
+    "player_name": "Purvis Short",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 5.1,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_shumajo01_1980_3TM",
+    "player_name": "John Shumate",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.6,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_shumajo01_1980_HOU",
+    "player_name": "John Shumate",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.7,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_shumajo01_1980_SAS",
+    "player_name": "John Shumate",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 7.9,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 1.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_sikmaja01_1980_OKC",
+    "player_name": "Jack Sikma",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 11.1,
+      "AST": 3.4,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_silasja01_1980_SAS",
+    "player_name": "James Silas",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 2.2,
+      "AST": 4.5,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_silaspa01_1980_OKC",
+    "player_name": "Paul Silas",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 5.3,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithbi02_1980_2TM",
+    "player_name": "Bingo Smith",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 3.3,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithbi02_1980_LAC",
+    "player_name": "Bingo Smith",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 3.5,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithph01_1980_GSW",
+    "player_name": "Phil Smith",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 2.9,
+      "AST": 3.7,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithra01_1980_CLE",
+    "player_name": "Randy Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 3.1,
+      "AST": 4.4,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithro01_1980_2TM",
+    "player_name": "Robert Smith",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.2,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithro01_1980_BKN",
+    "player_name": "Robert Smith",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.3,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithsa02_1980_CHI",
+    "player_name": "Sam Smith",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 1.8,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_smithwi02_1980_CLE",
+    "player_name": "Willie Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.0,
+      "AST": 4.2,
+      "STL": 1.2,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_soberri01_1980_CHI",
+    "player_name": "Ricky Sobers",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 3.0,
+      "AST": 5.2,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_spanaji01_1980_PHI",
+    "player_name": "Jim Spanarkel",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.4,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_tatumea01_1980_CLE",
+    "player_name": "Earl Tatum",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 0.8,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_taylobr01_1980_LAC",
+    "player_name": "Brian Taylor",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 2.4,
+      "AST": 4.3,
+      "STL": 1.9,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_theusre01_1980_CHI",
+    "player_name": "Reggie Theus",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.2,
+      "REB": 4.0,
+      "AST": 6.3,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_thompda01_1980_DEN",
+    "player_name": "David Thompson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 4.5,
+      "AST": 3.2,
+      "STL": 1.0,
+      "BLK": 1.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_tomjaru01_1980_HOU",
+    "player_name": "Rudy Tomjanovich",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 5.8,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_toonebe01_1980_PHI",
+    "player_name": "Bernard Toone",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.5,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_townsra01_1980_GSW",
+    "player_name": "Raymond Townsend",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.2,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_twardda01_1980_POR",
+    "player_name": "Dave Twardzik",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.3,
+      "AST": 4.1,
+      "STL": 1.1,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_tylerte01_1980_DET",
+    "player_name": "Terry Tyler",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 7.6,
+      "AST": 1.6,
+      "STL": 1.3,
+      "BLK": 2.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_unselwe01_1980_WAS",
+    "player_name": "Wes Unseld",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 13.3,
+      "AST": 4.5,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_vanbrja01_1980_BKN",
+    "player_name": "Jan van Breda Kolff",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 5.2,
+      "AST": 3.0,
+      "STL": 1.2,
+      "BLK": 0.9
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_walkefo01_1980_CLE",
+    "player_name": "Foots Walker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.8,
+      "AST": 8.0,
+      "STL": 2.0,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_walkewa01_1980_OKC",
+    "player_name": "Wally Walker",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_waltoll01_1980_MIL",
+    "player_name": "Lloyd Walton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.2,
+      "AST": 3.8,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_washike01_1980_POR",
+    "player_name": "Kermit Washington",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 10.5,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 1.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_washiri01_1980_MIL",
+    "player_name": "Richard Washington",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 3.7,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_weathni01_1980_LAC",
+    "player_name": "Nick Weatherspoon",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.6,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_webstma01_1980_NYK",
+    "player_name": "Marvin Webster",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.0,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_wedmasc01_1980_SAC",
+    "player_name": "Scott Wedman",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 5.7,
+      "AST": 2.1,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_westppa01_1980_PHX",
+    "player_name": "Paul Westphal",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.9,
+      "REB": 2.3,
+      "AST": 5.1,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_whiteje01_1980_2TM",
+    "player_name": "Jerome Whitehead",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 3.3,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_whiteje01_1980_UTA",
+    "player_name": "Jerome Whitehead",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 3.0,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_whitejo01_1980_GSW",
+    "player_name": "Jo Jo White",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.3,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_wickssi01_1980_LAC",
+    "player_name": "Sidney Wicks",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 5.8,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_wilkebo01_1980_DEN",
+    "player_name": "Bob Wilkerson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 4.2,
+      "AST": 3.2,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_wilkeja01_1980_LAL",
+    "player_name": "Jamaal Wilkes",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 6.4,
+      "AST": 3.0,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willidu01_1980_UTA",
+    "player_name": "Duck Williams",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 1.4,
+      "AST": 2.4,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willifr01_1980_LAC",
+    "player_name": "Freeman Williams",
+    "team": "SDC",
+    "team_abbr": "LAC",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 2.3,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willigu01_1980_OKC",
+    "player_name": "Gus Williams",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 22.1,
+      "REB": 3.4,
+      "AST": 4.8,
+      "STL": 2.4,
+      "BLK": 0.5
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willijo01_1980_2TM",
+    "player_name": "John Williamson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 1.7,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willijo01_1980_BKN",
+    "player_name": "John Williamson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 1.9,
+      "AST": 3.1,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willijo01_1980_WAS",
+    "player_name": "John Williamson",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 1.5,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willira01_1980_NYK",
+    "player_name": "Ray Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 5.0,
+      "AST": 6.2,
+      "STL": 2.0,
+      "BLK": 0.3
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willisl01_1980_NYK",
+    "player_name": "Sly Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_willobi01_1980_CLE",
+    "player_name": "Bill Willoughby",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1980,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.2,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_wintebr01_1980_MIL",
+    "player_name": "Brian Winters",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1980,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 2.8,
+      "AST": 4.5,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "1980s"
+  },
+  {
+    "player_id": "bref_wrighla01_1980_WAS",
+    "player_name": "Larry Wright",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1980,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.6,
+      "AST": 2.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1980s"
+  }
+]

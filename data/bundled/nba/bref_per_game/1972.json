@@ -1,0 +1,3810 @@
+[
+  {
+    "player_id": "bref_abdulka01_1972_MIL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 34.8,
+      "REB": 16.6,
+      "AST": 4.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_abdulma01_1972_LAC",
+    "player_name": "Walt Hazzard",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 3.0,
+      "AST": 5.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_abdulza01_1972_OKC",
+    "player_name": "Zaid Abdul-Aziz",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 11.3,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adamsdo01_1972_2TM",
+    "player_name": "Don Adams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 6.9,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adamsdo01_1972_ATL",
+    "player_name": "Don Adams",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 7.1,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adelmri01_1972_POR",
+    "player_name": "Rick Adelman",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 2.9,
+      "AST": 5.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_allenlu01_1972_MIL",
+    "player_name": "Lucius Allen",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 3.2,
+      "AST": 4.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_allisod01_1972_GSW",
+    "player_name": "Odis Allison",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.3,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_architi01_1972_SAC",
+    "player_name": "Tiny Archibald",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 28.2,
+      "REB": 2.9,
+      "AST": 9.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_awtrede01_1972_PHI",
+    "player_name": "Dennis Awtrey",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 4.3,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barnedi01_1972_NYK",
+    "player_name": "Dick Barnett",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 1.9,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barneji02_1972_GSW",
+    "player_name": "Jim Barnett",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 3.1,
+      "AST": 3.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bartovi01_1972_GSW",
+    "player_name": "Vic Bartolome",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 0.9,
+      "REB": 1.6,
+      "AST": 0.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_beardbu01_1972_CLE",
+    "player_name": "Butch Beard",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 4.1,
+      "AST": 6.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bellawa01_1972_ATL",
+    "player_name": "Walt Bellamy",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 12.8,
+      "AST": 3.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bingda01_1972_DET",
+    "player_name": "Dave Bing",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 22.6,
+      "REB": 4.1,
+      "AST": 7.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_blockjo01_1972_MIL",
+    "player_name": "John Block",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 5.2,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boerwto01_1972_CHI",
+    "player_name": "Tom Boerwinkle",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 11.2,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bradlbi01_1972_NYK",
+    "player_name": "Bill Bradley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 3.2,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bridgbi01_1972_2TM",
+    "player_name": "Bill Bridges",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 13.5,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bridgbi01_1972_PHI",
+    "player_name": "Bill Bridges",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 13.5,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brownfr01_1972_OKC",
+    "player_name": "Fred Brown",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.1,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bryanem01_1972_LAC",
+    "player_name": "Em Bryant",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.4,
+      "AST": 3.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carrau01_1972_CLE",
+    "player_name": "Austin Carr",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 3.5,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cartefr01_1972_2TM",
+    "player_name": "Fred Carter",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 4.1,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cartefr01_1972_PHI",
+    "player_name": "Fred Carter",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 4.0,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chambje01_1972_LAC",
+    "player_name": "Jerry Chambers",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 2.6,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chambwi01_1972_LAL",
+    "player_name": "Wilt Chamberlain",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 19.2,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chanedo01_1972_BOS",
+    "player_name": "Don Chaney",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 5.0,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cheniph01_1972_BAL",
+    "player_name": "Phil Chenier",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 3.3,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chrisbo01_1972_ATL",
+    "player_name": "Bob Christian",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 3.2,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clarkar01_1972_2TM",
+    "player_name": "Archie Clark",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.2,
+      "REB": 3.5,
+      "AST": 8.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clarkar01_1972_BAL",
+    "player_name": "Archie Clark",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.1,
+      "REB": 3.5,
+      "AST": 8.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cleamji01_1972_LAL",
+    "player_name": "Jim Cleamons",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.0,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clemeba01_1972_OKC",
+    "player_name": "Barry Clemens",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_countme01_1972_PHX",
+    "player_name": "Mel Counts",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.4,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cowenda01_1972_BOS",
+    "player_name": "Dave Cowens",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.8,
+      "REB": 15.2,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_crosspe01_1972_OKC",
+    "player_name": "Pete Cross",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 6.9,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cunnibi01_1972_PHI",
+    "player_name": "Billy Cunningham",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 23.3,
+      "REB": 12.2,
+      "AST": 5.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cunnidi01_1972_HOU",
+    "player_name": "Dick Cunningham",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 3.9,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dandrbo01_1972_MIL",
+    "player_name": "Bob Dandridge",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.4,
+      "REB": 7.7,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisch01_1972_CLE",
+    "player_name": "Charlie Davis",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisji01_1972_3TM",
+    "player_name": "Jim Davis",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 3.7,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisji01_1972_DET",
+    "player_name": "Jim Davis",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davismi01_1972_LAC",
+    "player_name": "Mike Davis",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-PF",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 1.9,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_debusda01_1972_NYK",
+    "player_name": "Dave DeBusschere",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 11.3,
+      "AST": 3.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dinwibi01_1972_MIL",
+    "player_name": "Bill Dinwiddie",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 1.4,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dischte01_1972_DET",
+    "player_name": "Terry Dischinger",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.3,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_driscte01_1972_BAL",
+    "player_name": "Terry Driscoll",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 2.7,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eganjo01_1972_HOU",
+    "player_name": "Johnny Egan",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 0.7,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ellisjo01_1972_GSW",
+    "player_name": "Joe Ellis",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 5.0,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ellisle01_1972_LAL",
+    "player_name": "Leroy Ellis",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 4.2,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_finkeha01_1972_BOS",
+    "player_name": "Hank Finkel",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 3.2,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fordja01_1972_OKC",
+    "player_name": "Jake Ford",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 0.4,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fostefr01_1972_PHI",
+    "player_name": "Fred Foster",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 3.7,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_foxji01_1972_2TM",
+    "player_name": "Jim Fox",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 8.8,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_foxji01_1972_SAC",
+    "player_name": "Jim Fox",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 9.3,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fraziwa01_1972_NYK",
+    "player_name": "Walt Frazier",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 23.2,
+      "REB": 6.7,
+      "AST": 5.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_garredi01_1972_LAC",
+    "player_name": "Dick Garrett",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 3.1,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gibbsdi01_1972_HOU",
+    "player_name": "Dick Gibbs",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gillihe01_1972_ATL",
+    "player_name": "Herm Gilliam",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 4.1,
+      "AST": 4.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_glovecl01_1972_BOS",
+    "player_name": "Clarence Glover",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.8,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_goodrga01_1972_LAL",
+    "player_name": "Gail Goodrich",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 3.6,
+      "AST": 4.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenjo01_1972_SAC",
+    "player_name": "Johnny Green",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 6.8,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenla01_1972_PHX",
+    "player_name": "Lamar Green",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 5.2,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greerha01_1972_PHI",
+    "player_name": "Hal Greer",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 3.3,
+      "AST": 3.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gregoga01_1972_POR",
+    "player_name": "Gary Gregor",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 7.2,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_guokama02_1972_SAC",
+    "player_name": "Matt Guokas",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.3,
+      "AST": 5.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hairsha01_1972_LAL",
+    "player_name": "Happy Hairston",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 13.1,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hallije01_1972_ATL",
+    "player_name": "Jeff Halliburton",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.0,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_harriar01_1972_PHX",
+    "player_name": "Art Harris",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 0.6,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haskicl01_1972_PHX",
+    "player_name": "Clem Haskins",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 3.4,
+      "AST": 3.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_havlijo01_1972_BOS",
+    "player_name": "John Havlicek",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 27.5,
+      "REB": 8.2,
+      "AST": 7.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawkico01_1972_PHX",
+    "player_name": "Connie Hawkins",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 8.3,
+      "AST": 3.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hayesel01_1972_HOU",
+    "player_name": "Elvin Hayes",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 25.2,
+      "REB": 14.6,
+      "AST": 3.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haywosp01_1972_OKC",
+    "player_name": "Spencer Haywood",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 26.2,
+      "REB": 12.7,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_heardga01_1972_OKC",
+    "player_name": "Gar Heard",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 7.6,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_henryal01_1972_PHI",
+    "player_name": "Al Henry",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.2,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hewitbi01_1972_DET",
+    "player_name": "Bill Hewitt",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 5.4,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hiltofr01_1972_LAC",
+    "player_name": "Fred Hilton",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 2.6,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hoskebi01_1972_LAC",
+    "player_name": "Bill Hosket",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.8,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_howargr01_1972_CLE",
+    "player_name": "Greg Howard",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.3,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hudsolo01_1972_ATL",
+    "player_name": "Lou Hudson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 24.7,
+      "REB": 5.0,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hummejo01_1972_LAC",
+    "player_name": "John Hummer",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 4.2,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_imhofda01_1972_2TM",
+    "player_name": "Darrall Imhoff",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.7,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_imhofda01_1972_POR",
+    "player_name": "Darrall Imhoff",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.7,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jackslu01_1972_PHI",
+    "player_name": "Luke Jackson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.9,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jacksph01_1972_NYK",
+    "player_name": "Phil Jackson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 4.1,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsgu01_1972_BAL",
+    "player_name": "Gus Johnson",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 5.8,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1972_CLE",
+    "player_name": "John Johnson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 7.7,
+      "AST": 5.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesni01_1972_GSW",
+    "player_name": "Nick Jones",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 0.6,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_joneswa02_1972_MIL",
+    "player_name": "Wali Jones",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.6,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kauffbo01_1972_LAC",
+    "player_name": "Bob Kauffman",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 10.2,
+      "AST": 3.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kimbato01_1972_MIL",
+    "player_name": "Toby Kimball",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 4.2,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kingji01_1972_CHI",
+    "player_name": "Jim King",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.1,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_knighro01_1972_POR",
+    "player_name": "Ron Knight",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.4,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kojisdo01_1972_OKC",
+    "player_name": "Don Kojis",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 4.6,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_komivho01_1972_DET",
+    "player_name": "Howard Komives",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.2,
+      "AST": 3.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kuberst01_1972_BOS",
+    "player_name": "Steve Kuberski",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 4.5,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laceysa01_1972_SAC",
+    "player_name": "Sam Lacey",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 12.0,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laniebo01_1972_DET",
+    "player_name": "Bob Lanier",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 25.7,
+      "REB": 14.2,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lantzst01_1972_HOU",
+    "player_name": "Stu Lantz",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 4.3,
+      "AST": 4.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laytomo01_1972_PHX",
+    "player_name": "Mo Layton",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 2.1,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_leecl01_1972_GSW",
+    "player_name": "Clyde Lee",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 14.5,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_loughke01_1972_2TM",
+    "player_name": "Kevin Loughery",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 2.4,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_loughke01_1972_PHI",
+    "player_name": "Kevin Loughery",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 2.4,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lovebo01_1972_CHI",
+    "player_name": "Bob Love",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 25.8,
+      "REB": 6.6,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lovest01_1972_BAL",
+    "player_name": "Stan Love",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 4.6,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lowerch01_1972_MIL",
+    "player_name": "Charlie Lowery",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.0,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lucasje01_1972_NYK",
+    "player_name": "Jerry Lucas",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 13.1,
+      "AST": 4.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maravpe01_1972_ATL",
+    "player_name": "Pete Maravich",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 3.9,
+      "AST": 6.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marinja01_1972_BAL",
+    "player_name": "Jack Marin",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 22.3,
+      "REB": 6.8,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marlaha01_1972_DET",
+    "player_name": "Harvey Marlatt",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.0,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marshji01_1972_POR",
+    "player_name": "Jim Marsh",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_masted01_1972_NYK",
+    "player_name": "Eddie Mast",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.8,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maydo01_1972_ATL",
+    "player_name": "Don May",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 2.9,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mccarwi01_1972_POR",
+    "player_name": "Willie McCarter",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.1,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcglojo01_1972_MIL",
+    "player_name": "Jon McGlocklin",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.3,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcgregi01_1972_SAC",
+    "player_name": "Gil McGregor",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.5,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcintke01_1972_CHI",
+    "player_name": "Kenny McIntosh",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mckenst01_1972_POR",
+    "player_name": "Stan McKenzie",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 3.3,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mclemmc01_1972_2TM",
+    "player_name": "McCoy McLemore",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.7,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcmilji01_1972_LAL",
+    "player_name": "Jim McMillian",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.8,
+      "REB": 6.5,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meelycl01_1972_HOU",
+    "player_name": "Cliff Meely",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 6.6,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meminde01_1972_NYK",
+    "player_name": "Dean Meminger",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.4,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mengejo01_1972_SAC",
+    "player_name": "John Mengelt",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 1.9,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_milesed01_1972_NYK",
+    "player_name": "Eddie Miles",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 0.4,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_monroea01_1972_2TM",
+    "player_name": "Earl Monroe",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 1.6,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_monroea01_1972_NYK",
+    "player_name": "Earl Monroe",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 1.5,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mooreot01_1972_PHX",
+    "player_name": "Otto Moore",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 6.7,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_morgare01_1972_BOS",
+    "player_name": "Rex Morgan",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.1,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mueller01_1972_DET",
+    "player_name": "Erwin Mueller",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.5,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mullije01_1972_GSW",
+    "player_name": "Jeff Mullins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 5.6,
+      "AST": 5.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murphca01_1972_HOU",
+    "player_name": "Calvin Murphy",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 3.1,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murredo01_1972_BAL",
+    "player_name": "Dorie Murrey",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 2.5,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsoba01_1972_MIL",
+    "player_name": "Barry Nelson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 0.7,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsodo01_1972_BOS",
+    "player_name": "Don Nelson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 5.5,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_newlimi01_1972_HOU",
+    "player_name": "Mike Newlin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 2.8,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_norwowi01_1972_DET",
+    "player_name": "Willie Norwood",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.1,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pattest01_1972_CLE",
+    "player_name": "Steve Patterson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_paulkch01_1972_2TM",
+    "player_name": "Charlie Paulk",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.8,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_paulkch01_1972_NYK",
+    "player_name": "Charlie Paulk",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 1.8,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_payneto01_1972_ATL",
+    "player_name": "Tom Payne",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.4,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_perrycu01_1972_2TM",
+    "player_name": "Curtis Perry",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 7.9,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_perrycu01_1972_HOU",
+    "player_name": "Curtis Perry",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 4.9,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_perrycu01_1972_MIL",
+    "player_name": "Curtis Perry",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 9.4,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_petrige01_1972_POR",
+    "player_name": "Geoff Petrie",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 2.2,
+      "AST": 4.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_porteho01_1972_CHI",
+    "player_name": "Howard Porter",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.7,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_portmbo01_1972_GSW",
+    "player_name": "Bob Portman",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.2,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rackllu01_1972_2TM",
+    "player_name": "Luther Rackley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.9,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rackllu01_1972_NYK",
+    "player_name": "Luther Rackley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 3.0,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_raycl01_1972_CHI",
+    "player_name": "Clifford Ray",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 10.6,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ridglja01_1972_CLE",
+    "player_name": "Jackie Ridgle",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 0.5,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rileypa01_1972_LAL",
+    "player_name": "Pat Riley",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.9,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rinalri01_1972_BAL",
+    "player_name": "Rich Rinaldi",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 0.5,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_riordmi01_1972_2TM",
+    "player_name": "Mike Riordan",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 2.2,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_riordmi01_1972_BAL",
+    "player_name": "Mike Riordan",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 2.4,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberos01_1972_MIL",
+    "player_name": "Oscar Robertson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 5.0,
+      "AST": 7.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberri01_1972_CLE",
+    "player_name": "Rick Roberson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 12.7,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robinfl01_1972_LAL",
+    "player_name": "Flynn Robinson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 1.8,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rowecu01_1972_DET",
+    "player_name": "Curtis Rowe",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 8.5,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rulebo01_1972_2TM",
+    "player_name": "Bob Rule",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 7.0,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rulebo01_1972_PHI",
+    "player_name": "Bob Rule",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 8.0,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_russeca01_1972_GSW",
+    "player_name": "Cazzie Russell",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 5.4,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sandeto01_1972_BOS",
+    "player_name": "Tom Sanders",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.3,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_schluda01_1972_POR",
+    "player_name": "Dale Schlueter",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 10.6,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_siegfla01_1972_2TM",
+    "player_name": "Larry Siegfried",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.4,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_siegfla01_1972_ATL",
+    "player_name": "Larry Siegfried",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.5,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_silaspa01_1972_PHX",
+    "player_name": "Paul Silas",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 11.9,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sloanje01_1972_CHI",
+    "player_name": "Jerry Sloan",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 8.4,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithbi02_1972_CLE",
+    "player_name": "Bingo Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 6.1,
+      "AST": 3.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithel01_1972_LAC",
+    "player_name": "Elmore Smith",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 15.2,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithga01_1972_BOS",
+    "player_name": "Garfield Smith",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.4,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithgr01_1972_2TM",
+    "player_name": "Greg Smith",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.9,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithgr01_1972_MIL",
+    "player_name": "Greg Smith",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 5.8,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithgr01_1972_HOU",
+    "player_name": "Greg Smith",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 6.0,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithra01_1972_LAC",
+    "player_name": "Randy Smith",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 4.8,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithwi01_1972_POR",
+    "player_name": "William Smith",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 6.1,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_snydedi01_1972_OKC",
+    "player_name": "Dick Snyder",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.1,
+      "AST": 3.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sorenda01_1972_CLE",
+    "player_name": "Dave Sorenson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 4.0,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_stallda01_1972_2TM",
+    "player_name": "Dave Stallworth",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 5.6,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_stallda01_1972_BAL",
+    "player_name": "Dave Stallworth",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 6.2,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_steella01_1972_POR",
+    "player_name": "Larry Steele",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.9,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_taylofr01_1972_2TM",
+    "player_name": "Fred Taylor",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.6,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_taylofr01_1972_SAC",
+    "player_name": "Fred Taylor",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.8,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thurmna01_1972_GSW",
+    "player_name": "Nate Thurmond",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 16.1,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tomjaru01_1972_HOU",
+    "player_name": "Rudy Tomjanovich",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 11.8,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_trappge01_1972_ATL",
+    "player_name": "George Trapp",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 3.1,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_trappjo01_1972_LAL",
+    "player_name": "John Trapp",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tresvjo01_1972_BAL",
+    "player_name": "John Tresvant",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 5.0,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_turnebi01_1972_GSW",
+    "player_name": "Bill Turner",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_unselwe01_1972_BAL",
+    "player_name": "Wes Unseld",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 17.6,
+      "AST": 3.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vallejo01_1972_2TM",
+    "player_name": "John Vallely",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 0.7,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vallejo01_1972_HOU",
+    "player_name": "John Vallely",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 0.5,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanardi01_1972_PHX",
+    "player_name": "Dick Van Arsdale",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 4.1,
+      "AST": 3.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanarto01_1972_SAC",
+    "player_name": "Tom Van Arsdale",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.2,
+      "REB": 4.8,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanlino01_1972_2TM",
+    "player_name": "Norm Van Lier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 4.5,
+      "AST": 6.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanlino01_1972_CHI",
+    "player_name": "Norm Van Lier",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 4.3,
+      "AST": 7.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkech01_1972_CHI",
+    "player_name": "Chet Walker",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 22.0,
+      "REB": 6.1,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkeji01_1972_DET",
+    "player_name": "Jimmy Walker",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 3.0,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkne01_1972_PHX",
+    "player_name": "Neal Walk",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 8.2,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_warneco01_1972_LAC",
+    "player_name": "Cornell Warner",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 6.1,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_warrejo01_1972_CLE",
+    "player_name": "John Warren",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.0,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washibo01_1972_CLE",
+    "player_name": "Bobby Washington",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 1.9,
+      "AST": 3.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washiji01_1972_2TM",
+    "player_name": "Jim Washington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 8.8,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washiji01_1972_ATL",
+    "player_name": "Jim Washington",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 9.0,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_webbje01_1972_2TM",
+    "player_name": "Jeff Webb",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 0.8,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_webbje01_1972_PHX",
+    "player_name": "Jeff Webb",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 0.6,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weissbo01_1972_CHI",
+    "player_name": "Bob Weiss",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.1,
+      "AST": 4.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weslewa01_1972_CLE",
+    "player_name": "Walt Wesley",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 8.7,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_westje01_1972_LAL",
+    "player_name": "Jerry West",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.8,
+      "REB": 4.2,
+      "AST": 9.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wetzejo01_1972_PHX",
+    "player_name": "John Wetzel",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 1.3,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whitejo01_1972_BOS",
+    "player_name": "Jo Jo White",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 23.1,
+      "REB": 5.6,
+      "AST": 5.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wickssi01_1972_POR",
+    "player_name": "Sidney Wicks",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 24.5,
+      "REB": 11.5,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilkele01_1972_OKC",
+    "player_name": "Lenny Wilkens",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 4.2,
+      "AST": 9.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_williar01_1972_BOS",
+    "player_name": "Art Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.2,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willina01_1972_SAC",
+    "player_name": "Nate Williams",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 4.6,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_williro01_1972_GSW",
+    "player_name": "Ron Williams",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 1.8,
+      "AST": 3.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilsois01_1972_DET",
+    "player_name": "Isaiah Wilson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.0,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_winfile01_1972_OKC",
+    "player_name": "Lee Winfield",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 2.7,
+      "AST": 3.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wohlda01_1972_PHI",
+    "player_name": "Dave Wohl",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 1.9,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_yatesba01_1972_PHI",
+    "player_name": "Barry Yates",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.7,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_yelvech01_1972_POR",
+    "player_name": "Charlie Yelverton",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 2.9,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_zellega01_1972_BAL",
+    "player_name": "Gary Zeller",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.3,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  }
+]

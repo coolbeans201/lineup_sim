@@ -1,0 +1,18 @@
+[project]
+name = "lineup-sim"
+version = "0.1.0"
+description = "Original roster builder inspired by 82-0 / 20-0"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.36.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "pyyaml>=6.0",
+    "nba_api>=1.4.1",
+    "nflreadpy>=0.1.0",
+    "pybaseball>=2.2.7",
+    "requests>=2.31.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/cache/
+data/raw/
+*.db
+.pytest_cache/
+.streamlit/

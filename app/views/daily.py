@@ -1,0 +1,123 @@
+"""Daily challenge mode."""
+
+from __future__ import annotations
+
+import sys
+from datetime import date
+from pathlib import Path
+
+import pandas as pd
+import streamlit as st
+
+ROOT = Path(__file__).resolve().parents[2]
+for p in (ROOT, ROOT / "src"):
+    if str(p) not in sys.path:
+        sys.path.insert(0, str(p))
+
+from app.components import (
+    BUILD_MODES,
+    draft_context_key,
+    draft_nba_spin_lineup_sequential,
+    draft_slot_lineup_sequential,
+    ensure_lineup_session,
+    render_global_sidebar,
+    render_score_panel,
+    score_current_lineup,
+)
+from lineup_sim.core.roster import empty_lineup
+from lineup_sim.daily.leaderboard import entries_for_day, submit_entry
+from lineup_sim.daily.seed import daily_puzzle
+from lineup_sim.daily.share import encode_share_payload, lineup_summary
+from lineup_sim.sports.registry import get_sport_plugin
+
+st.title("Daily Challenge")
+st.caption("Same puzzle for everyone — one revealed pick at a time.")
+
+sport, preset, _ = render_global_sidebar(page="daily", show_build_mode=False)
+preset_slug = preset.slug
+day = st.sidebar.date_input("Challenge date", value=date.today()).isoformat()
+player_name = st.sidebar.text_input("Your name (for leaderboard)", value="Anonymous")
+puzzle = daily_puzzle(sport, preset_slug, day=day)
+plugin = get_sport_plugin(sport)
+player_pool = plugin.load_player_pool()
+spin_draft = sport == "nba"
+
+st.subheader(f"Puzzle — {day}")
+st.caption(f"Seed: {puzzle.seed} · picks reveal one at a time")
+
+daily_key = draft_context_key(page="daily", sport=sport, preset_slug=preset_slug, extra=day)
+ensure_lineup_session(
+    session_key=daily_key,
+    preset=preset,
+    lineup_attr="daily_lineup",
+    key_attr="daily_key",
+    label="Daily",
+)
+
+lineup = st.session_state.daily_lineup
+
+st.markdown("### Draft")
+if spin_draft:
+    lineup = draft_nba_spin_lineup_sequential(
+        preset=preset,
+        lineup=lineup,
+        build_mode=BUILD_MODES[1],
+        player_pool=player_pool,
+        key_prefix=daily_key,
+        fixed_spins=puzzle.spins,
+    )
+else:
+    lineup = draft_slot_lineup_sequential(
+        sport=sport,
+        preset=preset,
+        lineup=lineup,
+        key_prefix=daily_key,
+        fixed_spins=puzzle.spins,
+        player_pool=player_pool,
+    )
+
+st.session_state.daily_lineup = lineup
+
+filled = sum(1 for a in lineup.assignments if a.player is not None)
+if filled == preset.slot_count:
+    score = score_current_lineup(lineup)
+    render_score_panel(score, preset_slug=preset_slug)
+
+    if st.button("Submit to today's leaderboard"):
+        entry = submit_entry(
+            date=day,
+            sport=sport,
+            preset_slug=preset_slug,
+            player_name=player_name,
+            team_rating=score.team_rating,
+            projected_wins=score.projected_wins,
+            grade=score.grade,
+            lineup_summary=lineup_summary(lineup),
+        )
+        token = encode_share_payload(lineup, score, date=day)
+        st.success(f"Submitted! Share code: {entry.share_code}")
+        st.text_input("Share token", value=token, key="daily_share_token")
+
+st.subheader("Today's leaderboard")
+entries = entries_for_day(day, sport, preset_slug)
+if entries:
+    st.dataframe(
+        pd.DataFrame(
+            [
+                {
+                    "Rank": i + 1,
+                    "Name": e.player_name,
+                    "Grade": e.grade,
+                    "Rating": e.team_rating,
+                    "Record": f"{e.projected_wins:.0f}-{preset.max_games - e.projected_wins:.0f}",
+                    "Lineup": e.lineup_summary,
+                    "Share": e.share_code,
+                }
+                for i, e in enumerate(entries)
+            ]
+        ),
+        use_container_width=True,
+        hide_index=True,
+    )
+else:
+    st.info("No submissions yet for this puzzle.")

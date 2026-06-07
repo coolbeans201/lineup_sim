@@ -1,0 +1,4048 @@
+[
+  {
+    "player_id": "bref_abdulka01_1976_LAL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 27.7,
+      "REB": 16.9,
+      "AST": 5.0,
+      "STL": 1.5,
+      "BLK": 4.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_abdulza01_1976_OKC",
+    "player_name": "Zaid Abdul-Aziz",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 2.8,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adamsal01_1976_PHX",
+    "player_name": "Alvan Adams",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 9.1,
+      "AST": 5.6,
+      "STL": 1.5,
+      "BLK": 1.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adamsdo01_1976_LAC",
+    "player_name": "Don Adams",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.6,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_allenlu01_1976_LAL",
+    "player_name": "Lucius Allen",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 2.8,
+      "AST": 4.7,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_anderda02_1976_POR",
+    "player_name": "Dan Anderson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.2,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_anderje01_1976_BOS",
+    "player_name": "Jerome Anderson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_architi01_1976_SAC",
+    "player_name": "Tiny Archibald",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 2.7,
+      "AST": 7.9,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ardji01_1976_BOS",
+    "player_name": "Jim Ard",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 3.6,
+      "AST": 0.6,
+      "STL": 0.1,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_awtrede01_1976_PHX",
+    "player_name": "Dennis Awtrey",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 4.0,
+      "AST": 2.1,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bailegu01_1976_HOU",
+    "player_name": "Gus Bailey",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.7,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bantomi01_1976_2TM",
+    "player_name": "Mike Bantom",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 5.4,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bantomi01_1976_OKC",
+    "player_name": "Mike Bantom",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 5.6,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barneji02_1976_NYK",
+    "player_name": "Jim Barnett",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.2,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barryri01_1976_GSW",
+    "player_name": "Rick Barry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 6.1,
+      "AST": 6.1,
+      "STL": 2.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_baskeje01_1976_PHI",
+    "player_name": "Jerry Baskerville",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 1.3,
+      "AST": 0.1,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_beardbu01_1976_2TM",
+    "player_name": "Butch Beard",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.1,
+      "AST": 2.9,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_beardbu01_1976_NYK",
+    "player_name": "Butch Beard",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 4.5,
+      "AST": 2.9,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_behagro01_1976_UTA",
+    "player_name": "Ron Behagen",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 8.4,
+      "AST": 2.1,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_benbole01_1976_CHI",
+    "player_name": "Leon Benbow",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 2.3,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bibbyhe01_1976_UTA",
+    "player_name": "Henry Bibby",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 2.3,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bigelbo01_1976_SAC",
+    "player_name": "Bob Bigelow",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 0.9,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bingda01_1976_WAS",
+    "player_name": "Dave Bing",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 2.9,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boerwto01_1976_CHI",
+    "player_name": "Tom Boerwinkle",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 10.7,
+      "AST": 3.8,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bosweto01_1976_BOS",
+    "player_name": "Tom Boswell",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boydfr01_1976_2TM",
+    "player_name": "Freddie Boyd",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 0.9,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boydfr01_1976_UTA",
+    "player_name": "Freddie Boyd",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.0,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bradlbi01_1976_NYK",
+    "player_name": "Bill Bradley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 2.9,
+      "AST": 3.0,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_breweji01_1976_CLE",
+    "player_name": "Jim Brewer",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 10.9,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bridgju01_1976_MIL",
+    "player_name": "Junior Bridgeman",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 3.6,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brokaga01_1976_MIL",
+    "player_name": "Gary Brokaw",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 1.7,
+      "AST": 3.3,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brownfr01_1976_OKC",
+    "player_name": "Fred Brown",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 23.1,
+      "REB": 4.2,
+      "AST": 2.7,
+      "STL": 1.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brownjo01_1976_ATL",
+    "player_name": "John Brown",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 5.4,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brownro02_1976_DET",
+    "player_name": "Roger Brown",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 4.5,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bryanjo01_1976_PHI",
+    "player_name": "Joe Bryant",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 3.7,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_burleto01_1976_OKC",
+    "player_name": "Tom Burleson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 9.0,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 1.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_calhoco01_1976_LAL",
+    "player_name": "Corky Calhoun",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 4.5,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carlsal01_1976_OKC",
+    "player_name": "Al Carlson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carrau01_1976_CLE",
+    "player_name": "Austin Carr",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 2.0,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cartefr01_1976_PHI",
+    "player_name": "Fred Carter",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 3.6,
+      "AST": 4.5,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_catchha01_1976_PHI",
+    "player_name": "Harvey Catchings",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 6.9,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 2.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_charlke01_1976_LAC",
+    "player_name": "Ken Charles",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 2.7,
+      "AST": 2.5,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cheniph01_1976_WAS",
+    "player_name": "Phil Chenier",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.9,
+      "REB": 4.0,
+      "AST": 3.2,
+      "STL": 2.0,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_choneji01_1976_CLE",
+    "player_name": "Jim Chones",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 9.0,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clarkar01_1976_DET",
+    "player_name": "Archie Clark",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 1.7,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cleamji01_1976_CLE",
+    "player_name": "Jim Cleamons",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 4.3,
+      "AST": 5.2,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clemeba01_1976_POR",
+    "player_name": "Barry Clemens",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.4,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_colemec01_1976_UTA",
+    "player_name": "E.C. Coleman",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 6.3,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_collido01_1976_PHI",
+    "player_name": "Doug Collins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 4.0,
+      "AST": 2.5,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_countme01_1976_UTA",
+    "player_name": "Mel Counts",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 3.3,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cowenda01_1976_BOS",
+    "player_name": "Dave Cowens",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 16.0,
+      "AST": 4.2,
+      "STL": 1.2,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_creigji01_1976_ATL",
+    "player_name": "Jim Creighton",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.0,
+      "REB": 1.4,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cunnibi01_1976_PHI",
+    "player_name": "Billy Cunningham",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 7.4,
+      "AST": 5.4,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dandrbo01_1976_MIL",
+    "player_name": "Bob Dandridge",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 7.4,
+      "AST": 2.8,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisdw01_1976_GSW",
+    "player_name": "Dwight Davis",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisme01_1976_NYK",
+    "player_name": "Mel Davis",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.5,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davismi02_1976_MIL",
+    "player_name": "Mickey Davis",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.9,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dawkida01_1976_PHI",
+    "player_name": "Darryl Dawkins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.3,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_derliro01_1976_OKC",
+    "player_name": "Rod Derline",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.6,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dickede01_1976_GSW",
+    "player_name": "Derrek Dickey",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 4.4,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_digreer01_1976_LAC",
+    "player_name": "Ernie DiGregorio",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.7,
+      "AST": 4.0,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_drewjo01_1976_ATL",
+    "player_name": "John Drew",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.6,
+      "REB": 8.6,
+      "AST": 1.9,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dudlech01_1976_GSW",
+    "player_name": "Charles Dudley",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 3.3,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eberhal01_1976_DET",
+    "player_name": "Al Eberhard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 4.8,
+      "AST": 1.0,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ellisle01_1976_PHI",
+    "player_name": "Leroy Ellis",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.2,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_erickke01_1976_PHX",
+    "player_name": "Keith Erickson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 4.5,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fernser01_1976_2TM",
+    "player_name": "Eric Fernsten",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.9,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fernser01_1976_CHI",
+    "player_name": "Eric Fernsten",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fordch01_1976_DET",
+    "player_name": "Chris Ford",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 3.5,
+      "AST": 3.3,
+      "STL": 2.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_forddo01_1976_LAL",
+    "player_name": "Don Ford",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 4.4,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_foxji01_1976_MIL",
+    "player_name": "Jim Fox",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fraziwa01_1976_NYK",
+    "player_name": "Walt Frazier",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 6.8,
+      "AST": 5.9,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_freemdo01_1976_LAL",
+    "player_name": "Donnie Freeman",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 2.8,
+      "AST": 2.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_freewo01_1976_PHI",
+    "player_name": "World B. Free",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.8,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_garrero01_1976_2TM",
+    "player_name": "Rowland Garrett",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.1,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_garrero01_1976_CLE",
+    "player_name": "Rowland Garrett",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.0,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gianejo01_1976_NYK",
+    "player_name": "John Gianelli",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 6.7,
+      "AST": 1.4,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gibbsdi01_1976_LAC",
+    "player_name": "Dick Gibbs",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.5,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gillihe01_1976_OKC",
+    "player_name": "Herm Gilliam",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.7,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_goodrga01_1976_LAL",
+    "player_name": "Gail Goodrich",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 2.9,
+      "AST": 5.6,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_grayle01_1976_OKC",
+    "player_name": "Leonard Gray",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 6.0,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greveke01_1976_WAS",
+    "player_name": "Kevin Grevey",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.1,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_grossbo01_1976_POR",
+    "player_name": "Bob Gross",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.0,
+      "AST": 2.1,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_guokama02_1976_2TM",
+    "player_name": "Matt Guokas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.1,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_guokama02_1976_SAC",
+    "player_name": "Matt Guokas",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 1.2,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hairsli01_1976_DET",
+    "player_name": "Lindsay Hairston",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.8,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hansegl01_1976_SAC",
+    "player_name": "Glenn Hansen",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.8,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haskicl01_1976_WAS",
+    "player_name": "Clem Haskins",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.0,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_havlijo01_1976_BOS",
+    "player_name": "John Havlicek",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 4.1,
+      "AST": 3.7,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawesst01_1976_2TM",
+    "player_name": "Steve Hawes",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 6.9,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawesst01_1976_POR",
+    "player_name": "Steve Hawes",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 7.3,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawkico01_1976_ATL",
+    "player_name": "Connie Hawkins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 6.0,
+      "AST": 2.9,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawkiro01_1976_GSW",
+    "player_name": "Bubbles Hawkins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.9,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawthna01_1976_PHX",
+    "player_name": "Nate Hawthorne",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.6,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hayesel01_1976_WAS",
+    "player_name": "Elvin Hayes",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.8,
+      "REB": 11.0,
+      "AST": 1.5,
+      "STL": 1.3,
+      "BLK": 2.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haywosp01_1976_NYK",
+    "player_name": "Spencer Haywood",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 19.9,
+      "REB": 11.3,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_heardga01_1976_2TM",
+    "player_name": "Gar Heard",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 10.1,
+      "AST": 2.2,
+      "STL": 1.4,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_heardga01_1976_LAC",
+    "player_name": "Gar Heard",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 10.2,
+      "AST": 2.5,
+      "STL": 1.3,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_heardga01_1976_PHX",
+    "player_name": "Gar Heard",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 9.9,
+      "AST": 1.8,
+      "STL": 1.4,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hendeto01_1976_ATL",
+    "player_name": "Tom Henderson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 3.3,
+      "AST": 4.6,
+      "STL": 1.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hollawi01_1976_ATL",
+    "player_name": "Wilbur Holland",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 1.2,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hollili01_1976_POR",
+    "player_name": "Lionel Hollins",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 2.4,
+      "AST": 4.1,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hudsolo01_1976_ATL",
+    "player_name": "Lou Hudson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 3.7,
+      "AST": 2.6,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hummejo01_1976_OKC",
+    "player_name": "John Hummer",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.7,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jacksph01_1976_NYK",
+    "player_name": "Phil Jackson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.3,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jamesaa01_1976_UTA",
+    "player_name": "Aaron James",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsch01_1976_GSW",
+    "player_name": "Charles Johnson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 2.5,
+      "AST": 1.5,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsge02_1976_GSW",
+    "player_name": "George Johnson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 7.6,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 2.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1976_2TM",
+    "player_name": "John Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 4.4,
+      "AST": 2.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1976_HOU",
+    "player_name": "John Johnson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 4.4,
+      "AST": 2.9,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsmi01_1976_CHI",
+    "player_name": "Mickey Johnson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 9.4,
+      "AST": 1.6,
+      "STL": 1.1,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsol01_1976_SAC",
+    "player_name": "Ollie Johnson",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 4.4,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesdw01_1976_ATL",
+    "player_name": "Dwight Jones",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 7.9,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesji01_1976_WAS",
+    "player_name": "Jimmy Jones",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.0,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesst01_1976_POR",
+    "player_name": "Steve Jones",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 1.2,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kelleri01_1976_UTA",
+    "player_name": "Rich Kelley",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 7.0,
+      "AST": 2.1,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kozelto01_1976_WAS",
+    "player_name": "Tom Kozelko",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 1.2,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kroppto01_1976_WAS",
+    "player_name": "Tom Kropp",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 0.8,
+      "REB": 0.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kuberst01_1976_2TM",
+    "player_name": "Steve Kuberski",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 3.7,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kuberst01_1976_BOS",
+    "player_name": "Steve Kuberski",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 3.9,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kunneke01_1976_HOU",
+    "player_name": "Kevin Kunnert",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 9.8,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laceysa01_1976_SAC",
+    "player_name": "Sam Lacey",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 12.6,
+      "AST": 4.7,
+      "STL": 1.6,
+      "BLK": 1.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lambejo01_1976_CLE",
+    "player_name": "John Lambert",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.9,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laniebo01_1976_DET",
+    "player_name": "Bob Lanier",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 11.7,
+      "AST": 3.4,
+      "STL": 1.2,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lantzst01_1976_LAL",
+    "player_name": "Stu Lantz",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.9,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laskojo01_1976_CHI",
+    "player_name": "John Laskowski",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.1,
+      "AST": 0.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_leecl01_1976_PHI",
+    "player_name": "Clyde Lee",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 5.7,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lovebo01_1976_CHI",
+    "player_name": "Bob Love",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 6.7,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lumpkph01_1976_PHX",
+    "player_name": "Phil Lumpkin",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 0.7,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maravpe01_1976_UTA",
+    "player_name": "Pete Maravich",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 4.8,
+      "AST": 5.4,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marinja01_1976_2TM",
+    "player_name": "Jack Marin",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 3.2,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marinja01_1976_CHI",
+    "player_name": "Jack Marin",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 3.2,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_martila01_1976_POR",
+    "player_name": "LaRue Martin",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.9,
+      "AST": 1.1,
+      "STL": 0.1,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mayescl01_1976_MIL",
+    "player_name": "Clyde Mayes",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.0,
+      "AST": 0.6,
+      "STL": 0.1,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcadobo01_1976_LAC",
+    "player_name": "Bob McAdoo",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 31.1,
+      "REB": 12.4,
+      "AST": 4.0,
+      "STL": 1.2,
+      "BLK": 2.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcdanji01_1976_LAL",
+    "player_name": "Jim McDaniels",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcdongl01_1976_BOS",
+    "player_name": "Glenn McDonald",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.8,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcelrji01_1976_UTA",
+    "player_name": "Jim McElroy",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.2,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcginge01_1976_PHI",
+    "player_name": "George McGinnis",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 23.0,
+      "REB": 12.6,
+      "AST": 4.7,
+      "STL": 2.6,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcglojo01_1976_MIL",
+    "player_name": "Jon McGlocklin",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 0.5,
+      "AST": 1.2,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcmilji01_1976_LAC",
+    "player_name": "Jim McMillian",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 5.3,
+      "AST": 2.8,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcmilto01_1976_LAC",
+    "player_name": "Tom McMillen",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.7,
+      "AST": 1.4,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcneila01_1976_SAC",
+    "player_name": "Larry McNeill",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 6.2,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meelycl01_1976_2TM",
+    "player_name": "Cliff Meely",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meelycl01_1976_LAL",
+    "player_name": "Cliff Meely",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meminde01_1976_ATL",
+    "player_name": "Dean Meminger",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.2,
+      "AST": 3.3,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mengejo01_1976_DET",
+    "player_name": "John Mengelt",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 1.7,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meriwjo01_1976_HOU",
+    "player_name": "Joe Meriweather",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 6.4,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 1.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meyerda01_1976_MIL",
+    "player_name": "Dave Meyers",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 6.2,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mixst01_1976_PHI",
+    "player_name": "Steve Mix",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 8.2,
+      "AST": 2.7,
+      "STL": 2.0,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_moneyer01_1976_DET",
+    "player_name": "Eric Money",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 2.6,
+      "AST": 4.2,
+      "STL": 1.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_monroea01_1976_NYK",
+    "player_name": "Earl Monroe",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 3.6,
+      "AST": 4.0,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mooreot01_1976_UTA",
+    "player_name": "Otto Moore",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 9.8,
+      "AST": 2.7,
+      "STL": 1.0,
+      "BLK": 1.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mullije01_1976_GSW",
+    "player_name": "Jeff Mullins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.1,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murphca01_1976_HOU",
+    "player_name": "Calvin Murphy",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 2.5,
+      "AST": 7.3,
+      "STL": 1.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nealll01_1976_POR",
+    "player_name": "Lloyd Neal",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 8.6,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 1.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsodo01_1976_BOS",
+    "player_name": "Don Nelson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.4,
+      "AST": 1.0,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsolo01_1976_UTA",
+    "player_name": "Louie Nelson",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 3.1,
+      "AST": 2.6,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_newlimi01_1976_HOU",
+    "player_name": "Mike Newlin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 4.1,
+      "AST": 5.6,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_normaco01_1976_PHI",
+    "player_name": "Connie Norman",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.6,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_norwowi01_1976_OKC",
+    "player_name": "Willie Norwood",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.6,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_oleynfr01_1976_OKC",
+    "player_name": "Frank Oleynick",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 0.9,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pattest01_1976_2TM",
+    "player_name": "Steve Patterson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 3.5,
+      "AST": 1.2,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pattest01_1976_CHI",
+    "player_name": "Steve Patterson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 3.8,
+      "AST": 1.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_perrycu01_1976_PHX",
+    "player_name": "Curtis Perry",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 9.6,
+      "AST": 2.6,
+      "STL": 1.2,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_petrige01_1976_POR",
+    "player_name": "Geoff Petrie",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 2.3,
+      "AST": 4.6,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pondecl01_1976_CHI",
+    "player_name": "Cliff Pondexter",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 5.1,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_porteho01_1976_DET",
+    "player_name": "Howard Porter",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 3.9,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_priceji01_1976_MIL",
+    "player_name": "Jim Price",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 3.3,
+      "AST": 4.9,
+      "STL": 1.9,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ratleed01_1976_HOU",
+    "player_name": "Ed Ratleff",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 5.3,
+      "AST": 3.6,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_raycl01_1976_GSW",
+    "player_name": "Clifford Ray",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 9.5,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_restake01_1976_MIL",
+    "player_name": "Kevin Restani",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.6,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rileypa01_1976_2TM",
+    "player_name": "Pat Riley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 0.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rileypa01_1976_PHX",
+    "player_name": "Pat Riley",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 0.8,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rileyro01_1976_HOU",
+    "player_name": "Ron Riley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 4.7,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_riordmi01_1976_WAS",
+    "player_name": "Mike Riordan",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 2.4,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberri01_1976_SAC",
+    "player_name": "Rick Roberson",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robinbi01_1976_SAC",
+    "player_name": "Bill Robinzine",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.7,
+      "AST": 0.8,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robintr01_1976_WAS",
+    "player_name": "Truck Robinson",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 6.8,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rowecu01_1976_DET",
+    "player_name": "Curtis Rowe",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 8.7,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_russeca01_1976_LAL",
+    "player_name": "Cazzie Russell",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 2.5,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_russeca02_1976_CLE",
+    "player_name": "Campy Russell",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 4.2,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_schluda01_1976_LAC",
+    "player_name": "Dale Schlueter",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 3.2,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_scottch01_1976_BOS",
+    "player_name": "Charlie Scott",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 4.4,
+      "AST": 4.2,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sealsbr01_1976_OKC",
+    "player_name": "Bruce Seals",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 6.3,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shortge01_1976_2TM",
+    "player_name": "Gene Short",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.4,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shortge01_1976_NYK",
+    "player_name": "Gene Short",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.5,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shumajo01_1976_2TM",
+    "player_name": "John Shumate",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 7.4,
+      "AST": 1.7,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shumajo01_1976_PHX",
+    "player_name": "John Shumate",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 5.6,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shumajo01_1976_LAC",
+    "player_name": "John Shumate",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 9.8,
+      "AST": 2.0,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_silaspa01_1976_BOS",
+    "player_name": "Paul Silas",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 12.7,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_skinnta01_1976_OKC",
+    "player_name": "Tal Skinner",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.7,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sloanje01_1976_CHI",
+    "player_name": "Jerry Sloan",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 5.3,
+      "AST": 1.0,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithbi02_1976_CLE",
+    "player_name": "Bingo Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 4.2,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithel01_1976_MIL",
+    "player_name": "Elmore Smith",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 11.4,
+      "AST": 1.2,
+      "STL": 1.0,
+      "BLK": 3.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithph01_1976_GSW",
+    "player_name": "Phil Smith",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 4.6,
+      "AST": 4.4,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithra01_1976_LAC",
+    "player_name": "Randy Smith",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.8,
+      "REB": 5.1,
+      "AST": 5.9,
+      "STL": 1.9,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_snydedi01_1976_CLE",
+    "player_name": "Dick Snyder",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 2.4,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_soberri01_1976_PHX",
+    "player_name": "Ricky Sobers",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.3,
+      "AST": 2.8,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sojoumi01_1976_ATL",
+    "player_name": "Mike Sojourner",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 6.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_stacoke01_1976_BOS",
+    "player_name": "Kevin Stacom",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.1,
+      "AST": 1.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_stallbu01_1976_UTA",
+    "player_name": "Bud Stallworth",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 2.6,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_steella01_1976_POR",
+    "player_name": "Larry Steele",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 3.6,
+      "AST": 4.0,
+      "STL": 2.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thomate01_1976_DET",
+    "player_name": "Terry Thomas",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.3,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thurmna01_1976_2TM",
+    "player_name": "Nate Thurmond",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 5.3,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thurmna01_1976_CLE",
+    "player_name": "Nate Thurmond",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 5.3,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tomjaru01_1976_HOU",
+    "player_name": "Rudy Tomjanovich",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 8.4,
+      "AST": 2.4,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_trappge01_1976_DET",
+    "player_name": "George Trapp",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 3.0,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_unselwe01_1976_WAS",
+    "player_name": "Wes Unseld",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 13.3,
+      "AST": 5.2,
+      "STL": 1.1,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanardi01_1976_PHX",
+    "player_name": "Dick Van Arsdale",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 2.4,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanarto01_1976_ATL",
+    "player_name": "Tom Van Arsdale",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.5,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanlino01_1976_CHI",
+    "player_name": "Norm Van Lier",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 5.4,
+      "AST": 6.6,
+      "STL": 2.0,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkefo01_1976_CLE",
+    "player_name": "Foots Walker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.2,
+      "AST": 3.6,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkeji01_1976_SAC",
+    "player_name": "Jimmy Walker",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 2.4,
+      "AST": 2.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkne01_1976_NYK",
+    "player_name": "Neal Walk",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 4.7,
+      "AST": 1.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_waltobi01_1976_POR",
+    "player_name": "Bill Walton",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.1,
+      "REB": 13.4,
+      "AST": 4.3,
+      "STL": 1.0,
+      "BLK": 1.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_warneco01_1976_LAL",
+    "player_name": "Cornell Warner",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 8.9,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washike01_1976_LAL",
+    "player_name": "Kermit Washington",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 4.6,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wattssl01_1976_OKC",
+    "player_name": "Slick Watts",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 4.5,
+      "AST": 8.1,
+      "STL": 3.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weathni01_1976_WAS",
+    "player_name": "Nick Weatherspoon",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 4.3,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wedmasc01_1976_SAC",
+    "player_name": "Scott Wedman",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 7.4,
+      "AST": 2.4,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weissbo01_1976_LAC",
+    "player_name": "Bob Weiss",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.0,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_westppa01_1976_PHX",
+    "player_name": "Paul Westphal",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.5,
+      "REB": 3.2,
+      "AST": 5.4,
+      "STL": 2.6,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wetzejo01_1976_PHX",
+    "player_name": "John Wetzel",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 1.0,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whitejo01_1976_BOS",
+    "player_name": "Jo Jo White",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 3.8,
+      "AST": 5.4,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whiteru01_1976_HOU",
+    "player_name": "Rudy White",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.2,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wickssi01_1976_POR",
+    "player_name": "Sidney Wicks",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 9.0,
+      "AST": 3.1,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilkeja01_1976_GSW",
+    "player_name": "Jamaal Wilkes",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 8.8,
+      "AST": 2.0,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_williea01_1976_DET",
+    "player_name": "Earl Williams",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 5.5,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willigu01_1976_GSW",
+    "player_name": "Gus Williams",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 2.1,
+      "AST": 3.1,
+      "STL": 1.8,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willina01_1976_UTA",
+    "player_name": "Nate Williams",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 4.4,
+      "AST": 1.3,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willobi01_1976_ATL",
+    "player_name": "Bill Willoughby",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1976,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 4.6,
+      "AST": 0.5,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilsobo03_1976_CHI",
+    "player_name": "Bobby Wilson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_winfile01_1976_SAC",
+    "player_name": "Lee Winfield",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.1,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wingoha01_1976_NYK",
+    "player_name": "Harthorne Wingo",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1976,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.9,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wintebr01_1976_MIL",
+    "player_name": "Brian Winters",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1976,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 3.2,
+      "AST": 4.7,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wittelu01_1976_CLE",
+    "player_name": "Luke Witte",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1976,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 1.7,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wohlda01_1976_HOU",
+    "player_name": "Dave Wohl",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1976,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.1,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  }
+]

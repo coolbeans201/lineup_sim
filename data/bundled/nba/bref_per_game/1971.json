@@ -1,0 +1,3589 @@
+[
+  {
+    "player_id": "bref_abdulka01_1971_MIL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 31.7,
+      "REB": 16.0,
+      "AST": 3.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_abdulma01_1971_ATL",
+    "player_name": "Walt Hazzard",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 3.7,
+      "AST": 6.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_abdulza01_1971_OKC",
+    "player_name": "Zaid Abdul-Aziz",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 7.7,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adamsdo01_1971_HOU",
+    "player_name": "Don Adams",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 7.1,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adelmri01_1971_POR",
+    "player_name": "Rick Adelman",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 3.5,
+      "AST": 4.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_allenlu01_1971_MIL",
+    "player_name": "Lucius Allen",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 2.5,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_andercl01_1971_2TM",
+    "player_name": "Cliff Anderson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.7,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_andercl01_1971_CLE",
+    "player_name": "Cliff Anderson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.6,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_architi01_1971_SAC",
+    "player_name": "Tiny Archibald",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 3.0,
+      "AST": 5.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_arnzebo01_1971_SAC",
+    "player_name": "Bob Arnzen",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_attleal01_1971_GSW",
+    "player_name": "Al Attles",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.2,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_awtrede01_1971_PHI",
+    "player_name": "Dennis Awtrey",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 6.1,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barnedi01_1971_NYK",
+    "player_name": "Dick Barnett",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 2.9,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barneji02_1971_POR",
+    "player_name": "Jim Barnett",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 4.8,
+      "AST": 4.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barrmo01_1971_SAC",
+    "player_name": "Moe Barr",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "G",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.6,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_baumjo01_1971_CHI",
+    "player_name": "Johnny Baum",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bellawa01_1971_ATL",
+    "player_name": "Walt Bellamy",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 12.9,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bingda01_1971_DET",
+    "player_name": "Dave Bing",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 27.0,
+      "REB": 4.4,
+      "AST": 5.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_blackto01_1971_2TM",
+    "player_name": "Tom Black",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.6,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_blackto01_1971_OKC",
+    "player_name": "Tom Black",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 4.1,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_blockjo01_1971_HOU",
+    "player_name": "John Block",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 6.1,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boerwto01_1971_CHI",
+    "player_name": "Tom Boerwinkle",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 13.8,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boozebo01_1971_MIL",
+    "player_name": "Bob Boozer",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 5.4,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bowmana01_1971_LAC",
+    "player_name": "Nate Bowman",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 3.9,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bradlbi01_1971_NYK",
+    "player_name": "Bill Bradley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 3.3,
+      "AST": 3.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bridgbi01_1971_ATL",
+    "player_name": "Bill Bridges",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 15.0,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bryanem01_1971_LAC",
+    "player_name": "Em Bryant",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 3.6,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cartefr01_1971_BAL",
+    "player_name": "Fred Carter",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 3.3,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chambje01_1971_ATL",
+    "player_name": "Jerry Chambers",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 3.8,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chambwi01_1971_LAL",
+    "player_name": "Wilt Chamberlain",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 18.2,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chanedo01_1971_BOS",
+    "player_name": "Don Chaney",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 5.7,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chapple01_1971_2TM",
+    "player_name": "Len Chappell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.1,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chapple01_1971_ATL",
+    "player_name": "Len Chappell",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.2,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chrisbo01_1971_ATL",
+    "player_name": "Bob Christian",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 3.3,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clarkar01_1971_PHI",
+    "player_name": "Archie Clark",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 4.8,
+      "AST": 5.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_clemeba01_1971_OKC",
+    "player_name": "Barry Clemens",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 3.1,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_colliji01_1971_CHI",
+    "player_name": "Jimmy Collins",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.0,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cookejo01_1971_CLE",
+    "player_name": "Joe Cooke",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 1.6,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_countme01_1971_PHX",
+    "player_name": "Mel Counts",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 6.3,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cowenda01_1971_BOS",
+    "player_name": "Dave Cowens",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 15.0,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_crawffr01_1971_2TM",
+    "player_name": "Freddie Crawford",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.0,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_crawffr01_1971_PHI",
+    "player_name": "Freddie Crawford",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.9,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_crosspe01_1971_OKC",
+    "player_name": "Pete Cross",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 12.0,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cunnibi01_1971_PHI",
+    "player_name": "Billy Cunningham",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 23.0,
+      "REB": 11.7,
+      "AST": 4.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cunnidi01_1971_MIL",
+    "player_name": "Dick Cunningham",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dandrbo01_1971_MIL",
+    "player_name": "Bob Dandridge",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.4,
+      "REB": 8.0,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisji01_1971_ATL",
+    "player_name": "Jim Davis",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 6.7,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davismi01_1971_LAC",
+    "player_name": "Mike Davis",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-PF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 2.6,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_debusda01_1971_NYK",
+    "player_name": "Dave DeBusschere",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 11.1,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dierkco01_1971_2TM",
+    "player_name": "Connie Dierking",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.3,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dierkco01_1971_PHI",
+    "player_name": "Connie Dierking",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.3,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dinwibi01_1971_BOS",
+    "player_name": "Bill Dinwiddie",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dischte01_1971_DET",
+    "player_name": "Terry Dischinger",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 5.2,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_driscte01_1971_DET",
+    "player_name": "Terry Driscoll",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 5.8,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eganjo01_1971_2TM",
+    "player_name": "Johnny Egan",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.0,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eganjo01_1971_CLE",
+    "player_name": "Johnny Egan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.2,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eganjo01_1971_HOU",
+    "player_name": "Johnny Egan",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.9,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ellisjo01_1971_GSW",
+    "player_name": "Joe Ellis",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 6.4,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ellisle01_1971_POR",
+    "player_name": "Leroy Ellis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 12.3,
+      "AST": 3.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_erickke01_1971_LAL",
+    "player_name": "Keith Erickson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 5.5,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fillmgr01_1971_NYK",
+    "player_name": "Greg Fillmore",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.4,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_finkeha01_1971_BOS",
+    "player_name": "Hank Finkel",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 4.3,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fontale01_1971_GSW",
+    "player_name": "Levi Fontaine",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 0.4,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fostefr01_1971_2TM",
+    "player_name": "Fred Foster",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.3,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fostefr01_1971_PHI",
+    "player_name": "Fred Foster",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_foxji01_1971_CHI",
+    "player_name": "Jim Fox",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 7.3,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fraziwa01_1971_NYK",
+    "player_name": "Walt Frazier",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 21.7,
+      "REB": 6.8,
+      "AST": 6.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_freemga01_1971_2TM",
+    "player_name": "Gary Freeman",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 2.0,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_freemga01_1971_MIL",
+    "player_name": "Gary Freeman",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_garredi01_1971_LAC",
+    "player_name": "Dick Garrett",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 3.9,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gillihe01_1971_LAC",
+    "player_name": "Herm Gilliam",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 4.2,
+      "AST": 3.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gilmowa01_1971_POR",
+    "player_name": "Walt Gilmore",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 2.7,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_goodrga01_1971_LAL",
+    "player_name": "Gail Goodrich",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 3.3,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenjo01_1971_SAC",
+    "player_name": "Johnny Green",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 8.7,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenla01_1971_PHX",
+    "player_name": "Lamar Green",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 6.9,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greerha01_1971_PHI",
+    "player_name": "Hal Greer",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 4.5,
+      "AST": 4.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gregoga01_1971_POR",
+    "player_name": "Gary Gregor",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 7.6,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_guokama02_1971_2TM",
+    "player_name": "Matt Guokas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.0,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_guokama02_1971_CHI",
+    "player_name": "Matt Guokas",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.0,
+      "AST": 4.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hairsha01_1971_LAL",
+    "player_name": "Happy Hairston",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 10.0,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_halimsh01_1971_2TM",
+    "player_name": "Shaler Halimon",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 5.1,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_halimsh01_1971_POR",
+    "player_name": "Shaler Halimon",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.3,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_harriar01_1971_PHX",
+    "player_name": "Art Harris",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.8,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haskicl01_1971_PHX",
+    "player_name": "Clem Haskins",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 4.0,
+      "AST": 4.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_havlijo01_1971_BOS",
+    "player_name": "John Havlicek",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 28.9,
+      "REB": 9.0,
+      "AST": 7.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawkico01_1971_PHX",
+    "player_name": "Connie Hawkins",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 9.1,
+      "AST": 4.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hayesel01_1971_HOU",
+    "player_name": "Elvin Hayes",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 28.7,
+      "REB": 16.6,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haywosp01_1971_OKC",
+    "player_name": "Spencer Haywood",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 12.0,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_heardga01_1971_OKC",
+    "player_name": "Gar Heard",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 5.0,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hetzefr01_1971_LAL",
+    "player_name": "Fred Hetzel",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.5,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hewitbi01_1971_DET",
+    "player_name": "Bill Hewitt",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 7.3,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_howargr01_1971_PHX",
+    "player_name": "Greg Howard",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.7,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_howelba01_1971_PHI",
+    "player_name": "Bailey Howell",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 5.4,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hudsolo01_1971_ATL",
+    "player_name": "Lou Hudson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 26.8,
+      "REB": 5.1,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hummejo01_1971_LAC",
+    "player_name": "John Hummer",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 8.9,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hydergr01_1971_SAC",
+    "player_name": "Greg Hyder",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 4.3,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_imhofda01_1971_SAC",
+    "player_name": "Darrall Imhoff",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 6.9,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jackslu01_1971_PHI",
+    "player_name": "Luke Jackson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 7.2,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jacksph01_1971_NYK",
+    "player_name": "Phil Jackson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.4,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsge01_1971_BAL",
+    "player_name": "George Johnson",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 4.8,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsgu01_1971_BAL",
+    "player_name": "Gus Johnson",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 17.1,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1971_CLE",
+    "player_name": "John Johnson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 6.8,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesni01_1971_GSW",
+    "player_name": "Nick Jones",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.4,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_joneswa02_1971_PHI",
+    "player_name": "Wali Jones",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 1.6,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kauffbo01_1971_LAC",
+    "player_name": "Bob Kauffman",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 20.4,
+      "REB": 10.7,
+      "AST": 4.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kimbato01_1971_HOU",
+    "player_name": "Toby Kimball",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 5.1,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kingji01_1971_CHI",
+    "player_name": "Jim King",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.2,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_knighro01_1971_POR",
+    "player_name": "Ron Knight",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.2,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kojisdo01_1971_OKC",
+    "player_name": "Don Kojis",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 5.5,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_komivho01_1971_DET",
+    "player_name": "Howard Komives",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 1.9,
+      "AST": 3.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kuberst01_1971_BOS",
+    "player_name": "Steve Kuberski",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 6.6,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laceysa01_1971_SAC",
+    "player_name": "Sam Lacey",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 11.3,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laniebo01_1971_DET",
+    "player_name": "Bob Lanier",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 8.1,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lantzst01_1971_HOU",
+    "player_name": "Stu Lantz",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 5.0,
+      "AST": 4.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_leecl01_1971_GSW",
+    "player_name": "Clyde Lee",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 7.0,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lewisbo01_1971_CLE",
+    "player_name": "Bobby Lewis",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.6,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_longpa01_1971_LAC",
+    "player_name": "Paul Long",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.0,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_loughke01_1971_BAL",
+    "player_name": "Kevin Loughery",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 2.7,
+      "AST": 3.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lovebo01_1971_CHI",
+    "player_name": "Bob Love",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 25.2,
+      "REB": 8.5,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lucasje01_1971_GSW",
+    "player_name": "Jerry Lucas",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.2,
+      "REB": 15.8,
+      "AST": 3.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mannied01_1971_POR",
+    "player_name": "Ed Manning",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 5.2,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maravpe01_1971_ATL",
+    "player_name": "Pete Maravich",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 23.2,
+      "REB": 3.7,
+      "AST": 4.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marinja01_1971_BAL",
+    "player_name": "Jack Marin",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.8,
+      "REB": 6.3,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marlaha01_1971_DET",
+    "player_name": "Harvey Marlatt",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.0,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_masted01_1971_NYK",
+    "player_name": "Eddie Mast",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.9,
+      "AST": 0.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maydo01_1971_LAC",
+    "player_name": "Don May",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 20.2,
+      "REB": 7.5,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mccarwi01_1971_LAL",
+    "player_name": "Willie McCarter",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.6,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcglojo01_1971_MIL",
+    "player_name": "Jon McGlocklin",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 2.7,
+      "AST": 3.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mckenst01_1971_POR",
+    "player_name": "Stan McKenzie",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 3.8,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mclemmc01_1971_2TM",
+    "player_name": "McCoy McLemore",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 6.6,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mclemmc01_1971_CLE",
+    "player_name": "McCoy McLemore",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 8.0,
+      "AST": 3.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mclemmc01_1971_MIL",
+    "player_name": "McCoy McLemore",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.8,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcmilji01_1971_LAL",
+    "player_name": "Jim McMillian",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 4.1,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meschto01_1971_OKC",
+    "player_name": "Tom Meschery",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 6.1,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mikanla01_1971_CLE",
+    "player_name": "Larry Mikan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.6,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_milesed01_1971_BAL",
+    "player_name": "Eddie Miles",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.7,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mixst01_1971_DET",
+    "player_name": "Steve Mix",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 4.7,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_monroea01_1971_BAL",
+    "player_name": "Earl Monroe",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 2.6,
+      "AST": 4.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mooreot01_1971_DET",
+    "player_name": "Otto Moore",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 8.5,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_morgare01_1971_BOS",
+    "player_name": "Rex Morgan",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.8,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mueller01_1971_DET",
+    "player_name": "Erwin Mueller",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.3,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mullije01_1971_GSW",
+    "player_name": "Jeff Mullins",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 4.5,
+      "AST": 4.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murphca01_1971_HOU",
+    "player_name": "Calvin Murphy",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 3.0,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murredo01_1971_2TM",
+    "player_name": "Dorie Murrey",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 3.1,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murredo01_1971_BAL",
+    "player_name": "Dorie Murrey",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 3.1,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsodo01_1971_BOS",
+    "player_name": "Don Nelson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 6.9,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ogdenbu01_1971_PHI",
+    "player_name": "Bud Ogden",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 0.7,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ogdenra01_1971_GSW",
+    "player_name": "Ralph Ogden",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "G",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 1.0,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_paulkch01_1971_SAC",
+    "player_name": "Charlie Paulk",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 4.7,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_petrige01_1971_POR",
+    "player_name": "Geoff Petrie",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 3.4,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_portmbo01_1971_GSW",
+    "player_name": "Bob Portman",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 4.7,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pricemi01_1971_NYK",
+    "player_name": "Mike Price",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 0.5,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_quickbo01_1971_DET",
+    "player_name": "Bob Quick",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.1,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rackllu01_1971_CLE",
+    "player_name": "Luther Rackley",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 5.3,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_reedwi01_1971_NYK",
+    "player_name": "Willis Reed",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 13.7,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rileypa01_1971_LAL",
+    "player_name": "Pat Riley",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 1.0,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_riordmi01_1971_NYK",
+    "player_name": "Mike Riordan",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.1,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberos01_1971_MIL",
+    "player_name": "Oscar Robertson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 5.7,
+      "AST": 8.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberri01_1971_LAL",
+    "player_name": "Rick Roberson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 4.7,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robinfl01_1971_SAC",
+    "player_name": "Flynn Robinson",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 2.0,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_russeca01_1971_NYK",
+    "player_name": "Cazzie Russell",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.4,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_schluda01_1971_POR",
+    "player_name": "Dale Schlueter",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 7.9,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_siegfla01_1971_HOU",
+    "player_name": "Larry Siegfried",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 3.9,
+      "AST": 6.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_silaspa01_1971_PHX",
+    "player_name": "Paul Silas",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 12.5,
+      "AST": 3.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sillimi01_1971_LAC",
+    "player_name": "Mike Silliman",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.7,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sloanje01_1971_CHI",
+    "player_name": "Jerry Sloan",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 8.8,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithad01_1971_GSW",
+    "player_name": "Adrian Smith",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.1,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithbi02_1971_CLE",
+    "player_name": "Bingo Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 5.6,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithga01_1971_BOS",
+    "player_name": "Garfield Smith",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.6,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithgr01_1971_MIL",
+    "player_name": "Greg Smith",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 7.2,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_snydedi01_1971_OKC",
+    "player_name": "Dick Snyder",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 3.1,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sorenda01_1971_CLE",
+    "player_name": "Dave Sorenson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 6.2,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_stallda01_1971_NYK",
+    "player_name": "Dave Stallworth",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.3,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_suitega01_1971_CLE",
+    "player_name": "Gary Suiter",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "G",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 1.4,
+      "AST": 0.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_taylofr01_1971_PHX",
+    "player_name": "Fred Taylor",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thomajo01_1971_PHX",
+    "player_name": "Joe Thomas",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 1.1,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thornro01_1971_OKC",
+    "player_name": "Rod Thorn",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.6,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thurmna01_1971_GSW",
+    "player_name": "Nate Thurmond",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 13.8,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tomjaru01_1971_HOU",
+    "player_name": "Rudy Tomjanovich",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 4.9,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_trappjo01_1971_HOU",
+    "player_name": "John Trapp",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 6.2,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tresvjo01_1971_2TM",
+    "player_name": "John Tresvant",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 5.1,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tresvjo01_1971_BAL",
+    "player_name": "John Tresvant",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 5.4,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tuckeal01_1971_BAL",
+    "player_name": "Al Tucker",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.4,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_unselwe01_1971_BAL",
+    "player_name": "Wes Unseld",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 16.9,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vallejo01_1971_ATL",
+    "player_name": "John Vallely",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 0.7,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanardi01_1971_PHX",
+    "player_name": "Dick Van Arsdale",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.9,
+      "REB": 3.9,
+      "AST": 4.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanarto01_1971_SAC",
+    "player_name": "Tom Van Arsdale",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 6.1,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanlino01_1971_SAC",
+    "player_name": "Norm Van Lier",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 7.1,
+      "AST": 10.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkech01_1971_CHI",
+    "player_name": "Chet Walker",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 22.0,
+      "REB": 7.3,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkeji01_1971_DET",
+    "player_name": "Jimmy Walker",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 2.6,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkne01_1971_PHX",
+    "player_name": "Neal Walk",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 8.2,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_warneco01_1971_LAC",
+    "player_name": "Cornell Warner",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 7.0,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_warrejo01_1971_CLE",
+    "player_name": "John Warren",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 4.2,
+      "AST": 4.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washibo01_1971_CLE",
+    "player_name": "Bobby Washington",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.2,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washiji01_1971_PHI",
+    "player_name": "Jim Washington",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 9.6,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_webbje01_1971_MIL",
+    "player_name": "Jeff Webb",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.8,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weissbo01_1971_CHI",
+    "player_name": "Bob Weiss",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 2.3,
+      "AST": 4.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weslewa01_1971_CLE",
+    "player_name": "Walt Wesley",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1971,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 8.7,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_westje01_1971_LAL",
+    "player_name": "Jerry West",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 26.9,
+      "REB": 4.6,
+      "AST": 9.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wetzejo01_1971_PHX",
+    "player_name": "John Wetzel",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.2,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whitehe01_1971_ATL",
+    "player_name": "Herb White",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.3,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whitejo01_1971_BOS",
+    "player_name": "Jo Jo White",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 5.0,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilkele01_1971_OKC",
+    "player_name": "Lenny Wilkens",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.8,
+      "REB": 4.5,
+      "AST": 9.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_williar01_1971_BOS",
+    "player_name": "Art Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.8,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willibe01_1971_HOU",
+    "player_name": "Bernie Williams",
+    "team": "SDR",
+    "team_abbr": "HOU",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_williro01_1971_GSW",
+    "player_name": "Ron Williams",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.4,
+      "REB": 3.0,
+      "AST": 5.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_williwi01_1971_2TM",
+    "player_name": "Willie Williams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "G",
+    "stats": {
+      "PTS": 0.9,
+      "REB": 0.9,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilsoge01_1971_LAC",
+    "player_name": "George Wilson",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1971,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 5.0,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_winfile01_1971_OKC",
+    "player_name": "Lee Winfield",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 2.4,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_zellega01_1971_BAL",
+    "player_name": "Gary Zeller",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1971,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 0.5,
+      "AST": 0.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_zopfbi01_1971_MIL",
+    "player_name": "Bill Zopf",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1971,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.9,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  }
+]

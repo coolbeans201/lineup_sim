@@ -1,0 +1,8876 @@
+[
+  {
+    "player_id": "bref_abrinal01_2019_OKC",
+    "player_name": "\u00c1lex Abrines",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.5,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_adamsja01_2019_ATL",
+    "player_name": "Jaylen Adams",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_adamsst01_2019_OKC",
+    "player_name": "Steven Adams",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 9.5,
+      "AST": 1.6,
+      "STL": 1.5,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_adebaba01_2019_MIA",
+    "player_name": "Bam Adebayo",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 7.3,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aldrila01_2019_SAS",
+    "player_name": "LaMarcus Aldridge",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 9.2,
+      "AST": 2.4,
+      "STL": 0.5,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allengr01_2019_UTA",
+    "player_name": "Grayson Allen",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 0.6,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allenja01_2019_BKN",
+    "player_name": "Jarrett Allen",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 8.4,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aminual01_2019_POR",
+    "player_name": "Al-Farouq Aminu",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 7.5,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderju01_2019_ATL",
+    "player_name": "Justin Anderson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.8,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderky01_2019_MEM",
+    "player_name": "Kyle Anderson",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 5.8,
+      "AST": 3.0,
+      "STL": 1.3,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderry01_2019_2TM",
+    "player_name": "Ryan Anderson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_antetgi01_2019_MIL",
+    "player_name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 27.7,
+      "REB": 12.5,
+      "AST": 5.9,
+      "STL": 1.3,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anunoog01_2019_TOR",
+    "player_name": "OG Anunoby",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.9,
+      "AST": 0.7,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arcidry01_2019_CHI",
+    "player_name": "Ryan Arcidiacono",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.7,
+      "AST": 3.3,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arizatr01_2019_2TM",
+    "player_name": "Trevor Ariza",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 5.4,
+      "AST": 3.7,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arizatr01_2019_PHX",
+    "player_name": "Trevor Ariza",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 5.6,
+      "AST": 3.3,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arizatr01_2019_WAS",
+    "player_name": "Trevor Ariza",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 5.3,
+      "AST": 3.8,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_augusdj01_2019_ORL",
+    "player_name": "D.J. Augustin",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 2.5,
+      "AST": 5.3,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aytonde01_2019_PHX",
+    "player_name": "Deandre Ayton",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 10.3,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bacondw01_2019_CHO",
+    "player_name": "Dwayne Bacon",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.1,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_baglema01_2019_SAC",
+    "player_name": "Marvin Bagley III",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 7.6,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_balllo01_2019_LAL",
+    "player_name": "Lonzo Ball",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 5.3,
+      "AST": 5.4,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bambamo01_2019_ORL",
+    "player_name": "Mo Bamba",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 5.0,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bareajo01_2019_DAL",
+    "player_name": "J.J. Barea",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.5,
+      "AST": 5.6,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barneha02_2019_2TM",
+    "player_name": "Harrison Barnes",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 4.7,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barneha02_2019_DAL",
+    "player_name": "Harrison Barnes",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 4.2,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barneha02_2019_SAC",
+    "player_name": "Harrison Barnes",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 5.5,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bartowi01_2019_DEN",
+    "player_name": "Will Barton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 4.6,
+      "AST": 2.9,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bateske01_2019_MIN",
+    "player_name": "Keita Bates-Diop",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.8,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_batumni01_2019_CHO",
+    "player_name": "Nicolas Batum",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 5.2,
+      "AST": 3.3,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bayleje01_2019_MIN",
+    "player_name": "Jerryd Bayless",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.8,
+      "AST": 3.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_baynear01_2019_BOS",
+    "player_name": "Aron Baynes",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 4.7,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bazemke01_2019_ATL",
+    "player_name": "Kent Bazemore",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 3.9,
+      "AST": 2.3,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bealbr01_2019_WAS",
+    "player_name": "Bradley Beal",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 25.6,
+      "REB": 5.0,
+      "AST": 5.5,
+      "STL": 1.5,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beaslma01_2019_DEN",
+    "player_name": "Malik Beasley",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.5,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beaslmi01_2019_LAL",
+    "player_name": "Michael Beasley",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.3,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_belinma01_2019_SAS",
+    "player_name": "Marco Belinelli",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 2.5,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_belljo01_2019_GSW",
+    "player_name": "Jordan Bell",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.7,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bembrde01_2019_ATL",
+    "player_name": "DeAndre' Bembry",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 4.4,
+      "AST": 2.5,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bendedr01_2019_PHX",
+    "player_name": "Dragan Bender",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 4.0,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bertada01_2019_SAS",
+    "player_name": "D\u0101vis Bert\u0101ns",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 3.5,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beverpa01_2019_LAC",
+    "player_name": "Patrick Beverley",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 5.0,
+      "AST": 3.8,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_birchkh01_2019_ORL",
+    "player_name": "Khem Birch",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.8,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_biyombi01_2019_CHO",
+    "player_name": "Bismack Biyombo",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.6,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bjeline01_2019_SAC",
+    "player_name": "Nemanja Bjelica",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 5.8,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blakean01_2019_CHI",
+    "player_name": "Antonio Blakeney",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.9,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bledser01_2019_MIL",
+    "player_name": "Eric Bledsoe",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 4.6,
+      "AST": 5.5,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blossja01_2019_CLE",
+    "player_name": "Jaron Blossomgame",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bogdabo01_2019_SAC",
+    "player_name": "Bogdan Bogdanovi\u0107",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 3.5,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bogdabo02_2019_IND",
+    "player_name": "Bojan Bogdanovi\u0107",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 4.1,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_boldejo01_2019_PHI",
+    "player_name": "Jonah Bolden",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bongais01_2019_LAL",
+    "player_name": "Isaac Bonga",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 0.9,
+      "REB": 1.1,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bookede01_2019_PHX",
+    "player_name": "Devin Booker",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 26.6,
+      "REB": 4.1,
+      "AST": 6.8,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bouchch01_2019_TOR",
+    "player_name": "Chris Boucher",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.0,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bradlav01_2019_2TM",
+    "player_name": "Avery Bradley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.8,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bradlav01_2019_LAC",
+    "player_name": "Avery Bradley",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.7,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_breweco01_2019_2TM",
+    "player_name": "Corey Brewer",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.5,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_breweco01_2019_SAC",
+    "player_name": "Corey Brewer",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.5,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bridgmi01_2019_PHX",
+    "player_name": "Mikal Bridges",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 3.2,
+      "AST": 2.1,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bridgmi02_2019_CHO",
+    "player_name": "Miles Bridges",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.0,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_briscis01_2019_ORL",
+    "player_name": "Isaiah Briscoe",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.9,
+      "AST": 2.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_broekry01_2019_DAL",
+    "player_name": "Ryan Broekhoff",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.5,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brogdma01_2019_MIL",
+    "player_name": "Malcolm Brogdon",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 4.5,
+      "AST": 3.2,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brookma01_2019_MEM",
+    "player_name": "MarShon Brooks",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownbr01_2019_DET",
+    "player_name": "Bruce Brown",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.5,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownja02_2019_BOS",
+    "player_name": "Jaylen Brown",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 4.2,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownlo01_2019_TOR",
+    "player_name": "Lorenzo Brown",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.2,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownst02_2019_MIL",
+    "player_name": "Sterling Brown",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 3.2,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_browntr01_2019_WAS",
+    "player_name": "Troy Brown Jr.",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.8,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brunsja01_2019_DAL",
+    "player_name": "Jalen Brunson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 2.3,
+      "AST": 3.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bryanth01_2019_WAS",
+    "player_name": "Thomas Bryant",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 6.3,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bullore01_2019_2TM",
+    "player_name": "Reggie Bullock",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.7,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bullore01_2019_DET",
+    "player_name": "Reggie Bullock",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 2.8,
+      "AST": 2.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burketr01_2019_2TM",
+    "player_name": "Trey Burke",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 1.7,
+      "AST": 2.7,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burketr01_2019_NYK",
+    "player_name": "Trey Burke",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 1.9,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burketr01_2019_DAL",
+    "player_name": "Trey Burke",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 1.5,
+      "AST": 2.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burksal01_2019_3TM",
+    "player_name": "Alec Burks",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 3.7,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burksal01_2019_CLE",
+    "player_name": "Alec Burks",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 5.5,
+      "AST": 2.9,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burtode02_2019_OKC",
+    "player_name": "Deonte Burton",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 0.9,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_butleji01_2019_2TM",
+    "player_name": "Jimmy Butler",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 5.3,
+      "AST": 4.0,
+      "STL": 1.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_butleji01_2019_PHI",
+    "player_name": "Jimmy Butler",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 5.3,
+      "AST": 4.0,
+      "STL": 1.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cabocbr01_2019_MEM",
+    "player_name": "Bruno Caboclo",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 4.6,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldejo01_2019_DET",
+    "player_name": "Jos\u00e9 Calder\u00f3n",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.2,
+      "AST": 2.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldwke01_2019_LAL",
+    "player_name": "Kentavious Caldwell-Pope",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 2.9,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_canaais01_2019_3TM",
+    "player_name": "Isaiah Canaan",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 1.9,
+      "AST": 2.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_capelca01_2019_HOU",
+    "player_name": "Clint Capela",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 12.7,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_carrode01_2019_BKN",
+    "player_name": "DeMarre Carroll",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 5.2,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_carteje01_2019_MEM",
+    "player_name": "Jevon Carter",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.7,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cartemi01_2019_2TM",
+    "player_name": "Michael Carter-Williams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.5,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cartevi01_2019_ATL",
+    "player_name": "Vince Carter",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.6,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cartewe01_2019_CHI",
+    "player_name": "Wendell Carter Jr.",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 7.0,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_carusal01_2019_LAL",
+    "player_name": "Alex Caruso",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 2.7,
+      "AST": 3.1,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_casspom01_2019_MEM",
+    "player_name": "Omri Casspi",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 3.2,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caulewi01_2019_SAC",
+    "player_name": "Willie Cauley-Stein",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 8.4,
+      "AST": 2.4,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandty01_2019_2TM",
+    "player_name": "Tyson Chandler",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 5.6,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandty01_2019_LAL",
+    "player_name": "Tyson Chandler",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 5.6,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandwi01_2019_2TM",
+    "player_name": "Wilson Chandler",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.2,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandwi01_2019_PHI",
+    "player_name": "Wilson Chandler",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 4.7,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chrisma01_2019_2TM",
+    "player_name": "Marquese Chriss",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.3,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chrisma01_2019_CLE",
+    "player_name": "Marquese Chriss",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 4.2,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clarkga01_2019_HOU",
+    "player_name": "Gary Clark",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.3,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clarkia01_2019_NOP",
+    "player_name": "Ian Clark",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.5,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clarkjo01_2019_CLE",
+    "player_name": "Jordan Clarkson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 3.3,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collida01_2019_IND",
+    "player_name": "Darren Collison",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 3.1,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collijo01_2019_ATL",
+    "player_name": "John Collins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 9.8,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_colliza01_2019_POR",
+    "player_name": "Zach Collins",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.2,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_conlemi01_2019_MEM",
+    "player_name": "Mike Conley",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 21.1,
+      "REB": 3.4,
+      "AST": 6.4,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_connapa01_2019_MIL",
+    "player_name": "Pat Connaughton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.2,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cookqu01_2019_GSW",
+    "player_name": "Quinn Cook",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.1,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_couside01_2019_GSW",
+    "player_name": "DeMarcus Cousins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 8.2,
+      "AST": 3.6,
+      "STL": 1.3,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_covinro01_2019_2TM",
+    "player_name": "Robert Covington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 5.5,
+      "AST": 1.3,
+      "STL": 2.1,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_covinro01_2019_MIN",
+    "player_name": "Robert Covington",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 5.7,
+      "AST": 1.5,
+      "STL": 2.3,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crabbal01_2019_BKN",
+    "player_name": "Allen Crabbe",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 3.4,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_craigto01_2019_DEN",
+    "player_name": "Torrey Craig",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.5,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crawfja01_2019_PHX",
+    "player_name": "Jamal Crawford",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.3,
+      "AST": 3.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crowdja01_2019_UTA",
+    "player_name": "Jae Crowder",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 4.8,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cunnida01_2019_SAS",
+    "player_name": "Dante Cunningham",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.9,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_curryse01_2019_POR",
+    "player_name": "Seth Curry",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_curryst01_2019_GSW",
+    "player_name": "Stephen Curry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 27.3,
+      "REB": 5.3,
+      "AST": 5.2,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_danietr01_2019_PHX",
+    "player_name": "Troy Daniels",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.4,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davisan02_2019_NOP",
+    "player_name": "Anthony Davis",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 12.0,
+      "AST": 3.9,
+      "STL": 1.6,
+      "BLK": 2.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davised01_2019_BKN",
+    "player_name": "Ed Davis",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 8.6,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dedmode01_2019_ATL",
+    "player_name": "Dewayne Dedmon",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 7.5,
+      "AST": 1.4,
+      "STL": 1.1,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dekkesa01_2019_2TM",
+    "player_name": "Sam Dekker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dekkesa01_2019_WAS",
+    "player_name": "Sam Dekker",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.0,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dellama01_2019_2TM",
+    "player_name": "Matthew Dellavedova",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.6,
+      "AST": 3.8,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dellama01_2019_CLE",
+    "player_name": "Matthew Dellavedova",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.9,
+      "AST": 4.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_denglu01_2019_MIN",
+    "player_name": "Luol Deng",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_derozde01_2019_SAS",
+    "player_name": "DeMar DeRozan",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 6.0,
+      "AST": 6.2,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_diallch01_2019_NOP",
+    "player_name": "Cheick Diallo",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 5.2,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_diallha01_2019_OKC",
+    "player_name": "Hamidou Diallo",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.9,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dienggo01_2019_MIN",
+    "player_name": "Gorgui Dieng",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 4.1,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dinwisp01_2019_BKN",
+    "player_name": "Spencer Dinwiddie",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 2.4,
+      "AST": 4.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_divindo01_2019_MIL",
+    "player_name": "Donte DiVincenzo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.4,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_doncilu01_2019_DAL",
+    "player_name": "Luka Don\u010di\u0107",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 7.8,
+      "AST": 6.0,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dorsety01_2019_2TM",
+    "player_name": "Tyler Dorsey",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 2.4,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dorsety01_2019_ATL",
+    "player_name": "Tyler Dorsey",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.6,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dorsety01_2019_MEM",
+    "player_name": "Tyler Dorsey",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 3.3,
+      "AST": 1.9,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dotsoda01_2019_NYK",
+    "player_name": "Damyean Dotson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 3.6,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dragigo01_2019_MIA",
+    "player_name": "Goran Dragi\u0107",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 3.1,
+      "AST": 4.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_drumman01_2019_DET",
+    "player_name": "Andre Drummond",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 15.6,
+      "AST": 1.4,
+      "STL": 1.7,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dudleja01_2019_BKN",
+    "player_name": "Jared Dudley",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.6,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dunnkr01_2019_CHI",
+    "player_name": "Kris Dunn",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 4.1,
+      "AST": 6.0,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_duranke01_2019_GSW",
+    "player_name": "Kevin Durant",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 26.0,
+      "REB": 6.4,
+      "AST": 5.9,
+      "STL": 0.7,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2019_2TM",
+    "player_name": "Wayne Ellington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 2.0,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2019_MIA",
+    "player_name": "Wayne Ellington",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 1.9,
+      "AST": 1.2,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2019_DET",
+    "player_name": "Wayne Ellington",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 2.1,
+      "AST": 1.5,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_embiijo01_2019_PHI",
+    "player_name": "Joel Embiid",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 27.5,
+      "REB": 13.6,
+      "AST": 3.7,
+      "STL": 0.7,
+      "BLK": 1.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ennisja01_2019_2TM",
+    "player_name": "James Ennis III",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ennisja01_2019_HOU",
+    "player_name": "James Ennis III",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.9,
+      "AST": 0.7,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_eubandr01_2019_SAS",
+    "player_name": "Drew Eubanks",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.5,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansja02_2019_GSW",
+    "player_name": "Jacob Evans",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 0.8,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansty01_2019_IND",
+    "player_name": "Tyreke Evans",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 2.9,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_exumda01_2019_UTA",
+    "player_name": "Dante Exum",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.6,
+      "AST": 2.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_farieke01_2019_2TM",
+    "player_name": "Kenneth Faried",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 6.8,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_farieke01_2019_HOU",
+    "player_name": "Kenneth Faried",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 8.2,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_favorde01_2019_UTA",
+    "player_name": "Derrick Favors",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 7.4,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_feliccr01_2019_CHI",
+    "player_name": "Cristiano Fel\u00edcio",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.6,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_feltora01_2019_OKC",
+    "player_name": "Raymond Felton",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 1.0,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fergute01_2019_OKC",
+    "player_name": "Terrance Ferguson",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.9,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ferreyo01_2019_SAC",
+    "player_name": "Yogi Ferrell",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.5,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_finnedo01_2019_DAL",
+    "player_name": "Dorian Finney-Smith",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.8,
+      "AST": 1.2,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_forbebr01_2019_SAS",
+    "player_name": "Bryn Forbes",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 2.9,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fournev01_2019_ORL",
+    "player_name": "Evan Fournier",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 3.2,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_foxde01_2019_SAC",
+    "player_name": "De'Aaron Fox",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 3.8,
+      "AST": 7.3,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fraziti01_2019_2TM",
+    "player_name": "Tim Frazier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.8,
+      "AST": 4.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fraziti01_2019_NOP",
+    "player_name": "Tim Frazier",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.9,
+      "AST": 4.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fryech01_2019_CLE",
+    "player_name": "Channing Frye",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.4,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gallida01_2019_LAC",
+    "player_name": "Danilo Gallinari",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 19.8,
+      "REB": 6.1,
+      "AST": 2.6,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gallola01_2019_DET",
+    "player_name": "Langston Galloway",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 2.1,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolma01_2019_2TM",
+    "player_name": "Marc Gasol",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 7.9,
+      "AST": 4.4,
+      "STL": 1.1,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolma01_2019_MEM",
+    "player_name": "Marc Gasol",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 8.6,
+      "AST": 4.7,
+      "STL": 1.1,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolma01_2019_TOR",
+    "player_name": "Marc Gasol",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 6.6,
+      "AST": 3.9,
+      "STL": 0.9,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolpa01_2019_2TM",
+    "player_name": "Pau Gasol",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 4.6,
+      "AST": 1.7,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolpa01_2019_SAS",
+    "player_name": "Pau Gasol",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 4.7,
+      "AST": 1.9,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gayru01_2019_SAS",
+    "player_name": "Rudy Gay",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 6.8,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_georgpa01_2019_OKC",
+    "player_name": "Paul George",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 28.0,
+      "REB": 8.2,
+      "AST": 4.1,
+      "STL": 2.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gibsota01_2019_MIN",
+    "player_name": "Taj Gibson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 6.5,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gilesha01_2019_SAC",
+    "player_name": "Harry Giles",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.8,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gilgesh01_2019_LAC",
+    "player_name": "Shai Gilgeous-Alexander",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 2.8,
+      "AST": 3.3,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_goberru01_2019_UTA",
+    "player_name": "Rudy Gobert",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 12.9,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 2.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gordoaa01_2019_ORL",
+    "player_name": "Aaron Gordon",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 7.4,
+      "AST": 3.7,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gordoer01_2019_HOU",
+    "player_name": "Eric Gordon",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 2.2,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gortama01_2019_LAC",
+    "player_name": "Marcin Gortat",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 5.6,
+      "AST": 1.4,
+      "STL": 0.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grahade01_2019_CHO",
+    "player_name": "Devonte' Graham",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.4,
+      "AST": 2.6,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grahatr01_2019_BKN",
+    "player_name": "Treveon Graham",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grantje01_2019_OKC",
+    "player_name": "Jerami Grant",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 5.2,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grantje02_2019_ORL",
+    "player_name": "Jerian Grant",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.6,
+      "AST": 2.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenda02_2019_TOR",
+    "player_name": "Danny Green",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 4.0,
+      "AST": 1.6,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greendr01_2019_GSW",
+    "player_name": "Draymond Green",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 7.3,
+      "AST": 6.9,
+      "STL": 1.4,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenge01_2019_HOU",
+    "player_name": "Gerald Green",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 2.5,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenja01_2019_2TM",
+    "player_name": "JaMychal Green",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 6.3,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenja01_2019_MEM",
+    "player_name": "JaMychal Green",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 6.1,
+      "AST": 0.9,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenja01_2019_LAC",
+    "player_name": "JaMychal Green",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 6.5,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenje02_2019_WAS",
+    "player_name": "Jeff Green",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 4.0,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_griffbl01_2019_DET",
+    "player_name": "Blake Griffin",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 24.5,
+      "REB": 7.5,
+      "AST": 5.4,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hardati02_2019_2TM",
+    "player_name": "Tim Hardaway Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 3.4,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hardati02_2019_NYK",
+    "player_name": "Tim Hardaway Jr.",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 3.5,
+      "AST": 2.7,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hardeja01_2019_HOU",
+    "player_name": "James Harden",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 36.1,
+      "REB": 6.6,
+      "AST": 7.5,
+      "STL": 2.0,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harklma01_2019_POR",
+    "player_name": "Maurice Harkless",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.5,
+      "AST": 1.2,
+      "STL": 1.1,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harremo01_2019_LAC",
+    "player_name": "Montrezl Harrell",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 6.5,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harride01_2019_DAL",
+    "player_name": "Devin Harris",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 1.6,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harriga01_2019_DEN",
+    "player_name": "Gary Harris",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 2.8,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrijo01_2019_BKN",
+    "player_name": "Joe Harris",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 3.8,
+      "AST": 2.4,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrish01_2019_CHI",
+    "player_name": "Shaquille Harrison",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.0,
+      "AST": 1.9,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2019_2TM",
+    "player_name": "Tobias Harris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 7.9,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2019_LAC",
+    "player_name": "Tobias Harris",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 7.9,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2019_PHI",
+    "player_name": "Tobias Harris",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 7.9,
+      "AST": 2.9,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harteis01_2019_HOU",
+    "player_name": "Isaiah Hartenstein",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hartjo01_2019_LAL",
+    "player_name": "Josh Hart",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.7,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_haywago01_2019_BOS",
+    "player_name": "Gordon Hayward",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 4.5,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hernaju01_2019_DEN",
+    "player_name": "Juancho Hernang\u00f3mez",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.8,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hernawi01_2019_CHO",
+    "player_name": "Willy Hernang\u00f3mez",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 5.4,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hezonma01_2019_NYK",
+    "player_name": "Mario Hezonja",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 4.1,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hieldbu01_2019_SAC",
+    "player_name": "Buddy Hield",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 5.0,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hilarne01_2019_HOU",
+    "player_name": "Nen\u00ea",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillge01_2019_2TM",
+    "player_name": "George Hill",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 2.5,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillge01_2019_MIL",
+    "player_name": "George Hill",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 2.6,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillso01_2019_NOP",
+    "player_name": "Solomon Hill",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.0,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidaa01_2019_IND",
+    "player_name": "Aaron Holiday",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.3,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidjr01_2019_NOP",
+    "player_name": "Jrue Holiday",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 5.0,
+      "AST": 7.7,
+      "STL": 1.6,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidju01_2019_2TM",
+    "player_name": "Justin Holiday",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.9,
+      "AST": 1.8,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidju01_2019_CHI",
+    "player_name": "Justin Holiday",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 4.4,
+      "AST": 2.2,
+      "STL": 1.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidju01_2019_MEM",
+    "player_name": "Justin Holiday",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 3.5,
+      "AST": 1.4,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holliro01_2019_BKN",
+    "player_name": "Rondae Hollis-Jefferson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.3,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holmeri01_2019_PHX",
+    "player_name": "Richaun Holmes",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hoodro01_2019_2TM",
+    "player_name": "Rodney Hood",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 2.2,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hoodro01_2019_CLE",
+    "player_name": "Rodney Hood",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 2.5,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hoodro01_2019_POR",
+    "player_name": "Rodney Hood",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 1.7,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_horfoal01_2019_BOS",
+    "player_name": "Al Horford",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 6.7,
+      "AST": 4.2,
+      "STL": 0.9,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_houseda01_2019_HOU",
+    "player_name": "Danuel House Jr.",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.6,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_huertke01_2019_ATL",
+    "player_name": "Kevin Huerter",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 3.3,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hutchch01_2019_CHI",
+    "player_name": "Chandler Hutchison",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 4.2,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ibakase01_2019_TOR",
+    "player_name": "Serge Ibaka",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 8.1,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_iguodan01_2019_GSW",
+    "player_name": "Andre Iguodala",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.7,
+      "AST": 3.2,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ilyaser01_2019_MIL",
+    "player_name": "Ersan \u0130lyasova",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.5,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_inglejo01_2019_UTA",
+    "player_name": "Joe Ingles",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 4.0,
+      "AST": 5.7,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ingrabr01_2019_LAL",
+    "player_name": "Brandon Ingram",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 5.1,
+      "AST": 3.0,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_irvinky01_2019_BOS",
+    "player_name": "Kyrie Irving",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 23.8,
+      "REB": 5.0,
+      "AST": 6.9,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_isaacjo01_2019_ORL",
+    "player_name": "Jonathan Isaac",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 5.5,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_iwundwe01_2019_ORL",
+    "player_name": "Wes Iwundu",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.7,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksfr01_2019_NOP",
+    "player_name": "Frank Jackson",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 2.2,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksja02_2019_MEM",
+    "player_name": "Jaren Jackson Jr.",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 4.7,
+      "AST": 1.1,
+      "STL": 0.9,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksjo02_2019_PHX",
+    "player_name": "Josh Jackson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 4.4,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksju01_2019_2TM",
+    "player_name": "Justin Jackson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.6,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksju01_2019_SAC",
+    "player_name": "Justin Jackson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.8,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksju01_2019_DAL",
+    "player_name": "Justin Jackson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.3,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksre01_2019_DET",
+    "player_name": "Reggie Jackson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 2.6,
+      "AST": 4.2,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jamesle01_2019_LAL",
+    "player_name": "LeBron James",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PG-SG-SF-PF-C",
+    "stats": {
+      "PTS": 27.4,
+      "REB": 8.5,
+      "AST": 8.3,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkijo01_2019_2TM",
+    "player_name": "John Jenkins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.4,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkijo01_2019_NYK",
+    "player_name": "John Jenkins",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.6,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jerebjo01_2019_GSW",
+    "player_name": "Jonas Jerebko",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 3.9,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsam01_2019_PHI",
+    "player_name": "Amir Johnson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.9,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsja01_2019_MIA",
+    "player_name": "James Johnson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.2,
+      "AST": 2.5,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsst04_2019_2TM",
+    "player_name": "Stanley Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.3,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsst04_2019_DET",
+    "player_name": "Stanley Johnson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 3.6,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsty01_2019_2TM",
+    "player_name": "Tyler Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.0,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsty01_2019_MIA",
+    "player_name": "Tyler Johnson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 2.8,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnswe01_2019_2TM",
+    "player_name": "Wesley Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.9,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnswe01_2019_NOP",
+    "player_name": "Wesley Johnson",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jokicni01_2019_DEN",
+    "player_name": "Nikola Joki\u0107",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 10.8,
+      "AST": 7.3,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesda03_2019_GSW",
+    "player_name": "Damian Jones",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 3.1,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesde02_2019_MIA",
+    "player_name": "Derrick Jones Jr.",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 4.0,
+      "AST": 0.6,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesty01_2019_MIN",
+    "player_name": "Tyus Jones",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.0,
+      "AST": 4.8,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jordade01_2019_2TM",
+    "player_name": "DeAndre Jordan",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 13.1,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jordade01_2019_DAL",
+    "player_name": "DeAndre Jordan",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 13.7,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_josepco01_2019_IND",
+    "player_name": "Cory Joseph",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.4,
+      "AST": 3.9,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kaminfr01_2019_CHO",
+    "player_name": "Frank Kaminsky",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 3.5,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kanteen01_2019_2TM",
+    "player_name": "Enes Freedom",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 9.8,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kanteen01_2019_NYK",
+    "player_name": "Enes Freedom",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 10.5,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kanteen01_2019_POR",
+    "player_name": "Enes Freedom",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 8.6,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kennalu01_2019_DET",
+    "player_name": "Luke Kennard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.9,
+      "AST": 1.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kiddgmi01_2019_CHO",
+    "player_name": "Michael Kidd-Gilchrist",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 3.8,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_klebima01_2019_DAL",
+    "player_name": "Maxi Kleber",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.6,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_knighbr03_2019_2TM",
+    "player_name": "Brandon Knight",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.5,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_knighbr03_2019_CLE",
+    "player_name": "Brandon Knight",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 1.9,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_knoxke01_2019_NYK",
+    "player_name": "Kevin Knox",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 4.5,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_korkmfu01_2019_PHI",
+    "player_name": "Furkan Korkmaz",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 2.2,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kornelu01_2019_NYK",
+    "player_name": "Luke Kornet",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.9,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_korveky01_2019_2TM",
+    "player_name": "Kyle Korver",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.3,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_korveky01_2019_UTA",
+    "player_name": "Kyle Korver",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 2.5,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_koufoko01_2019_SAC",
+    "player_name": "Kosta Koufos",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 4.2,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kurucro01_2019_BKN",
+    "player_name": "Rodions Kurucs",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 3.9,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kuzmaky01_2019_LAL",
+    "player_name": "Kyle Kuzma",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 5.5,
+      "AST": 2.5,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_labissk01_2019_2TM",
+    "player_name": "Skal Labissi\u00e8re",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lambje01_2019_CHO",
+    "player_name": "Jeremy Lamb",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 5.5,
+      "AST": 2.2,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lavinza01_2019_CHI",
+    "player_name": "Zach LaVine",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 23.7,
+      "REB": 4.7,
+      "AST": 4.5,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_laymaja01_2019_POR",
+    "player_name": "Jake Layman",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leaftj01_2019_IND",
+    "player_name": "T.J. Leaf",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.2,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeco01_2019_2TM",
+    "player_name": "Courtney Lee",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.6,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeco01_2019_DAL",
+    "player_name": "Courtney Lee",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.2,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeda03_2019_GSW",
+    "player_name": "Damion Lee",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.0,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lenal01_2019_ATL",
+    "player_name": "Alex Len",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 5.5,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leonaka01_2019_TOR",
+    "player_name": "Kawhi Leonard",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 26.6,
+      "REB": 7.3,
+      "AST": 3.3,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leoname01_2019_POR",
+    "player_name": "Meyers Leonard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 3.8,
+      "AST": 1.2,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leuerjo01_2019_DET",
+    "player_name": "Jon Leuer",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.4,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leverca01_2019_BKN",
+    "player_name": "Caris LeVert",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 3.8,
+      "AST": 3.9,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lillada01_2019_POR",
+    "player_name": "Damian Lillard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 25.8,
+      "REB": 4.6,
+      "AST": 6.9,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_linje01_2019_2TM",
+    "player_name": "Jeremy Lin",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 2.4,
+      "AST": 3.1,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_linje01_2019_ATL",
+    "player_name": "Jeremy Lin",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.3,
+      "AST": 3.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_linje01_2019_TOR",
+    "player_name": "Jeremy Lin",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.6,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_livinsh01_2019_GSW",
+    "player_name": "Shaun Livingston",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.8,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_looneke01_2019_GSW",
+    "player_name": "Kevon Looney",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 5.2,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lopezbr01_2019_MIL",
+    "player_name": "Brook Lopez",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 4.9,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 2.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lopezro01_2019_CHI",
+    "player_name": "Robin Lopez",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 3.9,
+      "AST": 1.2,
+      "STL": 0.1,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_loveke01_2019_CLE",
+    "player_name": "Kevin Love",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 10.9,
+      "AST": 2.2,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lowryky01_2019_TOR",
+    "player_name": "Kyle Lowry",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 4.8,
+      "AST": 8.7,
+      "STL": 1.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_luwawti01_2019_2TM",
+    "player_name": "Timoth\u00e9 Luwawu-Cabarrot",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.9,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_luwawti01_2019_OKC",
+    "player_name": "Timoth\u00e9 Luwawu-Cabarrot",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 0.9,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_luwawti01_2019_CHI",
+    "player_name": "Timoth\u00e9 Luwawu-Cabarrot",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 2.7,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lydonty01_2019_DEN",
+    "player_name": "Tyler Lydon",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 0.9,
+      "REB": 0.7,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lylestr01_2019_DEN",
+    "player_name": "Trey Lyles",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 3.8,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2019_2TM",
+    "player_name": "Shelvin Mack",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.8,
+      "AST": 3.2,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2019_MEM",
+    "player_name": "Shelvin Mack",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.9,
+      "AST": 3.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mahinia01_2019_WAS",
+    "player_name": "Ian Mahinmi",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_makerth01_2019_2TM",
+    "player_name": "Thon Maker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.2,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_makerth01_2019_MIL",
+    "player_name": "Thon Maker",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_makerth01_2019_DET",
+    "player_name": "Thon Maker",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.7,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marjabo01_2019_2TM",
+    "player_name": "Boban Marjanovi\u0107",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 4.6,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marjabo01_2019_LAC",
+    "player_name": "Boban Marjanovi\u0107",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 4.2,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marjabo01_2019_PHI",
+    "player_name": "Boban Marjanovi\u0107",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 5.1,
+      "AST": 1.5,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_markkla01_2019_CHI",
+    "player_name": "Lauri Markkanen",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 9.0,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_martija01_2019_ORL",
+    "player_name": "Jarell Martin",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 1.7,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_masonfr01_2019_SAC",
+    "player_name": "Frank Mason III",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 1.1,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_matthwe02_2019_3TM",
+    "player_name": "Wesley Matthews",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 2.5,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_matthwe02_2019_DAL",
+    "player_name": "Wesley Matthews",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 2.3,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_matthwe02_2019_IND",
+    "player_name": "Wesley Matthews",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.8,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccawpa01_2019_2TM",
+    "player_name": "Patrick McCaw",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.7,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccawpa01_2019_TOR",
+    "player_name": "Patrick McCaw",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 1.7,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccolcj01_2019_POR",
+    "player_name": "CJ McCollum",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 4.0,
+      "AST": 3.0,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccontj01_2019_PHI",
+    "player_name": "T.J. McConnell",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.3,
+      "AST": 3.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcderdo01_2019_IND",
+    "player_name": "Doug McDermott",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.4,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcgeeja01_2019_LAL",
+    "player_name": "JaVale McGee",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 7.5,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 2.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcgruro01_2019_MIA",
+    "player_name": "Rodney McGruder",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 3.6,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mckinal01_2019_GSW",
+    "player_name": "Alfonzo McKinnie",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcraejo01_2019_WAS",
+    "player_name": "Jordan McRae",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.5,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mejrisa01_2019_DAL",
+    "player_name": "Salah Mejri",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 3.6,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_meltode01_2019_PHX",
+    "player_name": "De'Anthony Melton",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.7,
+      "AST": 3.2,
+      "STL": 1.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_metuch01_2019_SAS",
+    "player_name": "Chimezie Metu",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.2,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_middlkh01_2019_MIL",
+    "player_name": "Khris Middleton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 6.0,
+      "AST": 4.3,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_milescj01_2019_2TM",
+    "player_name": "C.J. Miles",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.8,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_milescj01_2019_TOR",
+    "player_name": "C.J. Miles",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.7,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_milleda01_2019_NOP",
+    "player_name": "Darius Miller",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 1.9,
+      "AST": 2.1,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millspa01_2019_DEN",
+    "player_name": "Paul Millsap",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 7.2,
+      "AST": 2.0,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millspa02_2019_SAS",
+    "player_name": "Patty Mills",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.2,
+      "AST": 3.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_miltosh01_2019_PHI",
+    "player_name": "Shake Milton",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mirotni01_2019_2TM",
+    "player_name": "Nikola Miroti\u0107",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 7.4,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mirotni01_2019_NOP",
+    "player_name": "Nikola Miroti\u0107",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 8.3,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mitchdo01_2019_UTA",
+    "player_name": "Donovan Mitchell",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 23.8,
+      "REB": 4.1,
+      "AST": 4.2,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_monkma01_2019_CHO",
+    "player_name": "Malik Monk",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 1.9,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_monrogr01_2019_3TM",
+    "player_name": "Greg Monroe",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 4.0,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_monrogr01_2019_TOR",
+    "player_name": "Greg Monroe",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.1,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mooreet01_2019_NOP",
+    "player_name": "E'Twaun Moore",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 2.4,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2019_2TM",
+    "player_name": "Markieff Morris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.6,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2019_WAS",
+    "player_name": "Markieff Morris",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 5.1,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2019_OKC",
+    "player_name": "Markieff Morris",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.8,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima03_2019_BOS",
+    "player_name": "Marcus Morris",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 6.1,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrimo01_2019_DEN",
+    "player_name": "Monte Morris",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 2.4,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_motlejo01_2019_LAC",
+    "player_name": "Johnathan Motley",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mudiaem01_2019_NYK",
+    "player_name": "Emmanuel Mudiay",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 3.3,
+      "AST": 3.9,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_murraja01_2019_DEN",
+    "player_name": "Jamal Murray",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 4.2,
+      "AST": 4.8,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_muscami01_2019_2TM",
+    "player_name": "Mike Muscala",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.8,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_muscami01_2019_PHI",
+    "player_name": "Mike Muscala",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 4.3,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mykhasv01_2019_2TM",
+    "player_name": "Svi Mykhailiuk",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 0.9,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mykhasv01_2019_LAL",
+    "player_name": "Svi Mykhailiuk",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 0.9,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_naderab01_2019_OKC",
+    "player_name": "Abdel Nader",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.9,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nancela02_2019_CLE",
+    "player_name": "Larry Nance Jr.",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 8.2,
+      "AST": 3.2,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_napiesh01_2019_BKN",
+    "player_name": "Shabazz Napier",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 1.8,
+      "AST": 2.6,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_netora01_2019_UTA",
+    "player_name": "Raul Neto",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.7,
+      "AST": 2.5,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_niangge01_2019_UTA",
+    "player_name": "Georges Niang",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.5,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_noahjo01_2019_MEM",
+    "player_name": "Joakim Noah",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 5.7,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_noelne01_2019_OKC",
+    "player_name": "Nerlens Noel",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 4.2,
+      "AST": 0.6,
+      "STL": 0.9,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nowitdi01_2019_DAL",
+    "player_name": "Dirk Nowitzki",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ntilila01_2019_NYK",
+    "player_name": "Frank Ntilikina",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.0,
+      "AST": 2.8,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nurkiju01_2019_POR",
+    "player_name": "Jusuf Nurki\u0107",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 10.4,
+      "AST": 3.2,
+      "STL": 1.0,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nwabada01_2019_CLE",
+    "player_name": "David Nwaba",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.2,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ojelese01_2019_BOS",
+    "player_name": "Semi Ojeleye",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_okafoja01_2019_NOP",
+    "player_name": "Jahlil Okafor",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.7,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_okoboel01_2019_PHX",
+    "player_name": "Elie Okobo",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.8,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_okogijo01_2019_MIN",
+    "player_name": "Josh Okogie",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.9,
+      "AST": 1.2,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oladivi01_2019_IND",
+    "player_name": "Victor Oladipo",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.8,
+      "REB": 5.6,
+      "AST": 5.2,
+      "STL": 1.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_olynyke01_2019_MIA",
+    "player_name": "Kelly Olynyk",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 4.7,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_onealro01_2019_UTA",
+    "player_name": "Royce O'Neale",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.5,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oquinky01_2019_IND",
+    "player_name": "Kyle O'Quinn",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.6,
+      "AST": 1.2,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_osmande01_2019_CLE",
+    "player_name": "Cedi Osman",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 4.7,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oubreke01_2019_2TM",
+    "player_name": "Kelly Oubre Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 4.7,
+      "AST": 1.2,
+      "STL": 1.2,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oubreke01_2019_WAS",
+    "player_name": "Kelly Oubre Jr.",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 4.4,
+      "AST": 0.7,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oubreke01_2019_PHX",
+    "player_name": "Kelly Oubre Jr.",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 4.9,
+      "AST": 1.6,
+      "STL": 1.4,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pachuza01_2019_DET",
+    "player_name": "Zaza Pachulia",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 3.9,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parkeja01_2019_2TM",
+    "player_name": "Jabari Parker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 6.6,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parkeja01_2019_CHI",
+    "player_name": "Jabari Parker",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 6.2,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parkeja01_2019_WAS",
+    "player_name": "Jabari Parker",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 7.2,
+      "AST": 2.7,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parketo01_2019_CHO",
+    "player_name": "Tony Parker",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 1.5,
+      "AST": 3.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parsoch01_2019_MEM",
+    "player_name": "Chandler Parsons",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.8,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pattepa01_2019_OKC",
+    "player_name": "Patrick Patterson",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_paulch01_2019_HOU",
+    "player_name": "Chris Paul",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 4.6,
+      "AST": 8.2,
+      "STL": 2.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_payneca01_2019_2TM",
+    "player_name": "Cameron Payne",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 1.8,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_payneca01_2019_CHI",
+    "player_name": "Cameron Payne",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.7,
+      "AST": 2.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_paytoel01_2019_NOP",
+    "player_name": "Elfrid Payton",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 5.2,
+      "AST": 7.6,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_plumlma01_2019_DEN",
+    "player_name": "Mason Plumlee",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 6.4,
+      "AST": 3.0,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_poeltja01_2019_SAS",
+    "player_name": "Jakob Poeltl",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 5.3,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pondequ01_2019_SAS",
+    "player_name": "Quincy Pondexter",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 0.9,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_porteot01_2019_2TM",
+    "player_name": "Otto Porter Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 5.6,
+      "AST": 2.1,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_porteot01_2019_WAS",
+    "player_name": "Otto Porter Jr.",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 5.6,
+      "AST": 2.0,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_portibo01_2019_2TM",
+    "player_name": "Bobby Portis",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 8.1,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_portibo01_2019_CHI",
+    "player_name": "Bobby Portis",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 7.3,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_portibo01_2019_WAS",
+    "player_name": "Bobby Portis",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 8.6,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_poweldw01_2019_DAL",
+    "player_name": "Dwight Powell",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 5.3,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_powelno01_2019_TOR",
+    "player_name": "Norman Powell",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.3,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_poythal01_2019_ATL",
+    "player_name": "Alex Poythress",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.6,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_princta02_2019_ATL",
+    "player_name": "Taurean Prince",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 3.6,
+      "AST": 2.1,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rabbiv01_2019_MEM",
+    "player_name": "Ivan Rabb",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.2,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_randlch01_2019_WAS",
+    "player_name": "Chasson Randle",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.1,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_randlju01_2019_NOP",
+    "player_name": "Julius Randle",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 8.7,
+      "AST": 3.1,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_redicjj01_2019_PHI",
+    "player_name": "JJ Redick",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 2.4,
+      "AST": 2.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_richajo01_2019_MIA",
+    "player_name": "Josh Richardson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.6,
+      "AST": 4.1,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_richama01_2019_TOR",
+    "player_name": "Malachi Richardson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 0.6,
+      "AST": 0.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_riverau01_2019_2TM",
+    "player_name": "Austin Rivers",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 2.1,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_riverau01_2019_WAS",
+    "player_name": "Austin Rivers",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.4,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_riverau01_2019_HOU",
+    "player_name": "Austin Rivers",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 1.9,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robingl02_2019_DET",
+    "player_name": "Glenn Robinson III",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robinje01_2019_LAC",
+    "player_name": "Jerome Robinson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.2,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robinmi01_2019_NYK",
+    "player_name": "Mitchell Robinson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 6.4,
+      "AST": 0.6,
+      "STL": 0.8,
+      "BLK": 2.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rondora01_2019_LAL",
+    "player_name": "Rajon Rondo",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 5.3,
+      "AST": 8.0,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rosede01_2019_MIN",
+    "player_name": "Derrick Rose",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 2.7,
+      "AST": 4.3,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rosste01_2019_ORL",
+    "player_name": "Terrence Ross",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 3.5,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roziete01_2019_BOS",
+    "player_name": "Terry Rozier",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 3.9,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rubiori01_2019_UTA",
+    "player_name": "Ricky Rubio",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 3.6,
+      "AST": 6.1,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_russeda01_2019_BKN",
+    "player_name": "D'Angelo Russell",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 21.1,
+      "REB": 3.9,
+      "AST": 7.0,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sabondo01_2019_IND",
+    "player_name": "Domantas Sabonis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 9.3,
+      "AST": 2.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_saricda01_2019_2TM",
+    "player_name": "Dario \u0160ari\u0107",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 5.6,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_saricda01_2019_MIN",
+    "player_name": "Dario \u0160ari\u0107",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 5.5,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_satorto01_2019_WAS",
+    "player_name": "Tom\u00e1\u0161 Satoransk\u00fd",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 3.5,
+      "AST": 5.0,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_schrode01_2019_OKC",
+    "player_name": "Dennis Schr\u00f6der",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 3.6,
+      "AST": 4.1,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scottmi01_2019_2TM",
+    "player_name": "Mike Scott",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scottmi01_2019_LAC",
+    "player_name": "Mike Scott",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scottmi01_2019_PHI",
+    "player_name": "Mike Scott",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.8,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sefolth01_2019_UTA",
+    "player_name": "Thabo Sefolosha",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.5,
+      "AST": 0.5,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_seldewa01_2019_2TM",
+    "player_name": "Wayne Selden",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.4,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_seldewa01_2019_MEM",
+    "player_name": "Wayne Selden",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.4,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_seldewa01_2019_CHI",
+    "player_name": "Wayne Selden",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 3.2,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sextoco01_2019_CLE",
+    "player_name": "Collin Sexton",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 2.9,
+      "AST": 3.0,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shamela01_2019_2TM",
+    "player_name": "Landry Shamet",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 1.7,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shamela01_2019_PHI",
+    "player_name": "Landry Shamet",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.4,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shamela01_2019_LAC",
+    "player_name": "Landry Shamet",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.2,
+      "AST": 2.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shumpim01_2019_2TM",
+    "player_name": "Iman Shumpert",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 3.0,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shumpim01_2019_SAC",
+    "player_name": "Iman Shumpert",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 3.1,
+      "AST": 2.2,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shumpim01_2019_HOU",
+    "player_name": "Iman Shumpert",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.7,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_siakapa01_2019_TOR",
+    "player_name": "Pascal Siakam",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 6.9,
+      "AST": 3.1,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_simmobe01_2019_PHI",
+    "player_name": "Ben Simmons",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 8.8,
+      "AST": 7.7,
+      "STL": 1.4,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_simmojo02_2019_2TM",
+    "player_name": "Jonathon Simmons",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.3,
+      "AST": 2.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_simmojo02_2019_ORL",
+    "player_name": "Jonathon Simmons",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.4,
+      "AST": 2.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_simonan01_2019_POR",
+    "player_name": "Anfernee Simons",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 0.7,
+      "AST": 0.7,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smartma01_2019_BOS",
+    "player_name": "Marcus Smart",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.9,
+      "AST": 4.0,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithde03_2019_2TM",
+    "player_name": "Dennis Smith Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 2.9,
+      "AST": 4.8,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithde03_2019_DAL",
+    "player_name": "Dennis Smith Jr.",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 3.0,
+      "AST": 4.3,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithde03_2019_NYK",
+    "player_name": "Dennis Smith Jr.",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 2.8,
+      "AST": 5.4,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithis01_2019_DET",
+    "player_name": "Ish Smith",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.6,
+      "AST": 3.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithja02_2019_3TM",
+    "player_name": "Jason Smith",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.6,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_snellto01_2019_MIL",
+    "player_name": "Tony Snell",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.1,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_spellom01_2019_ATL",
+    "player_name": "Omari Spellman",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 4.2,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stausni01_2019_2TM",
+    "player_name": "Nik Stauskas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.9,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stausni01_2019_POR",
+    "player_name": "Nik Stauskas",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.8,
+      "AST": 1.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stausni01_2019_CLE",
+    "player_name": "Nik Stauskas",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.0,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stephla01_2019_LAL",
+    "player_name": "Lance Stephenson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.2,
+      "AST": 2.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sumneed01_2019_IND",
+    "player_name": "Edmond Sumner",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.0,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_swanica01_2019_2TM",
+    "player_name": "Caleb Swanigan",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 3.0,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tatumja01_2019_BOS",
+    "player_name": "Jayson Tatum",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 6.0,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_teaguje01_2019_MIN",
+    "player_name": "Jeff Teague",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 2.5,
+      "AST": 8.2,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_templga01_2019_2TM",
+    "player_name": "Garrett Temple",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.9,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_templga01_2019_MEM",
+    "player_name": "Garrett Temple",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.1,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_templga01_2019_LAC",
+    "player_name": "Garrett Temple",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.5,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_theisda01_2019_BOS",
+    "player_name": "Daniel Theis",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.4,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomakh01_2019_DET",
+    "player_name": "Khyri Thomas",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 0.8,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomala01_2019_NYK",
+    "player_name": "Lance Thomas",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.5,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompkl01_2019_GSW",
+    "player_name": "Klay Thompson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 3.8,
+      "AST": 2.4,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomptr01_2019_CLE",
+    "player_name": "Tristan Thompson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 10.2,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thornsi01_2019_LAC",
+    "player_name": "Sindarius Thornwell",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.0,
+      "REB": 0.7,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tollian01_2019_MIN",
+    "player_name": "Anthony Tolliver",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.7,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_townska01_2019_MIN",
+    "player_name": "Karl-Anthony Towns",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 24.4,
+      "REB": 12.4,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_trieral01_2019_NYK",
+    "player_name": "Allonzo Trier",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.1,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tuckepj01_2019_HOU",
+    "player_name": "P.J. Tucker",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 5.8,
+      "AST": 1.2,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_turneev01_2019_POR",
+    "player_name": "Evan Turner",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.5,
+      "AST": 3.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_turnemy01_2019_IND",
+    "player_name": "Myles Turner",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 7.2,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 2.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udohek01_2019_UTA",
+    "player_name": "Ekpe Udoh",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.8,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_valanjo01_2019_2TM",
+    "player_name": "Jonas Valan\u010di\u016bnas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 8.6,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_valanjo01_2019_TOR",
+    "player_name": "Jonas Valan\u010di\u016bnas",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 7.2,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vanvlfr01_2019_TOR",
+    "player_name": "Fred VanVleet",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 2.6,
+      "AST": 4.8,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vonleno01_2019_NYK",
+    "player_name": "Noah Vonleh",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 7.8,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vucevni01_2019_ORL",
+    "player_name": "Nikola Vu\u010devi\u0107",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 12.0,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wadedw01_2019_MIA",
+    "player_name": "Dwyane Wade",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 4.0,
+      "AST": 4.2,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wagnemo01_2019_LAL",
+    "player_name": "Moritz Wagner",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.0,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_waitedi01_2019_MIA",
+    "player_name": "Dion Waiters",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 2.6,
+      "AST": 2.8,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_walkeke02_2019_CHO",
+    "player_name": "Kemba Walker",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 25.6,
+      "REB": 4.4,
+      "AST": 5.9,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wallaty01_2019_LAC",
+    "player_name": "Tyrone Wallace",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.6,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_walljo01_2019_WAS",
+    "player_name": "John Wall",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 3.6,
+      "AST": 8.7,
+      "STL": 1.5,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wanambr01_2019_BOS",
+    "player_name": "Brad Wanamaker",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.1,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_warretj01_2019_PHX",
+    "player_name": "T.J. Warren",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 4.0,
+      "AST": 1.5,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_westbru01_2019_OKC",
+    "player_name": "Russell Westbrook",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 11.1,
+      "AST": 10.7,
+      "STL": 1.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_whitede01_2019_SAS",
+    "player_name": "Derrick White",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 3.7,
+      "AST": 3.9,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_whiteha01_2019_MIA",
+    "player_name": "Hassan Whiteside",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 11.3,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 1.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wiggian01_2019_MIN",
+    "player_name": "Andrew Wiggins",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 4.8,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willijo04_2019_LAL",
+    "player_name": "Johnathan Williams",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 4.1,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willike04_2019_NOP",
+    "player_name": "Kenrich Williams",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 4.8,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willilo02_2019_LAC",
+    "player_name": "Lou Williams",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 3.0,
+      "AST": 5.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willima02_2019_CHO",
+    "player_name": "Marvin Williams",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 5.4,
+      "AST": 1.2,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_williro04_2019_BOS",
+    "player_name": "Robert Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.5,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willitr02_2019_SAC",
+    "player_name": "Troy Williams",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2019,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.8,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wilsodj01_2019_MIL",
+    "player_name": "D.J. Wilson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.6,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_winslju01_2019_MIA",
+    "player_name": "Justise Winslow",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2019,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 5.4,
+      "AST": 4.3,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_woodch01_2019_2TM",
+    "player_name": "Christian Wood",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.0,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wrighde01_2019_2TM",
+    "player_name": "Delon Wright",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 3.5,
+      "AST": 3.3,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wrighde01_2019_TOR",
+    "player_name": "Delon Wright",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.6,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wrighde01_2019_MEM",
+    "player_name": "Delon Wright",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 5.4,
+      "AST": 5.3,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_yabusgu01_2019_BOS",
+    "player_name": "Guerschon Yabusele",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.3,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngth01_2019_IND",
+    "player_name": "Thaddeus Young",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2019,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 6.5,
+      "AST": 2.5,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngtr01_2019_ATL",
+    "player_name": "Trae Young",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2019,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 3.7,
+      "AST": 8.1,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zelleco01_2019_CHO",
+    "player_name": "Cody Zeller",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 6.8,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zizican01_2019_CLE",
+    "player_name": "Ante \u017di\u017ei\u0107",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 5.4,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zubaciv01_2019_2TM",
+    "player_name": "Ivica Zubac",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 6.1,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zubaciv01_2019_LAL",
+    "player_name": "Ivica Zubac",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 4.9,
+      "AST": 0.8,
+      "STL": 0.1,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zubaciv01_2019_LAC",
+    "player_name": "Ivica Zubac",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2019,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 7.7,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  }
+]

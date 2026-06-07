@@ -1,0 +1,34 @@
+sport: mlb
+name: MLB Battery
+slug: mlb_battery
+description: Five hitters and two pitchers across eras.
+max_games: 162
+balance_penalty: 0.12
+stat_weights:
+  AVG: 2.0
+  HR: 0.35
+  RBI: 0.08
+  SB: 0.2
+  OPS: 1.2
+  ERA: 0.25
+  WHIP: 0.8
+  K: 0.04
+  W: 0.25
+position_weights: {}
+grade_thresholds:
+  S+: 12.0
+  A+: 11.5
+  A: 10.8
+  B: 10.0
+  C: 9.0
+  D: 8.0
+rating_baseline: 9.4
+win_rating_slope: 0.45
+slots:
+  - {slot_id: h1, label: Hitter 1, position: H, side: batting, weight: 1.0}
+  - {slot_id: h2, label: Hitter 2, position: H, side: batting, weight: 1.0}
+  - {slot_id: h3, label: Hitter 3, position: H, side: batting, weight: 1.0}
+  - {slot_id: h4, label: Hitter 4, position: H, side: batting, weight: 1.0}
+  - {slot_id: h5, label: Hitter 5, position: H, side: batting, weight: 1.0}
+  - {slot_id: sp, label: SP, position: P, side: pitching, weight: 1.1}
+  - {slot_id: rp, label: RP, position: P, side: pitching, weight: 1.0}

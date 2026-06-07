@@ -1,0 +1,11 @@
+streamlit>=1.36.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyyaml>=6.0
+nba_api>=1.4.1
+nflreadpy>=0.1.0
+pybaseball>=2.2.7
+requests>=2.31.0
+lxml>=5.0.0
+html5lib>=1.1
+pytest>=8.0.0

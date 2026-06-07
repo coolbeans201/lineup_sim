@@ -1,0 +1,43 @@
+sport: nba
+name: NBA All-Eras
+slug: nba_all_eras
+description: Five starters (PG–C). Assign each pick to an open slot they qualify for; multi-position players can fill any matching slot.
+max_games: 82
+balance_penalty: 0.15
+stat_weights:
+  PTS: 1.0
+  REB: 0.9
+  AST: 0.85
+  STL: 0.75
+  BLK: 0.75
+position_weights: {}
+grade_thresholds:
+  S+: 11.0
+  A+: 9.0
+  A: 7.0
+  B: 5.0
+  C: 4.0
+  D: 2.5
+rating_baseline: 3.1
+win_rating_slope: 0.30
+slots:
+  - slot_id: pg
+    label: Point Guard
+    position: PG
+    weight: 1.0
+  - slot_id: sg
+    label: Shooting Guard
+    position: SG
+    weight: 1.0
+  - slot_id: sf
+    label: Small Forward
+    position: SF
+    weight: 1.0
+  - slot_id: pf
+    label: Power Forward
+    position: PF
+    weight: 1.0
+  - slot_id: c
+    label: Center
+    position: C
+    weight: 1.0

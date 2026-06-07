@@ -1,0 +1,6717 @@
+[
+  {
+    "player_id": "bref_abdursh01_2003_ATL",
+    "player_name": "Shareef Abdur-Rahim",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 19.9,
+      "REB": 8.4,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_alexaco02_2003_NOP",
+    "player_name": "Courtney Alexander",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.8,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_allenma01_2003_MIA",
+    "player_name": "Malik Allen",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 5.3,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_allenra02_2003_2TM",
+    "player_name": "Ray Allen",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 22.5,
+      "REB": 5.0,
+      "AST": 4.4,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_allenra02_2003_MIL",
+    "player_name": "Ray Allen",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 4.6,
+      "AST": 3.5,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_allenra02_2003_OKC",
+    "player_name": "Ray Allen",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 24.5,
+      "REB": 5.6,
+      "AST": 5.9,
+      "STL": 1.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_alstora01_2003_TOR",
+    "player_name": "Rafer Alston",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.3,
+      "AST": 4.1,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_amaecjo01_2003_UTA",
+    "player_name": "John Amaechi",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_anderch01_2003_DEN",
+    "player_name": "Chris Andersen",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 4.6,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_anderde01_2003_POR",
+    "player_name": "Derek Anderson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 3.5,
+      "AST": 4.3,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_anderke01_2003_2TM",
+    "player_name": "Kenny Anderson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.2,
+      "AST": 3.2,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_anderke01_2003_OKC",
+    "player_name": "Kenny Anderson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.3,
+      "AST": 3.2,
+      "STL": 1.1,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_anderke01_2003_NOP",
+    "player_name": "Kenny Anderson",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.0,
+      "AST": 3.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_andersh01_2003_NYK",
+    "player_name": "Shandon Anderson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 3.1,
+      "AST": 1.1,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_arenagi01_2003_GSW",
+    "player_name": "Gilbert Arenas",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 4.7,
+      "AST": 6.3,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_armstda01_2003_ORL",
+    "player_name": "Darrell Armstrong",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.6,
+      "AST": 3.9,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_arroyca01_2003_UTA",
+    "player_name": "Carlos Arroyo",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.6,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_artesro01_2003_IND",
+    "player_name": "Metta World Peace",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 5.2,
+      "AST": 2.9,
+      "STL": 2.3,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_atkinch01_2003_DET",
+    "player_name": "Chucky Atkins",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.5,
+      "AST": 2.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_augmost01_2003_NOP",
+    "player_name": "Stacey Augmon",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.7,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bakervi01_2003_BOS",
+    "player_name": "Vin Baker",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.8,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_barrybr01_2003_OKC",
+    "player_name": "Brent Barry",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 4.0,
+      "AST": 5.1,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_barryjo01_2003_DET",
+    "player_name": "Jon Barry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.3,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_batismi01_2003_MEM",
+    "player_name": "Mike Batiste",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 3.4,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_battish01_2003_MEM",
+    "player_name": "Shane Battier",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 4.4,
+      "AST": 1.3,
+      "STL": 1.3,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_battito01_2003_BOS",
+    "player_name": "Tony Battie",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 6.5,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 1.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_baxtelo01_2003_CHI",
+    "player_name": "Lonny Baxter",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.0,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bellra01_2003_DAL",
+    "player_name": "Raja Bell",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.9,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bendejo01_2003_IND",
+    "player_name": "Jonathan Bender",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.9,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 1.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_besttr01_2003_MIA",
+    "player_name": "Travis Best",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 2.0,
+      "AST": 3.5,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bibbymi01_2003_SAC",
+    "player_name": "Mike Bibby",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 2.7,
+      "AST": 5.2,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_billuch01_2003_DET",
+    "player_name": "Chauncey Billups",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 3.7,
+      "AST": 3.9,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_blounco01_2003_CHI",
+    "player_name": "Corie Blount",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 4.1,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_blounma01_2003_2TM",
+    "player_name": "Mark Blount",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_blounma01_2003_DEN",
+    "player_name": "Mark Blount",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_blounma01_2003_BOS",
+    "player_name": "Mark Blount",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.6,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_boothca01_2003_OKC",
+    "player_name": "Calvin Booth",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.3,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_boozeca01_2003_CLE",
+    "player_name": "Carlos Boozer",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 7.5,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bowenbr01_2003_SAS",
+    "player_name": "Bruce Bowen",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 2.9,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bowenry01_2003_DEN",
+    "player_name": "Ryan Bowen",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.5,
+      "AST": 0.9,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_boykiea01_2003_GSW",
+    "player_name": "Earl Boykins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 1.3,
+      "AST": 3.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bradlmi01_2003_TOR",
+    "player_name": "Michael Bradley",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 6.1,
+      "AST": 1.0,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bradlsh01_2003_DAL",
+    "player_name": "Shawn Bradley",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 5.9,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 2.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_brandel01_2003_LAC",
+    "player_name": "Elton Brand",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 11.3,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 2.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bremejr01_2003_BOS",
+    "player_name": "J.R. Bremer",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 2.3,
+      "AST": 2.6,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_brezepr01_2003_IND",
+    "player_name": "Primo\u017e Brezec",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.0,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_brownke01_2003_BOS",
+    "player_name": "Kedrick Brown",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.7,
+      "AST": 0.4,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_brownkw01_2003_WAS",
+    "player_name": "Kwame Brown",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 5.3,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_brownpj01_2003_NOP",
+    "player_name": "P.J. Brown",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 9.0,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_brownra02_2003_PHX",
+    "player_name": "Randy Brown",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 0.8,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_bryanko01_2003_LAL",
+    "player_name": "Kobe Bryant",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 30.0,
+      "REB": 6.9,
+      "AST": 5.9,
+      "STL": 2.2,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_buckngr01_2003_PHI",
+    "player_name": "Greg Buckner",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.9,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_burkepa01_2003_ORL",
+    "player_name": "Pat Burke",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_butleca01_2003_MIA",
+    "player_name": "Caron Butler",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 5.1,
+      "AST": 2.7,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_butlera01_2003_MIA",
+    "player_name": "Rasual Butler",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.6,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_caffeja01_2003_MIL",
+    "player_name": "Jason Caffey",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.5,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_cambyma01_2003_DEN",
+    "player_name": "Marcus Camby",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 7.2,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 1.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_campbel01_2003_2TM",
+    "player_name": "Elden Campbell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.2,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_campbel01_2003_NOP",
+    "player_name": "Elden Campbell",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.5,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_cartean01_2003_MIA",
+    "player_name": "Anthony Carter",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.7,
+      "AST": 4.1,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_cartevi01_2003_TOR",
+    "player_name": "Vince Carter",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 4.4,
+      "AST": 3.3,
+      "STL": 1.1,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_cassesa01_2003_MIL",
+    "player_name": "Sam Cassell",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 4.4,
+      "AST": 5.8,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_catoke01_2003_HOU",
+    "player_name": "Kelvin Cato",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 5.9,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 1.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_chandty01_2003_CHI",
+    "player_name": "Tyson Chandler",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 6.9,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 1.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_cheanca01_2003_UTA",
+    "player_name": "Calbert Cheaney",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 3.5,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_chrisdo01_2003_SAC",
+    "player_name": "Doug Christie",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.3,
+      "AST": 4.7,
+      "STL": 2.3,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_clarkke01_2003_SAC",
+    "player_name": "Keon Clark",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 5.6,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 1.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_claxtsp01_2003_SAS",
+    "player_name": "Speedy Claxton",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 1.9,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_colemde01_2003_PHI",
+    "player_name": "Derrick Coleman",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 7.0,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_colesbi01_2003_2TM",
+    "player_name": "Bimbo Coles",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.7,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_colesbi01_2003_CLE",
+    "player_name": "Bimbo Coles",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.3,
+      "AST": 2.7,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_collija03_2003_UTA",
+    "player_name": "Jarron Collins",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.7,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_collija04_2003_BKN",
+    "player_name": "Jason Collins",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 4.5,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_crawfja01_2003_CHI",
+    "player_name": "Jamal Crawford",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.3,
+      "AST": 4.2,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_croshau01_2003_IND",
+    "player_name": "Austin Croshere",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.2,
+      "AST": 1.1,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_curryed01_2003_CHI",
+    "player_name": "Eddy Curry",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 4.4,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_currymi01_2003_DET",
+    "player_name": "Michael Curry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.6,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_dampier01_2003_GSW",
+    "player_name": "Erick Dampier",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 6.6,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 1.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_daniean01_2003_POR",
+    "player_name": "Antonio Daniels",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.1,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_davisan01_2003_TOR",
+    "player_name": "Antonio Davis",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 8.2,
+      "AST": 2.5,
+      "STL": 0.4,
+      "BLK": 1.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_davisba01_2003_NOP",
+    "player_name": "Baron Davis",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 3.7,
+      "AST": 6.4,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_davisda01_2003_POR",
+    "player_name": "Dale Davis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 7.2,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_davisem01_2003_ATL",
+    "player_name": "Emanual Davis",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.8,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_davishu01_2003_DET",
+    "player_name": "Hubert Davis",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 0.8,
+      "AST": 0.7,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_davisri01_2003_CLE",
+    "player_name": "Ricky Davis",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 4.9,
+      "AST": 5.5,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_declean01_2003_ORL",
+    "player_name": "Andrew DeClercq",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 4.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_delkto01_2003_BOS",
+    "player_name": "Tony Delk",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 3.5,
+      "AST": 2.2,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_dickada01_2003_ATL",
+    "player_name": "Dan Dickau",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 0.9,
+      "AST": 1.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_diopde01_2003_CLE",
+    "player_name": "DeSagana Diop",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_divacvl01_2003_SAC",
+    "player_name": "Vlade Divac",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 7.2,
+      "AST": 3.4,
+      "STL": 1.0,
+      "BLK": 1.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_dixonju01_2003_WAS",
+    "player_name": "Juan Dixon",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.7,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_doleami01_2003_NYK",
+    "player_name": "Michael Doleac",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_doolike01_2003_LAC",
+    "player_name": "Keyon Dooling",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.3,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_drobnpr01_2003_OKC",
+    "player_name": "Predrag Drobnjak",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.9,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_duncati01_2003_SAS",
+    "player_name": "Tim Duncan",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 23.3,
+      "REB": 12.9,
+      "AST": 3.9,
+      "STL": 0.7,
+      "BLK": 2.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_dunlemi02_2003_GSW",
+    "player_name": "Mike Dunleavy",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.6,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_eisleho01_2003_NYK",
+    "player_name": "Howard Eisley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 2.3,
+      "AST": 5.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ellisla01_2003_MIA",
+    "player_name": "LaPhonso Ellis",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.9,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_elyme01_2003_LAC",
+    "player_name": "Melvin Ely",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 3.3,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_evansre01_2003_OKC",
+    "player_name": "Reggie Evans",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 6.6,
+      "AST": 0.5,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ferryda01_2003_SAS",
+    "player_name": "Danny Ferry",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.2,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_finlemi01_2003_DAL",
+    "player_name": "Michael Finley",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 5.8,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_fishede01_2003_LAL",
+    "player_name": "Derek Fisher",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 2.9,
+      "AST": 3.6,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_fizerma01_2003_CHI",
+    "player_name": "Marcus Fizer",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 5.7,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_fostegr01_2003_TOR",
+    "player_name": "Greg Foster",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.5,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_fosteje01_2003_IND",
+    "player_name": "Jeff Foster",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 3.6,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_fowlktr01_2003_LAC",
+    "player_name": "Tremaine Fowlkes",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.8,
+      "AST": 0.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_foxri01_2003_LAL",
+    "player_name": "Rick Fox",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 4.3,
+      "AST": 3.3,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_foylead01_2003_GSW",
+    "player_name": "Adonal Foyle",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 6.0,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 2.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_francst01_2003_HOU",
+    "player_name": "Steve Francis",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 6.2,
+      "AST": 6.2,
+      "STL": 1.7,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_fundela01_2003_SAC",
+    "player_name": "Lawrence Funderburke",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 2.0,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_gadzuda01_2003_MIL",
+    "player_name": "Dan Gadzuric",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 4.0,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_garneke01_2003_MIN",
+    "player_name": "Kevin Garnett",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 23.0,
+      "REB": 13.4,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 1.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_garripa01_2003_ORL",
+    "player_name": "Pat Garrity",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 3.8,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_gasolpa01_2003_MEM",
+    "player_name": "Pau Gasol",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 8.8,
+      "AST": 2.8,
+      "STL": 0.4,
+      "BLK": 1.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_georgde01_2003_LAL",
+    "player_name": "Devean George",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.0,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_gillke01_2003_MIN",
+    "player_name": "Kendall Gill",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 3.0,
+      "AST": 1.9,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ginobma01_2003_SAS",
+    "player_name": "Manu Gin\u00f3bili",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 2.3,
+      "AST": 2.0,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_giricgo01_2003_2TM",
+    "player_name": "Gordan Giri\u010dek",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 3.1,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_giricgo01_2003_MEM",
+    "player_name": "Gordan Giri\u010dek",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 2.2,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_giricgo01_2003_ORL",
+    "player_name": "Gordan Giri\u010dek",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 4.8,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_glovedi01_2003_ATL",
+    "player_name": "Dion Glover",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 3.7,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_goodedr01_2003_2TM",
+    "player_name": "Drew Gooden",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 6.5,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_goodedr01_2003_MEM",
+    "player_name": "Drew Gooden",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 5.8,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_grantbr01_2003_MIA",
+    "player_name": "Brian Grant",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 10.2,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_griffad01_2003_DAL",
+    "player_name": "Adrian Griffin",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 3.6,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_griffed01_2003_HOU",
+    "player_name": "Eddie Griffin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 6.0,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 1.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_guglito01_2003_PHX",
+    "player_name": "Tom Gugliotta",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.7,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_haislma01_2003_MIL",
+    "player_name": "Marcus Haislip",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.4,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hamda01_2003_ATL",
+    "player_name": "Darvin Ham",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hamilri01_2003_DET",
+    "player_name": "Richard Hamilton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 3.9,
+      "AST": 2.5,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hardaan01_2003_PHX",
+    "player_name": "Anfernee Hardaway",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 4.4,
+      "AST": 4.1,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_harprma01_2003_UTA",
+    "player_name": "Matt Harpring",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 6.6,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_harrial01_2003_IND",
+    "player_name": "Al Harrington",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 6.2,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_harriju01_2003_DEN",
+    "player_name": "Junior Harrington",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.0,
+      "AST": 3.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_harrilu01_2003_BKN",
+    "player_name": "Lucious Harris",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 3.0,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_harriot01_2003_NYK",
+    "player_name": "Othella Harrington",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 6.4,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_harvedo01_2003_DEN",
+    "player_name": "Donnell Harvey",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 5.3,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hassetr01_2003_CHI",
+    "player_name": "Trenton Hassell",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.1,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hawkiju01_2003_HOU",
+    "player_name": "Juaquin Hawkins",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.3,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_haywobr01_2003_WAS",
+    "player_name": "Brendan Haywood",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 5.0,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 1.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hendeal01_2003_ATL",
+    "player_name": "Alan Henderson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.9,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hilarne01_2003_DEN",
+    "player_name": "Nen\u00ea",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 6.1,
+      "AST": 1.9,
+      "STL": 1.6,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hillgr01_2003_ORL",
+    "player_name": "Grant Hill",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 7.1,
+      "AST": 4.2,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hillty01_2003_2TM",
+    "player_name": "Tyrone Hill",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 7.0,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hillty01_2003_CLE",
+    "player_name": "Tyrone Hill",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 8.3,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hillty01_2003_PHI",
+    "player_name": "Tyrone Hill",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 5.2,
+      "AST": 0.4,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hoibefr01_2003_CHI",
+    "player_name": "Fred Hoiberg",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 2.2,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_horryro01_2003_LAL",
+    "player_name": "Robert Horry",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 6.4,
+      "AST": 2.9,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_houseed01_2003_MIA",
+    "player_name": "Eddie House",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.8,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_houstal01_2003_NYK",
+    "player_name": "Allan Houston",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 22.5,
+      "REB": 2.8,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_howarju01_2003_DEN",
+    "player_name": "Juwan Howard",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 18.4,
+      "REB": 7.6,
+      "AST": 3.0,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hudsotr01_2003_MIN",
+    "player_name": "Troy Hudson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 2.3,
+      "AST": 5.7,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hughela01_2003_WAS",
+    "player_name": "Larry Hughes",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 4.6,
+      "AST": 3.1,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_humphry01_2003_2TM",
+    "player_name": "Ryan Humphrey",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 2.1,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_humphry01_2003_ORL",
+    "player_name": "Ryan Humphrey",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 2.0,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_hunteli01_2003_TOR",
+    "player_name": "Lindsey Hunter",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.0,
+      "AST": 2.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_huntest01_2003_ORL",
+    "player_name": "Steven Hunter",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.8,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ilgauzy01_2003_CLE",
+    "player_name": "Zydrunas Ilgauskas",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 7.5,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 1.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_iversal01_2003_PHI",
+    "player_name": "Allen Iverson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 27.6,
+      "REB": 4.2,
+      "AST": 5.5,
+      "STL": 2.7,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksbo01_2003_SAC",
+    "player_name": "Bobby Jackson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 3.7,
+      "AST": 3.1,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksje01_2003_2TM",
+    "player_name": "Jermaine Jackson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.1,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksje01_2003_TOR",
+    "player_name": "Jermaine Jackson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.0,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksje01_2003_ATL",
+    "player_name": "Jermaine Jackson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.1,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksji01_2003_SAC",
+    "player_name": "Jim Jackson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.2,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksma01_2003_UTA",
+    "player_name": "Mark Jackson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.1,
+      "AST": 4.6,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksma02_2003_MIN",
+    "player_name": "Marc Jackson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.9,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacksst02_2003_SAS",
+    "player_name": "Stephen Jackson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 3.6,
+      "AST": 2.3,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jacobca01_2003_PHX",
+    "player_name": "Casey Jacobsen",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 1.2,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jamesje01_2003_OKC",
+    "player_name": "Jerome James",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 4.2,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 1.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jamesmi01_2003_MIA",
+    "player_name": "Mike James",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 1.9,
+      "AST": 3.2,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jamisan01_2003_GSW",
+    "player_name": "Antawn Jamison",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 22.2,
+      "REB": 7.0,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jaricma01_2003_LAC",
+    "player_name": "Marko Jari\u0107",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.4,
+      "AST": 2.9,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jeffech01_2003_TOR",
+    "player_name": "Chris Jefferies",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.2,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jefferi01_2003_BKN",
+    "player_name": "Richard Jefferson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 6.4,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jeffrja01_2003_WAS",
+    "player_name": "Jared Jeffries",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.9,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_johnsan02_2003_BKN",
+    "player_name": "Anthony Johnson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.2,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_johnsav01_2003_DAL",
+    "player_name": "Avery Johnson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 0.6,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_johnser02_2003_MIL",
+    "player_name": "Ervin Johnson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 4.3,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_johnsjo02_2003_PHX",
+    "player_name": "Joe Johnson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 3.2,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jonesda01_2003_SAC",
+    "player_name": "Damon Jones",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.4,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jonesed02_2003_MIA",
+    "player_name": "Eddie Jones",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 4.8,
+      "AST": 3.7,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jonesju01_2003_CLE",
+    "player_name": "Jumaine Jones",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 5.1,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jonespo01_2003_DAL",
+    "player_name": "Popeye Jones",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 2.3,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_jordami01_2003_WAS",
+    "player_name": "Michael Jordan",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.0,
+      "REB": 6.1,
+      "AST": 3.8,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_kempsh01_2003_ORL",
+    "player_name": "Shawn Kemp",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 5.7,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_kerrst01_2003_SAS",
+    "player_name": "Steve Kerr",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 0.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_kiddja01_2003_BKN",
+    "player_name": "Jason Kidd",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 6.3,
+      "AST": 8.9,
+      "STL": 2.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_kirilan01_2003_UTA",
+    "player_name": "Andrei Kirilenko",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 5.3,
+      "AST": 1.7,
+      "STL": 1.5,
+      "BLK": 2.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_kittlke01_2003_BKN",
+    "player_name": "Kerry Kittles",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 3.9,
+      "AST": 2.6,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_knighbr01_2003_MEM",
+    "player_name": "Brevin Knight",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.5,
+      "AST": 4.2,
+      "STL": 1.3,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_knightr01_2003_NYK",
+    "player_name": "Travis Knight",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.9,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_kukocto01_2003_MIL",
+    "player_name": "Toni Kuko\u010d",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 4.2,
+      "AST": 3.7,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_laettch01_2003_WAS",
+    "player_name": "Christian Laettner",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 6.6,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_lafrera01_2003_DAL",
+    "player_name": "Raef LaFrentz",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 4.8,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 1.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_lamplse01_2003_MIA",
+    "player_name": "Sean Lampley",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.4,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_langhda01_2003_PHX",
+    "player_name": "Dan Langhi",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_lenarvo01_2003_TOR",
+    "player_name": "Voshon Lenard",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 3.4,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_lewisra02_2003_OKC",
+    "player_name": "Rashard Lewis",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 6.5,
+      "AST": 1.7,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_longar01_2003_2TM",
+    "player_name": "Art Long",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 2.3,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_longgr01_2003_BOS",
+    "player_name": "Grant Long",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 2.0,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_luety01_2003_WAS",
+    "player_name": "Tyronn Lue",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.0,
+      "AST": 3.5,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_lynchge01_2003_NOP",
+    "player_name": "George Lynch",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 4.4,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_maccuto01_2003_PHI",
+    "player_name": "Todd MacCulloch",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 4.7,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_madsema01_2003_LAL",
+    "player_name": "Mark Madsen",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 2.9,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_maggeco01_2003_LAC",
+    "player_name": "Corey Maggette",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 5.0,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_magloja01_2003_NOP",
+    "player_name": "Jamaal Magloire",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 8.8,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 1.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_malonka01_2003_UTA",
+    "player_name": "Karl Malone",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 7.8,
+      "AST": 4.7,
+      "STL": 1.7,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_marbust01_2003_PHX",
+    "player_name": "Stephon Marbury",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 22.3,
+      "REB": 3.2,
+      "AST": 8.1,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mariosh01_2003_PHX",
+    "player_name": "Shawn Marion",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 9.5,
+      "AST": 2.4,
+      "STL": 2.3,
+      "BLK": 1.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_marksse01_2003_MIA",
+    "player_name": "Sean Marks",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.5,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_marshdo01_2003_CHI",
+    "player_name": "Donyell Marshall",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 9.0,
+      "AST": 1.8,
+      "STL": 1.2,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_martike01_2003_BKN",
+    "player_name": "Kenyon Martin",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 8.3,
+      "AST": 2.4,
+      "STL": 1.3,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mashbja01_2003_NOP",
+    "player_name": "Jamal Mashburn",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.6,
+      "REB": 6.1,
+      "AST": 5.6,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_masonan01_2003_MIL",
+    "player_name": "Anthony Mason",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 6.4,
+      "AST": 3.2,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_masonde01_2003_2TM",
+    "player_name": "Desmond Mason",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 6.5,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_masonde01_2003_OKC",
+    "player_name": "Desmond Mason",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 6.4,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_masonde01_2003_MIL",
+    "player_name": "Desmond Mason",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 6.7,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_masseto01_2003_UTA",
+    "player_name": "Tony Massenburg",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.7,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mccarwa01_2003_BOS",
+    "player_name": "Walter McCarty",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.5,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mccoyje01_2003_TOR",
+    "player_name": "Jelani McCoy",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 5.3,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mcgratr01_2003_ORL",
+    "player_name": "Tracy McGrady",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 32.1,
+      "REB": 6.5,
+      "AST": 5.5,
+      "STL": 1.7,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mcinnje01_2003_POR",
+    "player_name": "Jeff McInnis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 1.3,
+      "AST": 2.3,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mckieaa01_2003_PHI",
+    "player_name": "Aaron McKie",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 4.4,
+      "AST": 3.5,
+      "STL": 1.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_medvest01_2003_LAL",
+    "player_name": "Stanislav Medvedenko",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.4,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mercero01_2003_IND",
+    "player_name": "Ron Mercer",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.1,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mihmch01_2003_CLE",
+    "player_name": "Chris Mihm",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 4.4,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_milesda01_2003_CLE",
+    "player_name": "Darius Miles",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 5.4,
+      "AST": 2.6,
+      "STL": 1.0,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_millean02_2003_LAC",
+    "player_name": "Andre Miller",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 4.0,
+      "AST": 6.7,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_millebr01_2003_IND",
+    "player_name": "Brad Miller",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 8.3,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_millemi01_2003_2TM",
+    "player_name": "Mike Miller",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 5.2,
+      "AST": 2.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_millemi01_2003_ORL",
+    "player_name": "Mike Miller",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 5.8,
+      "AST": 2.8,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_millere01_2003_IND",
+    "player_name": "Reggie Miller",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 2.5,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_millsch01_2003_GSW",
+    "player_name": "Chris Mills",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.4,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mingya01_2003_HOU",
+    "player_name": "Yao Ming",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 8.2,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 1.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_moblecu01_2003_HOU",
+    "player_name": "Cuttino Mobley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 4.2,
+      "AST": 2.8,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mohamna01_2003_ATL",
+    "player_name": "Nazr Mohammed",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 3.7,
+      "AST": 0.2,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_moisoje01_2003_NOP",
+    "player_name": "J\u00e9r\u00f4me Mo\u00efso",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.5,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_morrite01_2003_HOU",
+    "player_name": "Terence Morris",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.6,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_murphtr01_2003_GSW",
+    "player_name": "Troy Murphy",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 10.2,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_murratr01_2003_LAL",
+    "player_name": "Tracy Murray",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.7,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_mutomdi01_2003_BKN",
+    "player_name": "Dikembe Mutombo",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 6.4,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 1.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_nailole01_2003_NYK",
+    "player_name": "Lee Nailon",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.8,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_najered01_2003_DAL",
+    "player_name": "Eduardo N\u00e1jera",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 4.6,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_nashst01_2003_DAL",
+    "player_name": "Steve Nash",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 2.9,
+      "AST": 7.3,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ndiayma02_2003_TOR",
+    "player_name": "Mamadou N'Diaye",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.7,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 1.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_nestera01_2003_MIN",
+    "player_name": "Rasho Nesterovi\u0107",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 6.5,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 1.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_newblir01_2003_ATL",
+    "player_name": "Ira Newble",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 3.7,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_norrimo01_2003_HOU",
+    "player_name": "Moochie Norris",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.9,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_nowitdi01_2003_DAL",
+    "player_name": "Dirk Nowitzki",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 25.1,
+      "REB": 9.9,
+      "AST": 3.0,
+      "STL": 1.4,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_oaklech01_2003_WAS",
+    "player_name": "Charles Oakley",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 2.5,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_odomla01_2003_LAC",
+    "player_name": "Lamar Odom",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 6.7,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_okurme01_2003_DET",
+    "player_name": "Mehmet Okur",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.7,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ollieke01_2003_2TM",
+    "player_name": "Kevin Ollie",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.2,
+      "AST": 3.5,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ollieke01_2003_MIL",
+    "player_name": "Kevin Ollie",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.9,
+      "AST": 3.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ollieke01_2003_OKC",
+    "player_name": "Kevin Ollie",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 2.9,
+      "AST": 3.8,
+      "STL": 1.1,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_olowomi01_2003_LAC",
+    "player_name": "Michael Olowokandi",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 9.1,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 2.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_onealje01_2003_IND",
+    "player_name": "Jermaine O'Neal",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 10.3,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 2.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_onealsh01_2003_LAL",
+    "player_name": "Shaquille O'Neal",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 27.5,
+      "REB": 11.1,
+      "AST": 3.1,
+      "STL": 0.6,
+      "BLK": 2.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ostergr01_2003_UTA",
+    "player_name": "Greg Ostertag",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 6.2,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 1.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_outlabo01_2003_PHX",
+    "player_name": "Bo Outlaw",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 4.6,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_oyedeol01_2003_ORL",
+    "player_name": "Olumide Oyedeji",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.0,
+      "REB": 1.9,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_packro01_2003_NOP",
+    "player_name": "Robert Pack",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.8,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_padgesc01_2003_UTA",
+    "player_name": "Scott Padgett",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.3,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_palacmi01_2003_CLE",
+    "player_name": "Milt Palacio",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.9,
+      "AST": 3.2,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_pargoja01_2003_LAL",
+    "player_name": "Jannero Pargo",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.1,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_parkesm01_2003_CLE",
+    "player_name": "Smush Parker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.8,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_parketo01_2003_SAS",
+    "player_name": "Tony Parker",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 2.6,
+      "AST": 5.3,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_parksch02_2003_LAC",
+    "player_name": "Cherokee Parks",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 4.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_patteru01_2003_POR",
+    "player_name": "Ruben Patterson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 3.4,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_paytoga01_2003_2TM",
+    "player_name": "Gary Payton",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.4,
+      "REB": 4.2,
+      "AST": 8.3,
+      "STL": 1.7,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_paytoga01_2003_OKC",
+    "player_name": "Gary Payton",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 4.8,
+      "AST": 8.8,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_paytoga01_2003_MIL",
+    "player_name": "Gary Payton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 3.1,
+      "AST": 7.4,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_peelean01_2003_MIN",
+    "player_name": "Anthony Peeler",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.9,
+      "AST": 3.0,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_persowe01_2003_MEM",
+    "player_name": "Wesley Person",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 2.9,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_petermo01_2003_TOR",
+    "player_name": "Morris Peterson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 4.4,
+      "AST": 2.3,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_piatker01_2003_LAC",
+    "player_name": "Eric Piatkowski",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.5,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_piercpa01_2003_BOS",
+    "player_name": "Paul Pierce",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 7.3,
+      "AST": 4.4,
+      "STL": 1.8,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_pippesc01_2003_POR",
+    "player_name": "Scottie Pippen",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 4.3,
+      "AST": 4.5,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_pollasc01_2003_SAC",
+    "player_name": "Scot Pollard",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 4.6,
+      "AST": 0.3,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_poseyja01_2003_2TM",
+    "player_name": "James Posey",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 5.1,
+      "AST": 2.2,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_poseyja01_2003_DEN",
+    "player_name": "James Posey",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 5.8,
+      "AST": 3.1,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_poseyja01_2003_HOU",
+    "player_name": "James Posey",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 4.8,
+      "AST": 1.8,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_potapvi01_2003_OKC",
+    "player_name": "Vitaly Potapenko",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.4,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_princta01_2003_DET",
+    "player_name": "Tayshaun Prince",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.1,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_przybjo01_2003_MIL",
+    "player_name": "Joel Przybilla",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 4.5,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 1.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_radmavl01_2003_OKC",
+    "player_name": "Vladimir Radmanovi\u0107",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 4.5,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rakocig01_2003_MIN",
+    "player_name": "Igor Rako\u010devi\u0107",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 0.4,
+      "AST": 0.8,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_randoza01_2003_POR",
+    "player_name": "Zach Randolph",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 4.5,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ratlith01_2003_ATL",
+    "player_name": "Theo Ratliff",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 7.5,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 3.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rebraze01_2003_DET",
+    "player_name": "\u017deljko Rebra\u010da",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 3.1,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_reddmi01_2003_MIL",
+    "player_name": "Michael Redd",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 4.5,
+      "AST": 1.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rentzef01_2003_PHI",
+    "player_name": "Efthimios Rentzias",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 0.7,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_ricegl01_2003_HOU",
+    "player_name": "Glen Rice",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 2.5,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_richaja01_2003_GSW",
+    "player_name": "Jason Richardson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 4.6,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_richaqu01_2003_LAC",
+    "player_name": "Quentin Richardson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.8,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_robincl02_2003_DET",
+    "player_name": "Clifford Robinson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 3.9,
+      "AST": 3.3,
+      "STL": 1.1,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_robinda01_2003_SAS",
+    "player_name": "David Robinson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 7.9,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 1.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_robined01_2003_CHI",
+    "player_name": "Eddie Robinson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_robingl01_2003_ATL",
+    "player_name": "Glenn Robinson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 6.6,
+      "AST": 3.0,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rogerro01_2003_BKN",
+    "player_name": "Rodney Rogers",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.9,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rooksse01_2003_LAC",
+    "player_name": "Sean Rooks",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_roseja01_2003_CHI",
+    "player_name": "Jalen Rose",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 22.1,
+      "REB": 4.3,
+      "AST": 4.8,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rosema01_2003_SAS",
+    "player_name": "Malik Rose",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 6.4,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_rushka01_2003_LAL",
+    "player_name": "Kareem Rush",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.2,
+      "AST": 0.9,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_russebr01_2003_WAS",
+    "player_name": "Bryon Russell",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 3.0,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_sabonar01_2003_POR",
+    "player_name": "Arvydas Sabonis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 4.3,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_salmojo01_2003_PHI",
+    "player_name": "John Salmons",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 0.9,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_sasseje01_2003_ORL",
+    "player_name": "Jeryl Sasser",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.5,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_satteke01_2003_2TM",
+    "player_name": "Kenny Satterfield",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.1,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_satteke01_2003_DEN",
+    "player_name": "Kenny Satterfield",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.6,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_savovpr01_2003_DEN",
+    "player_name": "Predrag Savovi\u0107",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 0.9,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_scalabr01_2003_BKN",
+    "player_name": "Brian Scalabrine",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_sesayan01_2003_OKC",
+    "player_name": "Ansu Sesay",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_shawbr01_2003_LAL",
+    "player_name": "Brian Shaw",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.7,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_simmobo01_2003_WAS",
+    "player_name": "Bobby Simmons",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_skinnbr01_2003_PHI",
+    "player_name": "Brian Skinner",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.8,
+      "AST": 0.2,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_slatere01_2003_MIN",
+    "player_name": "Reggie Slater",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.2,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_slayta01_2003_BKN",
+    "player_name": "Tamar Slay",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 0.9,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_smithjo02_2003_MIN",
+    "player_name": "Joe Smith",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 5.0,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_smithst01_2003_SAS",
+    "player_name": "Steve Smith",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.9,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_snower01_2003_PHI",
+    "player_name": "Eric Snow",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 3.7,
+      "AST": 6.6,
+      "STL": 1.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_sprewla01_2003_NYK",
+    "player_name": "Latrell Sprewell",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 3.9,
+      "AST": 4.5,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stackje01_2003_WAS",
+    "player_name": "Jerry Stackhouse",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 3.7,
+      "AST": 4.5,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stepavl01_2003_MIA",
+    "player_name": "Vladimir Stepania",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 7.0,
+      "AST": 0.3,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stevede01_2003_UTA",
+    "player_name": "DeShawn Stevenson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.4,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stewami01_2003_CLE",
+    "player_name": "Michael Stewart",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 0.8,
+      "REB": 1.2,
+      "AST": 0.1,
+      "STL": 0.0,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stockjo01_2003_UTA",
+    "player_name": "John Stockton",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 2.5,
+      "AST": 7.7,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stojape01_2003_SAC",
+    "player_name": "Peja Stojakovi\u0107",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.2,
+      "REB": 5.5,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stoudam01_2003_PHX",
+    "player_name": "Amar'e Stoudemire",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 8.8,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stoudda01_2003_POR",
+    "player_name": "Damon Stoudamire",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.6,
+      "AST": 3.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stricer01_2003_IND",
+    "player_name": "Erick Strickland",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.0,
+      "AST": 2.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_stricro02_2003_MIN",
+    "player_name": "Rod Strickland",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 2.0,
+      "AST": 4.6,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_sundobr01_2003_BOS",
+    "player_name": "Bruno \u0160undov",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 1.1,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_surabo01_2003_GSW",
+    "player_name": "Bob Sura",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 3.0,
+      "AST": 3.2,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_swiftst01_2003_MEM",
+    "player_name": "Stromile Swift",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 5.7,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 1.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_szczewa02_2003_MIN",
+    "player_name": "Wally Szczerbiak",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 4.6,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_tayloma01_2003_HOU",
+    "player_name": "Maurice Taylor",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 3.6,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_terryja01_2003_ATL",
+    "player_name": "Jason Terry",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 3.4,
+      "AST": 7.4,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_thomaet01_2003_WAS",
+    "player_name": "Etan Thomas",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.3,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_thomake01_2003_2TM",
+    "player_name": "Kenny Thomas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 8.0,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_thomake01_2003_HOU",
+    "player_name": "Kenny Thomas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 6.9,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_thomake01_2003_PHI",
+    "player_name": "Kenny Thomas",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 8.5,
+      "AST": 1.6,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_thomaku01_2003_NYK",
+    "player_name": "Kurt Thomas",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 7.9,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 1.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_thomati01_2003_MIL",
+    "player_name": "Tim Thomas",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 4.9,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_tinslja01_2003_IND",
+    "player_name": "Jamaal Tinsley",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.6,
+      "AST": 7.5,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_traylro01_2003_NOP",
+    "player_name": "Robert Traylor",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_trentga01_2003_MIN",
+    "player_name": "Gary Trent",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 3.6,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_tsakaja01_2003_PHX",
+    "player_name": "Jake Tsakalidis",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 3.7,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_tskitni01_2003_DEN",
+    "player_name": "Nikoloz Tskitishvili",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.2,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_turkohe01_2003_SAC",
+    "player_name": "Hedo T\u00fcrko\u011flu",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.8,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_vanexni01_2003_DAL",
+    "player_name": "Nick Van Exel",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 2.8,
+      "AST": 4.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_vanhoke01_2003_PHI",
+    "player_name": "Keith Van Horn",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 7.1,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_vaughja01_2003_ORL",
+    "player_name": "Jacque Vaughn",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.5,
+      "AST": 2.9,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_voskuja01_2003_PHX",
+    "player_name": "Jake Voskuhl",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 3.5,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wagneda02_2003_CLE",
+    "player_name": "Dajuan Wagner",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 1.7,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_walkean02_2003_BOS",
+    "player_name": "Antoine Walker",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 7.2,
+      "AST": 4.8,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_walkesa01_2003_LAL",
+    "player_name": "Samaki Walker",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 5.5,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wallabe01_2003_DET",
+    "player_name": "Ben Wallace",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 15.4,
+      "AST": 1.6,
+      "STL": 1.4,
+      "BLK": 3.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wallage01_2003_SAC",
+    "player_name": "Gerald Wallace",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wallara01_2003_POR",
+    "player_name": "Rasheed Wallace",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 7.4,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 1.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wardch01_2003_NYK",
+    "player_name": "Charlie Ward",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.7,
+      "AST": 4.6,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_watsoea01_2003_MEM",
+    "player_name": "Earl Watson",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.1,
+      "AST": 2.8,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_weathcl01_2003_NYK",
+    "player_name": "Clarence Weatherspoon",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 7.6,
+      "AST": 0.9,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_webbech01_2003_SAC",
+    "player_name": "Chris Webber",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 23.0,
+      "REB": 10.5,
+      "AST": 5.4,
+      "STL": 1.6,
+      "BLK": 1.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wellsbo01_2003_POR",
+    "player_name": "Bonzi Wells",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 5.3,
+      "AST": 3.3,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_welscji01_2003_GSW",
+    "player_name": "Ji\u0159\u00ed Welsch",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 0.8,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wesleda01_2003_NOP",
+    "player_name": "David Wesley",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 2.4,
+      "AST": 3.4,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_whitero02_2003_DEN",
+    "player_name": "Rodney White",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 3.0,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_whitnch01_2003_2TM",
+    "player_name": "Chris Whitney",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 1.3,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_whitnch01_2003_DEN",
+    "player_name": "Chris Whitney",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 1.6,
+      "AST": 4.3,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_whitnch01_2003_ORL",
+    "player_name": "Chris Whitney",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.0,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wilcoch01_2003_LAC",
+    "player_name": "Chris Wilcox",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wilksmi01_2003_2TM",
+    "player_name": "Mike Wilks",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wilksmi01_2003_MIN",
+    "player_name": "Mike Wilks",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.0,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_williaa01_2003_BKN",
+    "player_name": "Aaron Williams",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 4.1,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willial02_2003_TOR",
+    "player_name": "Alvin Williams",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 3.1,
+      "AST": 5.3,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willico02_2003_DET",
+    "player_name": "Corliss Williamson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 4.4,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willier01_2003_BOS",
+    "player_name": "Eric Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 4.7,
+      "AST": 1.7,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willifr02_2003_NYK",
+    "player_name": "Frank Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 0.9,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willija02_2003_MEM",
+    "player_name": "Jason Williams",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 2.8,
+      "AST": 8.3,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willija03_2003_CHI",
+    "player_name": "Jay Williams",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 2.6,
+      "AST": 4.7,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willije01_2003_TOR",
+    "player_name": "Jerome Williams",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 9.2,
+      "AST": 1.3,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willike02_2003_SAS",
+    "player_name": "Kevin Willis",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.2,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willimo01_2003_PHI",
+    "player_name": "Monty Williams",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.1,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willisc01_2003_PHX",
+    "player_name": "Scott Williams",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2003,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.8,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willish01_2003_2TM",
+    "player_name": "Shammond Williams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 2.2,
+      "AST": 3.4,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willish01_2003_BOS",
+    "player_name": "Shammond Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.2,
+      "AST": 2.5,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_willish01_2003_DEN",
+    "player_name": "Shammond Williams",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 2.3,
+      "AST": 5.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_williwa02_2003_DAL",
+    "player_name": "Walt Williams",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.1,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_woodslo01_2003_MIN",
+    "player_name": "Loren Woods",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 2.5,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_woodsqy01_2003_POR",
+    "player_name": "Qyntel Woods",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2003,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.0,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_wrighlo02_2003_MEM",
+    "player_name": "Lorenzen Wright",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 7.5,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_yarbrvi01_2003_DEN",
+    "player_name": "Vincent Yarbrough",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2003,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.7,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2000s"
+  },
+  {
+    "player_id": "bref_zhizhwa01_2003_LAC",
+    "player_name": "Wang Zhizhi",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2003,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.9,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2000s"
+  }
+]

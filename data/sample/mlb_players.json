@@ -1,0 +1,12 @@
+[
+  {"player_id": "bonds01", "player_name": "Barry Bonds", "team": "San Francisco Giants", "team_abbr": "SF", "season": 2001, "position": "H", "stats": {"AVG": 0.328, "HR": 73, "RBI": 137, "SB": 13, "OPS": 1.379}},
+  {"player_id": "pujols06", "player_name": "Albert Pujols", "team": "St. Louis Cardinals", "team_abbr": "STL", "season": 2006, "position": "H", "stats": {"AVG": 0.331, "HR": 49, "RBI": 137, "SB": 16, "OPS": 1.102}},
+  {"player_id": "trout19", "player_name": "Mike Trout", "team": "Los Angeles Angels", "team_abbr": "LAA", "season": 2019, "position": "H", "stats": {"AVG": 0.291, "HR": 45, "RBI": 104, "SB": 11, "OPS": 1.083}},
+  {"player_id": "judge22", "player_name": "Aaron Judge", "team": "New York Yankees", "team_abbr": "NYY", "season": 2022, "position": "H", "stats": {"AVG": 0.311, "HR": 62, "RBI": 131, "SB": 16, "OPS": 1.111}},
+  {"player_id": "ohtani23", "player_name": "Shohei Ohtani", "team": "Los Angeles Angels", "team_abbr": "LAA", "season": 2023, "position": "H", "stats": {"AVG": 0.304, "HR": 44, "RBI": 95, "SB": 20, "OPS": 1.066}},
+  {"player_id": "kersh14", "player_name": "Clayton Kershaw", "team": "Los Angeles Dodgers", "team_abbr": "LAD", "season": 2014, "position": "P", "stats": {"ERA": 1.77, "WHIP": 0.86, "K": 239, "W": 21}},
+  {"player_id": "degrom18", "player_name": "Jacob deGrom", "team": "New York Mets", "team_abbr": "NYM", "season": 2018, "position": "P", "stats": {"ERA": 1.70, "WHIP": 0.91, "K": 269, "W": 10}},
+  {"player_id": "cole19", "player_name": "Gerrit Cole", "team": "Houston Astros", "team_abbr": "HOU", "season": 2019, "position": "P", "stats": {"ERA": 2.50, "WHIP": 0.89, "K": 326, "W": 20}},
+  {"player_id": "acuna23", "player_name": "Ronald Acuna Jr.", "team": "Atlanta Braves", "team_abbr": "ATL", "season": 2023, "position": "H", "stats": {"AVG": 0.337, "HR": 41, "RBI": 106, "SB": 73, "OPS": 1.012}},
+  {"player_id": "betts22", "player_name": "Mookie Betts", "team": "Los Angeles Dodgers", "team_abbr": "LAD", "season": 2022, "position": "H", "stats": {"AVG": 0.269, "HR": 35, "RBI": 82, "SB": 12, "OPS": 0.928}}
+]

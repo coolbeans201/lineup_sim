@@ -1,0 +1,1155 @@
+[
+  {
+    "player_id": "bref_wilt-chamberlain_1962_GSW",
+    "player_name": "Wilt Chamberlain",
+    "team_abbr": "GSW",
+    "team": "Philadelphia Warriors",
+    "season": 1962,
+    "position": "C",
+    "stats": {
+      "PTS": 50.4,
+      "REB": 25.7,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_wilt-chamberlain_1967_PHI",
+    "player_name": "Wilt Chamberlain",
+    "team_abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": 1967,
+    "position": "C",
+    "stats": {
+      "PTS": 24.1,
+      "REB": 24.2,
+      "AST": 7.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_bill-russell_1964_BOS",
+    "player_name": "Bill Russell",
+    "team_abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": 1964,
+    "position": "C",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 24.7,
+      "AST": 4.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_wilt-chamberlain_1968_PHI",
+    "player_name": "Wilt Chamberlain",
+    "team_abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": 1968,
+    "position": "C",
+    "stats": {
+      "PTS": 24.3,
+      "REB": 23.8,
+      "AST": 8.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_walt-bellamy_1962_DET",
+    "player_name": "Walt Bellamy",
+    "team_abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": 1962,
+    "position": "C",
+    "stats": {
+      "PTS": 31.6,
+      "REB": 19.0,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_oscar-robertson_1965_SAC",
+    "player_name": "Oscar Robertson",
+    "team_abbr": "SAC",
+    "team": "Cincinnati Royals",
+    "season": 1965,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 30.4,
+      "REB": 10.4,
+      "AST": 11.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    }
+  },
+  {
+    "player_id": "bref_jerry-west_1965_LAL",
+    "player_name": "Jerry West",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 1965,
+    "position": "SG",
+    "stats": {
+      "PTS": 31.0,
+      "REB": 4.3,
+      "AST": 5.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_elgin-baylor_1963_LAL",
+    "player_name": "Elgin Baylor",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 1963,
+    "position": "SF",
+    "stats": {
+      "PTS": 34.0,
+      "REB": 14.3,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_bob-pettit_1962_ATL",
+    "player_name": "Bob Pettit",
+    "team_abbr": "ATL",
+    "team": "St. Louis Hawks",
+    "season": 1962,
+    "position": "PF",
+    "stats": {
+      "PTS": 31.1,
+      "REB": 18.7,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_willis-reed_1970_NYK",
+    "player_name": "Willis Reed",
+    "team_abbr": "NYK",
+    "team": "New York Knicks",
+    "season": 1970,
+    "position": "C",
+    "stats": {
+      "PTS": 21.7,
+      "REB": 13.9,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_john-havlicek_1969_BOS",
+    "player_name": "John Havlicek",
+    "team_abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": 1969,
+    "position": "SF",
+    "stats": {
+      "PTS": 21.6,
+      "REB": 7.0,
+      "AST": 4.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_rick-barry_1967_GSW",
+    "player_name": "Rick Barry",
+    "team_abbr": "GSW",
+    "team": "San Francisco Warriors",
+    "season": 1967,
+    "position": "SF",
+    "stats": {
+      "PTS": 35.6,
+      "REB": 9.2,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_hal-greer_1968_PHI",
+    "player_name": "Hal Greer",
+    "team_abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": 1968,
+    "position": "SG",
+    "stats": {
+      "PTS": 24.1,
+      "REB": 5.4,
+      "AST": 4.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_lenny-wilkens_1968_ATL",
+    "player_name": "Lenny Wilkens",
+    "team_abbr": "ATL",
+    "team": "St. Louis Hawks",
+    "season": 1968,
+    "position": "PG",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 4.7,
+      "AST": 8.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_dave-debusschere_1968_NYK",
+    "player_name": "Dave DeBusschere",
+    "team_abbr": "NYK",
+    "team": "New York Knicks",
+    "season": 1968,
+    "position": "PF",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 13.0,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_kareem-abdul-jabbar_1972_MIL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team_abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": 1972,
+    "position": "C",
+    "stats": {
+      "PTS": 34.8,
+      "REB": 16.6,
+      "AST": 4.6,
+      "STL": 1.2,
+      "BLK": 4.6
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_kareem-abdul-jabbar_1977_LAL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 1977,
+    "position": "C",
+    "stats": {
+      "PTS": 26.2,
+      "REB": 13.3,
+      "AST": 3.9,
+      "STL": 1.2,
+      "BLK": 3.2
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_julius-erving_1976_PHI",
+    "player_name": "Julius Erving",
+    "team_abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": 1976,
+    "position": "SF",
+    "stats": {
+      "PTS": 29.3,
+      "REB": 11.0,
+      "AST": 5.0,
+      "STL": 2.5,
+      "BLK": 1.8
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_bill-walton_1978_POR",
+    "player_name": "Bill Walton",
+    "team_abbr": "POR",
+    "team": "Portland Trail Blazers",
+    "season": 1978,
+    "position": "C",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 13.2,
+      "AST": 5.0,
+      "STL": 1.0,
+      "BLK": 2.5
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_rick-barry_1975_GSW",
+    "player_name": "Rick Barry",
+    "team_abbr": "GSW",
+    "team": "Golden State Warriors",
+    "season": 1975,
+    "position": "SF",
+    "stats": {
+      "PTS": 30.6,
+      "REB": 5.7,
+      "AST": 6.2,
+      "STL": 2.9,
+      "BLK": 0.8
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_moses-malone_1979_HOU",
+    "player_name": "Moses Malone",
+    "team_abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": 1979,
+    "position": "C",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 17.6,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 1.5
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_george-gervin_1978_SAS",
+    "player_name": "George Gervin",
+    "team_abbr": "SAS",
+    "team": "San Antonio Spurs",
+    "season": 1978,
+    "position": "SG",
+    "stats": {
+      "PTS": 27.1,
+      "REB": 5.2,
+      "AST": 2.6,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_pete-maravich_1977_UTA",
+    "player_name": "Pete Maravich",
+    "team_abbr": "UTA",
+    "team": "New Orleans Jazz",
+    "season": 1977,
+    "position": "SG",
+    "stats": {
+      "PTS": 31.1,
+      "REB": 5.4,
+      "AST": 5.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_bob-mcadoo_1975_LAC",
+    "player_name": "Bob McAdoo",
+    "team_abbr": "LAC",
+    "team": "Buffalo Braves",
+    "season": 1975,
+    "position": "C",
+    "stats": {
+      "PTS": 34.5,
+      "REB": 14.1,
+      "AST": 2.2,
+      "STL": 1.1,
+      "BLK": 2.1
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_walt-frazier_1975_NYK",
+    "player_name": "Walt Frazier",
+    "team_abbr": "NYK",
+    "team": "New York Knicks",
+    "season": 1975,
+    "position": "PG",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 5.9,
+      "AST": 7.3,
+      "STL": 1.9,
+      "BLK": 0.2
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_bob-lanier_1974_DET",
+    "player_name": "Bob Lanier",
+    "team_abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": 1974,
+    "position": "C",
+    "stats": {
+      "PTS": 26.1,
+      "REB": 11.5,
+      "AST": 3.0,
+      "STL": 1.0,
+      "BLK": 2.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_artis-gilmore_1972_CHI",
+    "player_name": "Artis Gilmore",
+    "team_abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": 1972,
+    "position": "C",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 13.0,
+      "AST": 2.6,
+      "STL": 0.7,
+      "BLK": 2.5
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_dan-issel_1977_DEN",
+    "player_name": "Dan Issel",
+    "team_abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": 1977,
+    "position": "PF",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 10.7,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_billy-knight_1977_IND",
+    "player_name": "Billy Knight",
+    "team_abbr": "IND",
+    "team": "Indiana Pacers",
+    "season": 1977,
+    "position": "SF",
+    "stats": {
+      "PTS": 26.6,
+      "REB": 7.5,
+      "AST": 3.7,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_world-b-free_1979_CLE",
+    "player_name": "World B Free",
+    "team_abbr": "CLE",
+    "team": "Cleveland Cavaliers",
+    "season": 1979,
+    "position": "SG",
+    "stats": {
+      "PTS": 28.8,
+      "REB": 3.7,
+      "AST": 4.2,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_elvin-hayes_1974_WAS",
+    "player_name": "Elvin Hayes",
+    "team_abbr": "WAS",
+    "team": "Washington Bullets",
+    "season": 1974,
+    "position": "PF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 12.3,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 2.4
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_truck-robinson_1978_NYK",
+    "player_name": "Truck Robinson",
+    "team_abbr": "NYK",
+    "team": "New York Knicks",
+    "season": 1978,
+    "position": "PF",
+    "stats": {
+      "PTS": 22.0,
+      "REB": 13.8,
+      "AST": 3.5,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_bobby-jones_1979_PHI",
+    "player_name": "Bobby Jones",
+    "team_abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": 1979,
+    "position": "PF",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 5.9,
+      "AST": 2.7,
+      "STL": 1.5,
+      "BLK": 1.2
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_marques-johnson_1979_MIL",
+    "player_name": "Marques Johnson",
+    "team_abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": 1979,
+    "position": "SF",
+    "stats": {
+      "PTS": 24.3,
+      "REB": 6.5,
+      "AST": 4.0,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_magic-johnson_1987_LAL",
+    "player_name": "Magic Johnson",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 1987,
+    "position": "PG",
+    "position_raw": "PG",
+    "decade": "1980s",
+    "stats": {
+      "PTS": 23.9,
+      "REB": 6.3,
+      "AST": 12.2,
+      "STL": 1.7,
+      "BLK": 0.5
+    }
+  },
+  {
+    "player_id": "bref_larry-bird_1986_BOS",
+    "player_name": "Larry Bird",
+    "team_abbr": "BOS",
+    "team": "Boston Celtics",
+    "season": 1986,
+    "position": "SF",
+    "stats": {
+      "PTS": 25.8,
+      "REB": 9.8,
+      "AST": 6.8,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_michael-jordan_1988_CHI",
+    "player_name": "Michael Jordan",
+    "team_abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": 1988,
+    "position": "SG",
+    "stats": {
+      "PTS": 35.0,
+      "REB": 5.5,
+      "AST": 5.9,
+      "STL": 3.2,
+      "BLK": 1.6
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_moses-malone_1983_PHI",
+    "player_name": "Moses Malone",
+    "team_abbr": "PHI",
+    "team": "Philadelphia 76ers",
+    "season": 1983,
+    "position": "C",
+    "stats": {
+      "PTS": 24.5,
+      "REB": 15.3,
+      "AST": 1.3,
+      "STL": 1.1,
+      "BLK": 2.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_isiah-thomas_1984_DET",
+    "player_name": "Isiah Thomas",
+    "team_abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": 1984,
+    "position": "PG",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 4.5,
+      "AST": 11.5,
+      "STL": 2.5,
+      "BLK": 0.3
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_alex-english_1985_DEN",
+    "player_name": "Alex English",
+    "team_abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": 1985,
+    "position": "SF",
+    "stats": {
+      "PTS": 27.8,
+      "REB": 5.7,
+      "AST": 4.7,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_dominique-wilkins_1988_ATL",
+    "player_name": "Dominique Wilkins",
+    "team_abbr": "ATL",
+    "team": "Atlanta Hawks",
+    "season": 1988,
+    "position": "SF",
+    "stats": {
+      "PTS": 30.7,
+      "REB": 7.0,
+      "AST": 2.6,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_hakeem-olajuwon_1989_HOU",
+    "player_name": "Hakeem Olajuwon",
+    "team_abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": 1989,
+    "position": "C",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 13.5,
+      "AST": 1.8,
+      "STL": 2.6,
+      "BLK": 3.4
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_patrick-ewing_1990_NYK",
+    "player_name": "Patrick Ewing",
+    "team_abbr": "NYK",
+    "team": "New York Knicks",
+    "season": 1990,
+    "position": "C",
+    "stats": {
+      "PTS": 28.6,
+      "REB": 11.0,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 4.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_clyde-drexler_1988_POR",
+    "player_name": "Clyde Drexler",
+    "team_abbr": "POR",
+    "team": "Portland Trail Blazers",
+    "season": 1988,
+    "position": "SG",
+    "stats": {
+      "PTS": 27.7,
+      "REB": 6.0,
+      "AST": 5.8,
+      "STL": 2.8,
+      "BLK": 0.7
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_james-worthy_1988_LAL",
+    "player_name": "James Worthy",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 1988,
+    "position": "SF",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 5.0,
+      "AST": 3.9,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_mark-aguirre_1984_DAL",
+    "player_name": "Mark Aguirre",
+    "team_abbr": "DAL",
+    "team": "Dallas Mavericks",
+    "season": 1984,
+    "position": "SF",
+    "stats": {
+      "PTS": 29.5,
+      "REB": 5.9,
+      "AST": 3.1,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_bernard-king_1985_NYK",
+    "player_name": "Bernard King",
+    "team_abbr": "NYK",
+    "team": "New York Knicks",
+    "season": 1985,
+    "position": "SF",
+    "stats": {
+      "PTS": 32.9,
+      "REB": 5.8,
+      "AST": 4.1,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_sidney-moncrief_1983_MIL",
+    "player_name": "Sidney Moncrief",
+    "team_abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": 1983,
+    "position": "SG",
+    "stats": {
+      "PTS": 22.5,
+      "REB": 5.8,
+      "AST": 4.5,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_fat-lever_1988_DEN",
+    "player_name": "Fat Lever",
+    "team_abbr": "DEN",
+    "team": "Denver Nuggets",
+    "season": 1988,
+    "position": "PG",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 8.1,
+      "AST": 7.2,
+      "STL": 2.5,
+      "BLK": 0.3
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_hakeem-olajuwon_1994_HOU",
+    "player_name": "Hakeem Olajuwon",
+    "team_abbr": "HOU",
+    "team": "Houston Rockets",
+    "season": 1994,
+    "position": "C",
+    "stats": {
+      "PTS": 27.8,
+      "REB": 11.9,
+      "AST": 3.6,
+      "STL": 1.6,
+      "BLK": 3.7
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_michael-jordan_1996_CHI",
+    "player_name": "Michael Jordan",
+    "team_abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": 1996,
+    "position": "SG",
+    "stats": {
+      "PTS": 30.4,
+      "REB": 6.6,
+      "AST": 4.3,
+      "STL": 2.2,
+      "BLK": 0.5
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_shaquille-o'neal_2000_LAL",
+    "player_name": "Shaquille O'Neal",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 2000,
+    "position": "C",
+    "stats": {
+      "PTS": 29.7,
+      "REB": 13.6,
+      "AST": 3.8,
+      "STL": 0.6,
+      "BLK": 3.0
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_karl-malone_1997_UTA",
+    "player_name": "Karl Malone",
+    "team_abbr": "UTA",
+    "team": "Utah Jazz",
+    "season": 1997,
+    "position": "PF",
+    "stats": {
+      "PTS": 27.4,
+      "REB": 9.9,
+      "AST": 4.5,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_john-stockton_1990_UTA",
+    "player_name": "John Stockton",
+    "team_abbr": "UTA",
+    "team": "Utah Jazz",
+    "season": 1990,
+    "position": "PG",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 2.6,
+      "AST": 14.5,
+      "STL": 2.7,
+      "BLK": 0.2
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_scottie-pippen_1996_CHI",
+    "player_name": "Scottie Pippen",
+    "team_abbr": "CHI",
+    "team": "Chicago Bulls",
+    "season": 1996,
+    "position": "SF",
+    "stats": {
+      "PTS": 20.2,
+      "REB": 6.5,
+      "AST": 5.7,
+      "STL": 1.9,
+      "BLK": 1.1
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_david-robinson_1994_SAS",
+    "player_name": "David Robinson",
+    "team_abbr": "SAS",
+    "team": "San Antonio Spurs",
+    "season": 1994,
+    "position": "C",
+    "stats": {
+      "PTS": 29.8,
+      "REB": 10.7,
+      "AST": 4.8,
+      "STL": 1.7,
+      "BLK": 3.2
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_charles-barkley_1993_PHX",
+    "player_name": "Charles Barkley",
+    "team_abbr": "PHX",
+    "team": "Phoenix Suns",
+    "season": 1993,
+    "position": "PF",
+    "stats": {
+      "PTS": 25.6,
+      "REB": 12.2,
+      "AST": 5.1,
+      "STL": 1.6,
+      "BLK": 1.0
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_gary-payton_1996_OKC",
+    "player_name": "Gary Payton",
+    "team_abbr": "OKC",
+    "team": "Seattle SuperSonics",
+    "season": 1996,
+    "position": "PG",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 4.2,
+      "AST": 7.5,
+      "STL": 2.9,
+      "BLK": 0.2
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_reggie-miller_1995_IND",
+    "player_name": "Reggie Miller",
+    "team_abbr": "IND",
+    "team": "Indiana Pacers",
+    "season": 1995,
+    "position": "SG",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 3.0,
+      "AST": 3.6,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_alonzo-mourning_1999_MIA",
+    "player_name": "Alonzo Mourning",
+    "team_abbr": "MIA",
+    "team": "Miami Heat",
+    "season": 1999,
+    "position": "C",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 10.3,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 3.9
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_grant-hill_1996_DET",
+    "player_name": "Grant Hill",
+    "team_abbr": "DET",
+    "team": "Detroit Pistons",
+    "season": 1996,
+    "position": "SF",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 9.7,
+      "AST": 7.2,
+      "STL": 1.8,
+      "BLK": 0.6
+    },
+    "position_raw": "SF"
+  },
+  {
+    "player_id": "bref_mitch-richmond_1996_SAC",
+    "player_name": "Mitch Richmond",
+    "team_abbr": "SAC",
+    "team": "Sacramento Kings",
+    "season": 1996,
+    "position": "SG",
+    "stats": {
+      "PTS": 23.1,
+      "REB": 4.4,
+      "AST": 3.7,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "position_raw": "SG"
+  },
+  {
+    "player_id": "bref_tim-hardaway_1992_MIA",
+    "player_name": "Tim Hardaway",
+    "team_abbr": "MIA",
+    "team": "Golden State Warriors",
+    "season": 1992,
+    "position": "PG",
+    "stats": {
+      "PTS": 23.4,
+      "REB": 3.6,
+      "AST": 10.6,
+      "STL": 2.0,
+      "BLK": 0.1
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_dikembe-mutombo_1997_ATL",
+    "player_name": "Dikembe Mutombo",
+    "team_abbr": "ATL",
+    "team": "Atlanta Hawks",
+    "season": 1997,
+    "position": "C",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 11.6,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 3.3
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_steve-nash_2005_PHX",
+    "player_name": "Steve Nash",
+    "team_abbr": "PHX",
+    "team": "Phoenix Suns",
+    "season": 2005,
+    "position": "PG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 3.3,
+      "AST": 11.5,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_chris-paul_2008_NOP",
+    "player_name": "Chris Paul",
+    "team_abbr": "NOP",
+    "team": "New Orleans Hornets",
+    "season": 2008,
+    "position": "PG",
+    "stats": {
+      "PTS": 21.6,
+      "REB": 4.9,
+      "AST": 11.8,
+      "STL": 2.7,
+      "BLK": 0.3
+    },
+    "position_raw": "PG"
+  },
+  {
+    "player_id": "bref_dwight-howard_2011_ORL",
+    "player_name": "Dwight Howard",
+    "team_abbr": "ORL",
+    "team": "Orlando Magic",
+    "season": 2011,
+    "position": "C",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 14.1,
+      "AST": 1.4,
+      "STL": 1.4,
+      "BLK": 2.4
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_marc-gasol_2015_MEM",
+    "player_name": "Marc Gasol",
+    "team_abbr": "MEM",
+    "team": "Memphis Grizzlies",
+    "season": 2015,
+    "position": "C",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 7.8,
+      "AST": 4.2,
+      "STL": 1.0,
+      "BLK": 1.1
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_deandre-jordan_2014_LAC",
+    "player_name": "DeAndre Jordan",
+    "team_abbr": "LAC",
+    "team": "Los Angeles Clippers",
+    "season": 2014,
+    "position": "C",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 13.7,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 1.4
+    },
+    "position_raw": "C"
+  },
+  {
+    "player_id": "bref_giannis-antetokounmpo_2024_MIL",
+    "player_name": "Giannis Antetokounmpo",
+    "team_abbr": "MIL",
+    "team": "Milwaukee Bucks",
+    "season": 2024,
+    "position": "PF",
+    "stats": {
+      "PTS": 30.4,
+      "REB": 11.5,
+      "AST": 6.5,
+      "STL": 1.2,
+      "BLK": 1.0
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_anthony-davis_2023_LAL",
+    "player_name": "Anthony Davis",
+    "team_abbr": "LAL",
+    "team": "Los Angeles Lakers",
+    "season": 2023,
+    "position": "PF",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 12.5,
+      "AST": 2.6,
+      "STL": 1.1,
+      "BLK": 2.0
+    },
+    "position_raw": "PF"
+  },
+  {
+    "player_id": "bref_draymond-green_2016_GSW",
+    "player_name": "Draymond Green",
+    "team_abbr": "GSW",
+    "team": "Golden State Warriors",
+    "season": 2016,
+    "position": "PF",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 9.5,
+      "AST": 7.4,
+      "STL": 1.6,
+      "BLK": 1.4
+    },
+    "position_raw": "PF"
+  }
+]

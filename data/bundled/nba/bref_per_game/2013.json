@@ -1,0 +1,7890 @@
+[
+  {
+    "player_id": "bref_acyqu01_2013_TOR",
+    "player_name": "Quincy Acy",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.7,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_adrieje01_2013_CHA",
+    "player_name": "Jeff Adrien",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_afflaar01_2013_ORL",
+    "player_name": "Arron Afflalo",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 3.7,
+      "AST": 3.2,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aldrico01_2013_2TM",
+    "player_name": "Cole Aldrich",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 2.7,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aldrico01_2013_HOU",
+    "player_name": "Cole Aldrich",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 1.9,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aldrila01_2013_POR",
+    "player_name": "LaMarcus Aldridge",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.1,
+      "REB": 9.1,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allenla01_2013_PHI",
+    "player_name": "Lavoy Allen",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 5.0,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allenra02_2013_MIA",
+    "player_name": "Ray Allen",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.7,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allento01_2013_MEM",
+    "player_name": "Tony Allen",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 4.6,
+      "AST": 1.2,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aminual01_2013_NOP",
+    "player_name": "Al-Farouq Aminu",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 7.7,
+      "AST": 1.4,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_amundlo01_2013_3TM",
+    "player_name": "Lou Amundson",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 2.7,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_amundlo01_2013_MIN",
+    "player_name": "Lou Amundson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 2.4,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderal01_2013_TOR",
+    "player_name": "Alan Anderson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.3,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderch01_2013_MIA",
+    "player_name": "Chris Andersen",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 4.1,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderja01_2013_2TM",
+    "player_name": "James Anderson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.8,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderja01_2013_HOU",
+    "player_name": "James Anderson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.0,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderry01_2013_NOP",
+    "player_name": "Ryan Anderson",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 6.4,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anthoca01_2013_NYK",
+    "player_name": "Carmelo Anthony",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 28.7,
+      "REB": 6.9,
+      "AST": 2.6,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anthojo01_2013_MIA",
+    "player_name": "Joel Anthony",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 1.9,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arizatr01_2013_WAS",
+    "player_name": "Trevor Ariza",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 4.8,
+      "AST": 2.0,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_artesro01_2013_LAL",
+    "player_name": "Metta World Peace",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 5.0,
+      "AST": 1.5,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arthuda01_2013_MEM",
+    "player_name": "Darrell Arthur",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_asikom01_2013_HOU",
+    "player_name": "\u00d6mer A\u015f\u0131k",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 11.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_augusdj01_2013_IND",
+    "player_name": "D.J. Augustin",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.2,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ayongu01_2013_2TM",
+    "player_name": "Gustavo Ay\u00f3n",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 3.6,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ayongu01_2013_ORL",
+    "player_name": "Gustavo Ay\u00f3n",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 3.3,
+      "AST": 1.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_babbilu01_2013_POR",
+    "player_name": "Luke Babbitt",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barbole01_2013_BOS",
+    "player_name": "Leandro Barbosa",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.1,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bareajo01_2013_MIN",
+    "player_name": "J.J. Barea",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.8,
+      "AST": 4.0,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bargnan01_2013_TOR",
+    "player_name": "Andrea Bargnani",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 3.7,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barneha02_2013_GSW",
+    "player_name": "Harrison Barnes",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 4.1,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barnema02_2013_LAC",
+    "player_name": "Matt Barnes",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 4.6,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bartowi01_2013_POR",
+    "player_name": "Will Barton",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.0,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bassbr01_2013_BOS",
+    "player_name": "Brandon Bass",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 5.2,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_battish01_2013_MIA",
+    "player_name": "Shane Battier",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.3,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_batumni01_2013_POR",
+    "player_name": "Nicolas Batum",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 5.6,
+      "AST": 4.9,
+      "STL": 1.2,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bayleje01_2013_MEM",
+    "player_name": "Jerryd Bayless",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.2,
+      "AST": 3.3,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bazemke01_2013_GSW",
+    "player_name": "Kent Bazemore",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bealbr01_2013_WAS",
+    "player_name": "Bradley Beal",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 3.8,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beaslmi01_2013_PHX",
+    "player_name": "Michael Beasley",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 3.8,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beaubro01_2013_DAL",
+    "player_name": "Rodrigue Beaubois",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.3,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_belinma01_2013_CHI",
+    "player_name": "Marco Belinelli",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 1.9,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beverpa01_2013_HOU",
+    "player_name": "Patrick Beverley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 2.7,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_biedran01_2013_GSW",
+    "player_name": "Andris Biedri\u0146\u0161",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 0.5,
+      "REB": 2.9,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_billuch01_2013_LAC",
+    "player_name": "Chauncey Billups",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 1.5,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_biyombi01_2013_CHA",
+    "player_name": "Bismack Biyombo",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 7.3,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 1.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blairde01_2013_SAS",
+    "player_name": "DeJuan Blair",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blakest01_2013_LAL",
+    "player_name": "Steve Blake",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.9,
+      "AST": 3.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blatcan01_2013_BKN",
+    "player_name": "Andray Blatche",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 5.1,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bledser01_2013_LAC",
+    "player_name": "Eric Bledsoe",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 3.0,
+      "AST": 3.1,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_boganke01_2013_BKN",
+    "player_name": "Keith Bogans",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.6,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bogutan01_2013_GSW",
+    "player_name": "Andrew Bogut",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 7.7,
+      "AST": 2.1,
+      "STL": 0.6,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bonnema01_2013_SAS",
+    "player_name": "Matt Bonner",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.9,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_booketr01_2013_WAS",
+    "player_name": "Trevor Booker",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 5.0,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_boozeca01_2013_CHI",
+    "player_name": "Carlos Boozer",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 9.8,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_boshch01_2013_MIA",
+    "player_name": "Chris Bosh",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 6.8,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bradlav01_2013_BOS",
+    "player_name": "Avery Bradley",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 2.2,
+      "AST": 2.1,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brandel01_2013_DAL",
+    "player_name": "Elton Brand",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 6.0,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_breweco01_2013_DEN",
+    "player_name": "Corey Brewer",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 2.9,
+      "AST": 1.5,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brewero02_2013_2TM",
+    "player_name": "Ronnie Brewer",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.3,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brewero02_2013_NYK",
+    "player_name": "Ronnie Brewer",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brookaa01_2013_2TM",
+    "player_name": "Aaron Brooks",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.5,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brookaa01_2013_SAC",
+    "player_name": "Aaron Brooks",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 1.7,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brookma01_2013_BKN",
+    "player_name": "MarShon Brooks",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.4,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownkw01_2013_PHI",
+    "player_name": "Kwame Brown",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 3.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownsh01_2013_PHX",
+    "player_name": "Shannon Brown",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 2.5,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bryanko01_2013_LAL",
+    "player_name": "Kobe Bryant",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 27.3,
+      "REB": 5.6,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_budinch01_2013_MIN",
+    "player_name": "Chase Budinger",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.1,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burksal01_2013_UTA",
+    "player_name": "Alec Burks",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.3,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_butleca01_2013_LAC",
+    "player_name": "Caron Butler",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 2.9,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_butleji01_2013_CHI",
+    "player_name": "Jimmy Butler",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 4.0,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bynumwi01_2013_DET",
+    "player_name": "Will Bynum",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 1.5,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldejo01_2013_2TM",
+    "player_name": "Jos\u00e9 Calder\u00f3n",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.4,
+      "AST": 7.1,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldejo01_2013_TOR",
+    "player_name": "Jos\u00e9 Calder\u00f3n",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 2.4,
+      "AST": 7.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldejo01_2013_DET",
+    "player_name": "Jos\u00e9 Calder\u00f3n",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 2.5,
+      "AST": 6.6,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cambyma01_2013_NYK",
+    "player_name": "Marcus Camby",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 3.3,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_carrode01_2013_UTA",
+    "player_name": "DeMarre Carroll",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.8,
+      "AST": 0.9,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cartevi01_2013_DAL",
+    "player_name": "Vince Carter",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 4.1,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_casspom01_2013_CLE",
+    "player_name": "Omri Casspi",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.7,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chalmma01_2013_MIA",
+    "player_name": "Mario Chalmers",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.2,
+      "AST": 3.5,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandty01_2013_NYK",
+    "player_name": "Tyson Chandler",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 10.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandwi01_2013_DEN",
+    "player_name": "Wilson Chandler",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 5.1,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clarkea01_2013_LAL",
+    "player_name": "Earl Clark",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 5.5,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clavevi01_2013_POR",
+    "player_name": "Victor Claver",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.4,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_coleno01_2013_MIA",
+    "player_name": "Norris Cole",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.6,
+      "AST": 2.1,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collida01_2013_DAL",
+    "player_name": "Darren Collison",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 2.7,
+      "AST": 5.1,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collija04_2013_2TM",
+    "player_name": "Jason Collins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.1,
+      "REB": 1.6,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collija04_2013_BOS",
+    "player_name": "Jason Collins",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 1.6,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collini01_2013_OKC",
+    "player_name": "Nick Collison",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 4.1,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_conlemi01_2013_MEM",
+    "player_name": "Mike Conley",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 2.8,
+      "AST": 6.1,
+      "STL": 2.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cookda02_2013_2TM",
+    "player_name": "Daequan Cook",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.2,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cookda02_2013_CHI",
+    "player_name": "Daequan Cook",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.3,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_copelch01_2013_NYK",
+    "player_name": "Chris Copeland",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.1,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_couside01_2013_SAC",
+    "player_name": "DeMarcus Cousins",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 9.9,
+      "AST": 2.7,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crawfja01_2013_LAC",
+    "player_name": "Jamal Crawford",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 1.7,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crawfjo02_2013_2TM",
+    "player_name": "Jordan Crawford",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 3.0,
+      "AST": 3.2,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crawfjo02_2013_WAS",
+    "player_name": "Jordan Crawford",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 3.1,
+      "AST": 3.7,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crawfjo02_2013_BOS",
+    "player_name": "Jordan Crawford",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 2.7,
+      "AST": 2.5,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crowdja01_2013_DAL",
+    "player_name": "Jae Crowder",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.4,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cunnida01_2013_MIN",
+    "player_name": "Dante Cunningham",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 5.1,
+      "AST": 0.8,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_curryst01_2013_GSW",
+    "player_name": "Stephen Curry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 4.0,
+      "AST": 6.9,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dalemsa01_2013_MIL",
+    "player_name": "Samuel Dalembert",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 5.9,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_daniema01_2013_MIL",
+    "player_name": "Marquis Daniels",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.5,
+      "AST": 1.1,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davisan02_2013_NOP",
+    "player_name": "Anthony Davis",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 8.2,
+      "AST": 1.0,
+      "STL": 1.2,
+      "BLK": 1.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davised01_2013_2TM",
+    "player_name": "Ed Davis",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 5.7,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davised01_2013_TOR",
+    "player_name": "Ed Davis",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 6.7,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davised01_2013_MEM",
+    "player_name": "Ed Davis",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 4.4,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davisgl01_2013_ORL",
+    "player_name": "Glen Davis",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 7.2,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dayeau01_2013_2TM",
+    "player_name": "Austin Daye",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dayeau01_2013_DET",
+    "player_name": "Austin Daye",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.6,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dayeau01_2013_MEM",
+    "player_name": "Austin Daye",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.9,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_decolna01_2013_SAS",
+    "player_name": "Nando De Colo",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.9,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_delfica01_2013_HOU",
+    "player_name": "Carlos Delfino",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 3.3,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_denglu01_2013_CHI",
+    "player_name": "Luol Deng",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 6.3,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_derozde01_2013_TOR",
+    "player_name": "DeMar DeRozan",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 3.9,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_diawbo01_2013_SAS",
+    "player_name": "Boris Diaw",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.4,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_diopde01_2013_CHA",
+    "player_name": "DeSagana Diop",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 0.7,
+      "REB": 2.3,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_douglto01_2013_2TM",
+    "player_name": "Toney Douglas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.9,
+      "AST": 2.1,
+      "STL": 1.0,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_douglto01_2013_HOU",
+    "player_name": "Toney Douglas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_douglto01_2013_SAC",
+    "player_name": "Toney Douglas",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.2,
+      "AST": 2.6,
+      "STL": 1.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dragigo01_2013_PHX",
+    "player_name": "Goran Dragi\u0107",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 3.1,
+      "AST": 7.4,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_drumman01_2013_DET",
+    "player_name": "Andre Drummond",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 7.6,
+      "AST": 0.5,
+      "STL": 1.0,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dudleja01_2013_PHX",
+    "player_name": "Jared Dudley",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.1,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_duhonch01_2013_LAL",
+    "player_name": "Chris Duhon",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.5,
+      "AST": 2.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_duncati01_2013_SAS",
+    "player_name": "Tim Duncan",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 9.9,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 2.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dunlemi02_2013_MIL",
+    "player_name": "Mike Dunleavy",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.9,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_duranke01_2013_OKC",
+    "player_name": "Kevin Durant",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 28.1,
+      "REB": 7.9,
+      "AST": 4.6,
+      "STL": 1.4,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2013_2TM",
+    "player_name": "Wayne Ellington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 2.1,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2013_MEM",
+    "player_name": "Wayne Ellington",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.3,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2013_CLE",
+    "player_name": "Wayne Ellington",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 3.0,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellismo01_2013_MIL",
+    "player_name": "Monta Ellis",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.2,
+      "REB": 3.9,
+      "AST": 6.0,
+      "STL": 2.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_engliki01_2013_DET",
+    "player_name": "Kim English",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 0.9,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansje01_2013_UTA",
+    "player_name": "Jeremy Evans",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.6,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansre01_2013_BKN",
+    "player_name": "Reggie Evans",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 11.1,
+      "AST": 0.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansty01_2013_SAC",
+    "player_name": "Tyreke Evans",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 4.4,
+      "AST": 3.5,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ezelife01_2013_GSW",
+    "player_name": "Festus Ezeli",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 4.0,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_farieke01_2013_DEN",
+    "player_name": "Kenneth Faried",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 9.2,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_favorde01_2013_UTA",
+    "player_name": "Derrick Favors",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 7.1,
+      "AST": 1.0,
+      "STL": 0.9,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_feltora01_2013_NYK",
+    "player_name": "Raymond Felton",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 2.9,
+      "AST": 5.5,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fieldla01_2013_TOR",
+    "player_name": "Landry Fields",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 4.1,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fishede01_2013_2TM",
+    "player_name": "Derek Fisher",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.1,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fishede01_2013_OKC",
+    "player_name": "Derek Fisher",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 0.9,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fournev01_2013_DEN",
+    "player_name": "Evan Fournier",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 0.9,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_foyera01_2013_UTA",
+    "player_name": "Randy Foye",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fredeji01_2013_SAC",
+    "player_name": "Jimmer Fredette",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 1.0,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_freeljo01_2013_POR",
+    "player_name": "Joel Freeland",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.3,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gallida01_2013_DEN",
+    "player_name": "Danilo Gallinari",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 5.2,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_garcifr01_2013_2TM",
+    "player_name": "Francisco Garc\u00eda",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.6,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_garcifr01_2013_SAC",
+    "player_name": "Francisco Garc\u00eda",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.7,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_garneke01_2013_BOS",
+    "player_name": "Kevin Garnett",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 7.8,
+      "AST": 2.3,
+      "STL": 1.1,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolma01_2013_MEM",
+    "player_name": "Marc Gasol",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 7.8,
+      "AST": 4.0,
+      "STL": 1.0,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolpa01_2013_LAL",
+    "player_name": "Pau Gasol",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 8.6,
+      "AST": 4.1,
+      "STL": 0.5,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gayru01_2013_2TM",
+    "player_name": "Rudy Gay",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 6.1,
+      "AST": 2.7,
+      "STL": 1.5,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gayru01_2013_MEM",
+    "player_name": "Rudy Gay",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 5.9,
+      "AST": 2.6,
+      "STL": 1.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gayru01_2013_TOR",
+    "player_name": "Rudy Gay",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 6.4,
+      "AST": 2.8,
+      "STL": 1.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_geeal01_2013_CLE",
+    "player_name": "Alonzo Gee",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 3.9,
+      "AST": 1.6,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gelabmi01_2013_MIN",
+    "player_name": "Micka\u00ebl Gelabale",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.8,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_georgpa01_2013_IND",
+    "player_name": "Paul George",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 7.6,
+      "AST": 4.1,
+      "STL": 1.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gibsoda01_2013_CLE",
+    "player_name": "Daniel Gibson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.3,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gibsota01_2013_CHI",
+    "player_name": "Taj Gibson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 5.3,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ginobma01_2013_SAS",
+    "player_name": "Manu Gin\u00f3bili",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 3.4,
+      "AST": 4.6,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gordobe01_2013_CHA",
+    "player_name": "Ben Gordon",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 1.7,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gordoer01_2013_NOP",
+    "player_name": "Eric Gordon",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 1.8,
+      "AST": 3.3,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gortama01_2013_PHX",
+    "player_name": "Marcin Gortat",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 8.5,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grayaa01_2013_TOR",
+    "player_name": "Aaron Gray",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 3.2,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenda02_2013_SAS",
+    "player_name": "Danny Green",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.1,
+      "AST": 1.8,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greendr01_2013_GSW",
+    "player_name": "Draymond Green",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 3.3,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenge01_2013_IND",
+    "player_name": "Gerald Green",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenje02_2013_BOS",
+    "player_name": "Jeff Green",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 3.9,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenwi01_2013_LAC",
+    "player_name": "Willie Green",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 1.3,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_griffbl01_2013_LAC",
+    "player_name": "Blake Griffin",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 8.3,
+      "AST": 3.7,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_haddaha01_2013_2TM",
+    "player_name": "Hamed Haddadi",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 3.7,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hamiljo02_2013_DEN",
+    "player_name": "Jordan Hamilton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.4,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hamilri01_2013_CHI",
+    "player_name": "Richard Hamilton",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 1.7,
+      "AST": 2.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hansbbe01_2013_IND",
+    "player_name": "Ben Hansbrough",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.6,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hansbty01_2013_IND",
+    "player_name": "Tyler Hansbrough",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 4.6,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hardeja01_2013_HOU",
+    "player_name": "James Harden",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 4.9,
+      "AST": 5.8,
+      "STL": 1.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harklma01_2013_ORL",
+    "player_name": "Maurice Harkless",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.4,
+      "AST": 0.7,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harride01_2013_ATL",
+    "player_name": "Devin Harris",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.0,
+      "AST": 3.4,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrite01_2013_2TM",
+    "player_name": "Terrel Harris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 0.8,
+      "REB": 1.3,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2013_2TM",
+    "player_name": "Tobias Harris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 5.2,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2013_MIL",
+    "player_name": "Tobias Harris",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2013_ORL",
+    "player_name": "Tobias Harris",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 8.5,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hasleud01_2013_MIA",
+    "player_name": "Udonis Haslem",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 5.4,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hawessp01_2013_PHI",
+    "player_name": "Spencer Hawes",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 7.2,
+      "AST": 2.2,
+      "STL": 0.3,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hayesch01_2013_SAC",
+    "player_name": "Chuck Hayes",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 4.0,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_haywago01_2013_UTA",
+    "player_name": "Gordon Hayward",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 3.1,
+      "AST": 3.0,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_haywobr01_2013_CHA",
+    "player_name": "Brendan Haywood",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 4.8,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hendege02_2013_CHA",
+    "player_name": "Gerald Henderson",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 3.7,
+      "AST": 2.6,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_henryxa01_2013_NOP",
+    "player_name": "Xavier Henry",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.8,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hensojo01_2013_MIL",
+    "player_name": "John Henson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hibbero01_2013_IND",
+    "player_name": "Roy Hibbert",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 8.3,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 2.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hicksjj01_2013_POR",
+    "player_name": "J.J. Hickson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 10.4,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hilarne01_2013_WAS",
+    "player_name": "Nen\u00ea",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 6.7,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillge01_2013_IND",
+    "player_name": "George Hill",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 3.7,
+      "AST": 4.7,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillgr01_2013_LAC",
+    "player_name": "Grant Hill",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.7,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hilljo01_2013_LAL",
+    "player_name": "Jordan Hill",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 5.7,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hinriki01_2013_CHI",
+    "player_name": "Kirk Hinrich",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.6,
+      "AST": 5.2,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidjr01_2013_PHI",
+    "player_name": "Jrue Holiday",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 4.2,
+      "AST": 8.0,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holliry01_2013_LAC",
+    "player_name": "Ryan Hollins",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.3,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_horfoal01_2013_ATL",
+    "player_name": "Al Horford",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 10.2,
+      "AST": 3.2,
+      "STL": 1.1,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_howardw01_2013_LAL",
+    "player_name": "Dwight Howard",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 12.4,
+      "AST": 1.4,
+      "STL": 1.1,
+      "BLK": 2.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_humphkr01_2013_BKN",
+    "player_name": "Kris Humphries",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 5.6,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ibakase01_2013_OKC",
+    "player_name": "Serge Ibaka",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 7.7,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 3.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_iguodan01_2013_DEN",
+    "player_name": "Andre Iguodala",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 5.3,
+      "AST": 5.4,
+      "STL": 1.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ilyaser01_2013_MIL",
+    "player_name": "Ersan \u0130lyasova",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 7.1,
+      "AST": 1.6,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_irvinky01_2013_CLE",
+    "player_name": "Kyrie Irving",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 22.5,
+      "REB": 3.7,
+      "AST": 5.9,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_iveyro01_2013_PHI",
+    "player_name": "Royal Ivey",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.1,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jackja01_2013_GSW",
+    "player_name": "Jarrett Jack",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 3.1,
+      "AST": 5.6,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksre01_2013_OKC",
+    "player_name": "Reggie Jackson",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.4,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksst02_2013_SAS",
+    "player_name": "Stephen Jackson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 2.8,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jamesbe01_2013_DAL",
+    "player_name": "Bernard James",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.8,
+      "AST": 0.1,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jamesle01_2013_MIA",
+    "player_name": "LeBron James",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PG-SG-SF-PF-C",
+    "stats": {
+      "PTS": 26.8,
+      "REB": 8.0,
+      "AST": 7.3,
+      "STL": 1.7,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jamesmi01_2013_DAL",
+    "player_name": "Mike James",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.6,
+      "AST": 3.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jamisan01_2013_LAL",
+    "player_name": "Antawn Jamison",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.8,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jeffeal01_2013_UTA",
+    "player_name": "Al Jefferson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 9.2,
+      "AST": 2.1,
+      "STL": 1.0,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jefferi01_2013_GSW",
+    "player_name": "Richard Jefferson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.5,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jeffrja01_2013_POR",
+    "player_name": "Jared Jeffries",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 1.6,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkich01_2013_2TM",
+    "player_name": "Charles Jenkins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 0.5,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkich01_2013_GSW",
+    "player_name": "Charles Jenkins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 0.4,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkijo01_2013_ATL",
+    "player_name": "John Jenkins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.5,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jennibr01_2013_MIL",
+    "player_name": "Brandon Jennings",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 3.1,
+      "AST": 6.5,
+      "STL": 1.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jerebjo01_2013_DET",
+    "player_name": "Jonas Jerebko",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 3.8,
+      "AST": 0.9,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsam01_2013_TOR",
+    "player_name": "Amir Johnson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 7.5,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsch03_2013_MIN",
+    "player_name": "Chris Johnson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.0,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsiv01_2013_ATL",
+    "player_name": "Ivan Johnson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 3.9,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsja01_2013_SAC",
+    "player_name": "James Johnson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.7,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsjo02_2013_BKN",
+    "player_name": "Joe Johnson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 3.0,
+      "AST": 3.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsor01_2013_IND",
+    "player_name": "Orlando Johnson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnswe01_2013_PHX",
+    "player_name": "Wesley Johnson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 2.5,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesda02_2013_2TM",
+    "player_name": "Dahntay Jones",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.3,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesda02_2013_DAL",
+    "player_name": "Dahntay Jones",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.4,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesda02_2013_ATL",
+    "player_name": "Dahntay Jones",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.1,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesde01_2013_ORL",
+    "player_name": "DeQuan Jones",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.7,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesdo02_2013_DAL",
+    "player_name": "Dominique Jones",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.6,
+      "AST": 2.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesja02_2013_MIA",
+    "player_name": "James Jones",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 0.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_joneske01_2013_CLE",
+    "player_name": "Kevin Jones",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.4,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonespe01_2013_OKC",
+    "player_name": "Perry Jones",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jordade01_2013_LAC",
+    "player_name": "DeAndre Jordan",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 7.2,
+      "AST": 0.3,
+      "STL": 0.6,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_josepco01_2013_SAS",
+    "player_name": "Cory Joseph",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.9,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kamanch01_2013_DAL",
+    "player_name": "Chris Kaman",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 5.6,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kanteen01_2013_UTA",
+    "player_name": "Enes Freedom",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 4.3,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kiddgmi01_2013_CHA",
+    "player_name": "Michael Kidd-Gilchrist",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 5.8,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kiddja01_2013_NYK",
+    "player_name": "Jason Kidd",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.3,
+      "AST": 3.3,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kirilan01_2013_MIN",
+    "player_name": "Andrei Kirilenko",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 5.7,
+      "AST": 2.8,
+      "STL": 1.5,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kleizli01_2013_TOR",
+    "player_name": "Linas Kleiza",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.6,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_knighbr03_2013_DET",
+    "player_name": "Brandon Knight",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 3.3,
+      "AST": 4.0,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_korveky01_2013_ATL",
+    "player_name": "Kyle Korver",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 4.0,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_koufoko01_2013_DEN",
+    "player_name": "Kosta Koufos",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 6.9,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kravtvi01_2013_DET",
+    "player_name": "Viacheslav Kravtsov",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.8,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lambdo01_2013_2TM",
+    "player_name": "Doron Lamb",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.0,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lambdo01_2013_MIL",
+    "player_name": "Doron Lamb",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 0.7,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lambdo01_2013_ORL",
+    "player_name": "Doron Lamb",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.2,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lambje01_2013_OKC",
+    "player_name": "Jeremy Lamb",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 0.8,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_landrca01_2013_GSW",
+    "player_name": "Carl Landry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 6.0,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lawsoty01_2013_DEN",
+    "player_name": "Ty Lawson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.7,
+      "REB": 2.7,
+      "AST": 6.9,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeco01_2013_BOS",
+    "player_name": "Courtney Lee",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.4,
+      "AST": 1.8,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeda02_2013_GSW",
+    "player_name": "David Lee",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 11.2,
+      "AST": 3.5,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leonaka01_2013_SAS",
+    "player_name": "Kawhi Leonard",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 6.0,
+      "AST": 1.6,
+      "STL": 1.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leoname01_2013_POR",
+    "player_name": "Meyers Leonard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.7,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leuerjo01_2013_2TM",
+    "player_name": "Jon Leuer",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.3,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lewisra02_2013_MIA",
+    "player_name": "Rashard Lewis",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_liggide01_2013_OKC",
+    "player_name": "DeAndre Liggins",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 1.4,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lillada01_2013_POR",
+    "player_name": "Damian Lillard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 3.1,
+      "AST": 6.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_linje01_2013_HOU",
+    "player_name": "Jeremy Lin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 3.0,
+      "AST": 6.1,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_livinsh01_2013_2TM",
+    "player_name": "Shaun Livingston",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 2.4,
+      "AST": 3.3,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_livinsh01_2013_CLE",
+    "player_name": "Shaun Livingston",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.5,
+      "AST": 3.6,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lopezbr01_2013_BKN",
+    "player_name": "Brook Lopez",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 6.9,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 2.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lopezro01_2013_NOP",
+    "player_name": "Robin Lopez",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 5.6,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lowryky01_2013_TOR",
+    "player_name": "Kyle Lowry",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 4.7,
+      "AST": 6.4,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lucasjo02_2013_TOR",
+    "player_name": "John Lucas III",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.0,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2013_3TM",
+    "player_name": "Shelvin Mack",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.3,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2013_ATL",
+    "player_name": "Shelvin Mack",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.2,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mahinia01_2013_IND",
+    "player_name": "Ian Mahinmi",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.9,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mariosh01_2013_DAL",
+    "player_name": "Shawn Marion",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 7.8,
+      "AST": 2.4,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marshke01_2013_PHX",
+    "player_name": "Kendall Marshall",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 0.9,
+      "AST": 3.0,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_martica01_2013_WAS",
+    "player_name": "Cartier Martin",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.4,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_martike02_2013_OKC",
+    "player_name": "Kevin Martin",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 2.3,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_masonro01_2013_NOP",
+    "player_name": "Roger Mason",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.9,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_matthwe02_2013_POR",
+    "player_name": "Wesley Matthews",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 2.8,
+      "AST": 2.5,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_maxieja01_2013_DET",
+    "player_name": "Jason Maxiell",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 5.7,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_maynoer01_2013_2TM",
+    "player_name": "Eric Maynor",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 0.7,
+      "AST": 2.8,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_maynoer01_2013_OKC",
+    "player_name": "Eric Maynor",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.5,
+      "AST": 2.0,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_maynoer01_2013_POR",
+    "player_name": "Eric Maynor",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.0,
+      "AST": 4.0,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mayooj01_2013_DAL",
+    "player_name": "O.J. Mayo",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 3.5,
+      "AST": 4.4,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mbahalu01_2013_MIL",
+    "player_name": "Luc Mbah a Moute",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 4.4,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcgeeja01_2013_DEN",
+    "player_name": "JaVale McGee",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 4.8,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 2.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcguido01_2013_3TM",
+    "player_name": "Dominic McGuire",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 3.0,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcrobjo01_2013_2TM",
+    "player_name": "Josh McRoberts",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.9,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcrobjo01_2013_ORL",
+    "player_name": "Josh McRoberts",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 3.3,
+      "AST": 1.7,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcrobjo01_2013_CHA",
+    "player_name": "Josh McRoberts",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 7.2,
+      "AST": 2.7,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_meeksjo01_2013_LAL",
+    "player_name": "Jodie Meeks",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_middlkh01_2013_DET",
+    "player_name": "Khris Middleton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.9,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_milescj01_2013_CLE",
+    "player_name": "C.J. Miles",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 2.7,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millean02_2013_DEN",
+    "player_name": "Andre Miller",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 2.9,
+      "AST": 5.9,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_milleda01_2013_NOP",
+    "player_name": "Darius Miller",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.5,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millemi01_2013_MIA",
+    "player_name": "Mike Miller",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.7,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millspa01_2013_UTA",
+    "player_name": "Paul Millsap",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 7.1,
+      "AST": 2.6,
+      "STL": 1.3,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millspa02_2013_SAS",
+    "player_name": "Patty Mills",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 0.9,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mohamna01_2013_CHI",
+    "player_name": "Nazr Mohammed",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 3.1,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_monrogr01_2013_DET",
+    "player_name": "Greg Monroe",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 9.6,
+      "AST": 3.5,
+      "STL": 1.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mooreet01_2013_ORL",
+    "player_name": "E'Twaun Moore",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.2,
+      "AST": 2.7,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrida01_2013_LAL",
+    "player_name": "Darius Morris",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.2,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2013_PHX",
+    "player_name": "Markieff Morris",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.8,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima03_2013_2TM",
+    "player_name": "Marcus Morris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 3.6,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima03_2013_HOU",
+    "player_name": "Marcus Morris",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 4.1,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima03_2013_PHX",
+    "player_name": "Marcus Morris",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.5,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morroan01_2013_2TM",
+    "player_name": "Anthony Morrow",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 0.7,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morroan01_2013_ATL",
+    "player_name": "Anthony Morrow",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.1,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_motiedo01_2013_HOU",
+    "player_name": "Donatas Motiej\u016bnas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.1,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_moultar01_2013_PHI",
+    "player_name": "Arnett Moultrie",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 3.1,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mozgoti01_2013_DEN",
+    "player_name": "Timofey Mozgov",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.6,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mulleby01_2013_CHA",
+    "player_name": "Byron Mullens",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 6.4,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nashst01_2013_LAL",
+    "player_name": "Steve Nash",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 2.8,
+      "AST": 6.7,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nealga01_2013_SAS",
+    "player_name": "Gary Neal",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 2.1,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nelsoja01_2013_ORL",
+    "player_name": "Jameer Nelson",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 3.7,
+      "AST": 7.4,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nichoan01_2013_ORL",
+    "player_name": "Andrew Nicholson",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_noahjo01_2013_CHI",
+    "player_name": "Joakim Noah",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 11.1,
+      "AST": 4.0,
+      "STL": 1.2,
+      "BLK": 2.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_novakst01_2013_NYK",
+    "player_name": "Steve Novak",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 1.9,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nowitdi01_2013_DAL",
+    "player_name": "Dirk Nowitzki",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 6.8,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_odomla01_2013_LAC",
+    "player_name": "Lamar Odom",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 5.9,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_okafoem01_2013_WAS",
+    "player_name": "Emeka Okafor",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 8.8,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_onealje01_2013_PHX",
+    "player_name": "Jermaine O'Neal",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 5.3,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oquinky01_2013_ORL",
+    "player_name": "Kyle O'Quinn",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.7,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_outlatr01_2013_SAC",
+    "player_name": "Travis Outlaw",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.6,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pachuza01_2013_ATL",
+    "player_name": "Zaza Pachulia",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 6.5,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pargoja01_2013_3TM",
+    "player_name": "Jannero Pargo",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 1.1,
+      "AST": 2.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pargoje01_2013_2TM",
+    "player_name": "Jeremy Pargo",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.3,
+      "AST": 2.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pargoje01_2013_CLE",
+    "player_name": "Jeremy Pargo",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 1.3,
+      "AST": 2.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parketo01_2013_SAS",
+    "player_name": "Tony Parker",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.3,
+      "REB": 3.0,
+      "AST": 7.6,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parsoch01_2013_HOU",
+    "player_name": "Chandler Parsons",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 5.3,
+      "AST": 3.5,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pattepa01_2013_2TM",
+    "player_name": "Patrick Patterson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 4.7,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pattepa01_2013_HOU",
+    "player_name": "Patrick Patterson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 4.7,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pattepa01_2013_SAC",
+    "player_name": "Patrick Patterson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.8,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_paulch01_2013_LAC",
+    "player_name": "Chris Paul",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 3.7,
+      "AST": 9.7,
+      "STL": 2.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pavloal01_2013_POR",
+    "player_name": "Sasha Pavlovi\u0107",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.4,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pekovni01_2013_MIN",
+    "player_name": "Nikola Pekovi\u0107",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 8.8,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pendeje02_2013_IND",
+    "player_name": "Jeff Ayres",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_perkike01_2013_OKC",
+    "player_name": "Kendrick Perkins",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 6.0,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_petrojo01_2013_ATL",
+    "player_name": "Johan Petro",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 3.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_piercpa01_2013_BOS",
+    "player_name": "Paul Pierce",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 6.3,
+      "AST": 4.8,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pondequ01_2013_MEM",
+    "player_name": "Quincy Pondexter",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.2,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_priceaj01_2013_WAS",
+    "player_name": "A.J. Price",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.0,
+      "AST": 3.6,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pricero01_2013_POR",
+    "player_name": "Ronnie Price",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 1.1,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_prigipa01_2013_NYK",
+    "player_name": "Pablo Prigioni",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.8,
+      "AST": 3.0,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_princta01_2013_2TM",
+    "player_name": "Tayshaun Prince",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 4.4,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_princta01_2013_DET",
+    "player_name": "Tayshaun Prince",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 4.6,
+      "AST": 2.5,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_princta01_2013_MEM",
+    "player_name": "Tayshaun Prince",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 4.2,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_radmavl01_2013_CHI",
+    "player_name": "Vladimir Radmanovi\u0107",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 1.1,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_randoan01_2013_DEN",
+    "player_name": "Anthony Randolph",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.4,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_randoza01_2013_MEM",
+    "player_name": "Zach Randolph",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 11.2,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_redicjj01_2013_2TM",
+    "player_name": "JJ Redick",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 2.2,
+      "AST": 3.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_redicjj01_2013_ORL",
+    "player_name": "JJ Redick",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 2.4,
+      "AST": 4.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_redicjj01_2013_MIL",
+    "player_name": "JJ Redick",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 1.9,
+      "AST": 2.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_richaja01_2013_PHI",
+    "player_name": "Jason Richardson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.8,
+      "AST": 1.5,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ridnolu01_2013_MIN",
+    "player_name": "Luke Ridnour",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 2.5,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_riverau01_2013_NOP",
+    "player_name": "Austin Rivers",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.8,
+      "AST": 2.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roberbr01_2013_NOP",
+    "player_name": "Brian Roberts",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.2,
+      "AST": 2.8,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robinna01_2013_CHI",
+    "player_name": "Nate Robinson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 2.2,
+      "AST": 4.4,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robinth01_2013_2TM",
+    "player_name": "Thomas Robinson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.5,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robinth01_2013_SAC",
+    "player_name": "Thomas Robinson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.7,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rondora01_2013_BOS",
+    "player_name": "Rajon Rondo",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 5.6,
+      "AST": 11.1,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rosste01_2013_TOR",
+    "player_name": "Terrence Ross",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.0,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rubiori01_2013_MIN",
+    "player_name": "Ricky Rubio",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 4.0,
+      "AST": 7.3,
+      "STL": 2.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sacrero01_2013_LAL",
+    "player_name": "Robert Sacre",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 1.1,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_salmojo01_2013_SAC",
+    "player_name": "John Salmons",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 2.7,
+      "AST": 3.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sandela01_2013_MIL",
+    "player_name": "Larry Sanders",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 9.5,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 2.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scolalu01_2013_PHX",
+    "player_name": "Luis Scola",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 6.6,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scottmi01_2013_ATL",
+    "player_name": "Mike Scott",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.8,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sefolth01_2013_OKC",
+    "player_name": "Thabo Sefolosha",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 3.9,
+      "AST": 1.5,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_serapke01_2013_WAS",
+    "player_name": "Kevin S\u00e9raphin",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 4.4,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sessira01_2013_CHA",
+    "player_name": "Ramon Sessions",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.4,
+      "REB": 2.8,
+      "AST": 3.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shumpim01_2013_NYK",
+    "player_name": "Iman Shumpert",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.0,
+      "AST": 1.7,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shvedal01_2013_MIN",
+    "player_name": "Alexey Shved",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.3,
+      "AST": 3.7,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_singlch01_2013_WAS",
+    "player_name": "Chris Singleton",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.2,
+      "AST": 0.6,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_singlky01_2013_DET",
+    "player_name": "Kyle Singler",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 4.0,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sloando01_2013_2TM",
+    "player_name": "Donald Sloan",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.2,
+      "AST": 1.7,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sloando01_2013_CLE",
+    "player_name": "Donald Sloan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.4,
+      "AST": 1.9,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithgr02_2013_HOU",
+    "player_name": "Greg Smith",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.6,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithis01_2013_2TM",
+    "player_name": "Ish Smith",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.2,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithis01_2013_ORL",
+    "player_name": "Ish Smith",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.3,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithja02_2013_NOP",
+    "player_name": "Jason Smith",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 3.6,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithjo03_2013_ATL",
+    "player_name": "Josh Smith",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 8.4,
+      "AST": 4.2,
+      "STL": 1.2,
+      "BLK": 1.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithjr01_2013_NYK",
+    "player_name": "J.R. Smith",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 5.3,
+      "AST": 2.7,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithno01_2013_POR",
+    "player_name": "Nolan Smith",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.7,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_speigma01_2013_2TM",
+    "player_name": "Marreese Speights",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 4.9,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_speigma01_2013_MEM",
+    "player_name": "Marreese Speights",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_speigma01_2013_CLE",
+    "player_name": "Marreese Speights",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 5.1,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_splitti01_2013_SAS",
+    "player_name": "Tiago Splitter",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 6.4,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stackje01_2013_BKN",
+    "player_name": "Jerry Stackhouse",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 0.9,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stephla01_2013_IND",
+    "player_name": "Lance Stephenson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 3.9,
+      "AST": 2.9,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stevede01_2013_ATL",
+    "player_name": "DeShawn Stevenson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stiemgr01_2013_MIN",
+    "player_name": "Greg Stiemsma",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.4,
+      "AST": 0.4,
+      "STL": 0.6,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stoudam01_2013_NYK",
+    "player_name": "Amar'e Stoudemire",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 5.0,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stuckro01_2013_DET",
+    "player_name": "Rodney Stuckey",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 2.8,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sullija01_2013_BOS",
+    "player_name": "Jared Sullinger",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 5.9,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tayloje03_2013_CHA",
+    "player_name": "Jeff Taylor",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.9,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tayloty01_2013_BKN",
+    "player_name": "Tyshawn Taylor",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.5,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_teaguje01_2013_ATL",
+    "player_name": "Jeff Teague",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 2.3,
+      "AST": 7.2,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_teaguma01_2013_CHI",
+    "player_name": "Marquis Teague",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 0.9,
+      "AST": 1.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_teletmi01_2013_BKN",
+    "player_name": "Mirza Teletovi\u0107",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.8,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_telfase01_2013_2TM",
+    "player_name": "Sebastian Telfair",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.4,
+      "AST": 2.6,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_telfase01_2013_PHX",
+    "player_name": "Sebastian Telfair",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 1.5,
+      "AST": 2.5,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_templga01_2013_WAS",
+    "player_name": "Garrett Temple",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.4,
+      "AST": 2.3,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_terryja01_2013_BOS",
+    "player_name": "Jason Terry",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 2.0,
+      "AST": 2.5,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thabeha01_2013_OKC",
+    "player_name": "Hasheem Thabeet",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 3.0,
+      "AST": 0.2,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomais02_2013_SAC",
+    "player_name": "Isaiah Thomas",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 2.0,
+      "AST": 4.0,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomaku01_2013_NYK",
+    "player_name": "Kurt Thomas",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomala01_2013_NOP",
+    "player_name": "Lance Thomas",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.9,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomaty01_2013_CHA",
+    "player_name": "Tyrus Thomas",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.3,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompja02_2013_SAC",
+    "player_name": "Jason Thompson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 6.7,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompkl01_2013_GSW",
+    "player_name": "Klay Thompson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.7,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomptr01_2013_CLE",
+    "player_name": "Tristan Thompson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 9.4,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thornma01_2013_SAC",
+    "player_name": "Marcus Thornton",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 2.5,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tinslja01_2013_UTA",
+    "player_name": "Jamaal Tinsley",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.7,
+      "AST": 4.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tollian01_2013_ATL",
+    "player_name": "Anthony Tolliver",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.5,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tuckepj01_2013_PHX",
+    "player_name": "P.J. Tucker",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 4.4,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_turiaro01_2013_LAC",
+    "player_name": "Ronny Turiaf",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_turneev01_2013_PHI",
+    "player_name": "Evan Turner",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 6.3,
+      "AST": 4.3,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tylerje01_2013_2TM",
+    "player_name": "Jeremy Tyler",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.0,
+      "REB": 1.0,
+      "AST": 0.0,
+      "STL": 0.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tylerje01_2013_GSW",
+    "player_name": "Jeremy Tyler",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.1,
+      "REB": 0.9,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udohek01_2013_MIL",
+    "player_name": "Ekpe Udoh",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.3,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udrihbe01_2013_2TM",
+    "player_name": "Beno Udrih",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.1,
+      "AST": 4.6,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udrihbe01_2013_MIL",
+    "player_name": "Beno Udrih",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.0,
+      "AST": 3.5,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udrihbe01_2013_ORL",
+    "player_name": "Beno Udrih",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 2.3,
+      "AST": 6.1,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_valanjo01_2013_TOR",
+    "player_name": "Jonas Valan\u010di\u016bnas",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 6.0,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_varejan01_2013_CLE",
+    "player_name": "Anderson Varej\u00e3o",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 14.4,
+      "AST": 3.4,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vasqugr01_2013_NOP",
+    "player_name": "Greivis V\u00e1squez",
+    "team": "NOH",
+    "team_abbr": "NOP",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 4.3,
+      "AST": 9.0,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_veselja01_2013_WAS",
+    "player_name": "Jan Vesel\u00fd",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.4,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_villach01_2013_DET",
+    "player_name": "Charlie Villanueva",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vucevni01_2013_ORL",
+    "player_name": "Nikola Vu\u010devi\u0107",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 11.9,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wadedw01_2013_MIA",
+    "player_name": "Dwyane Wade",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 5.0,
+      "AST": 5.1,
+      "STL": 1.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_waitedi01_2013_CLE",
+    "player_name": "Dion Waiters",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 2.4,
+      "AST": 3.0,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_walkeke02_2013_CHA",
+    "player_name": "Kemba Walker",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 3.5,
+      "AST": 5.7,
+      "STL": 2.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wallage01_2013_BKN",
+    "player_name": "Gerald Wallace",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.6,
+      "AST": 2.6,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wallara01_2013_NYK",
+    "player_name": "Rasheed Wallace",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 4.0,
+      "AST": 0.3,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_walljo01_2013_WAS",
+    "player_name": "John Wall",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 18.5,
+      "REB": 4.0,
+      "AST": 7.6,
+      "STL": 1.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_waltolu01_2013_CLE",
+    "player_name": "Luke Walton",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.9,
+      "AST": 3.3,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_warriha01_2013_2TM",
+    "player_name": "Hakim Warrick",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.2,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_warriha01_2013_CHA",
+    "player_name": "Hakim Warrick",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.3,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_watsocj01_2013_BKN",
+    "player_name": "C.J. Watson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.8,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_watsoea01_2013_UTA",
+    "player_name": "Earl Watson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.8,
+      "AST": 4.0,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_waynsma01_2013_2TM",
+    "player_name": "Maalik Wayns",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.3,
+      "AST": 1.0,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_waynsma01_2013_PHI",
+    "player_name": "Maalik Wayns",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 0.2,
+      "AST": 1.0,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_webstma02_2013_WAS",
+    "player_name": "Martell Webster",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 3.9,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_westbru01_2013_OKC",
+    "player_name": "Russell Westbrook",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 23.2,
+      "REB": 5.2,
+      "AST": 7.4,
+      "STL": 1.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_westda01_2013_IND",
+    "player_name": "David West",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 7.7,
+      "AST": 2.9,
+      "STL": 1.0,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_whiteja02_2013_NYK",
+    "player_name": "James White",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.8,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wilcoch01_2013_BOS",
+    "player_name": "Chris Wilcox",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.0,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wilkida02_2013_PHI",
+    "player_name": "Damien Wilkins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.7,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willide01_2013_BKN",
+    "player_name": "Deron Williams",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 3.0,
+      "AST": 7.7,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willide02_2013_MIN",
+    "player_name": "Derrick Williams",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 5.5,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willilo02_2013_ATL",
+    "player_name": "Lou Williams",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 2.1,
+      "AST": 3.6,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willima01_2013_UTA",
+    "player_name": "Mo Williams",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 2.4,
+      "AST": 6.2,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willima02_2013_UTA",
+    "player_name": "Marvin Williams",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.6,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willire02_2013_CHA",
+    "player_name": "Reggie Williams",
+    "team": "CHA",
+    "team_abbr": "CHA",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.3,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willite01_2013_BOS",
+    "player_name": "Terrence Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.8,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wrighbr03_2013_DAL",
+    "player_name": "Brandan Wright",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 4.1,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wrighdo01_2013_PHI",
+    "player_name": "Dorell Wright",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.8,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wroteto01_2013_MEM",
+    "player_name": "Tony Wroten",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2013,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 0.8,
+      "AST": 1.2,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngni01_2013_PHI",
+    "player_name": "Nick Young",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 2.2,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngsa01_2013_IND",
+    "player_name": "Sam Young",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2013,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngth01_2013_PHI",
+    "player_name": "Thaddeus Young",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2013,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 7.5,
+      "AST": 1.6,
+      "STL": 1.8,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zellety01_2013_CLE",
+    "player_name": "Tyler Zeller",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2013,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 5.7,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  }
+]

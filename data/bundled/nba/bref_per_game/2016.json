@@ -1,0 +1,8060 @@
+[
+  {
+    "player_id": "bref_acyqu01_2016_SAC",
+    "player_name": "Quincy Acy",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.2,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_adamsst01_2016_OKC",
+    "player_name": "Steven Adams",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 6.7,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_afflaar01_2016_NYK",
+    "player_name": "Arron Afflalo",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 3.7,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ajincal01_2016_NOP",
+    "player_name": "Alexis Ajin\u00e7a",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aldrico01_2016_LAC",
+    "player_name": "Cole Aldrich",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 4.8,
+      "AST": 0.8,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aldrila01_2016_SAS",
+    "player_name": "LaMarcus Aldridge",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 8.5,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allenla01_2016_IND",
+    "player_name": "Lavoy Allen",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 5.4,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_allento01_2016_MEM",
+    "player_name": "Tony Allen",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 4.6,
+      "AST": 1.1,
+      "STL": 1.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_aminual01_2016_POR",
+    "player_name": "Al-Farouq Aminu",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 6.1,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_amundlo01_2016_NYK",
+    "player_name": "Lou Amundson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.7,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderch01_2016_2TM",
+    "player_name": "Chris Andersen",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 3.6,
+      "AST": 0.4,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderch01_2016_MEM",
+    "player_name": "Chris Andersen",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 4.5,
+      "AST": 0.5,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderja01_2016_SAC",
+    "player_name": "James Anderson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.7,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderju01_2016_DAL",
+    "player_name": "Justin Anderson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.4,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderky01_2016_SAS",
+    "player_name": "Kyle Anderson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 3.1,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anderry01_2016_NOP",
+    "player_name": "Ryan Anderson",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 6.0,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_antetgi01_2016_MIL",
+    "player_name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 7.7,
+      "AST": 4.3,
+      "STL": 1.2,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_anthoca01_2016_NYK",
+    "player_name": "Carmelo Anthony",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.8,
+      "REB": 7.7,
+      "AST": 4.2,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arizatr01_2016_HOU",
+    "player_name": "Trevor Ariza",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 4.5,
+      "AST": 2.3,
+      "STL": 2.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_artesro01_2016_LAL",
+    "player_name": "Metta World Peace",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.5,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_arthuda01_2016_DEN",
+    "player_name": "Darrell Arthur",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.2,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_asikom01_2016_NOP",
+    "player_name": "\u00d6mer A\u015f\u0131k",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 6.1,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_augusdj01_2016_2TM",
+    "player_name": "D.J. Augustin",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.5,
+      "AST": 3.2,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_augusdj01_2016_OKC",
+    "player_name": "D.J. Augustin",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.3,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_augusdj01_2016_DEN",
+    "player_name": "D.J. Augustin",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 1.9,
+      "AST": 4.7,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_babbilu01_2016_NOP",
+    "player_name": "Luke Babbitt",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.1,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barbole01_2016_GSW",
+    "player_name": "Leandro Barbosa",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.7,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bareajo01_2016_DAL",
+    "player_name": "J.J. Barea",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 2.1,
+      "AST": 4.1,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bargnan01_2016_BKN",
+    "player_name": "Andrea Bargnani",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barneha02_2016_GSW",
+    "player_name": "Harrison Barnes",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 4.9,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_barnema02_2016_MEM",
+    "player_name": "Matt Barnes",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 5.5,
+      "AST": 2.1,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bartowi01_2016_DEN",
+    "player_name": "Will Barton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.4,
+      "REB": 5.8,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bassbr01_2016_LAL",
+    "player_name": "Brandon Bass",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 4.3,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_batumni01_2016_CHO",
+    "player_name": "Nicolas Batum",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 6.1,
+      "AST": 5.8,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bayleje01_2016_MIL",
+    "player_name": "Jerryd Bayless",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 2.7,
+      "AST": 3.1,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_baynear01_2016_DET",
+    "player_name": "Aron Baynes",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 4.7,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bazemke01_2016_ATL",
+    "player_name": "Kent Bazemore",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 5.1,
+      "AST": 2.3,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bealbr01_2016_WAS",
+    "player_name": "Bradley Beal",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 3.4,
+      "AST": 2.9,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beaslmi01_2016_HOU",
+    "player_name": "Michael Beasley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 4.9,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_belinma01_2016_SAC",
+    "player_name": "Marco Belinelli",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 1.7,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_beverpa01_2016_HOU",
+    "player_name": "Patrick Beverley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 3.5,
+      "AST": 3.4,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_biyombi01_2016_TOR",
+    "player_name": "Bismack Biyombo",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 8.0,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bjeline01_2016_MIN",
+    "player_name": "Nemanja Bjelica",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.5,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blackta01_2016_LAL",
+    "player_name": "Tarik Black",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 4.0,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blairde01_2016_WAS",
+    "player_name": "DeJuan Blair",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 2.0,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_blakest01_2016_DET",
+    "player_name": "Steve Blake",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.5,
+      "AST": 3.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bledser01_2016_PHX",
+    "player_name": "Eric Bledsoe",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.4,
+      "REB": 4.0,
+      "AST": 6.1,
+      "STL": 2.0,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bogdabo02_2016_BKN",
+    "player_name": "Bojan Bogdanovi\u0107",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 3.2,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bogutan01_2016_GSW",
+    "player_name": "Andrew Bogut",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 7.0,
+      "AST": 2.3,
+      "STL": 0.5,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bonnema01_2016_SAS",
+    "player_name": "Matt Bonner",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 0.9,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bookede01_2016_PHX",
+    "player_name": "Devin Booker",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 2.5,
+      "AST": 2.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_booketr01_2016_UTA",
+    "player_name": "Trevor Booker",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 5.7,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_boshch01_2016_MIA",
+    "player_name": "Chris Bosh",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 7.4,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bradlav01_2016_BOS",
+    "player_name": "Avery Bradley",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 2.9,
+      "AST": 2.1,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_breweco01_2016_HOU",
+    "player_name": "Corey Brewer",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.4,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brookaa01_2016_CHI",
+    "player_name": "Aaron Brooks",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.5,
+      "AST": 2.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownan02_2016_LAL",
+    "player_name": "Anthony Brown",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_brownma02_2016_BKN",
+    "player_name": "Markel Brown",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.0,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bryanko01_2016_LAL",
+    "player_name": "Kobe Bryant",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 3.7,
+      "AST": 2.8,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_budinch01_2016_2TM",
+    "player_name": "Chase Budinger",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.3,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_budinch01_2016_IND",
+    "player_name": "Chase Budinger",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.5,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_bullore01_2016_DET",
+    "player_name": "Reggie Bullock",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.8,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burketr01_2016_UTA",
+    "player_name": "Trey Burke",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 1.8,
+      "AST": 2.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_burksal01_2016_UTA",
+    "player_name": "Alec Burks",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 3.5,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_butleji01_2016_CHI",
+    "player_name": "Jimmy Butler",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 5.3,
+      "AST": 4.8,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_butlera01_2016_SAS",
+    "player_name": "Rasual Butler",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 1.2,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldejo01_2016_NYK",
+    "player_name": "Jos\u00e9 Calder\u00f3n",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 3.2,
+      "AST": 4.1,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caldwke01_2016_DET",
+    "player_name": "Kentavious Caldwell-Pope",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 3.7,
+      "AST": 1.8,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_canaais01_2016_PHI",
+    "player_name": "Isaiah Canaan",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 2.3,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_capelca01_2016_HOU",
+    "player_name": "Clint Capela",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 6.4,
+      "AST": 0.6,
+      "STL": 0.8,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_carrode01_2016_TOR",
+    "player_name": "DeMarre Carroll",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 4.7,
+      "AST": 1.0,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cartemi01_2016_MIL",
+    "player_name": "Michael Carter-Williams",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 5.1,
+      "AST": 5.2,
+      "STL": 1.5,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cartevi01_2016_MEM",
+    "player_name": "Vince Carter",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.4,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_casspom01_2016_SAC",
+    "player_name": "Omri Casspi",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 5.9,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_caulewi01_2016_SAC",
+    "player_name": "Willie Cauley-Stein",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 5.3,
+      "AST": 0.6,
+      "STL": 0.7,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chalmma01_2016_2TM",
+    "player_name": "Mario Chalmers",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 2.6,
+      "AST": 3.8,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chalmma01_2016_MEM",
+    "player_name": "Mario Chalmers",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 2.6,
+      "AST": 3.8,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_chandty01_2016_PHX",
+    "player_name": "Tyson Chandler",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 8.7,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clarkia01_2016_GSW",
+    "player_name": "Ian Clark",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.0,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_clarkjo01_2016_LAL",
+    "player_name": "Jordan Clarkson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 4.0,
+      "AST": 2.4,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_coleno01_2016_NOP",
+    "player_name": "Norris Cole",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 3.4,
+      "AST": 3.7,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collida01_2016_SAC",
+    "player_name": "Darren Collison",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 2.3,
+      "AST": 4.3,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_collini01_2016_OKC",
+    "player_name": "Nick Collison",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 2.9,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_conlemi01_2016_MEM",
+    "player_name": "Mike Conley",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 2.9,
+      "AST": 6.1,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_connapa01_2016_POR",
+    "player_name": "Pat Connaughton",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.1,
+      "REB": 0.9,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_copelch01_2016_MIL",
+    "player_name": "Chris Copeland",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 0.4,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_couside01_2016_SAC",
+    "player_name": "DeMarcus Cousins",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 26.9,
+      "REB": 11.5,
+      "AST": 3.3,
+      "STL": 1.6,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_covinro01_2016_PHI",
+    "player_name": "Robert Covington",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 6.3,
+      "AST": 1.4,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crabbal01_2016_POR",
+    "player_name": "Allen Crabbe",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 2.7,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crawfja01_2016_LAC",
+    "player_name": "Jamal Crawford",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 1.8,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_crowdja01_2016_BOS",
+    "player_name": "Jae Crowder",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 5.1,
+      "AST": 1.8,
+      "STL": 1.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cunnida01_2016_NOP",
+    "player_name": "Dante Cunningham",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.0,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cunnija01_2016_2TM",
+    "player_name": "Jared Cunningham",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 0.9,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_cunnija01_2016_CLE",
+    "player_name": "Jared Cunningham",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 0.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_curryse01_2016_SAC",
+    "player_name": "Seth Curry",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.4,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_curryst01_2016_GSW",
+    "player_name": "Stephen Curry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 30.1,
+      "REB": 5.4,
+      "AST": 6.7,
+      "STL": 2.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_danietr01_2016_CHO",
+    "player_name": "Troy Daniels",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davisan02_2016_NOP",
+    "player_name": "Anthony Davis",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 24.3,
+      "REB": 10.3,
+      "AST": 1.9,
+      "STL": 1.3,
+      "BLK": 2.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_davised01_2016_POR",
+    "player_name": "Ed Davis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 7.4,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dedmode01_2016_ORL",
+    "player_name": "Dewayne Dedmon",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 3.9,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dellama01_2016_CLE",
+    "player_name": "Matthew Dellavedova",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.1,
+      "AST": 4.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_denglu01_2016_MIA",
+    "player_name": "Luol Deng",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 6.0,
+      "AST": 1.9,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_derozde01_2016_TOR",
+    "player_name": "DeMar DeRozan",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 23.5,
+      "REB": 4.5,
+      "AST": 4.0,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_diawbo01_2016_SAS",
+    "player_name": "Boris Diaw",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 3.1,
+      "AST": 2.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dienggo01_2016_MIN",
+    "player_name": "Gorgui Dieng",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 7.1,
+      "AST": 1.7,
+      "STL": 1.1,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_douglto01_2016_NOP",
+    "player_name": "Toney Douglas",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.3,
+      "AST": 2.6,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dragigo01_2016_MIA",
+    "player_name": "Goran Dragi\u0107",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 3.8,
+      "AST": 5.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_drumman01_2016_DET",
+    "player_name": "Andre Drummond",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 14.8,
+      "AST": 0.8,
+      "STL": 1.5,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dudleja01_2016_WAS",
+    "player_name": "Jared Dudley",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 3.5,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_duncati01_2016_SAS",
+    "player_name": "Tim Duncan",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 7.3,
+      "AST": 2.7,
+      "STL": 0.8,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_dunlemi02_2016_CHI",
+    "player_name": "Mike Dunleavy",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.7,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_duranke01_2016_OKC",
+    "player_name": "Kevin Durant",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 28.2,
+      "REB": 8.2,
+      "AST": 5.0,
+      "STL": 1.0,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_eddieja01_2016_WAS",
+    "player_name": "Jarell Eddie",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 0.9,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2016_BKN",
+    "player_name": "Wayne Ellington",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.3,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ellismo01_2016_IND",
+    "player_name": "Monta Ellis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 3.3,
+      "AST": 4.7,
+      "STL": 1.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ennisja01_2016_3TM",
+    "player_name": "James Ennis III",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 1.9,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ennisty01_2016_MIL",
+    "player_name": "Tyler Ennis",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.6,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansje01_2016_DAL",
+    "player_name": "Jeremy Evans",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.8,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_evansty01_2016_NOP",
+    "player_name": "Tyreke Evans",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 5.2,
+      "AST": 6.6,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ezelife01_2016_GSW",
+    "player_name": "Festus Ezeli",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 5.6,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_farieke01_2016_DEN",
+    "player_name": "Kenneth Faried",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 8.7,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_favorde01_2016_UTA",
+    "player_name": "Derrick Favors",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 8.1,
+      "AST": 1.5,
+      "STL": 1.2,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_feliccr01_2016_CHI",
+    "player_name": "Cristiano Fel\u00edcio",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_feltora01_2016_DAL",
+    "player_name": "Raymond Felton",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 3.2,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fournev01_2016_ORL",
+    "player_name": "Evan Fournier",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 2.8,
+      "AST": 2.7,
+      "STL": 1.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_foyera01_2016_2TM",
+    "player_name": "Randy Foye",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.9,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_foyera01_2016_DEN",
+    "player_name": "Randy Foye",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 1.9,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_foyera01_2016_OKC",
+    "player_name": "Randy Foye",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.9,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fraziti01_2016_2TM",
+    "player_name": "Tim Frazier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.2,
+      "AST": 3.2,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fraziti01_2016_POR",
+    "player_name": "Tim Frazier",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 1.1,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fryech01_2016_2TM",
+    "player_name": "Channing Frye",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.3,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fryech01_2016_ORL",
+    "player_name": "Channing Frye",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.2,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_fryech01_2016_CLE",
+    "player_name": "Channing Frye",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 3.6,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gallida01_2016_DEN",
+    "player_name": "Danilo Gallinari",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 5.3,
+      "AST": 2.5,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gallola01_2016_NYK",
+    "player_name": "Langston Galloway",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 3.5,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_garneke01_2016_MIN",
+    "player_name": "Kevin Garnett",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 3.9,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolma01_2016_MEM",
+    "player_name": "Marc Gasol",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 7.0,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gasolpa01_2016_CHI",
+    "player_name": "Pau Gasol",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 11.0,
+      "AST": 4.1,
+      "STL": 0.6,
+      "BLK": 2.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gayru01_2016_SAC",
+    "player_name": "Rudy Gay",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 6.5,
+      "AST": 1.7,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_geeal01_2016_NOP",
+    "player_name": "Alonzo Gee",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 3.4,
+      "AST": 1.0,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_georgpa01_2016_IND",
+    "player_name": "Paul George",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 23.1,
+      "REB": 7.0,
+      "AST": 4.1,
+      "STL": 1.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gibsota01_2016_CHI",
+    "player_name": "Taj Gibson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 6.9,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ginobma01_2016_SAS",
+    "player_name": "Manu Gin\u00f3bili",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 2.5,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_goberru01_2016_UTA",
+    "player_name": "Rudy Gobert",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 11.0,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 2.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_goodedr01_2016_WAS",
+    "player_name": "Drew Gooden",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_goodwar01_2016_PHX",
+    "player_name": "Archie Goodwin",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.5,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gordoaa01_2016_ORL",
+    "player_name": "Aaron Gordon",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 6.5,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gordoer01_2016_NOP",
+    "player_name": "Eric Gordon",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 2.2,
+      "AST": 2.7,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_gortama01_2016_WAS",
+    "player_name": "Marcin Gortat",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 9.9,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grantje01_2016_PHI",
+    "player_name": "Jerami Grant",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 4.7,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_grantje02_2016_NYK",
+    "player_name": "Jerian Grant",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.9,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenda02_2016_SAS",
+    "player_name": "Danny Green",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.8,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greendr01_2016_GSW",
+    "player_name": "Draymond Green",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 9.5,
+      "AST": 7.4,
+      "STL": 1.5,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenge01_2016_MIA",
+    "player_name": "Gerald Green",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenja01_2016_MEM",
+    "player_name": "JaMychal Green",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 4.8,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenje02_2016_2TM",
+    "player_name": "Jeff Green",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 4.2,
+      "AST": 1.7,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenje02_2016_MEM",
+    "player_name": "Jeff Green",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 4.5,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_greenje02_2016_LAC",
+    "player_name": "Jeff Green",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.4,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_griffbl01_2016_LAC",
+    "player_name": "Blake Griffin",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 8.4,
+      "AST": 4.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hairspj02_2016_2TM",
+    "player_name": "P.J. Hairston",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 2.6,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hairspj02_2016_CHO",
+    "player_name": "P.J. Hairston",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 2.7,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hansbty01_2016_CHO",
+    "player_name": "Tyler Hansbrough",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 2.0,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hardati02_2016_ATL",
+    "player_name": "Tim Hardaway Jr.",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.7,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hardeja01_2016_HOU",
+    "player_name": "James Harden",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 29.0,
+      "REB": 6.1,
+      "AST": 7.5,
+      "STL": 1.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harklma01_2016_POR",
+    "player_name": "Maurice Harkless",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 3.6,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harremo01_2016_HOU",
+    "player_name": "Montrezl Harrell",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.7,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harriaa01_2016_CHO",
+    "player_name": "Aaron Harrison",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 0.9,
+      "REB": 0.7,
+      "AST": 0.1,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harride01_2016_DAL",
+    "player_name": "Devin Harris",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 2.2,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harriga01_2016_DEN",
+    "player_name": "Gary Harris",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 2.9,
+      "AST": 1.9,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2016_2TM",
+    "player_name": "Tobias Harris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 6.7,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2016_ORL",
+    "player_name": "Tobias Harris",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 7.0,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_harrito02_2016_DET",
+    "player_name": "Tobias Harris",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 6.2,
+      "AST": 2.6,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hasleud01_2016_MIA",
+    "player_name": "Udonis Haslem",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 2.0,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hawessp01_2016_CHO",
+    "player_name": "Spencer Hawes",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.3,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_haywago01_2016_UTA",
+    "player_name": "Gordon Hayward",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 5.0,
+      "AST": 3.7,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hendege02_2016_POR",
+    "player_name": "Gerald Henderson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.9,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hensojo01_2016_MIL",
+    "player_name": "John Henson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.9,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 1.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hezonma01_2016_ORL",
+    "player_name": "Mario Hezonja",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.2,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hibbero01_2016_LAL",
+    "player_name": "Roy Hibbert",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 4.9,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hicksjj01_2016_2TM",
+    "player_name": "J.J. Hickson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 3.8,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hicksjj01_2016_DEN",
+    "player_name": "J.J. Hickson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.4,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hilarne01_2016_WAS",
+    "player_name": "Nen\u00ea",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 4.5,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillge01_2016_IND",
+    "player_name": "George Hill",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 4.0,
+      "AST": 3.5,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillida01_2016_DET",
+    "player_name": "Darrun Hilliard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.2,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hilljo01_2016_IND",
+    "player_name": "Jordan Hill",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 6.2,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hillso01_2016_IND",
+    "player_name": "Solomon Hill",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.8,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hinriki01_2016_2TM",
+    "player_name": "Kirk Hinrich",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.5,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hinriki01_2016_CHI",
+    "player_name": "Kirk Hinrich",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.7,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidjr01_2016_NOP",
+    "player_name": "Jrue Holiday",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 3.0,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidju01_2016_2TM",
+    "player_name": "Justin Holiday",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.7,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidju01_2016_ATL",
+    "player_name": "Justin Holiday",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.0,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holidju01_2016_CHI",
+    "player_name": "Justin Holiday",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.3,
+      "AST": 1.7,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holliro01_2016_BKN",
+    "player_name": "Rondae Hollis-Jefferson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 5.3,
+      "AST": 1.5,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holliry01_2016_2TM",
+    "player_name": "Ryan Hollins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.6,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holliry01_2016_MEM",
+    "player_name": "Ryan Hollins",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.7,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_holmeri01_2016_PHI",
+    "player_name": "Richaun Holmes",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 2.6,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hoodro01_2016_UTA",
+    "player_name": "Rodney Hood",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 3.4,
+      "AST": 2.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_horfoal01_2016_ATL",
+    "player_name": "Al Horford",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 7.3,
+      "AST": 3.2,
+      "STL": 0.8,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_howardw01_2016_HOU",
+    "player_name": "Dwight Howard",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 11.8,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_huertma01_2016_LAL",
+    "player_name": "Marcelo Huertas",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.7,
+      "AST": 3.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_humphkr01_2016_3TM",
+    "player_name": "Kris Humphries",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 4.1,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_humphkr01_2016_WAS",
+    "player_name": "Kris Humphries",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 4.1,
+      "AST": 0.6,
+      "STL": 0.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_humphkr01_2016_ATL",
+    "player_name": "Kris Humphries",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_hunterj01_2016_BOS",
+    "player_name": "R.J. Hunter",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 1.0,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ibakase01_2016_OKC",
+    "player_name": "Serge Ibaka",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 6.8,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 1.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_iguodan01_2016_GSW",
+    "player_name": "Andre Iguodala",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 4.0,
+      "AST": 3.4,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ilyaser01_2016_2TM",
+    "player_name": "Ersan \u0130lyasova",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 5.4,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ilyaser01_2016_DET",
+    "player_name": "Ersan \u0130lyasova",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 5.4,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_ilyaser01_2016_ORL",
+    "player_name": "Ersan \u0130lyasova",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 5.5,
+      "AST": 0.5,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_inglejo01_2016_UTA",
+    "player_name": "Joe Ingles",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.9,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_inglida01_2016_MIL",
+    "player_name": "Damien Inglis",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_irvinky01_2016_CLE",
+    "player_name": "Kyrie Irving",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 3.0,
+      "AST": 4.7,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jackja01_2016_BKN",
+    "player_name": "Jarrett Jack",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 4.3,
+      "AST": 7.4,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jacksre01_2016_DET",
+    "player_name": "Reggie Jackson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.8,
+      "REB": 3.2,
+      "AST": 6.2,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jamesle01_2016_CLE",
+    "player_name": "LeBron James",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PG-SG-SF-PF-C",
+    "stats": {
+      "PTS": 25.3,
+      "REB": 7.4,
+      "AST": 6.8,
+      "STL": 1.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jeffeal01_2016_CHO",
+    "player_name": "Al Jefferson",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 6.4,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jefferi01_2016_CLE",
+    "player_name": "Richard Jefferson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.7,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkijo01_2016_2TM",
+    "player_name": "John Jenkins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.3,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkijo01_2016_DAL",
+    "player_name": "John Jenkins",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.0,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jenkijo01_2016_PHX",
+    "player_name": "John Jenkins",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.6,
+      "AST": 1.2,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jennibr01_2016_2TM",
+    "player_name": "Brandon Jennings",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.0,
+      "AST": 3.5,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jennibr01_2016_DET",
+    "player_name": "Brandon Jennings",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 2.0,
+      "AST": 3.0,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jennibr01_2016_ORL",
+    "player_name": "Brandon Jennings",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.0,
+      "AST": 4.0,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jerebjo01_2016_BOS",
+    "player_name": "Jonas Jerebko",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 3.7,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsam01_2016_BOS",
+    "player_name": "Amir Johnson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 6.4,
+      "AST": 1.7,
+      "STL": 0.7,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsch04_2016_UTA",
+    "player_name": "Chris Johnson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-C",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.9,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsja01_2016_TOR",
+    "player_name": "James Johnson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.2,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsjo02_2016_2TM",
+    "player_name": "Joe Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 3.6,
+      "AST": 3.9,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsjo02_2016_BKN",
+    "player_name": "Joe Johnson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 3.9,
+      "AST": 4.1,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsjo02_2016_MIA",
+    "player_name": "Joe Johnson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 2.8,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsst04_2016_DET",
+    "player_name": "Stanley Johnson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 4.2,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnsty01_2016_MIA",
+    "player_name": "Tyler Johnson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 3.0,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_johnswe01_2016_LAC",
+    "player_name": "Wesley Johnson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.1,
+      "AST": 0.6,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jokicni01_2016_DEN",
+    "player_name": "Nikola Joki\u0107",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 7.0,
+      "AST": 2.4,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesja02_2016_CLE",
+    "player_name": "James Jones",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.0,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_joneste01_2016_HOU",
+    "player_name": "Terrence Jones",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 4.2,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jonesty01_2016_MIN",
+    "player_name": "Tyus Jones",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.3,
+      "AST": 2.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_jordade01_2016_LAC",
+    "player_name": "DeAndre Jordan",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 13.8,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 2.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_josepco01_2016_TOR",
+    "player_name": "Cory Joseph",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.6,
+      "AST": 3.1,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kaminfr01_2016_CHO",
+    "player_name": "Frank Kaminsky",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.1,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kanteen01_2016_OKC",
+    "player_name": "Enes Freedom",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 8.1,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_karasse01_2016_BKN",
+    "player_name": "Sergey Karasev",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.5,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kaunsa01_2016_CLE",
+    "player_name": "Sasha Kaun",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 0.9,
+      "REB": 1.0,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kellyry01_2016_LAL",
+    "player_name": "Ryan Kelly",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kilpase01_2016_2TM",
+    "player_name": "Sean Kilpatrick",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 1.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_kilpase01_2016_BKN",
+    "player_name": "Sean Kilpatrick",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 2.2,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_knighbr03_2016_PHX",
+    "player_name": "Brandon Knight",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 3.9,
+      "AST": 5.1,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_korveky01_2016_ATL",
+    "player_name": "Kyle Korver",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.3,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_koufoko01_2016_SAC",
+    "player_name": "Kosta Koufos",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 5.4,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lambje01_2016_CHO",
+    "player_name": "Jeremy Lamb",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 3.8,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_landrca01_2016_PHI",
+    "player_name": "Carl Landry",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 4.1,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_larkish01_2016_BKN",
+    "player_name": "Shane Larkin",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.3,
+      "AST": 4.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lauvejo01_2016_DEN",
+    "player_name": "Joffrey Lauvergne",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 4.9,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lavinza01_2016_MIN",
+    "player_name": "Zach LaVine",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 2.8,
+      "AST": 3.1,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lawsoty01_2016_2TM",
+    "player_name": "Ty Lawson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.8,
+      "AST": 3.6,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lawsoty01_2016_HOU",
+    "player_name": "Ty Lawson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 1.7,
+      "AST": 3.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeco01_2016_2TM",
+    "player_name": "Courtney Lee",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 2.6,
+      "AST": 1.7,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeco01_2016_MEM",
+    "player_name": "Courtney Lee",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 2.3,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeco01_2016_CHO",
+    "player_name": "Courtney Lee",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 3.1,
+      "AST": 2.1,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeda02_2016_2TM",
+    "player_name": "David Lee",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 5.5,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeda02_2016_BOS",
+    "player_name": "David Lee",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 4.3,
+      "AST": 1.8,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leeda02_2016_DAL",
+    "player_name": "David Lee",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 7.0,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lenal01_2016_PHX",
+    "player_name": "Alex Len",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 7.6,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leonaka01_2016_SAS",
+    "player_name": "Kawhi Leonard",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 6.8,
+      "AST": 2.6,
+      "STL": 1.8,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leoname01_2016_POR",
+    "player_name": "Meyers Leonard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 5.1,
+      "AST": 1.5,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_leuerjo01_2016_PHX",
+    "player_name": "Jon Leuer",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 5.6,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lillada01_2016_POR",
+    "player_name": "Damian Lillard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 25.1,
+      "REB": 4.0,
+      "AST": 6.8,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_linje01_2016_CHO",
+    "player_name": "Jeremy Lin",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 3.2,
+      "AST": 3.0,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_livinsh01_2016_GSW",
+    "player_name": "Shaun Livingston",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 2.2,
+      "AST": 3.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lopezbr01_2016_BKN",
+    "player_name": "Brook Lopez",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 7.8,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lopezro01_2016_NYK",
+    "player_name": "Robin Lopez",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 7.3,
+      "AST": 1.4,
+      "STL": 0.2,
+      "BLK": 1.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_loveke01_2016_CLE",
+    "player_name": "Kevin Love",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 9.9,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lowryky01_2016_TOR",
+    "player_name": "Kyle Lowry",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 4.7,
+      "AST": 6.4,
+      "STL": 2.1,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_lylestr01_2016_UTA",
+    "player_name": "Trey Lyles",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.7,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2016_2TM",
+    "player_name": "Shelvin Mack",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.5,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2016_ATL",
+    "player_name": "Shelvin Mack",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.9,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_macksh01_2016_UTA",
+    "player_name": "Shelvin Mack",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 3.8,
+      "AST": 5.3,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mahinia01_2016_IND",
+    "player_name": "Ian Mahinmi",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 7.1,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marblde01_2016_ORL",
+    "player_name": "Devyn Marble",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.4,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marjabo01_2016_SAS",
+    "player_name": "Boban Marjanovi\u0107",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.6,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_marshke01_2016_PHI",
+    "player_name": "Kendall Marshall",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 0.9,
+      "AST": 2.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_martija01_2016_MEM",
+    "player_name": "Jarell Martin",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.2,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_martike02_2016_2TM",
+    "player_name": "Kevin Martin",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 2.0,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_martike02_2016_MIN",
+    "player_name": "Kevin Martin",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 2.1,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_matthwe02_2016_DAL",
+    "player_name": "Wesley Matthews",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 3.1,
+      "AST": 1.9,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mayooj01_2016_MIL",
+    "player_name": "O.J. Mayo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.6,
+      "AST": 2.9,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mbahalu01_2016_LAC",
+    "player_name": "Luc Mbah a Moute",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.3,
+      "AST": 0.4,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcadoja01_2016_GSW",
+    "player_name": "James Michael McAdoo",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.4,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccalra01_2016_2TM",
+    "player_name": "Ray McCallum",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.1,
+      "AST": 1.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccalra01_2016_SAS",
+    "player_name": "Ray McCallum",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 1.0,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccolcj01_2016_POR",
+    "player_name": "CJ McCollum",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.8,
+      "REB": 3.2,
+      "AST": 4.3,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mccontj01_2016_PHI",
+    "player_name": "T.J. McConnell",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.1,
+      "AST": 4.5,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcculch01_2016_BKN",
+    "player_name": "Chris McCullough",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcdankj01_2016_HOU",
+    "player_name": "K.J. McDaniels",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.1,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcderdo01_2016_CHI",
+    "player_name": "Doug McDermott",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 2.4,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcgarmi01_2016_OKC",
+    "player_name": "Mitch McGary",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 0.9,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcgeeja01_2016_DAL",
+    "player_name": "JaVale McGee",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.9,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mclembe01_2016_SAC",
+    "player_name": "Ben McLemore",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.2,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcraejo01_2016_2TM",
+    "player_name": "Jordan McRae",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 0.9,
+      "AST": 1.1,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mcrobjo01_2016_MIA",
+    "player_name": "Josh McRoberts",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 2.5,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mejrisa01_2016_DAL",
+    "player_name": "Salah Mejri",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 3.6,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_middlkh01_2016_MIL",
+    "player_name": "Khris Middleton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 3.8,
+      "AST": 4.2,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_milescj01_2016_IND",
+    "player_name": "C.J. Miles",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 2.7,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millean02_2016_2TM",
+    "player_name": "Andre Miller",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.3,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millean02_2016_MIN",
+    "player_name": "Andre Miller",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 0.9,
+      "AST": 2.2,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millemi01_2016_DEN",
+    "player_name": "Mike Miller",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 1.1,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millsel01_2016_UTA",
+    "player_name": "Elijah Millsap",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.8,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millspa01_2016_ATL",
+    "player_name": "Paul Millsap",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 9.0,
+      "AST": 3.3,
+      "STL": 1.8,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_millspa02_2016_SAS",
+    "player_name": "Patty Mills",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.0,
+      "AST": 2.8,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mirotni01_2016_CHI",
+    "player_name": "Nikola Miroti\u0107",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 5.5,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_monrogr01_2016_MIL",
+    "player_name": "Greg Monroe",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 8.8,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mooreet01_2016_CHI",
+    "player_name": "E'Twaun Moore",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.3,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2016_2TM",
+    "player_name": "Markieff Morris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 5.5,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2016_PHX",
+    "player_name": "Markieff Morris",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 5.2,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima02_2016_WAS",
+    "player_name": "Markieff Morris",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 5.9,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morrima03_2016_DET",
+    "player_name": "Marcus Morris",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 5.1,
+      "AST": 2.5,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_morroan01_2016_OKC",
+    "player_name": "Anthony Morrow",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 0.9,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_motiedo01_2016_HOU",
+    "player_name": "Donatas Motiej\u016bnas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 2.9,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mozgoti01_2016_CLE",
+    "player_name": "Timofey Mozgov",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 4.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_mudiaem01_2016_DEN",
+    "player_name": "Emmanuel Mudiay",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 3.4,
+      "AST": 5.5,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_muhamsh01_2016_MIN",
+    "player_name": "Shabazz Muhammad",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.3,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_muscami01_2016_ATL",
+    "player_name": "Mike Muscala",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.0,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nancela02_2016_LAL",
+    "player_name": "Larry Nance Jr.",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 5.0,
+      "AST": 0.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_napiesh01_2016_ORL",
+    "player_name": "Shabazz Napier",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.0,
+      "AST": 1.8,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nealga01_2016_WAS",
+    "player_name": "Gary Neal",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 2.1,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nelsoja01_2016_DEN",
+    "player_name": "Jameer Nelson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.9,
+      "AST": 4.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_netora01_2016_UTA",
+    "player_name": "Raul Neto",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.5,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nichoan01_2016_ORL",
+    "player_name": "Andrew Nicholson",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.6,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_noahjo01_2016_CHI",
+    "player_name": "Joakim Noah",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 8.8,
+      "AST": 3.8,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_noelne01_2016_PHI",
+    "player_name": "Nerlens Noel",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 8.1,
+      "AST": 1.8,
+      "STL": 1.8,
+      "BLK": 1.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_noguelu01_2016_TOR",
+    "player_name": "Lucas Nogueira",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 1.6,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nowitdi01_2016_DAL",
+    "player_name": "Dirk Nowitzki",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 6.5,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_nurkiju01_2016_DEN",
+    "player_name": "Jusuf Nurki\u0107",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 5.5,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_obryajo01_2016_MIL",
+    "player_name": "Johnny O'Bryant",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_okafoja01_2016_PHI",
+    "player_name": "Jahlil Okafor",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 7.0,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 1.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oladivi01_2016_ORL",
+    "player_name": "Victor Oladipo",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 4.8,
+      "AST": 3.9,
+      "STL": 1.6,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_olynyke01_2016_BOS",
+    "player_name": "Kelly Olynyk",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 4.1,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oquinky01_2016_NYK",
+    "player_name": "Kyle O'Quinn",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.8,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_oubreke01_2016_WAS",
+    "player_name": "Kelly Oubre Jr.",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.1,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pachuza01_2016_DAL",
+    "player_name": "Zaza Pachulia",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 9.4,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_papanko01_2016_DEN",
+    "player_name": "Kostas Papanikolaou",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.5,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parkeja01_2016_MIL",
+    "player_name": "Jabari Parker",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 5.2,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parketo01_2016_SAS",
+    "player_name": "Tony Parker",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 2.4,
+      "AST": 5.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_parsoch01_2016_DAL",
+    "player_name": "Chandler Parsons",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 4.7,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pattela01_2016_ATL",
+    "player_name": "Lamar Patterson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.4,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pattepa01_2016_TOR",
+    "player_name": "Patrick Patterson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 4.3,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_paulch01_2016_LAC",
+    "player_name": "Chris Paul",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 4.2,
+      "AST": 10.0,
+      "STL": 2.1,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_paynead01_2016_MIN",
+    "player_name": "Adreian Payne",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_payneca01_2016_OKC",
+    "player_name": "Cameron Payne",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.5,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_paytoel01_2016_ORL",
+    "player_name": "Elfrid Payton",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 3.6,
+      "AST": 6.4,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_perkike01_2016_NOP",
+    "player_name": "Kendrick Perkins",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_piercpa01_2016_LAC",
+    "player_name": "Paul Pierce",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.7,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_plumlma01_2016_POR",
+    "player_name": "Mason Plumlee",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 7.7,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_plumlmi01_2016_MIL",
+    "player_name": "Miles Plumlee",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.8,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_porteot01_2016_WAS",
+    "player_name": "Otto Porter Jr.",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 5.2,
+      "AST": 1.6,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_portibo01_2016_CHI",
+    "player_name": "Bobby Portis",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 5.4,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_porzikr01_2016_NYK",
+    "player_name": "Kristaps Porzi\u0146\u0123is",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 7.3,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 1.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_poweldw01_2016_DAL",
+    "player_name": "Dwight Powell",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.0,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_powelno01_2016_TOR",
+    "player_name": "Norman Powell",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 2.3,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pressph01_2016_2TM",
+    "player_name": "Phil Pressey",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.3,
+      "AST": 3.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_pricero01_2016_PHX",
+    "player_name": "Ronnie Price",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.6,
+      "AST": 2.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_prigipa01_2016_LAC",
+    "player_name": "Pablo Prigioni",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.9,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_princta01_2016_MIN",
+    "player_name": "Tayshaun Prince",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.9,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_randlju01_2016_LAL",
+    "player_name": "Julius Randle",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 10.2,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_randoza01_2016_MEM",
+    "player_name": "Zach Randolph",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 7.8,
+      "AST": 2.1,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_redicjj01_2016_LAC",
+    "player_name": "JJ Redick",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 1.9,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_reedwi02_2016_BKN",
+    "player_name": "Willie Reed",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.1,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_richajo01_2016_MIA",
+    "player_name": "Josh Richardson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.1,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_riverau01_2016_LAC",
+    "player_name": "Austin Rivers",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 1.9,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roberan03_2016_OKC",
+    "player_name": "Andre Roberson",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.6,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roberbr01_2016_2TM",
+    "player_name": "Brian Roberts",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 0.8,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roberbr01_2016_CHO",
+    "player_name": "Brian Roberts",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.0,
+      "AST": 1.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roberbr01_2016_POR",
+    "player_name": "Brian Roberts",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 0.6,
+      "AST": 0.8,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robingl02_2016_IND",
+    "player_name": "Glenn Robinson III",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.5,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_robinth01_2016_BKN",
+    "player_name": "Thomas Robinson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 5.1,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rondora01_2016_SAC",
+    "player_name": "Rajon Rondo",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 6.0,
+      "AST": 11.7,
+      "STL": 2.0,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rosede01_2016_CHI",
+    "player_name": "Derrick Rose",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 3.4,
+      "AST": 4.7,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rosste01_2016_TOR",
+    "player_name": "Terrence Ross",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.5,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_roziete01_2016_BOS",
+    "player_name": "Terry Rozier",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rubiori01_2016_MIN",
+    "player_name": "Ricky Rubio",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 4.3,
+      "AST": 8.7,
+      "STL": 2.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rudezda01_2016_MIN",
+    "player_name": "Damjan Rude\u017e",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 0.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_rushbr01_2016_GSW",
+    "player_name": "Brandon Rush",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.5,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_russeda01_2016_LAL",
+    "player_name": "D'Angelo Russell",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 3.4,
+      "AST": 3.3,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sacrero01_2016_LAL",
+    "player_name": "Robert Sacre",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sampsja02_2016_2TM",
+    "player_name": "JaKarr Sampson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.6,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sampsja02_2016_PHI",
+    "player_name": "JaKarr Sampson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.7,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sampsja02_2016_DEN",
+    "player_name": "JaKarr Sampson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.3,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_schrode01_2016_ATL",
+    "player_name": "Dennis Schr\u00f6der",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 2.6,
+      "AST": 4.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scolalu01_2016_TOR",
+    "player_name": "Luis Scola",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 4.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_scottmi01_2016_ATL",
+    "player_name": "Mike Scott",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 2.7,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sefolth01_2016_ATL",
+    "player_name": "Thabo Sefolosha",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 4.5,
+      "AST": 1.4,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_serapke01_2016_NYK",
+    "player_name": "Kevin S\u00e9raphin",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.6,
+      "AST": 1.0,
+      "STL": 0.2,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sessira01_2016_WAS",
+    "player_name": "Ramon Sessions",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.5,
+      "AST": 2.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_shumpim01_2016_CLE",
+    "player_name": "Iman Shumpert",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.8,
+      "AST": 1.7,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_simmojo02_2016_SAS",
+    "player_name": "Jonathon Simmons",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 1.7,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_singlky01_2016_OKC",
+    "player_name": "Kyle Singler",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sloando01_2016_BKN",
+    "player_name": "Donald Sloan",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.8,
+      "AST": 4.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smartma01_2016_BOS",
+    "player_name": "Marcus Smart",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 4.2,
+      "AST": 3.0,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithis01_2016_2TM",
+    "player_name": "Ish Smith",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 4.0,
+      "AST": 6.5,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithis01_2016_NOP",
+    "player_name": "Ish Smith",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 3.4,
+      "AST": 5.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithis01_2016_PHI",
+    "player_name": "Ish Smith",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 4.3,
+      "AST": 7.0,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithja02_2016_ORL",
+    "player_name": "Jason Smith",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.9,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithjo03_2016_2TM",
+    "player_name": "Josh Smith",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 3.5,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithjo03_2016_LAC",
+    "player_name": "Josh Smith",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.9,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithjo03_2016_HOU",
+    "player_name": "Josh Smith",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.9,
+      "AST": 2.1,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_smithjr01_2016_CLE",
+    "player_name": "J.R. Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 2.8,
+      "AST": 1.7,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_snellto01_2016_CHI",
+    "player_name": "Tony Snell",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_speigma01_2016_GSW",
+    "player_name": "Marreese Speights",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_splitti01_2016_ATL",
+    "player_name": "Tiago Splitter",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stausni01_2016_PHI",
+    "player_name": "Nik Stauskas",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.5,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stephla01_2016_2TM",
+    "player_name": "Lance Stephenson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 3.2,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stephla01_2016_LAC",
+    "player_name": "Lance Stephenson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.5,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stephla01_2016_MEM",
+    "player_name": "Lance Stephenson",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 4.4,
+      "AST": 2.8,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stoudam01_2016_MIA",
+    "player_name": "Amar'e Stoudemire",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_stuckro01_2016_IND",
+    "player_name": "Rodney Stuckey",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.7,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_sullija01_2016_BOS",
+    "player_name": "Jared Sullinger",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 8.3,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_teaguje01_2016_ATL",
+    "player_name": "Jeff Teague",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 2.7,
+      "AST": 5.9,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_teletmi01_2016_PHX",
+    "player_name": "Mirza Teletovi\u0107",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 3.8,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_templga01_2016_WAS",
+    "player_name": "Garrett Temple",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.7,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_terryja01_2016_HOU",
+    "player_name": "Jason Terry",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.1,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomais02_2016_BOS",
+    "player_name": "Isaiah Thomas",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 22.2,
+      "REB": 3.0,
+      "AST": 6.2,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomala01_2016_NYK",
+    "player_name": "Lance Thomas",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompho01_2016_PHI",
+    "player_name": "Hollis Thompson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 3.5,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompja02_2016_2TM",
+    "player_name": "Jason Thompson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompja02_2016_GSW",
+    "player_name": "Jason Thompson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.9,
+      "AST": 0.7,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thompkl01_2016_GSW",
+    "player_name": "Klay Thompson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 22.1,
+      "REB": 3.8,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thomptr01_2016_CLE",
+    "player_name": "Tristan Thompson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 9.0,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thornma01_2016_2TM",
+    "player_name": "Marcus Thornton",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.5,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_thornma01_2016_HOU",
+    "player_name": "Marcus Thornton",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 2.4,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tollian01_2016_DET",
+    "player_name": "Anthony Tolliver",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 3.2,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_toupaax01_2016_DEN",
+    "player_name": "Axel Toupane",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.5,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_townska01_2016_MIN",
+    "player_name": "Karl-Anthony Towns",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 10.5,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 1.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_tuckepj01_2016_PHX",
+    "player_name": "P.J. Tucker",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 6.2,
+      "AST": 2.2,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_turneev01_2016_BOS",
+    "player_name": "Evan Turner",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 4.9,
+      "AST": 4.4,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_turnemy01_2016_IND",
+    "player_name": "Myles Turner",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 5.5,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 1.4
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udrihbe01_2016_2TM",
+    "player_name": "Beno Udrih",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.6,
+      "AST": 2.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_udrihbe01_2016_MIA",
+    "player_name": "Beno Udrih",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 1.8,
+      "AST": 2.5,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_valanjo01_2016_TOR",
+    "player_name": "Jonas Valan\u010di\u016bnas",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 9.1,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 1.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_varejan01_2016_2TM",
+    "player_name": "Anderson Varej\u00e3o",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.7,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_varejan01_2016_CLE",
+    "player_name": "Anderson Varej\u00e3o",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.9,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_varejan01_2016_GSW",
+    "player_name": "Anderson Varej\u00e3o",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.3,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vasqugr01_2016_MIL",
+    "player_name": "Greivis V\u00e1squez",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.0,
+      "AST": 4.0,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vaughra01_2016_MIL",
+    "player_name": "Rashad Vaughn",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.3,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_villach01_2016_DAL",
+    "player_name": "Charlie Villanueva",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.5,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vonleno01_2016_POR",
+    "player_name": "Noah Vonleh",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 3.9,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vucevni01_2016_ORL",
+    "player_name": "Nikola Vu\u010devi\u0107",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 8.9,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_vujacsa01_2016_NYK",
+    "player_name": "Sasha Vuja\u010di\u0107",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.4,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wadedw01_2016_MIA",
+    "player_name": "Dwyane Wade",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 4.1,
+      "AST": 4.6,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_waitedi01_2016_OKC",
+    "player_name": "Dion Waiters",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 2.6,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_walkeke02_2016_CHO",
+    "player_name": "Kemba Walker",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.9,
+      "REB": 4.4,
+      "AST": 5.2,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_walljo01_2016_WAS",
+    "player_name": "John Wall",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.9,
+      "REB": 4.9,
+      "AST": 10.2,
+      "STL": 1.9,
+      "BLK": 0.8
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_warretj01_2016_PHX",
+    "player_name": "T.J. Warren",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 3.1,
+      "AST": 0.9,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_watsocj01_2016_ORL",
+    "player_name": "C.J. Watson",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.0,
+      "AST": 2.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_weemsso01_2016_2TM",
+    "player_name": "Sonny Weems",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.2,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_weemsso01_2016_PHX",
+    "player_name": "Sonny Weems",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.1,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_westbru01_2016_OKC",
+    "player_name": "Russell Westbrook",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 23.5,
+      "REB": 7.8,
+      "AST": 10.4,
+      "STL": 2.0,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_westda01_2016_SAS",
+    "player_name": "David West",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 4.0,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_whiteha01_2016_MIA",
+    "player_name": "Hassan Whiteside",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 11.8,
+      "AST": 0.4,
+      "STL": 0.6,
+      "BLK": 3.7
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wiggian01_2016_MIN",
+    "player_name": "Andrew Wiggins",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 3.6,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wilcocj01_2016_LAC",
+    "player_name": "C.J. Wilcox",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 0.5,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willide01_2016_DAL",
+    "player_name": "Deron Williams",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 2.9,
+      "AST": 5.8,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willide02_2016_NYK",
+    "player_name": "Derrick Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 3.7,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willilo02_2016_LAL",
+    "player_name": "Lou Williams",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 2.5,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willima01_2016_CLE",
+    "player_name": "Mo Williams",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 1.8,
+      "AST": 2.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_willima02_2016_CHO",
+    "player_name": "Marvin Williams",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 6.4,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_winslju01_2016_MIA",
+    "player_name": "Justise Winslow",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 5.2,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_witheje01_2016_UTA",
+    "player_name": "Jeff Withey",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.4,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 1.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_wrighde01_2016_TOR",
+    "player_name": "Delon Wright",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.4,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngja01_2016_BOS",
+    "player_name": "James Young",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.0,
+      "REB": 0.9,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngjo01_2016_IND",
+    "player_name": "Joe Young",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2016,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.2,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngni01_2016_LAL",
+    "player_name": "Nick Young",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2016,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.8,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_youngth01_2016_BKN",
+    "player_name": "Thaddeus Young",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2016,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 9.0,
+      "AST": 1.9,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zelleco01_2016_CHO",
+    "player_name": "Cody Zeller",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 6.2,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "2010s"
+  },
+  {
+    "player_id": "bref_zellety01_2016_BOS",
+    "player_name": "Tyler Zeller",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2016,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.0,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "2010s"
+  }
+]

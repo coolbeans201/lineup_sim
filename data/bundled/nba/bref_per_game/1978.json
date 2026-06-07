@@ -1,0 +1,5323 @@
+[
+  {
+    "player_id": "bref_abdulka01_1978_LAL",
+    "player_name": "Kareem Abdul-Jabbar",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 25.8,
+      "REB": 12.9,
+      "AST": 4.3,
+      "STL": 1.7,
+      "BLK": 3.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_abernto01_1978_LAL",
+    "player_name": "Tom Abernethy",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.6,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_adamsal01_1978_PHX",
+    "player_name": "Alvan Adams",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 8.1,
+      "AST": 3.2,
+      "STL": 1.2,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_allenlu01_1978_SAC",
+    "player_name": "Lucius Allen",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 3.0,
+      "AST": 4.7,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_armstta01_1978_CHI",
+    "player_name": "Tate Armstrong",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 1.0,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_averibi01_1978_2TM",
+    "player_name": "Bird Averitt",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 1.5,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_averibi01_1978_BKN",
+    "player_name": "Bird Averitt",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.6,
+      "AST": 3.2,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_averibi01_1978_LAC",
+    "player_name": "Bird Averitt",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 1.5,
+      "AST": 3.8,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_awtrede01_1978_PHX",
+    "player_name": "Dennis Awtrey",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 3.7,
+      "AST": 2.0,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bailegu01_1978_UTA",
+    "player_name": "Gus Bailey",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.7,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ballagr01_1978_WAS",
+    "player_name": "Greg Ballard",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bantomi01_1978_IND",
+    "player_name": "Mike Bantom",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 7.4,
+      "AST": 2.9,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barnema01_1978_2TM",
+    "player_name": "Marvin Barnes",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 7.3,
+      "AST": 2.3,
+      "STL": 1.1,
+      "BLK": 1.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barnema01_1978_LAC",
+    "player_name": "Marvin Barnes",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 7.3,
+      "AST": 2.4,
+      "STL": 1.2,
+      "BLK": 1.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_barryri01_1978_GSW",
+    "player_name": "Rick Barry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 23.1,
+      "REB": 5.5,
+      "AST": 5.4,
+      "STL": 1.9,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_basseti01_1978_BKN",
+    "player_name": "Tim Bassett",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 6.2,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_beardbu01_1978_NYK",
+    "player_name": "Butch Beard",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 3.3,
+      "AST": 4.3,
+      "STL": 1.5,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_behagro01_1978_3TM",
+    "player_name": "Ron Behagen",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 6.4,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_behagro01_1978_ATL",
+    "player_name": "Ron Behagen",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 6.7,
+      "AST": 1.3,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_behagro01_1978_IND",
+    "player_name": "Ron Behagen",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 6.5,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_benneme01_1978_IND",
+    "player_name": "Mel Bennett",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 3.0,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bensoke01_1978_MIL",
+    "player_name": "Kent Benson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.3,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bibbyhe01_1978_PHI",
+    "player_name": "Henry Bibby",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 3.1,
+      "AST": 5.7,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bingda01_1978_BOS",
+    "player_name": "Dave Bing",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 2.7,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_birdsot01_1978_SAC",
+    "player_name": "Otis Birdsong",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 2.4,
+      "AST": 2.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boerwto01_1978_CHI",
+    "player_name": "Tom Boerwinkle",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.7,
+      "AST": 2.0,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boonero01_1978_SAC",
+    "player_name": "Ron Boone",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 3.3,
+      "AST": 3.8,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bosweto01_1978_BOS",
+    "player_name": "Tom Boswell",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 4.4,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_boydfr01_1978_UTA",
+    "player_name": "Freddie Boyd",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 0.9,
+      "AST": 2.3,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bradlal01_1978_HOU",
+    "player_name": "Alonzo Bradley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.3,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bratzmi01_1978_PHX",
+    "player_name": "Mike Bratz",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.4,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_breweji01_1978_CLE",
+    "player_name": "Jim Brewer",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 6.2,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bridgju01_1978_MIL",
+    "player_name": "Junior Bridgeman",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 3.5,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bristal01_1978_SAS",
+    "player_name": "Allan Bristow",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 3.1,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brownfr01_1978_OKC",
+    "player_name": "Fred Brown",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 2.6,
+      "AST": 3.3,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_brownjo01_1978_ATL",
+    "player_name": "John Brown",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 4.0,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bryanjo01_1978_PHI",
+    "player_name": "Joe Bryant",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.5,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_bucknqu01_1978_MIL",
+    "player_name": "Quinn Buckner",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 3.0,
+      "AST": 5.6,
+      "STL": 2.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_burleto01_1978_SAC",
+    "player_name": "Tom Burleson",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 6.3,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_busedo01_1978_PHX",
+    "player_name": "Don Buse",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 3.0,
+      "AST": 4.8,
+      "STL": 2.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_calhoco01_1978_POR",
+    "player_name": "Corky Calhoun",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.7,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_calvima01_1978_DEN",
+    "player_name": "Mack Calvin",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.1,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carrau01_1978_CLE",
+    "player_name": "Austin Carr",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 2.3,
+      "AST": 2.7,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carribo01_1978_2TM",
+    "player_name": "Bob Carrington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 2.4,
+      "AST": 1.6,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carribo01_1978_BKN",
+    "player_name": "Bob Carrington",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 3.0,
+      "AST": 1.5,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carribo01_1978_IND",
+    "player_name": "Bob Carrington",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 1.8,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carrke01_1978_LAL",
+    "player_name": "Kenny Carr",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 4.0,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_carrml01_1978_DET",
+    "player_name": "M.L. Carr",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 7.1,
+      "AST": 2.3,
+      "STL": 1.9,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_catchha01_1978_PHI",
+    "player_name": "Harvey Catchings",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 4.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chanedo01_1978_2TM",
+    "player_name": "Don Chaney",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.3,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_chanedo01_1978_BOS",
+    "player_name": "Don Chaney",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.5,
+      "AST": 1.2,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_charlke01_1978_ATL",
+    "player_name": "Ken Charles",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 1.1,
+      "AST": 3.9,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cheniph01_1978_WAS",
+    "player_name": "Phil Chenier",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 2.8,
+      "AST": 2.0,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_choneji01_1978_CLE",
+    "player_name": "Jim Chones",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 10.3,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cleamji01_1978_NYK",
+    "player_name": "Jim Cleamons",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.7,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_colemec01_1978_GSW",
+    "player_name": "E.C. Coleman",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 5.2,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_collido01_1978_PHI",
+    "player_name": "Doug Collins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 2.9,
+      "AST": 4.1,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_cowenda01_1978_BOS",
+    "player_name": "Dave Cowens",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 14.0,
+      "AST": 4.6,
+      "STL": 1.3,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_coxwe01_1978_GSW",
+    "player_name": "Wesley Cox",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 3.3,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_crissch01_1978_ATL",
+    "player_name": "Charlie Criss",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 1.6,
+      "AST": 3.8,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dampilo01_1978_SAS",
+    "player_name": "Louie Dampier",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 1.5,
+      "AST": 3.5,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dandrbo01_1978_WAS",
+    "player_name": "Bob Dandridge",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 5.9,
+      "AST": 3.8,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dantlad01_1978_2TM",
+    "player_name": "Adrian Dantley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 7.8,
+      "AST": 3.2,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dantlad01_1978_IND",
+    "player_name": "Adrian Dantley",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 26.5,
+      "REB": 9.4,
+      "AST": 2.8,
+      "STL": 2.1,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dantlad01_1978_LAL",
+    "player_name": "Adrian Dantley",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 7.2,
+      "AST": 3.4,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisbr01_1978_LAL",
+    "player_name": "Brad Davis",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.1,
+      "AST": 2.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_davisjo01_1978_POR",
+    "player_name": "Johnny Davis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.1,
+      "AST": 2.6,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_daviswa03_1978_PHX",
+    "player_name": "Walter Davis",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 24.2,
+      "REB": 6.0,
+      "AST": 3.4,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dawkida01_1978_PHI",
+    "player_name": "Darryl Dawkins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 7.9,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 1.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dickede01_1978_2TM",
+    "player_name": "Derrek Dickey",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dickede01_1978_GSW",
+    "player_name": "Derrek Dickey",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dickede01_1978_CHI",
+    "player_name": "Derrek Dickey",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 1.9,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dietrco01_1978_SAS",
+    "player_name": "Coby Dietrick",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.5,
+      "AST": 2.7,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_digreer01_1978_2TM",
+    "player_name": "Ernie DiGregorio",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.0,
+      "AST": 2.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_digreer01_1978_LAL",
+    "player_name": "Ernie DiGregorio",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.9,
+      "AST": 2.8,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_digreer01_1978_BOS",
+    "player_name": "Ernie DiGregorio",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.0,
+      "AST": 2.4,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_douglle01_1978_DET",
+    "player_name": "Leon Douglas",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 7.4,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_drewjo01_1978_ATL",
+    "player_name": "John Drew",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 23.2,
+      "REB": 7.3,
+      "AST": 2.0,
+      "STL": 1.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dudlech01_1978_GSW",
+    "player_name": "Charles Dudley",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.7,
+      "AST": 5.2,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_dunntr01_1978_POR",
+    "player_name": "T.R. Dunn",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.3,
+      "AST": 0.7,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eakinji01_1978_2TM",
+    "player_name": "Jim Eakins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.3,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_eberhal01_1978_DET",
+    "player_name": "Al Eberhard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.8,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_edwarja01_1978_2TM",
+    "player_name": "James Edwards",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 7.4,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_edwarja01_1978_LAL",
+    "player_name": "James Edwards",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 7.2,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_edwarja01_1978_IND",
+    "player_name": "James Edwards",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 7.5,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ellisbo02_1978_DEN",
+    "player_name": "Bo Ellis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.9,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_elmorle01_1978_IND",
+    "player_name": "Len Elmore",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 6.1,
+      "AST": 1.2,
+      "STL": 1.1,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_englial01_1978_MIL",
+    "player_name": "Alex English",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 4.8,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ervinju01_1978_PHI",
+    "player_name": "Julius Erving",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 6.5,
+      "AST": 3.8,
+      "STL": 1.8,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_flemial01_1978_OKC",
+    "player_name": "Al Fleming",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_flynnmi01_1978_IND",
+    "player_name": "Mike Flynn",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.6,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fordch01_1978_DET",
+    "player_name": "Chris Ford",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.3,
+      "AST": 4.6,
+      "STL": 2.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_forddo01_1978_LAL",
+    "player_name": "Don Ford",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.5,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_forreba01_1978_PHX",
+    "player_name": "Bayard Forrest",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 3.9,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_fraziwa01_1978_CLE",
+    "player_name": "Walt Frazier",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 4.1,
+      "AST": 4.1,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_freewo01_1978_PHI",
+    "player_name": "World B. Free",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 2.8,
+      "AST": 4.0,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_furlote01_1978_CLE",
+    "player_name": "Terry Furlow",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.0,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_galemi01_1978_SAS",
+    "player_name": "Mike Gale",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 3.2,
+      "AST": 5.4,
+      "STL": 2.3,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gerargu01_1978_2TM",
+    "player_name": "Gus Gerard",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.8,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gerargu01_1978_DET",
+    "player_name": "Gus Gerard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 3.1,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gervige01_1978_SAS",
+    "player_name": "George Gervin",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 27.2,
+      "REB": 5.1,
+      "AST": 3.7,
+      "STL": 1.7,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gianejo01_1978_MIL",
+    "player_name": "John Gianelli",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 6.2,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gilmoar01_1978_CHI",
+    "player_name": "Artis Gilmore",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 13.1,
+      "AST": 3.2,
+      "STL": 0.5,
+      "BLK": 2.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_glennmi01_1978_LAC",
+    "player_name": "Mike Glenn",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.4,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_gondrgl01_1978_NYK",
+    "player_name": "Glen Gondrezick",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.5,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_goodrga01_1978_UTA",
+    "player_name": "Gail Goodrich",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.1,
+      "REB": 2.2,
+      "AST": 4.8,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenmi01_1978_2TM",
+    "player_name": "Mike Green",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 5.0,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 1.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenmi01_1978_SAS",
+    "player_name": "Mike Green",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 4.8,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 1.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenri01_1978_GSW",
+    "player_name": "Rickey Green",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greenst01_1978_IND",
+    "player_name": "Steve Green",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 1.6,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_greveke01_1978_WAS",
+    "player_name": "Kevin Grevey",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 3.6,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_griffgr01_1978_PHX",
+    "player_name": "Greg Griffin",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.9,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_griffpa01_1978_UTA",
+    "player_name": "Paul Griffin",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 6.2,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_grossbo01_1978_POR",
+    "player_name": "Bob Gross",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 5.6,
+      "AST": 3.5,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_grunfer01_1978_MIL",
+    "player_name": "Ernie Grunfeld",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.7,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hassejo01_1978_OKC",
+    "player_name": "Joe Hassett",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 0.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_havlijo01_1978_BOS",
+    "player_name": "John Havlicek",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.1,
+      "REB": 4.0,
+      "AST": 4.0,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hawesst01_1978_ATL",
+    "player_name": "Steve Hawes",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 9.2,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hayesel01_1978_WAS",
+    "player_name": "Elvin Hayes",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 13.3,
+      "AST": 1.8,
+      "STL": 1.2,
+      "BLK": 2.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_haywosp01_1978_NYK",
+    "player_name": "Spencer Haywood",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 6.6,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_heardga01_1978_PHX",
+    "player_name": "Gar Heard",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 8.2,
+      "AST": 1.7,
+      "STL": 1.6,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hendeto01_1978_WAS",
+    "player_name": "Tom Henderson",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 2.6,
+      "AST": 5.4,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hillar01_1978_ATL",
+    "player_name": "Armond Hill",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.8,
+      "AST": 5.2,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hillmda01_1978_2TM",
+    "player_name": "Darnell Hillman",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 7.4,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hillmda01_1978_BKN",
+    "player_name": "Darnell Hillman",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 7.5,
+      "AST": 1.1,
+      "STL": 1.1,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hillmda01_1978_DEN",
+    "player_name": "Darnell Hillman",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 7.2,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hollawi01_1978_CHI",
+    "player_name": "Wilbur Holland",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.6,
+      "AST": 3.8,
+      "STL": 2.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hollili01_1978_POR",
+    "player_name": "Lionel Hollins",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 3.4,
+      "AST": 4.7,
+      "STL": 1.9,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hudsolo01_1978_LAL",
+    "player_name": "Lou Hudson",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 2.3,
+      "AST": 2.4,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_hugheki01_1978_BKN",
+    "player_name": "Kim Hughes",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 4.3,
+      "AST": 0.7,
+      "STL": 0.9,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_isselda01_1978_DEN",
+    "player_name": "Dan Issel",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.3,
+      "REB": 10.1,
+      "AST": 3.7,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jacksph01_1978_NYK",
+    "player_name": "Phil Jackson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.7,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jamesaa01_1978_UTA",
+    "player_name": "Aaron James",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 5.3,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsch01_1978_2TM",
+    "player_name": "Charles Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.2,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsch01_1978_GSW",
+    "player_name": "Charles Johnson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.9,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsch01_1978_WAS",
+    "player_name": "Charles Johnson",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 2.4,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsde01_1978_OKC",
+    "player_name": "Dennis Johnson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 3.6,
+      "AST": 2.8,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsed02_1978_ATL",
+    "player_name": "Eddie Johnson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 1.9,
+      "AST": 3.0,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsge02_1978_BKN",
+    "player_name": "George Johnson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 9.6,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 3.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1978_2TM",
+    "player_name": "John Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 4.0,
+      "AST": 2.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsjo01_1978_OKC",
+    "player_name": "John Johnson",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 4.0,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsma01_1978_MIL",
+    "player_name": "Marques Johnson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 10.6,
+      "AST": 2.4,
+      "STL": 1.2,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsmi01_1978_CHI",
+    "player_name": "Mickey Johnson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 9.1,
+      "AST": 3.3,
+      "STL": 1.1,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_johnsol01_1978_ATL",
+    "player_name": "Ollie Johnson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 3.2,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesbo01_1978_DEN",
+    "player_name": "Bobby Jones",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 8.5,
+      "AST": 3.4,
+      "STL": 1.8,
+      "BLK": 1.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesca01_1978_PHI",
+    "player_name": "Caldwell Jones",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 7.1,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 1.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jonesdw01_1978_HOU",
+    "player_name": "Dwight Jones",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 7.8,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_joneswi02_1978_LAC",
+    "player_name": "Wil Jones",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.2,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jordaed01_1978_2TM",
+    "player_name": "Eddie Jordan",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 1.6,
+      "AST": 2.4,
+      "STL": 1.7,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jordaed01_1978_CLE",
+    "player_name": "Eddie Jordan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 0.5,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_jordaed01_1978_BKN",
+    "player_name": "Eddie Jordan",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 2.1,
+      "AST": 2.8,
+      "STL": 2.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kelleri01_1978_UTA",
+    "player_name": "Rich Kelley",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 9.3,
+      "AST": 2.8,
+      "STL": 1.1,
+      "BLK": 1.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kenonla01_1978_SAS",
+    "player_name": "Larry Kenon",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 9.5,
+      "AST": 3.3,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kingbe01_1978_BKN",
+    "player_name": "Bernard King",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 24.2,
+      "REB": 9.5,
+      "AST": 2.4,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_knighbi01_1978_LAC",
+    "player_name": "Billy Knight",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 22.9,
+      "REB": 7.2,
+      "AST": 3.0,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_knighto01_1978_NYK",
+    "player_name": "Toby Knight",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 4.0,
+      "AST": 0.5,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kuestjo01_1978_SAC",
+    "player_name": "John Kuester",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.5,
+      "AST": 3.2,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kunneke01_1978_HOU",
+    "player_name": "Kevin Kunnert",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 8.7,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kupchmi01_1978_WAS",
+    "player_name": "Mitch Kupchak",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 6.9,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_kupeccj01_1978_HOU",
+    "player_name": "C.J. Kupec",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.9,
+      "AST": 1.0,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laceysa01_1978_SAC",
+    "player_name": "Sam Lacey",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 8.3,
+      "AST": 3.9,
+      "STL": 1.6,
+      "BLK": 1.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lagarto01_1978_DEN",
+    "player_name": "Tom LaGarde",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.8,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lambejo01_1978_CLE",
+    "player_name": "John Lambert",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 4.3,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_landsma01_1978_CHI",
+    "player_name": "Mark Landsberger",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 4.9,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laniebo01_1978_DET",
+    "player_name": "Bob Lanier",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 24.5,
+      "REB": 11.3,
+      "AST": 3.4,
+      "STL": 1.3,
+      "BLK": 1.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_laytomo01_1978_SAS",
+    "player_name": "Mo Layton",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 0.8,
+      "AST": 2.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_leero01_1978_PHX",
+    "player_name": "Ron Lee",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 3.1,
+      "AST": 3.7,
+      "STL": 2.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lloydsc01_1978_2TM",
+    "player_name": "Scott Lloyd",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lloydsc01_1978_LAC",
+    "player_name": "Scott Lloyd",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 2.1,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lucasjo01_1978_HOU",
+    "player_name": "John Lucas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 3.1,
+      "AST": 9.4,
+      "STL": 2.0,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_lucasma01_1978_POR",
+    "player_name": "Maurice Lucas",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 9.1,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_malonmo01_1978_HOU",
+    "player_name": "Moses Malone",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 15.0,
+      "AST": 0.5,
+      "STL": 0.8,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maravpe01_1978_UTA",
+    "player_name": "Pete Maravich",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 27.0,
+      "REB": 3.6,
+      "AST": 6.7,
+      "STL": 2.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_marshri01_1978_GSW",
+    "player_name": "Ricky Marsh",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.3,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maxwece01_1978_BOS",
+    "player_name": "Cedric Maxwell",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 5.3,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_maysc01_1978_CHI",
+    "player_name": "Scott May",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 6.0,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcadobo01_1978_NYK",
+    "player_name": "Bob McAdoo",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 26.5,
+      "REB": 12.8,
+      "AST": 3.8,
+      "STL": 1.3,
+      "BLK": 1.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcclate01_1978_2TM",
+    "player_name": "Ted McClain",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 1.6,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcclate01_1978_LAC",
+    "player_name": "Ted McClain",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.8,
+      "AST": 3.0,
+      "STL": 1.0,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcclate01_1978_PHI",
+    "player_name": "Ted McClain",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.3,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcdanji01_1978_LAC",
+    "player_name": "Jim McDaniels",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 4.3,
+      "AST": 1.0,
+      "STL": 0.1,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcelrji01_1978_UTA",
+    "player_name": "Jim McElroy",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 2.0,
+      "AST": 3.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcginge01_1978_PHI",
+    "player_name": "George McGinnis",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 20.3,
+      "REB": 10.4,
+      "AST": 3.8,
+      "STL": 1.8,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcmilji01_1978_NYK",
+    "player_name": "Jim McMillian",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 3.6,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcmilto01_1978_ATL",
+    "player_name": "Tom McMillen",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 6.1,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcneila01_1978_2TM",
+    "player_name": "Larry McNeill",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 4.4,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mcneila01_1978_LAC",
+    "player_name": "Larry McNeill",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 5.1,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mengejo01_1978_CHI",
+    "player_name": "John Mengelt",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 1.6,
+      "AST": 2.9,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meriwjo01_1978_UTA",
+    "player_name": "Joe Meriweather",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 6.9,
+      "AST": 1.1,
+      "STL": 0.3,
+      "BLK": 2.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_meyerda01_1978_MIL",
+    "player_name": "Dave Meyers",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 6.7,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_mixst01_1978_PHI",
+    "player_name": "Steve Mix",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.6,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_moffela01_1978_HOU",
+    "player_name": "Larry Moffett",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 0.8,
+      "REB": 1.1,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_moneyer01_1978_DET",
+    "player_name": "Eric Money",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 2.8,
+      "AST": 4.7,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_monroea01_1978_NYK",
+    "player_name": "Earl Monroe",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 2.4,
+      "AST": 4.8,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_murphca01_1978_HOU",
+    "player_name": "Calvin Murphy",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.6,
+      "REB": 2.2,
+      "AST": 3.4,
+      "STL": 1.5,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nashbo01_1978_SAC",
+    "player_name": "Bob Nash",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.6,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_natersw01_1978_LAC",
+    "player_name": "Swen Nater",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 13.2,
+      "AST": 2.8,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nealll01_1978_POR",
+    "player_name": "Lloyd Neal",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 6.1,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsolo01_1978_2TM",
+    "player_name": "Louie Nelson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.6,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nelsolo01_1978_BKN",
+    "player_name": "Louie Nelson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.0,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_neumajo01_1978_IND",
+    "player_name": "Johnny Neumann",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 0.7,
+      "AST": 1.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_newlimi01_1978_HOU",
+    "player_name": "Mike Newlin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 2.7,
+      "AST": 4.5,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_nixonno01_1978_LAL",
+    "player_name": "Norm Nixon",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 3.0,
+      "AST": 6.8,
+      "STL": 1.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_norwowi01_1978_2TM",
+    "player_name": "Willie Norwood",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.4,
+      "AST": 0.9,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_olberma01_1978_SAS",
+    "player_name": "Mark Olberding",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.7,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_owensto01_1978_POR",
+    "player_name": "Tom Owens",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 6.6,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pacejo01_1978_WAS",
+    "player_name": "Joe Pace",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_parisro01_1978_GSW",
+    "player_name": "Robert Parish",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 8.3,
+      "AST": 1.2,
+      "STL": 1.0,
+      "BLK": 1.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_parkeso01_1978_GSW",
+    "player_name": "Sonny Parker",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 4.7,
+      "AST": 1.9,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_paultbi01_1978_SAS",
+    "player_name": "Billy Paultz",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 8.4,
+      "AST": 2.7,
+      "STL": 0.5,
+      "BLK": 2.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_perrycu01_1978_PHX",
+    "player_name": "Curtis Perry",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 5.6,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_pondecl01_1978_CHI",
+    "player_name": "Cliff Pondexter",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 3.0,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_poquebe01_1978_DET",
+    "player_name": "Ben Poquette",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_porteho01_1978_2TM",
+    "player_name": "Howard Porter",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 4.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_porteho01_1978_BKN",
+    "player_name": "Howard Porter",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 4.8,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_porteke01_1978_2TM",
+    "player_name": "Kevin Porter",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 2.6,
+      "AST": 10.2,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_porteke01_1978_BKN",
+    "player_name": "Kevin Porter",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 2.7,
+      "AST": 10.8,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_priceji01_1978_2TM",
+    "player_name": "Jim Price",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 3.1,
+      "AST": 3.1,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_priceji01_1978_DEN",
+    "player_name": "Jim Price",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.2,
+      "AST": 3.2,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_priceji01_1978_DET",
+    "player_name": "Jim Price",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 3.0,
+      "AST": 3.0,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_ratleed01_1978_HOU",
+    "player_name": "Ed Ratleff",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.4,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_raycl01_1978_GSW",
+    "player_name": "Clifford Ray",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 9.6,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_reidro01_1978_HOU",
+    "player_name": "Robert Reid",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 4.5,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_restake01_1978_2TM",
+    "player_name": "Kevin Restani",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.0,
+      "AST": 0.6,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_restake01_1978_SAC",
+    "player_name": "Kevin Restani",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberan01_1978_DEN",
+    "player_name": "Anthony Roberts",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 4.3,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roberto01_1978_ATL",
+    "player_name": "Tony Robertson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.1,
+      "AST": 1.6,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robinbi01_1978_SAC",
+    "player_name": "Bill Robinzine",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 6.6,
+      "AST": 0.9,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robintr01_1978_UTA",
+    "player_name": "Truck Robinson",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 22.7,
+      "REB": 15.7,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robisda01_1978_2TM",
+    "player_name": "Dave Robisch",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.5,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robisda01_1978_IND",
+    "player_name": "Dave Robisch",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 7.5,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_robisda01_1978_LAL",
+    "player_name": "Dave Robisch",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.3,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rollitr01_1978_ATL",
+    "player_name": "Tree Rollins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 6.9,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 2.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_roundda01_1978_IND",
+    "player_name": "Dan Roundfield",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 10.2,
+      "AST": 2.5,
+      "STL": 1.0,
+      "BLK": 1.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_rowecu01_1978_BOS",
+    "player_name": "Curtis Rowe",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 4.0,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_russeca01_1978_CHI",
+    "player_name": "Cazzie Russell",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 2.3,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_russeca02_1978_CLE",
+    "player_name": "Campy Russell",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.4,
+      "REB": 6.4,
+      "AST": 3.9,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_saundfr01_1978_2TM",
+    "player_name": "Fred Saunders",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.0,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_saundfr01_1978_BOS",
+    "player_name": "Fred Saunders",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_saundfr01_1978_UTA",
+    "player_name": "Fred Saunders",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.5,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_scottal01_1978_PHX",
+    "player_name": "Alvin Scott",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 4.4,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_scottch01_1978_2TM",
+    "player_name": "Charlie Scott",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 3.2,
+      "AST": 4.8,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_scottch01_1978_BOS",
+    "player_name": "Charlie Scott",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.3,
+      "REB": 3.3,
+      "AST": 4.6,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_scottch01_1978_LAL",
+    "player_name": "Charlie Scott",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 3.1,
+      "AST": 4.9,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sealsbr01_1978_OKC",
+    "player_name": "Bruce Seals",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.1,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sheltlo01_1978_NYK",
+    "player_name": "Lonnie Shelton",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 7.1,
+      "AST": 2.4,
+      "STL": 1.3,
+      "BLK": 1.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sheppst01_1978_CHI",
+    "player_name": "Steve Sheppard",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.0,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shumajo01_1978_2TM",
+    "player_name": "John Shumate",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 8.5,
+      "AST": 2.3,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_shumajo01_1978_DET",
+    "player_name": "John Shumate",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 8.9,
+      "AST": 2.0,
+      "STL": 1.2,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_sikmaja01_1978_OKC",
+    "player_name": "Jack Sikma",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 8.3,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_silasja01_1978_SAS",
+    "player_name": "James Silas",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.6,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_silaspa01_1978_OKC",
+    "player_name": "Paul Silas",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 8.1,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_simpsra01_1978_2TM",
+    "player_name": "Ralph Simpson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 2.5,
+      "AST": 2.5,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_simpsra01_1978_DET",
+    "player_name": "Ralph Simpson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 2.6,
+      "AST": 2.7,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_simpsra01_1978_DEN",
+    "player_name": "Ralph Simpson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.3,
+      "AST": 2.3,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_skinnal01_1978_2TM",
+    "player_name": "Al Skinner",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 2.9,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_skinnal01_1978_DET",
+    "player_name": "Al Skinner",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.5,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithbi02_1978_CLE",
+    "player_name": "Bingo Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 2.5,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithel01_1978_CLE",
+    "player_name": "Elmore Smith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 8.4,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 2.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithph01_1978_GSW",
+    "player_name": "Phil Smith",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 3.7,
+      "AST": 4.8,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithra01_1978_LAC",
+    "player_name": "Randy Smith",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 24.6,
+      "REB": 3.8,
+      "AST": 5.6,
+      "STL": 2.1,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_smithro01_1978_DEN",
+    "player_name": "Robert Smith",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 0.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_snydedi01_1978_CLE",
+    "player_name": "Dick Snyder",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 0.8,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_soberri01_1978_IND",
+    "player_name": "Ricky Sobers",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 4.1,
+      "AST": 7.4,
+      "STL": 2.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_stacoke01_1978_BOS",
+    "player_name": "Kevin Stacom",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 1.9,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_steella01_1978_POR",
+    "player_name": "Larry Steele",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 1.7,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tatumea01_1978_2TM",
+    "player_name": "Earl Tatum",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 3.6,
+      "AST": 3.6,
+      "STL": 1.7,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tatumea01_1978_LAL",
+    "player_name": "Earl Tatum",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 3.6,
+      "AST": 2.8,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tatumea01_1978_IND",
+    "player_name": "Earl Tatum",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.4,
+      "REB": 3.6,
+      "AST": 4.0,
+      "STL": 1.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_taylobr01_1978_DEN",
+    "player_name": "Brian Taylor",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 2.5,
+      "AST": 3.4,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_terrycl01_1978_ATL",
+    "player_name": "Claude Terry",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.6,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_thompda01_1978_DEN",
+    "player_name": "David Thompson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 27.2,
+      "REB": 4.9,
+      "AST": 4.5,
+      "STL": 1.2,
+      "BLK": 1.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_tomjaru01_1978_HOU",
+    "player_name": "Rudy Tomjanovich",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 6.0,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_twardda01_1978_POR",
+    "player_name": "Dave Twardzik",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 1.8,
+      "AST": 3.3,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_unselwe01_1978_WAS",
+    "player_name": "Wes Unseld",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 11.9,
+      "AST": 4.1,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanbrja01_1978_BKN",
+    "player_name": "Jan van Breda Kolff",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 3.6,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_vanlino01_1978_CHI",
+    "player_name": "Norm Van Lier",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 3.6,
+      "AST": 6.8,
+      "STL": 1.8,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkefo01_1978_CLE",
+    "player_name": "Foots Walker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 3.6,
+      "AST": 5.6,
+      "STL": 2.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkeph01_1978_WAS",
+    "player_name": "Phil Walker",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.3,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkewa01_1978_2TM",
+    "player_name": "Wally Walker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 2.8,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_walkewa01_1978_OKC",
+    "player_name": "Wally Walker",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.0,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_waltobi01_1978_POR",
+    "player_name": "Bill Walton",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 13.2,
+      "AST": 5.0,
+      "STL": 1.0,
+      "BLK": 2.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_waltoll01_1978_MIL",
+    "player_name": "Lloyd Walton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.0,
+      "AST": 3.3,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washike01_1978_2TM",
+    "player_name": "Kermit Washington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 10.8,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washike01_1978_LAL",
+    "player_name": "Kermit Washington",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 11.2,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washike01_1978_BOS",
+    "player_name": "Kermit Washington",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 10.5,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 1.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washiri01_1978_SAC",
+    "player_name": "Richard Washington",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 8.4,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.9
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washiwi01_1978_2TM",
+    "player_name": "Wilson Washington",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 4.1,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_washiwi01_1978_BKN",
+    "player_name": "Wilson Washington",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 5.9,
+      "AST": 0.4,
+      "STL": 0.7,
+      "BLK": 1.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wattssl01_1978_2TM",
+    "player_name": "Slick Watts",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.5,
+      "AST": 4.1,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wattssl01_1978_OKC",
+    "player_name": "Slick Watts",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.5,
+      "AST": 4.2,
+      "STL": 1.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wattssl01_1978_UTA",
+    "player_name": "Slick Watts",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.5,
+      "AST": 4.1,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_weathni01_1978_CHI",
+    "player_name": "Nick Weatherspoon",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.0,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_webstma01_1978_OKC",
+    "player_name": "Marvin Webster",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 12.6,
+      "AST": 2.5,
+      "STL": 0.6,
+      "BLK": 2.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wedmasc01_1978_SAC",
+    "player_name": "Scott Wedman",
+    "team": "KCK",
+    "team_abbr": "SAC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 5.7,
+      "AST": 2.5,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_westppa01_1978_PHX",
+    "player_name": "Paul Westphal",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.2,
+      "REB": 2.1,
+      "AST": 5.5,
+      "STL": 1.7,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whitejo01_1978_BOS",
+    "player_name": "Jo Jo White",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 3.9,
+      "AST": 4.5,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_whiteru01_1978_HOU",
+    "player_name": "Rudy White",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.0,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wickssi01_1978_BOS",
+    "player_name": "Sidney Wicks",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1978,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 8.3,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilkebo01_1978_DEN",
+    "player_name": "Bob Wilkerson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 5.9,
+      "AST": 5.4,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wilkeja01_1978_LAL",
+    "player_name": "Jamaal Wilkes",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 7.5,
+      "AST": 3.6,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willich02_1978_LAC",
+    "player_name": "Chuck Williams",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.9,
+      "AST": 4.3,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willigu01_1978_OKC",
+    "player_name": "Gus Williams",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 3.2,
+      "AST": 3.7,
+      "STL": 2.3,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willijo01_1978_2TM",
+    "player_name": "John Williamson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 23.7,
+      "REB": 3.0,
+      "AST": 2.9,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willijo01_1978_IND",
+    "player_name": "John Williamson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 2.9,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.0
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willijo01_1978_BKN",
+    "player_name": "John Williamson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 29.5,
+      "REB": 3.2,
+      "AST": 2.5,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willina01_1978_2TM",
+    "player_name": "Nate Williams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.8,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willina01_1978_UTA",
+    "player_name": "Nate Williams",
+    "team": "NOJ",
+    "team_abbr": "UTA",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.3,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willina01_1978_GSW",
+    "player_name": "Nate Williams",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 2.5,
+      "AST": 0.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willira01_1978_NYK",
+    "player_name": "Ray Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 2.6,
+      "AST": 4.5,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_willobi01_1978_LAC",
+    "player_name": "Bill Willoughby",
+    "team": "BUF",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 3.9,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wintebr01_1978_MIL",
+    "player_name": "Brian Winters",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1978,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.9,
+      "REB": 3.1,
+      "AST": 4.9,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1970s"
+  },
+  {
+    "player_id": "bref_wrighla01_1978_WAS",
+    "player_name": "Larry Wright",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 1.5,
+      "AST": 3.7,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1970s"
+  }
+]

@@ -1,0 +1,7448 @@
+[
+  {
+    "player_id": "bref_abdulma02_1997_SAC",
+    "player_name": "Mahmoud Abdul-Rauf",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 1.6,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_abdursh01_1997_MEM",
+    "player_name": "Shareef Abdur-Rahim",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 6.9,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_addisra01_1997_CHA",
+    "player_name": "Rafael Addison",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.1,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_alexaco01_1997_SAS",
+    "player_name": "Cory Alexander",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 1.5,
+      "AST": 3.2,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_allenje01_1997_2TM",
+    "player_name": "Jerome Allen",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.3,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_allenje01_1997_IND",
+    "player_name": "Jerome Allen",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.3,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_allenje01_1997_DEN",
+    "player_name": "Jerome Allen",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.3,
+      "AST": 1.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_allenra02_1997_MIL",
+    "player_name": "Ray Allen",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 4.0,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_amayaas01_1997_WAS",
+    "player_name": "Ashraf Amaya",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 1.7,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_andergr01_1997_SAS",
+    "player_name": "Greg Anderson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 5.5,
+      "AST": 0.4,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_anderke01_1997_POR",
+    "player_name": "Kenny Anderson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 4.4,
+      "AST": 7.1,
+      "STL": 2.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_anderni01_1997_ORL",
+    "player_name": "Nick Anderson",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 4.8,
+      "AST": 2.9,
+      "STL": 1.9,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_andersh01_1997_UTA",
+    "player_name": "Shandon Anderson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.8,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_anderwi01_1997_MIA",
+    "player_name": "Willie Anderson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.5,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_anthogr01_1997_MEM",
+    "player_name": "Greg Anthony",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 2.8,
+      "AST": 6.3,
+      "STL": 2.0,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_armstbj01_1997_GSW",
+    "player_name": "B.J. Armstrong",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.5,
+      "AST": 2.6,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_armstda01_1997_ORL",
+    "player_name": "Darrell Armstrong",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.1,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_askewvi01_1997_3TM",
+    "player_name": "Vincent Askew",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 2.3,
+      "AST": 2.1,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_askewvi01_1997_IND",
+    "player_name": "Vincent Askew",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.4,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_askinke01_1997_MIA",
+    "player_name": "Keith Askins",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 3.5,
+      "AST": 1.0,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_augmost01_1997_2TM",
+    "player_name": "Stacey Augmon",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.3,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_augmost01_1997_DET",
+    "player_name": "Stacey Augmon",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.5,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_augmost01_1997_POR",
+    "player_name": "Stacey Augmon",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.2,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_austiis01_1997_MIA",
+    "player_name": "Isaac Austin",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 5.8,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bakervi01_1997_MIL",
+    "player_name": "Vin Baker",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 10.3,
+      "AST": 2.7,
+      "STL": 1.0,
+      "BLK": 1.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_barklch01_1997_HOU",
+    "player_name": "Charles Barkley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.2,
+      "REB": 13.5,
+      "AST": 4.7,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_barroda01_1997_BOS",
+    "player_name": "Dana Barros",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 2.0,
+      "AST": 3.4,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_barrybr01_1997_LAC",
+    "player_name": "Brent Barry",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.9,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_barryjo01_1997_ATL",
+    "player_name": "Jon Barry",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 1.7,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_besttr01_1997_IND",
+    "player_name": "Travis Best",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.2,
+      "AST": 4.2,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_blaylmo01_1997_ATL",
+    "player_name": "Mookie Blaylock",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 5.3,
+      "AST": 5.9,
+      "STL": 2.7,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_blounco01_1997_LAL",
+    "player_name": "Corie Blount",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 4.8,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_boguemu01_1997_CHA",
+    "player_name": "Muggsy Bogues",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 2.2,
+      "AST": 7.2,
+      "STL": 1.3,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bookeme01_1997_2TM",
+    "player_name": "Melvin Booker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 1.4,
+      "AST": 2.5,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_boycedo01_1997_ATL",
+    "player_name": "Donnie Boyce",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 0.7,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bradlsh01_1997_2TM",
+    "player_name": "Shawn Bradley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 8.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 3.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bradlsh01_1997_BKN",
+    "player_name": "Shawn Bradley",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 8.1,
+      "AST": 0.5,
+      "STL": 0.6,
+      "BLK": 4.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bradlsh01_1997_DAL",
+    "player_name": "Shawn Bradley",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 8.7,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 2.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bradtma01_1997_PHI",
+    "player_name": "Mark Bradtke",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 1.9,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brandte01_1997_CLE",
+    "player_name": "Terrell Brandon",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 3.9,
+      "AST": 6.3,
+      "STL": 1.8,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brooksc01_1997_NYK",
+    "player_name": "Scott Brooks",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 0.5,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brownch01_1997_2TM",
+    "player_name": "Chucky Brown",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brownch01_1997_MIL",
+    "player_name": "Chucky Brown",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.2,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brownde01_1997_BOS",
+    "player_name": "Dee Brown",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 2.3,
+      "AST": 3.2,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brownma01_1997_POR",
+    "player_name": "Marcus Brown",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.7,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brownpj01_1997_MIA",
+    "player_name": "P.J. Brown",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 8.4,
+      "AST": 1.2,
+      "STL": 1.1,
+      "BLK": 1.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_brownra02_1997_CHI",
+    "player_name": "Randy Brown",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.5,
+      "AST": 1.8,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bryanko01_1997_LAL",
+    "player_name": "Kobe Bryant",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 1.9,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bryanma01_1997_PHX",
+    "player_name": "Mark Bryant",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 5.2,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_buechju01_1997_CHI",
+    "player_name": "Jud Buechler",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.7,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_bullama01_1997_HOU",
+    "player_name": "Matt Bullard",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_burresc01_1997_2TM",
+    "player_name": "Scott Burrell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.8,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_burresc01_1997_CHA",
+    "player_name": "Scott Burrell",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.8,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_burresc01_1997_GSW",
+    "player_name": "Scott Burrell",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.7,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_burtowi01_1997_ATL",
+    "player_name": "Willie Burton",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 1.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_butlemi02_1997_POR",
+    "player_name": "Mitchell Butler",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_caffeja01_1997_CHI",
+    "player_name": "Jason Caffey",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 4.0,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cagemi01_1997_PHI",
+    "player_name": "Michael Cage",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 3.9,
+      "AST": 0.5,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_caldwad01_1997_2TM",
+    "player_name": "Adrian Caldwell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 3.7,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_caldwad01_1997_PHI",
+    "player_name": "Adrian Caldwell",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 4.1,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cambyma01_1997_TOR",
+    "player_name": "Marcus Camby",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 6.3,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 2.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_campbel01_1997_LAL",
+    "player_name": "Elden Campbell",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 8.0,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 1.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_carran01_1997_UTA",
+    "player_name": "Antoine Carr",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.4,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_carrch01_1997_MIN",
+    "player_name": "Chris Carr",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.1,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cassesa01_1997_3TM",
+    "player_name": "Sam Cassell",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 3.0,
+      "AST": 5.0,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cassesa01_1997_PHX",
+    "player_name": "Sam Cassell",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 2.3,
+      "AST": 4.5,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cassesa01_1997_BKN",
+    "player_name": "Sam Cassell",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 3.6,
+      "AST": 6.5,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_causwdu01_1997_SAC",
+    "player_name": "Duane Causwell",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cebalce01_1997_2TM",
+    "player_name": "Cedric Ceballos",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 6.6,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cebalce01_1997_PHX",
+    "player_name": "Cedric Ceballos",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 6.6,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_chapmre01_1997_PHX",
+    "player_name": "Rex Chapman",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 2.8,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cheanca01_1997_WAS",
+    "player_name": "Calbert Cheaney",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 3.4,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_chilcpe01_1997_MEM",
+    "player_name": "Pete Chilcutt",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.9,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_childch01_1997_NYK",
+    "player_name": "Chris Childs",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 2.9,
+      "AST": 6.1,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_childra01_1997_2TM",
+    "player_name": "Randolph Childress",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 0.3,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_chrisdo01_1997_TOR",
+    "player_name": "Doug Christie",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 5.3,
+      "AST": 3.9,
+      "STL": 2.5,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_colemde01_1997_PHI",
+    "player_name": "Derrick Coleman",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 10.1,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 1.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_colesbi01_1997_GSW",
+    "player_name": "Bimbo Coles",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.3,
+      "AST": 2.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_conloma01_1997_BOS",
+    "player_name": "Marty Conlon",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 4.4,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_corbity01_1997_ATL",
+    "player_name": "Tyrone Corbin",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 4.2,
+      "AST": 1.8,
+      "STL": 1.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_crottjo01_1997_MIA",
+    "player_name": "John Crotty",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.0,
+      "AST": 2.1,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_cummite01_1997_OKC",
+    "player_name": "Terry Cummings",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.1,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_curryde01_1997_CHA",
+    "player_name": "Dell Curry",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 3.1,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_currymi01_1997_DET",
+    "player_name": "Michael Curry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.5,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dampier01_1997_IND",
+    "player_name": "Erick Dampier",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 4.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_daniell01_1997_2TM",
+    "player_name": "Lloyd Daniels",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.0,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_danilsa01_1997_2TM",
+    "player_name": "Sasha Danilovi\u0107",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 2.4,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_danilsa01_1997_MIA",
+    "player_name": "Sasha Danilovi\u0107",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.4,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dareyi01_1997_BKN",
+    "player_name": "Yinka Dare",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 2.0,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_davisan01_1997_IND",
+    "player_name": "Antonio Davis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 7.3,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_davisbe01_1997_PHX",
+    "player_name": "Ben Davis",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 1.4,
+      "AST": 0.0,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_davisda01_1997_IND",
+    "player_name": "Dale Davis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 9.7,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_davishu01_1997_TOR",
+    "player_name": "Hubert Davis",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.1,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_davisma02_1997_PHI",
+    "player_name": "Mark Davis",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 4.3,
+      "AST": 1.8,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dayto01_1997_BOS",
+    "player_name": "Todd Day",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 4.1,
+      "AST": 1.4,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_declean01_1997_GSW",
+    "player_name": "Andrew DeClercq",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 4.2,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_deherte01_1997_LAC",
+    "player_name": "Terry Dehere",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.3,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_delkto01_1997_CHA",
+    "player_name": "Tony Delk",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.6,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_delnevi01_1997_SAS",
+    "player_name": "Vinny Del Negro",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 2.9,
+      "AST": 3.2,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_divacvl01_1997_CHA",
+    "player_name": "Vlade Divac",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 9.0,
+      "AST": 3.7,
+      "STL": 1.3,
+      "BLK": 2.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_douglsh01_1997_MIL",
+    "player_name": "Sherman Douglas",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.4,
+      "AST": 5.4,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dreilgr01_1997_DAL",
+    "player_name": "Greg Dreiling",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.9,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_drexlcl01_1997_HOU",
+    "player_name": "Clyde Drexler",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 6.0,
+      "AST": 5.7,
+      "STL": 1.9,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_duckwke01_1997_LAC",
+    "player_name": "Kevin Duckworth",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.3,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dudlech02_1997_POR",
+    "player_name": "Chris Dudley",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 7.3,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 1.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dumarjo01_1997_DET",
+    "player_name": "Joe Dumars",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 2.4,
+      "AST": 4.0,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_dumasto01_1997_2TM",
+    "player_name": "Tony Dumas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 0.7,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_earlac01_1997_2TM",
+    "player_name": "Acie Earl",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.0,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_earlac01_1997_TOR",
+    "player_name": "Acie Earl",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_edneyty01_1997_SAC",
+    "player_name": "Tyus Edney",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.6,
+      "AST": 3.2,
+      "STL": 0.9,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_edwarbl01_1997_MEM",
+    "player_name": "Blue Edwards",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.1,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_edwarke01_1997_BKN",
+    "player_name": "Kevin Edwards",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.3,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ehlocr01_1997_OKC",
+    "player_name": "Craig Ehlo",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.8,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_eisleho01_1997_UTA",
+    "player_name": "Howard Eisley",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.0,
+      "AST": 2.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_eliema01_1997_HOU",
+    "player_name": "Mario Elie",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 3.0,
+      "AST": 4.0,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_elliose01_1997_SAS",
+    "player_name": "Sean Elliott",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 4.9,
+      "AST": 3.2,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ellisda01_1997_DEN",
+    "player_name": "Dale Ellis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.6,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ellisla01_1997_DEN",
+    "player_name": "LaPhonso Ellis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 21.9,
+      "REB": 7.0,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ewingpa01_1997_NYK",
+    "player_name": "Patrick Ewing",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 22.4,
+      "REB": 10.7,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 2.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_feickja01_1997_2TM",
+    "player_name": "Jamie Feick",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 5.2,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_feickja01_1997_SAS",
+    "player_name": "Jamie Feick",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 5.6,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ferredu01_1997_IND",
+    "player_name": "Duane Ferrell",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.3,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ferryda01_1997_CLE",
+    "player_name": "Danny Ferry",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 4.1,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_finlemi01_1997_2TM",
+    "player_name": "Michael Finley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 4.5,
+      "AST": 2.7,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_finlemi01_1997_PHX",
+    "player_name": "Michael Finley",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 4.4,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_finlemi01_1997_DAL",
+    "player_name": "Michael Finley",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 4.5,
+      "AST": 2.8,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_fishede01_1997_LAL",
+    "player_name": "Derek Fisher",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.2,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_fostegr01_1997_UTA",
+    "player_name": "Greg Foster",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.4,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_foxri01_1997_BOS",
+    "player_name": "Rick Fox",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 5.2,
+      "AST": 3.8,
+      "STL": 2.2,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_fulleto02_1997_GSW",
+    "player_name": "Todd Fuller",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.3,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_gamblke01_1997_SAC",
+    "player_name": "Kevin Gamble",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.7,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_garneke01_1997_MIN",
+    "player_name": "Kevin Garnett",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 8.0,
+      "AST": 3.1,
+      "STL": 1.4,
+      "BLK": 2.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_garrede01_1997_MIN",
+    "player_name": "Dean Garrett",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 7.3,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 1.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_gatlich01_1997_2TM",
+    "player_name": "Chris Gatling",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 7.9,
+      "AST": 0.6,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_gatlich01_1997_DAL",
+    "player_name": "Chris Gatling",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 7.9,
+      "AST": 0.6,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_gearyre01_1997_CLE",
+    "player_name": "Reggie Geary",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 0.4,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_geigema01_1997_CHA",
+    "player_name": "Matt Geiger",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.3,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_gilliar01_1997_MIL",
+    "player_name": "Armen Gilliam",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 6.2,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_gillke01_1997_BKN",
+    "player_name": "Kendall Gill",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.8,
+      "REB": 6.1,
+      "AST": 4.0,
+      "STL": 1.9,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_goldwan01_1997_2TM",
+    "player_name": "Anthony Goldwire",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 1.4,
+      "AST": 3.7,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_goldwan01_1997_CHA",
+    "player_name": "Anthony Goldwire",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 1.2,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_goldwan01_1997_DEN",
+    "player_name": "Anthony Goldwire",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.7,
+      "AST": 4.6,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_grahagr01_1997_OKC",
+    "player_name": "Greg Graham",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 0.5,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_grantbr01_1997_SAC",
+    "player_name": "Brian Grant",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 5.9,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_grantga01_1997_MIA",
+    "player_name": "Gary Grant",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.4,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_grantha01_1997_WAS",
+    "player_name": "Harvey Grant",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 3.3,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_grantho01_1997_ORL",
+    "player_name": "Horace Grant",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 9.0,
+      "AST": 2.4,
+      "STL": 1.5,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_grayeje01_1997_SAC",
+    "player_name": "Jeff Grayer",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.5,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_greenac01_1997_2TM",
+    "player_name": "A.C. Green",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 7.9,
+      "AST": 0.8,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_greenac01_1997_PHX",
+    "player_name": "A.C. Green",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 5.1,
+      "AST": 0.6,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_greenac01_1997_DAL",
+    "player_name": "A.C. Green",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 9.3,
+      "AST": 0.9,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_greenli01_1997_DET",
+    "player_name": "Litterial Green",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.5,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_guglito01_1997_MIN",
+    "player_name": "Tom Gugliotta",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 8.7,
+      "AST": 4.1,
+      "STL": 1.6,
+      "BLK": 1.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_haleyja01_1997_BKN",
+    "player_name": "Jack Haley",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hamda01_1997_2TM",
+    "player_name": "Darvin Ham",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.6,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hamda01_1997_DEN",
+    "player_name": "Darvin Ham",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.6,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hamerst01_1997_BOS",
+    "player_name": "Steve Hamer",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 1.7,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hammoto01_1997_DEN",
+    "player_name": "Tom Hammonds",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 5.0,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hancoda01_1997_3TM",
+    "player_name": "Darrin Hancock",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 0.8,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hardaan01_1997_ORL",
+    "player_name": "Anfernee Hardaway",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 20.5,
+      "REB": 4.5,
+      "AST": 5.6,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hardati01_1997_MIA",
+    "player_name": "Tim Hardaway",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.3,
+      "REB": 3.4,
+      "AST": 8.6,
+      "STL": 1.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_harpede01_1997_DAL",
+    "player_name": "Derek Harper",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 1.8,
+      "AST": 4.3,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_harpero01_1997_CHI",
+    "player_name": "Ron Harper",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 2.5,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_harrilu01_1997_PHI",
+    "player_name": "Lucious Harris",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 1.3,
+      "AST": 0.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_harriot01_1997_HOU",
+    "player_name": "Othella Harrington",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.5,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hawkihe01_1997_OKC",
+    "player_name": "Hersey Hawkins",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 3.9,
+      "AST": 3.0,
+      "STL": 1.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hawkimi01_1997_BOS",
+    "player_name": "Michael Hawkins",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.1,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_healsh01_1997_MIN",
+    "player_name": "Shane Heal",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 0.4,
+      "AST": 0.8,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hendeal01_1997_ATL",
+    "player_name": "Alan Henderson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 3.9,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hendrma01_1997_PHI",
+    "player_name": "Mark Hendrickson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 3.2,
+      "AST": 0.1,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_herreca01_1997_SAS",
+    "player_name": "Carl Herrera",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.5,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hillgr01_1997_DET",
+    "player_name": "Grant Hill",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 9.0,
+      "AST": 7.3,
+      "STL": 1.8,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hillty01_1997_CLE",
+    "player_name": "Tyrone Hill",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 9.9,
+      "AST": 1.2,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hoibefr01_1997_IND",
+    "player_name": "Fred Hoiberg",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hornaje01_1997_UTA",
+    "player_name": "Jeff Hornacek",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 2.9,
+      "AST": 4.4,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_horryro01_1997_2TM",
+    "player_name": "Robert Horry",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 4.4,
+      "AST": 2.0,
+      "STL": 1.2,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_horryro01_1997_PHX",
+    "player_name": "Robert Horry",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.7,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_horryro01_1997_LAL",
+    "player_name": "Robert Horry",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 5.4,
+      "AST": 2.5,
+      "STL": 1.7,
+      "BLK": 1.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_houstal01_1997_NYK",
+    "player_name": "Allan Houston",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 3.0,
+      "AST": 2.2,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_howarju01_1997_WAS",
+    "player_name": "Juwan Howard",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 8.0,
+      "AST": 3.8,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_howarst01_1997_2TM",
+    "player_name": "Stephen Howard",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.7,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_howarst01_1997_UTA",
+    "player_name": "Stephen Howard",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.8,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hunteli01_1997_DET",
+    "player_name": "Lindsey Hunter",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 2.8,
+      "AST": 1.9,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_hurlebo01_1997_SAC",
+    "player_name": "Bobby Hurley",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 0.8,
+      "AST": 3.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_iversal01_1997_PHI",
+    "player_name": "Allen Iverson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 23.5,
+      "REB": 4.1,
+      "AST": 7.5,
+      "STL": 2.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksja01_1997_WAS",
+    "player_name": "Jaren Jackson",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.8,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksji01_1997_2TM",
+    "player_name": "Jim Jackson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 5.3,
+      "AST": 4.1,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksji01_1997_DAL",
+    "player_name": "Jim Jackson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 4.9,
+      "AST": 3.4,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksji01_1997_BKN",
+    "player_name": "Jim Jackson",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.5,
+      "REB": 5.9,
+      "AST": 5.2,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksma01_1997_2TM",
+    "player_name": "Mark Jackson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 4.8,
+      "AST": 11.4,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksma01_1997_DEN",
+    "player_name": "Mark Jackson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 5.2,
+      "AST": 12.3,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jacksma01_1997_IND",
+    "player_name": "Mark Jackson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 4.1,
+      "AST": 9.8,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jameshe01_1997_ATL",
+    "player_name": "Henry James",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnsav01_1997_SAS",
+    "player_name": "Avery Johnson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 1.9,
+      "AST": 6.8,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnsed03_1997_2TM",
+    "player_name": "Eddie Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.7,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnsed03_1997_IND",
+    "player_name": "Eddie Johnson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.4,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnsed03_1997_HOU",
+    "player_name": "Eddie Johnson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 4.1,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnser02_1997_DEN",
+    "player_name": "Ervin Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 11.1,
+      "AST": 0.9,
+      "STL": 0.8,
+      "BLK": 2.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnske02_1997_PHX",
+    "player_name": "Kevin Johnson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 3.6,
+      "AST": 9.3,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_johnsla02_1997_NYK",
+    "player_name": "Larry Johnson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 5.2,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jonesed02_1997_LAL",
+    "player_name": "Eddie Jones",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 4.1,
+      "AST": 3.4,
+      "STL": 2.4,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jonespo01_1997_TOR",
+    "player_name": "Popeye Jones",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 8.6,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_jordami01_1997_CHI",
+    "player_name": "Michael Jordan",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 29.6,
+      "REB": 5.9,
+      "AST": 4.3,
+      "STL": 1.7,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_keefead01_1997_UTA",
+    "player_name": "Adam Keefe",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 3.5,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kempsh01_1997_OKC",
+    "player_name": "Shawn Kemp",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 10.0,
+      "AST": 1.9,
+      "STL": 1.5,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kerrst01_1997_CHI",
+    "player_name": "Steve Kerr",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 1.6,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kerseje01_1997_LAL",
+    "player_name": "Jerome Kersey",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 5.2,
+      "AST": 1.3,
+      "STL": 1.7,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kiddja01_1997_2TM",
+    "player_name": "Jason Kidd",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 4.5,
+      "AST": 9.0,
+      "STL": 2.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kiddja01_1997_DAL",
+    "player_name": "Jason Kidd",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 4.1,
+      "AST": 9.1,
+      "STL": 2.0,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kiddja01_1997_PHX",
+    "player_name": "Jason Kidd",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 4.8,
+      "AST": 9.0,
+      "STL": 2.4,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kittlke01_1997_BKN",
+    "player_name": "Kerry Kittles",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 3.9,
+      "AST": 3.0,
+      "STL": 1.9,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kleinjo01_1997_3TM",
+    "player_name": "Joe Kleine",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kleinjo01_1997_PHX",
+    "player_name": "Joe Kleine",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 3.5,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kleinjo01_1997_BKN",
+    "player_name": "Joe Kleine",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 4.1,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_knightr01_1997_LAL",
+    "player_name": "Travis Knight",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 4.5,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_kukocto01_1997_CHI",
+    "player_name": "Toni Kuko\u010d",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 4.6,
+      "AST": 4.5,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_laettch01_1997_ATL",
+    "player_name": "Christian Laettner",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 8.8,
+      "AST": 2.7,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_langan01_1997_MIL",
+    "player_name": "Andrew Lang",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 5.3,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_langan02_1997_CLE",
+    "player_name": "Antonio Lang",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_laudepr01_1997_ATL",
+    "player_name": "Priest Lauderdale",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.2,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_leckner01_1997_2TM",
+    "player_name": "Eric Leckner",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 1.8,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_lenarvo01_1997_MIA",
+    "player_name": "Voshon Lenard",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 3.0,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_listeal01_1997_BOS",
+    "player_name": "Alton Lister",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 3.2,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_livinra01_1997_HOU",
+    "player_name": "Randy Livingston",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.5,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_llamaho01_1997_PHX",
+    "player_name": "Horacio Llamas",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 0.9,
+      "AST": 0.2,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_longgr01_1997_DET",
+    "player_name": "Grant Long",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_longjo01_1997_TOR",
+    "player_name": "John Long",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.3,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_longllu01_1997_CHI",
+    "player_name": "Luc Longley",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 5.6,
+      "AST": 2.4,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_lynchge01_1997_MEM",
+    "player_name": "George Lynch",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 6.4,
+      "AST": 1.9,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_macksa01_1997_HOU",
+    "player_name": "Sam Mack",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 2.0,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_macledo01_1997_PHI",
+    "player_name": "Don MacLean",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.8,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mahorri01_1997_DET",
+    "player_name": "Rick Mahorn",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 2.4,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_majerda01_1997_MIA",
+    "player_name": "Dan Majerle",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 4.5,
+      "AST": 3.2,
+      "STL": 1.5,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_malonka01_1997_UTA",
+    "player_name": "Karl Malone",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 27.4,
+      "REB": 9.9,
+      "AST": 4.5,
+      "STL": 1.4,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_malonma01_1997_HOU",
+    "player_name": "Matt Maloney",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 2.0,
+      "AST": 3.7,
+      "STL": 1.0,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mannida01_1997_PHX",
+    "player_name": "Danny Manning",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 6.1,
+      "AST": 2.2,
+      "STL": 1.1,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_manniri01_1997_2TM",
+    "player_name": "Rich Manning",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.5,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_marbust01_1997_MIN",
+    "player_name": "Stephon Marbury",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.8,
+      "REB": 2.7,
+      "AST": 7.8,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_marshdo01_1997_GSW",
+    "player_name": "Donyell Marshall",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 4.5,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_marshdo02_1997_CLE",
+    "player_name": "Donny Marshall",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.3,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_martida01_1997_LAC",
+    "player_name": "Darrick Martin",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 1.4,
+      "AST": 4.1,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mashbja01_1997_2TM",
+    "player_name": "Jamal Mashburn",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 4.3,
+      "AST": 3.0,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mashbja01_1997_DAL",
+    "player_name": "Jamal Mashburn",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 3.1,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mashbja01_1997_MIA",
+    "player_name": "Jamal Mashburn",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 5.6,
+      "AST": 3.5,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_masonan01_1997_CHA",
+    "player_name": "Anthony Mason",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 11.4,
+      "AST": 5.7,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_masseto01_1997_BKN",
+    "player_name": "Tony Massenburg",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 6.5,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_maxweve01_1997_SAS",
+    "player_name": "Vernon Maxwell",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 2.2,
+      "AST": 2.1,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_maybele01_1997_MEM",
+    "player_name": "Lee Mayberry",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 1.7,
+      "AST": 4.1,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mccarwa01_1997_NYK",
+    "player_name": "Walter McCarty",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 0.7,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mccloge01_1997_2TM",
+    "player_name": "George McCloud",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 2.8,
+      "AST": 1.7,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mccloge01_1997_DAL",
+    "player_name": "George McCloud",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 3.5,
+      "AST": 2.2,
+      "STL": 1.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mccloge01_1997_LAL",
+    "player_name": "George McCloud",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.6,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mcdanxa01_1997_BKN",
+    "player_name": "Xavier McDaniel",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 5.1,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mcdyean01_1997_DEN",
+    "player_name": "Antonio McDyess",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.3,
+      "REB": 7.3,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 1.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mcilvji01_1997_OKC",
+    "player_name": "Jim McIlvaine",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 4.0,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 2.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mckeyde01_1997_IND",
+    "player_name": "Derrick McKey",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.8,
+      "AST": 2.7,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mckieaa01_1997_2TM",
+    "player_name": "Aaron McKie",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.7,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mckieaa01_1997_POR",
+    "player_name": "Aaron McKie",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.3,
+      "AST": 2.0,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mckieaa01_1997_DET",
+    "player_name": "Aaron McKie",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 3.0,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mcmilna01_1997_OKC",
+    "player_name": "Nate McMillan",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 3.2,
+      "AST": 3.8,
+      "STL": 1.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_meyerlo01_1997_2TM",
+    "player_name": "Loren Meyer",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 2.7,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_meyerlo01_1997_PHX",
+    "player_name": "Loren Meyer",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.7,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_milleol01_1997_2TM",
+    "player_name": "Oliver Miller",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 5.0,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_milleol01_1997_DAL",
+    "player_name": "Oliver Miller",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 5.5,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 1.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_millere01_1997_IND",
+    "player_name": "Reggie Miller",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.6,
+      "REB": 3.5,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_millsch01_1997_CLE",
+    "player_name": "Chris Mills",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 6.2,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_millste01_1997_DET",
+    "player_name": "Terry Mills",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 4.8,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_minorgr01_1997_BOS",
+    "player_name": "Greg Minor",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 3.5,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mitchsa01_1997_MIN",
+    "player_name": "Sam Mitchell",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 4.0,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mobleer01_1997_MEM",
+    "player_name": "Eric Mobley",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.1,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_montrer01_1997_2TM",
+    "player_name": "Eric Montross",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 6.6,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_montrer01_1997_DAL",
+    "player_name": "Eric Montross",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 5.0,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_montrer01_1997_BKN",
+    "player_name": "Eric Montross",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 9.1,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 1.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mooretr01_1997_HOU",
+    "player_name": "Tracy Moore",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.0,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_morrich01_1997_UTA",
+    "player_name": "Chris Morris",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.2,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_motenla01_1997_MEM",
+    "player_name": "Lawrence Moten",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mournal01_1997_MIA",
+    "player_name": "Alonzo Mourning",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.8,
+      "REB": 9.9,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 2.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mullich01_1997_GSW",
+    "player_name": "Chris Mullin",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 4.0,
+      "AST": 4.1,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_muresgh01_1997_WAS",
+    "player_name": "Gheorghe Mure\u0219an",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 6.6,
+      "AST": 0.4,
+      "STL": 0.6,
+      "BLK": 1.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_murrala01_1997_LAC",
+    "player_name": "Lamond Murray",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 3.1,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_murratr01_1997_WAS",
+    "player_name": "Tracy Murray",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_mutomdi01_1997_ATL",
+    "player_name": "Dikembe Mutombo",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 11.6,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 3.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_muursma01_1997_2TM",
+    "player_name": "Martin M\u00fc\u00fcrsepp",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 1.6,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_muursma01_1997_DAL",
+    "player_name": "Martin M\u00fc\u00fcrsepp",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 1.9,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_nashst01_1997_PHX",
+    "player_name": "Steve Nash",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.0,
+      "AST": 2.1,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_newbiiv01_1997_ATL",
+    "player_name": "Ivano Newbill",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.4,
+      "REB": 2.8,
+      "AST": 0.3,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_newmajo01_1997_MIL",
+    "player_name": "Johnny Newman",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.3,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_oaklech01_1997_NYK",
+    "player_name": "Charles Oakley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 9.8,
+      "AST": 2.8,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_obanned01_1997_2TM",
+    "player_name": "Ed O'Bannon",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.3,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_obanned01_1997_BKN",
+    "player_name": "Ed O'Bannon",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.5,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_olajuha01_1997_HOU",
+    "player_name": "Hakeem Olajuwon",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 23.2,
+      "REB": 9.2,
+      "AST": 3.0,
+      "STL": 1.5,
+      "BLK": 2.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_onealje01_1997_POR",
+    "player_name": "Jermaine O'Neal",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.8,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_onealsh01_1997_LAL",
+    "player_name": "Shaquille O'Neal",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 26.2,
+      "REB": 12.5,
+      "AST": 3.1,
+      "STL": 0.9,
+      "BLK": 2.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ostergr01_1997_UTA",
+    "player_name": "Greg Ostertag",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 7.3,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 2.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_outlabo01_1997_LAC",
+    "player_name": "Bo Outlaw",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 5.5,
+      "AST": 1.9,
+      "STL": 1.1,
+      "BLK": 1.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_overtdo01_1997_PHI",
+    "player_name": "Doug Overton",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.1,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_owensbi01_1997_SAC",
+    "player_name": "Billy Owens",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 5.9,
+      "AST": 2.8,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_owesra01_1997_GSW",
+    "player_name": "Ray Owes",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.9,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_packro01_1997_2TM",
+    "player_name": "Robert Pack",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 2.7,
+      "AST": 8.4,
+      "STL": 1.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_packro01_1997_BKN",
+    "player_name": "Robert Pack",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 2.5,
+      "AST": 9.6,
+      "STL": 1.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_packro01_1997_DAL",
+    "player_name": "Robert Pack",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 3.0,
+      "AST": 6.4,
+      "STL": 1.8,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_parisro01_1997_CHI",
+    "player_name": "Robert Parish",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.1,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_parksch02_1997_MIN",
+    "player_name": "Cherokee Parks",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.6,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_paytoga01_1997_OKC",
+    "player_name": "Gary Payton",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 21.8,
+      "REB": 4.6,
+      "AST": 7.1,
+      "STL": 2.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_peelean01_1997_MEM",
+    "player_name": "Anthony Peeler",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.5,
+      "REB": 3.4,
+      "AST": 3.6,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_perduwi01_1997_SAS",
+    "player_name": "Will Perdue",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 9.8,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 1.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_perkisa01_1997_OKC",
+    "player_name": "Sam Perkins",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 3.7,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_perryel01_1997_MIL",
+    "player_name": "Elliot Perry",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.5,
+      "AST": 3.0,
+      "STL": 1.2,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_persowe01_1997_PHX",
+    "player_name": "Wesley Person",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 3.7,
+      "AST": 1.5,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_phillbo01_1997_CLE",
+    "player_name": "Bobby Phills",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 3.6,
+      "AST": 3.4,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_piatker01_1997_LAC",
+    "player_name": "Eric Piatkowski",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 1.6,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_piercri01_1997_2TM",
+    "player_name": "Ricky Pierce",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 2.0,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_piercri01_1997_DEN",
+    "player_name": "Ricky Pierce",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_piercri01_1997_CHA",
+    "player_name": "Ricky Pierce",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 2.5,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_pincked01_1997_MIA",
+    "player_name": "Ed Pinckney",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 2.4,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_pippesc01_1997_CHI",
+    "player_name": "Scottie Pippen",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 20.2,
+      "REB": 6.5,
+      "AST": 5.7,
+      "STL": 1.9,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_polynol01_1997_SAC",
+    "player_name": "Olden Polynice",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 9.4,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_portete01_1997_MIN",
+    "player_name": "Terry Porter",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.1,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_potapvi01_1997_CLE",
+    "player_name": "Vitaly Potapenko",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_pricebr01_1997_HOU",
+    "player_name": "Brent Price",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.2,
+      "AST": 2.6,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_pricema01_1997_GSW",
+    "player_name": "Mark Price",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.6,
+      "AST": 4.9,
+      "STL": 1.0,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_radjadi01_1997_BOS",
+    "player_name": "Dino Radja",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 8.4,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 1.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ratlith01_1997_DET",
+    "player_name": "Theo Ratliff",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 3.4,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 1.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_recasel01_1997_ATL",
+    "player_name": "Eldridge Recasner",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 1.6,
+      "AST": 1.3,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_reevebr01_1997_MEM",
+    "player_name": "Bryant Reeves",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 8.1,
+      "AST": 2.1,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_reevekh01_1997_2TM",
+    "player_name": "Khalid Reeves",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 1.9,
+      "AST": 3.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_reevekh01_1997_BKN",
+    "player_name": "Khalid Reeves",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.8,
+      "AST": 3.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_reiddo01_1997_DET",
+    "player_name": "Don Reid",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.1,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_respesh01_1997_2TM",
+    "player_name": "Shawn Respert",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 1.0,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_respesh01_1997_TOR",
+    "player_name": "Shawn Respert",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.2,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_ricegl01_1997_CHA",
+    "player_name": "Glen Rice",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 26.8,
+      "REB": 4.0,
+      "AST": 2.0,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_richapo01_1997_LAC",
+    "player_name": "Pooh Richardson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.7,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_richmmi01_1997_SAC",
+    "player_name": "Mitch Richmond",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 25.9,
+      "REB": 3.9,
+      "AST": 4.2,
+      "STL": 1.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rideris01_1997_POR",
+    "player_name": "Isaiah Rider",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 16.1,
+      "REB": 4.0,
+      "AST": 2.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_robinch01_1997_MEM",
+    "player_name": "Chris Robinson",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 1.7,
+      "AST": 1.6,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_robincl02_1997_POR",
+    "player_name": "Clifford Robinson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 4.0,
+      "AST": 3.2,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_robingl01_1997_MIL",
+    "player_name": "Glenn Robinson",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 21.1,
+      "REB": 6.3,
+      "AST": 3.1,
+      "STL": 1.3,
+      "BLK": 0.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_robinja02_1997_MIN",
+    "player_name": "James Robinson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 1.6,
+      "AST": 1.8,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_robinru01_1997_3TM",
+    "player_name": "Rumeal Robinson",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 0.9,
+      "AST": 1.4,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_robinru01_1997_POR",
+    "player_name": "Rumeal Robinson",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 1.1,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rodmade01_1997_CHI",
+    "player_name": "Dennis Rodman",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 16.1,
+      "AST": 3.1,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rogerca01_1997_TOR",
+    "player_name": "Carlos Rogers",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 5.4,
+      "AST": 0.7,
+      "STL": 0.8,
+      "BLK": 1.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rogerro01_1997_LAC",
+    "player_name": "Rodney Rogers",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 5.1,
+      "AST": 2.7,
+      "STL": 1.1,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rogerro02_1997_MEM",
+    "player_name": "Roy Rogers",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.7,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 2.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rooksse01_1997_LAL",
+    "player_name": "Sean Rooks",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.4,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_roseja01_1997_IND",
+    "player_name": "Jalen Rose",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 1.8,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_rosema01_1997_CHA",
+    "player_name": "Malik Rose",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 3.0,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_royaldo01_1997_3TM",
+    "player_name": "Donald Royal",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.5,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_royaldo01_1997_GSW",
+    "player_name": "Donald Royal",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.6,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_royaldo01_1997_CHA",
+    "player_name": "Donald Royal",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 2.3,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_roziecl01_1997_2TM",
+    "player_name": "Clifford Rozier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 5.6,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_roziecl01_1997_TOR",
+    "player_name": "Clifford Rozier",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 5.7,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_russebr01_1997_UTA",
+    "player_name": "Bryon Russell",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 4.1,
+      "AST": 1.5,
+      "STL": 1.6,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_sabonar01_1997_POR",
+    "player_name": "Arvydas Sabonis",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 7.9,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 1.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_salvake01_1997_SAC",
+    "player_name": "Kevin Salvadori",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.6,
+      "REB": 1.1,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_schayda01_1997_ORL",
+    "player_name": "Danny Schayes",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.8,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_schrede01_1997_OKC",
+    "player_name": "Detlef Schrempf",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 6.5,
+      "AST": 4.4,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_scottby01_1997_LAL",
+    "player_name": "Byron Scott",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.5,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_scottde01_1997_ORL",
+    "player_name": "Dennis Scott",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 3.1,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_sealyma01_1997_LAC",
+    "player_name": "Malik Sealy",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 3.0,
+      "AST": 2.1,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_seikaro01_1997_ORL",
+    "player_name": "Rony Seikaly",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.3,
+      "REB": 9.5,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 1.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_shawbr01_1997_ORL",
+    "player_name": "Brian Shaw",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.5,
+      "AST": 4.1,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_simmoli01_1997_SAC",
+    "player_name": "Lionel Simmons",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.5,
+      "AST": 1.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_simpkdi01_1997_CHI",
+    "player_name": "Dickey Simpkins",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.9,
+      "AST": 0.6,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_slatere01_1997_TOR",
+    "player_name": "Reggie Slater",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.7,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smithjo02_1997_GSW",
+    "player_name": "Joe Smith",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 8.5,
+      "AST": 1.6,
+      "STL": 0.9,
+      "BLK": 1.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smithke01_1997_3TM",
+    "player_name": "Kenny Smith",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 0.9,
+      "AST": 2.4,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smithke01_1997_DEN",
+    "player_name": "Kenny Smith",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 1.1,
+      "AST": 3.1,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smithmi02_1997_SAC",
+    "player_name": "Michael Smith",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 9.5,
+      "AST": 2.4,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smithst01_1997_ATL",
+    "player_name": "Steve Smith",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 3.3,
+      "AST": 4.2,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smithto02_1997_CHA",
+    "player_name": "Tony Smith",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 1.4,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_smitsri01_1997_IND",
+    "player_name": "Rik Smits",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 6.9,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_snower01_1997_OKC",
+    "player_name": "Eric Snow",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.0,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_spencfe01_1997_2TM",
+    "player_name": "Felton Spencer",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 5.7,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_spencfe01_1997_GSW",
+    "player_name": "Felton Spencer",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 5.7,
+      "AST": 0.3,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_sprewla01_1997_GSW",
+    "player_name": "Latrell Sprewell",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 24.2,
+      "REB": 4.6,
+      "AST": 6.3,
+      "STL": 1.7,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stackje01_1997_PHI",
+    "player_name": "Jerry Stackhouse",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 4.2,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_starkjo01_1997_NYK",
+    "player_name": "John Starks",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 2.7,
+      "AST": 2.8,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stewala01_1997_OKC",
+    "player_name": "Larry Stewart",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.4,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stithbr01_1997_DEN",
+    "player_name": "Bryant Stith",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 4.2,
+      "AST": 2.6,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stockjo01_1997_UTA",
+    "player_name": "John Stockton",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.4,
+      "REB": 2.8,
+      "AST": 10.5,
+      "STL": 2.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stoudda01_1997_TOR",
+    "player_name": "Damon Stoudamire",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.2,
+      "REB": 4.1,
+      "AST": 8.8,
+      "STL": 1.5,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stricer01_1997_DAL",
+    "player_name": "Erick Strickland",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 3.2,
+      "AST": 2.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stricma01_1997_MIA",
+    "player_name": "Mark Strickland",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.2,
+      "AST": 0.0,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stricro02_1997_WAS",
+    "player_name": "Rod Strickland",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 4.1,
+      "AST": 8.9,
+      "STL": 1.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_stronde01_1997_ORL",
+    "player_name": "Derek Strong",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 6.3,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_surabo01_1997_CLE",
+    "player_name": "Bob Sura",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.8,
+      "AST": 4.8,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_szabobr01_1997_BOS",
+    "player_name": "Brett Szabo",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 2.4,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_thompbr01_1997_2TM",
+    "player_name": "Brooks Thompson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 1.4,
+      "AST": 2.7,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_thompbr01_1997_DEN",
+    "player_name": "Brooks Thompson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.5,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_thompla01_1997_2TM",
+    "player_name": "LaSalle Thompson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 0.4,
+      "REB": 1.3,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_thorpot01_1997_DET",
+    "player_name": "Otis Thorpe",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 7.9,
+      "AST": 1.7,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_threase01_1997_HOU",
+    "player_name": "Sedale Threatt",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 1.1,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_tisdawa01_1997_PHX",
+    "player_name": "Wayman Tisdale",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.3,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_trentga01_1997_POR",
+    "player_name": "Gary Trent",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 5.2,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_vanexni01_1997_LAL",
+    "player_name": "Nick Van Exel",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 2.9,
+      "AST": 8.5,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_vaughda02_1997_ORL",
+    "player_name": "David Vaughn",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 2.7,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_vaughlo01_1997_LAC",
+    "player_name": "Loy Vaught",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 10.0,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_vrankst01_1997_MIN",
+    "player_name": "Stojko Vrankovi\u0107",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 3.2,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 1.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_walkean02_1997_BOS",
+    "player_name": "Antoine Walker",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 9.0,
+      "AST": 3.2,
+      "STL": 1.3,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_walkesa01_1997_DAL",
+    "player_name": "Samaki Walker",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wallabe01_1997_WAS",
+    "player_name": "Ben Wallace",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.1,
+      "REB": 1.7,
+      "AST": 0.1,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wallajo01_1997_NYK",
+    "player_name": "John Wallace",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wallara01_1997_POR",
+    "player_name": "Rasheed Wallace",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 6.8,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_waltere01_1997_PHI",
+    "player_name": "Rex Walters",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wardch01_1997_NYK",
+    "player_name": "Charlie Ward",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.8,
+      "AST": 4.1,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_watsoja01_1997_2TM",
+    "player_name": "Jamie Watson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.0,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_weathcl01_1997_PHI",
+    "player_name": "Clarence Weatherspoon",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 8.3,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 1.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_webbech01_1997_WAS",
+    "player_name": "Chris Webber",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 10.3,
+      "AST": 4.6,
+      "STL": 1.7,
+      "BLK": 1.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wennibi01_1997_CHI",
+    "player_name": "Bill Wennington",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.1,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wesleda01_1997_BOS",
+    "player_name": "David Wesley",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 3.6,
+      "AST": 7.3,
+      "STL": 2.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_westdo01_1997_MIN",
+    "player_name": "Doug West",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.2,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_westma01_1997_CLE",
+    "player_name": "Mark West",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 2.7,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_whitedo01_1997_TOR",
+    "player_name": "Donald Whiteside",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.4,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_whitnch01_1997_WAS",
+    "player_name": "Chris Whitney",
+    "team": "WSB",
+    "team_abbr": "WAS",
+    "season": 1997,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 1.3,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wilkido01_1997_SAS",
+    "player_name": "Dominique Wilkins",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.2,
+      "REB": 6.4,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wilkige01_1997_ORL",
+    "player_name": "Gerald Wilkins",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 2.2,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_williaa01_1997_2TM",
+    "player_name": "Aaron Williams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 4.3,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_williaa01_1997_MEM",
+    "player_name": "Aaron Williams",
+    "team": "VAN",
+    "team_abbr": "MEM",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 4.3,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willibu01_1997_NYK",
+    "player_name": "Buck Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 5.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willico02_1997_SAC",
+    "player_name": "Corliss Williamson",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 4.1,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willier01_1997_BOS",
+    "player_name": "Eric Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 4.6,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willihe01_1997_NYK",
+    "player_name": "Herb Williams",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.5,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_williho01_1997_PHX",
+    "player_name": "Hot Rod Williams",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 8.3,
+      "AST": 1.5,
+      "STL": 1.0,
+      "BLK": 1.3
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willija01_1997_BKN",
+    "player_name": "Jayson Williams",
+    "team": "NJN",
+    "team_abbr": "BKN",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 13.5,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willije01_1997_DET",
+    "player_name": "Jerome Williams",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 1.5,
+      "AST": 0.2,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willike02_1997_HOU",
+    "player_name": "Kevin Willis",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 7.5,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willimo01_1997_SAS",
+    "player_name": "Monty Williams",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 3.2,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_willisc01_1997_PHI",
+    "player_name": "Scott Williams",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 6.4,
+      "AST": 0.7,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_williwa02_1997_TOR",
+    "player_name": "Walt Williams",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 5.0,
+      "AST": 2.7,
+      "STL": 1.3,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wingada01_1997_OKC",
+    "player_name": "David Wingate",
+    "team": "SEA",
+    "team_abbr": "OKC",
+    "season": 1997,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.1,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wingfdo01_1997_POR",
+    "player_name": "Dontonio Wingfield",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.9,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wolfjo01_1997_MIL",
+    "player_name": "Joe Wolf",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.7,
+      "REB": 2.0,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_woodda01_1997_MIL",
+    "player_name": "David Wood",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 1997,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 0.6,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wrighlo02_1997_LAC",
+    "player_name": "Lorenzen Wright",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 6.1,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_wrighsh01_1997_TOR",
+    "player_name": "Sharone Wright",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.1,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.8
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_zidekge01_1997_2TM",
+    "player_name": "George Z\u00eddek",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.7,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  },
+  {
+    "player_id": "bref_zidekge01_1997_CHA",
+    "player_name": "George Z\u00eddek",
+    "team": "CHH",
+    "team_abbr": "CHA",
+    "season": 1997,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.8,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "1990s"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {"player_id": "brady07", "player_name": "Tom Brady", "team": "New England Patriots", "team_abbr": "NE", "season": 2007, "position": "QB", "stats": {"yards": 4806, "td": 50, "sacks": 0, "tackles": 0, "interceptions": 0}},
+  {"player_id": "mahomes22", "player_name": "Patrick Mahomes", "team": "Kansas City Chiefs", "team_abbr": "KC", "season": 2022, "position": "QB", "stats": {"yards": 5250, "td": 41, "sacks": 0, "tackles": 0, "interceptions": 0}},
+  {"player_id": "henry20", "player_name": "Derrick Henry", "team": "Tennessee Titans", "team_abbr": "TEN", "season": 2020, "position": "RB", "stats": {"yards": 2127, "td": 17, "sacks": 0, "tackles": 0, "interceptions": 0}},
+  {"player_id": "jefferson22", "player_name": "Justin Jefferson", "team": "Minnesota Vikings", "team_abbr": "MIN", "season": 2022, "position": "WR", "stats": {"yards": 1809, "td": 8, "sacks": 0, "tackles": 0, "interceptions": 0}},
+  {"player_id": "kelce22", "player_name": "Travis Kelce", "team": "Kansas City Chiefs", "team_abbr": "KC", "season": 2022, "position": "TE", "stats": {"yards": 1338, "td": 12, "sacks": 0, "tackles": 0, "interceptions": 0}},
+  {"player_id": "watt20", "player_name": "T.J. Watt", "team": "Pittsburgh Steelers", "team_abbr": "PIT", "season": 2020, "position": "EDGE", "stats": {"yards": 0, "td": 0, "sacks": 15.0, "tackles": 52, "interceptions": 0}},
+  {"player_id": "donald18", "player_name": "Aaron Donald", "team": "Los Angeles Rams", "team_abbr": "LAR", "season": 2018, "position": "DT", "stats": {"yards": 0, "td": 0, "sacks": 20.5, "tackles": 59, "interceptions": 0}},
+  {"player_id": "parsons22", "player_name": "Micah Parsons", "team": "Dallas Cowboys", "team_abbr": "DAL", "season": 2022, "position": "LB", "stats": {"yards": 0, "td": 0, "sacks": 13.0, "tackles": 65, "interceptions": 0}},
+  {"player_id": "ramsey20", "player_name": "Jalen Ramsey", "team": "Los Angeles Rams", "team_abbr": "LAR", "season": 2020, "position": "CB", "stats": {"yards": 0, "td": 0, "sacks": 0, "tackles": 44, "interceptions": 4}},
+  {"player_id": "wills22", "player_name": "Minkah Fitzpatrick", "team": "Pittsburgh Steelers", "team_abbr": "PIT", "season": 2022, "position": "S", "stats": {"yards": 0, "td": 0, "sacks": 0, "tackles": 67, "interceptions": 6}},
+  {"player_id": "barkley18", "player_name": "Saquon Barkley", "team": "New York Giants", "team_abbr": "NYG", "season": 2018, "position": "RB", "stats": {"yards": 2028, "td": 15, "sacks": 0, "tackles": 0, "interceptions": 0}},
+  {"player_id": "allen20", "player_name": "Josh Allen", "team": "Buffalo Bills", "team_abbr": "BUF", "season": 2020, "position": "QB", "stats": {"yards": 4544, "td": 37, "sacks": 0, "tackles": 0, "interceptions": 0}}
+]

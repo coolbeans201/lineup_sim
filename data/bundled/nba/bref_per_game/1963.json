@@ -1,0 +1,1991 @@
+[
+  {
+    "player_id": "bref_attleal01_1963_GSW",
+    "player_name": "Al Attles",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 2.9,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_barnedi01_1963_LAL",
+    "player_name": "Dick Barnett",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 18.0,
+      "REB": 3.0,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_barnhjo01_1963_ATL",
+    "player_name": "John Barnhill",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 4.7,
+      "AST": 4.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_bayloel01_1963_LAL",
+    "player_name": "Elgin Baylor",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 34.0,
+      "REB": 14.3,
+      "AST": 4.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_beatyze01_1963_ATL",
+    "player_name": "Zelmo Beaty",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 8.3,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_bellawa01_1963_CHZ",
+    "player_name": "Walt Bellamy",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 27.9,
+      "REB": 16.4,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_biancal01_1963_SYR",
+    "player_name": "Al Bianchi",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 2.2,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_bockhbu01_1963_SAC",
+    "player_name": "Bucky Bockhorn",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 4.0,
+      "AST": 3.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_boozebo01_1963_SAC",
+    "player_name": "Bob Boozer",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 11.1,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_bridgbi01_1963_ATL",
+    "player_name": "Bill Bridges",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 5.3,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_buddda01_1963_NYK",
+    "player_name": "Dave Budd",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 5.1,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_butchdo01_1963_NYK",
+    "player_name": "Donnie Butcher",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 2.6,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_butleal01_1963_NYK",
+    "player_name": "Al Butler",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 2.3,
+      "AST": 2.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_cableba01_1963_2TM",
+    "player_name": "Barney Cable",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 3.9,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_cableba01_1963_ATL",
+    "player_name": "Barney Cable",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.1,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_chambwi01_1963_GSW",
+    "player_name": "Wilt Chamberlain",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 44.8,
+      "REB": 24.3,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_chapple01_1963_SYR",
+    "player_name": "Len Chappell",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 5.8,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_conlege01_1963_NYK",
+    "player_name": "Gene Conley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 6.7,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_costela01_1963_SYR",
+    "player_name": "Larry Costello",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 3.0,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_cousybo01_1963_BOS",
+    "player_name": "Bob Cousy",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 2.5,
+      "AST": 6.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_coxjo01_1963_CHZ",
+    "player_name": "Johnny Cox",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 3.8,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_debusda01_1963_DET",
+    "player_name": "Dave DeBusschere",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 8.7,
+      "AST": 2.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_dischte01_1963_CHZ",
+    "player_name": "Terry Dischinger",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 25.5,
+      "REB": 8.0,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_duffybo02_1963_ATL",
+    "player_name": "Bob Duffy",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 0.9,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_dukeswa01_1963_DET",
+    "player_name": "Walter Dukes",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 5.8,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_eganjo01_1963_DET",
+    "player_name": "Johnny Egan",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.3,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_ellisle01_1963_LAL",
+    "player_name": "Leroy Ellis",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 6.5,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_embrywa01_1963_SAC",
+    "player_name": "Wayne Embry",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 12.3,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_farmemi01_1963_ATL",
+    "player_name": "Mike Farmer",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 4.6,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_ferrybo01_1963_DET",
+    "player_name": "Bob Ferry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 6.8,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_gambeda01_1963_SYR",
+    "player_name": "Dave Gambee",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 4.8,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_golato01_1963_2TM",
+    "player_name": "Tom Gola",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 7.1,
+      "AST": 4.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_golato01_1963_GSW",
+    "player_name": "Tom Gola",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 7.0,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_golato01_1963_NYK",
+    "player_name": "Tom Gola",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 7.1,
+      "AST": 4.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_greenjo01_1963_NYK",
+    "player_name": "Johnny Green",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 18.1,
+      "REB": 12.1,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_greensi01_1963_CHZ",
+    "player_name": "Si Green",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 4.6,
+      "AST": 5.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_greerha01_1963_SYR",
+    "player_name": "Hal Greer",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 5.7,
+      "AST": 3.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_gueriri01_1963_NYK",
+    "player_name": "Richie Guerin",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 4.2,
+      "AST": 4.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hagancl01_1963_ATL",
+    "player_name": "Cliff Hagan",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.5,
+      "REB": 4.3,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hardnch01_1963_CHZ",
+    "player_name": "Charlie Hardnett",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 7.7,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_havlijo01_1963_BOS",
+    "player_name": "John Havlicek",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 6.7,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hawkito01_1963_SAC",
+    "player_name": "Tom Hawkins",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 6.9,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_heinsto01_1963_BOS",
+    "player_name": "Tom Heinsohn",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.9,
+      "REB": 7.5,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hightwa01_1963_GSW",
+    "player_name": "Wayne Hightower",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 5.4,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hoguedu01_1963_NYK",
+    "player_name": "Paul Hogue",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 8.6,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hornro01_1963_LAL",
+    "player_name": "Ron Horn",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.5,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_howelba01_1963_DET",
+    "player_name": "Bailey Howell",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 22.7,
+      "REB": 11.5,
+      "AST": 2.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_hundlho01_1963_LAL",
+    "player_name": "Hot Rod Hundley",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.6,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_imhofda01_1963_DET",
+    "player_name": "Darrall Imhoff",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 3.4,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_jolifho01_1963_LAL",
+    "player_name": "Howie Jolliff",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.3,
+      "REB": 2.2,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_joneskc01_1963_BOS",
+    "player_name": "K.C. Jones",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.3,
+      "AST": 4.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_jonessa01_1963_BOS",
+    "player_name": "Sam Jones",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 5.2,
+      "AST": 3.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_joneswi01_1963_DET",
+    "player_name": "Willie Jones",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 2.9,
+      "AST": 2.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_jordoph01_1963_ATL",
+    "player_name": "Phil Jordon",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 4.4,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_kerrre01_1963_SYR",
+    "player_name": "Red Kerr",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 13.0,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_kingma01_1963_CHZ",
+    "player_name": "Maurice King",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 2.8,
+      "AST": 3.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_krebsji01_1963_LAL",
+    "player_name": "Jim Krebs",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 6.4,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_larusru01_1963_LAL",
+    "player_name": "Rudy LaRusso",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 10.0,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_leege01_1963_GSW",
+    "player_name": "George Lee",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.4,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_leonasl01_1963_CHZ",
+    "player_name": "Slick Leonard",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 2.1,
+      "AST": 4.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_loscuji01_1963_BOS",
+    "player_name": "Jim Loscutoff",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 2.5,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_loughke01_1963_DET",
+    "player_name": "Kevin Loughery",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.9,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_lovelcl01_1963_BOS",
+    "player_name": "Clyde Lovellette",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.9,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_luckete01_1963_GSW",
+    "player_name": "Ted Luckenbill",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.8,
+      "AST": 0.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_mantini01_1963_2TM",
+    "player_name": "Nick Mantis",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.0,
+      "AST": 2.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_mantini01_1963_CHZ",
+    "player_name": "Nick Mantis",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.4,
+      "AST": 2.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_mcgilbi01_1963_CHZ",
+    "player_name": "Billy McGill",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.7,
+      "AST": 0.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_meriwpo01_1963_SYR",
+    "player_name": "Porter Meriwether",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 0.9,
+      "AST": 1.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_meschto01_1963_GSW",
+    "player_name": "Tom Meschery",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.0,
+      "REB": 9.8,
+      "AST": 1.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_montgho01_1963_GSW",
+    "player_name": "Howie Montgomery",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.5,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_morelja01_1963_DET",
+    "player_name": "Jackie Moreland",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 5.8,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_naullwi01_1963_2TM",
+    "player_name": "Willie Naulls",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 7.4,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_naullwi01_1963_NYK",
+    "player_name": "Willie Naulls",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.9,
+      "REB": 8.7,
+      "AST": 1.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_naullwi01_1963_GSW",
+    "player_name": "Willie Naulls",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 6.7,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_nelsodo01_1963_CHZ",
+    "player_name": "Don Nelson",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.5,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_neumapa01_1963_SYR",
+    "player_name": "Paul Neumann",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.5,
+      "AST": 2.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_nordmbe01_1963_2TM",
+    "player_name": "Bevo Nordmann",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 6.0,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_nordmbe01_1963_ATL",
+    "player_name": "Bevo Nordmann",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 3.1,
+      "AST": 0.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_nordmbe01_1963_NYK",
+    "player_name": "Bevo Nordmann",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 8.9,
+      "AST": 1.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_nowelme01_1963_CHZ",
+    "player_name": "Mel Nowell",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 1.7,
+      "AST": 2.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_ohldo01_1963_DET",
+    "player_name": "Don Ohl",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 3.0,
+      "AST": 4.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_olsenbu01_1963_SAC",
+    "player_name": "Bud Olsen",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 2.0,
+      "AST": 0.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_pettibo01_1963_ATL",
+    "player_name": "Bob Pettit",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 28.4,
+      "REB": 15.1,
+      "AST": 3.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_phillga01_1963_GSW",
+    "player_name": "Gary Phillips",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 3.0,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_piontda01_1963_SAC",
+    "player_name": "Dave Piontek",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 2.0,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_ramsefr01_1963_BOS",
+    "player_name": "Frank Ramsey",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.7,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_reedhu01_1963_SAC",
+    "player_name": "Hub Reed",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 5.0,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_roberjo01_1963_SYR",
+    "player_name": "Joe Roberts",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 4.7,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_roberos01_1963_SAC",
+    "player_name": "Oscar Robertson",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 28.3,
+      "REB": 10.4,
+      "AST": 9.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_rodgegu01_1963_GSW",
+    "player_name": "Guy Rodgers",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.9,
+      "REB": 5.0,
+      "AST": 10.4,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_rudomjo01_1963_NYK",
+    "player_name": "John Rudometkin",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_russebi01_1963_BOS",
+    "player_name": "Bill Russell",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 16.8,
+      "REB": 23.6,
+      "AST": 4.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_sandeto01_1963_BOS",
+    "player_name": "Tom Sanders",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 7.2,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_sauldwo01_1963_2TM",
+    "player_name": "Woody Sauldsberry",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 5.8,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_sauldwo01_1963_CHZ",
+    "player_name": "Woody Sauldsberry",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 6.8,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_sauldwo01_1963_ATL",
+    "player_name": "Woody Sauldsberry",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.2,
+      "REB": 3.5,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_schaydo01_1963_SYR",
+    "player_name": "Dolph Schayes",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 5.7,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_scottra01_1963_DET",
+    "player_name": "Ray Scott",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 10.2,
+      "AST": 2.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_searske01_1963_2TM",
+    "player_name": "Kenny Sears",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 2.7,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_searske01_1963_NYK",
+    "player_name": "Kenny Sears",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.9,
+      "AST": 1.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_searske01_1963_GSW",
+    "player_name": "Kenny Sears",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.6,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_selvyfr01_1963_LAL",
+    "player_name": "Frank Selvy",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 3.6,
+      "AST": 3.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_shaffle01_1963_SYR",
+    "player_name": "Lee Shaffer",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 6.6,
+      "AST": 1.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_shuege01_1963_NYK",
+    "player_name": "Gene Shue",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 2.4,
+      "AST": 3.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_smithad01_1963_SAC",
+    "player_name": "Adrian Smith",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 2.2,
+      "AST": 1.8,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_stavela01_1963_CHZ",
+    "player_name": "Larry Staverman",
+    "team": "CHZ",
+    "team_abbr": "CHZ",
+    "season": 1963,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 4.8,
+      "AST": 1.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_stithto01_1963_NYK",
+    "player_name": "Tom Stith",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.6,
+      "AST": 0.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_swartda01_1963_BOS",
+    "player_name": "Dan Swartz",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_tiemada01_1963_SAC",
+    "player_name": "Dan Tieman",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 0.8,
+      "AST": 0.9,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_twymaja01_1963_SAC",
+    "player_name": "Jack Twyman",
+    "team": "CIN",
+    "team_abbr": "SAC",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.8,
+      "REB": 7.5,
+      "AST": 2.7,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_vaughch01_1963_ATL",
+    "player_name": "Chico Vaughn",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 3.4,
+      "AST": 3.3,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_walkech01_1963_SYR",
+    "player_name": "Chet Walker",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 7.2,
+      "AST": 1.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_warlebe01_1963_SYR",
+    "player_name": "Ben Warley",
+    "team": "SYR",
+    "team_abbr": "SYR",
+    "season": 1963,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 3.3,
+      "AST": 0.2,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_westje01_1963_LAL",
+    "player_name": "Jerry West",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 27.1,
+      "REB": 7.0,
+      "AST": 5.6,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_whitehu01_1963_GSW",
+    "player_name": "Hubie White",
+    "team": "SFW",
+    "team_abbr": "GSW",
+    "season": 1963,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.2,
+      "AST": 1.0,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_wileyge01_1963_LAL",
+    "player_name": "Gene Wiley",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 1963,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 6.7,
+      "AST": 0.5,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  },
+  {
+    "player_id": "bref_wilkele01_1963_ATL",
+    "player_name": "Lenny Wilkens",
+    "team": "STL",
+    "team_abbr": "ATL",
+    "season": 1963,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 11.8,
+      "REB": 5.4,
+      "AST": 5.1,
+      "STL": 0.0,
+      "BLK": 0.0
+    },
+    "decade": "1960s"
+  }
+]

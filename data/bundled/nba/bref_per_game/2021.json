@@ -1,0 +1,8893 @@
+[
+  {
+    "player_id": "bref_achiupr01_2021_MIA",
+    "player_name": "Precious Achiuwa",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.4,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_adamsst01_2021_NOP",
+    "player_name": "Steven Adams",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 8.9,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_adebaba01_2021_MIA",
+    "player_name": "Bam Adebayo",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 18.7,
+      "REB": 9.0,
+      "AST": 5.4,
+      "STL": 1.2,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_aldrila01_2021_2TM",
+    "player_name": "LaMarcus Aldridge",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 4.5,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_aldrila01_2021_SAS",
+    "player_name": "LaMarcus Aldridge",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 4.5,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_alexani01_2021_NOP",
+    "player_name": "Nickeil Alexander-Walker",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 3.1,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_allengr01_2021_MEM",
+    "player_name": "Grayson Allen",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 3.2,
+      "AST": 2.2,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_allenja01_2021_2TM",
+    "player_name": "Jarrett Allen",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 10.0,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 1.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_allenja01_2021_CLE",
+    "player_name": "Jarrett Allen",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 13.2,
+      "REB": 9.9,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 1.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_aminual01_2021_2TM",
+    "player_name": "Al-Farouq Aminu",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.8,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_anderky01_2021_MEM",
+    "player_name": "Kyle Anderson",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 5.7,
+      "AST": 3.6,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_antetgi01_2021_MIL",
+    "player_name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF-PF",
+    "stats": {
+      "PTS": 28.1,
+      "REB": 11.0,
+      "AST": 5.9,
+      "STL": 1.2,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_antetth01_2021_MIL",
+    "player_name": "Thanasis Antetokounmpo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_anthoca01_2021_POR",
+    "player_name": "Carmelo Anthony",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 3.1,
+      "AST": 1.5,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_anthoco01_2021_ORL",
+    "player_name": "Cole Anthony",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 4.7,
+      "AST": 4.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_anunoog01_2021_TOR",
+    "player_name": "OG Anunoby",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 15.9,
+      "REB": 5.5,
+      "AST": 2.2,
+      "STL": 1.5,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_arcidry01_2021_CHI",
+    "player_name": "Ryan Arcidiacono",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.5,
+      "AST": 1.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_arizatr01_2021_MIA",
+    "player_name": "Trevor Ariza",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 4.8,
+      "AST": 1.8,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_augusdj01_2021_2TM",
+    "player_name": "D.J. Augustin",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 1.6,
+      "AST": 3.3,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_augusdj01_2021_MIL",
+    "player_name": "D.J. Augustin",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.4,
+      "AST": 3.0,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_augusdj01_2021_HOU",
+    "player_name": "D.J. Augustin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.6,
+      "REB": 2.2,
+      "AST": 3.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_avdijde01_2021_WAS",
+    "player_name": "Deni Avdija",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 4.9,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_aytonde01_2021_PHX",
+    "player_name": "Deandre Ayton",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.4,
+      "REB": 10.5,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bacondw01_2021_ORL",
+    "player_name": "Dwayne Bacon",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.1,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_baglema01_2021_SAC",
+    "player_name": "Marvin Bagley III",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 7.4,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ballla01_2021_CHO",
+    "player_name": "LaMelo Ball",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 5.9,
+      "AST": 6.1,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_balllo01_2021_NOP",
+    "player_name": "Lonzo Ball",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 4.8,
+      "AST": 5.7,
+      "STL": 1.5,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bambamo01_2021_ORL",
+    "player_name": "Mo Bamba",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 5.8,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_banede01_2021_MEM",
+    "player_name": "Desmond Bane",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.1,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_barneha02_2021_SAC",
+    "player_name": "Harrison Barnes",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 16.1,
+      "REB": 6.6,
+      "AST": 3.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_barrerj01_2021_NYK",
+    "player_name": "RJ Barrett",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 5.8,
+      "AST": 3.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bartowi01_2021_DEN",
+    "player_name": "Will Barton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 4.0,
+      "AST": 3.2,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bateske01_2021_SAS",
+    "player_name": "Keita Bates-Diop",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 1.6,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_batumni01_2021_LAC",
+    "player_name": "Nicolas Batum",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 4.7,
+      "AST": 2.2,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_baynear01_2021_TOR",
+    "player_name": "Aron Baynes",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 5.2,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bazemke01_2021_GSW",
+    "player_name": "Kent Bazemore",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.4,
+      "AST": 1.6,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bazleda01_2021_OKC",
+    "player_name": "Darius Bazley",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.7,
+      "REB": 7.2,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bealbr01_2021_WAS",
+    "player_name": "Bradley Beal",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 31.3,
+      "REB": 4.7,
+      "AST": 4.4,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_beaslma01_2021_MIN",
+    "player_name": "Malik Beasley",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 4.4,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bembrde01_2021_TOR",
+    "player_name": "DeAndre' Bembry",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.9,
+      "AST": 2.1,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bertada01_2021_WAS",
+    "player_name": "D\u0101vis Bert\u0101ns",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 2.9,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_beverpa01_2021_LAC",
+    "player_name": "Patrick Beverley",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 3.2,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_beysa01_2021_DET",
+    "player_name": "Saddiq Bey",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 4.5,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_birchkh01_2021_2TM",
+    "player_name": "Khem Birch",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 5.8,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_birchkh01_2021_ORL",
+    "player_name": "Khem Birch",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 5.1,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bitadgo01_2021_IND",
+    "player_name": "Goga Bitadze",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.3,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_biyombi01_2021_CHO",
+    "player_name": "Bismack Biyombo",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 5.3,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bjeline01_2021_2TM",
+    "player_name": "Nemanja Bjelica",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.4,
+      "AST": 1.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bjeline01_2021_SAC",
+    "player_name": "Nemanja Bjelica",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.8,
+      "AST": 1.9,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bledser01_2021_NOP",
+    "player_name": "Eric Bledsoe",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 3.4,
+      "AST": 3.8,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bogdabo01_2021_ATL",
+    "player_name": "Bogdan Bogdanovi\u0107",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 3.6,
+      "AST": 3.3,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bogdabo02_2021_UTA",
+    "player_name": "Bojan Bogdanovi\u0107",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 3.9,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bolbo01_2021_DEN",
+    "player_name": "Bol Bol",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.2,
+      "REB": 0.8,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bongais01_2021_WAS",
+    "player_name": "Isaac Bonga",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.7,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bookede01_2021_PHX",
+    "player_name": "Devin Booker",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 25.6,
+      "REB": 4.2,
+      "AST": 4.3,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bouchch01_2021_TOR",
+    "player_name": "Chris Boucher",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 6.7,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 1.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bradlav01_2021_2TM",
+    "player_name": "Avery Bradley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.1,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bradlto01_2021_2TM",
+    "player_name": "Tony Bradley",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 5.7,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bradlto01_2021_PHI",
+    "player_name": "Tony Bradley",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 5.2,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bradlto01_2021_OKC",
+    "player_name": "Tony Bradley",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 6.1,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brantja01_2021_UTA",
+    "player_name": "Jarrell Brantley",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.0,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bridgmi01_2021_PHX",
+    "player_name": "Mikal Bridges",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 4.3,
+      "AST": 2.1,
+      "STL": 1.1,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bridgmi02_2021_CHO",
+    "player_name": "Miles Bridges",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 6.0,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brissos01_2021_IND",
+    "player_name": "Oshae Brissett",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 5.5,
+      "AST": 0.9,
+      "STL": 0.9,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brogdma01_2021_IND",
+    "player_name": "Malcolm Brogdon",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 5.3,
+      "AST": 5.9,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brookar01_2021_HOU",
+    "player_name": "Armoni Brooks",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 3.4,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brookdi01_2021_MEM",
+    "player_name": "Dillon Brooks",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 2.9,
+      "AST": 2.3,
+      "STL": 1.2,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brownbr01_2021_BKN",
+    "player_name": "Bruce Brown",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 5.4,
+      "AST": 1.6,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brownja02_2021_BOS",
+    "player_name": "Jaylen Brown",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 24.7,
+      "REB": 6.0,
+      "AST": 3.4,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brownmo01_2021_OKC",
+    "player_name": "Moses Brown",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 8.9,
+      "AST": 0.2,
+      "STL": 0.7,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brownst02_2021_HOU",
+    "player_name": "Sterling Brown",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.4,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_browntr01_2021_2TM",
+    "player_name": "Troy Brown Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.1,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_browntr01_2021_WAS",
+    "player_name": "Troy Brown Jr.",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 2.9,
+      "AST": 0.9,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_brunsja01_2021_DAL",
+    "player_name": "Jalen Brunson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 3.4,
+      "AST": 3.5,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_bullore01_2021_NYK",
+    "player_name": "Reggie Bullock",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 3.4,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_burketr01_2021_DAL",
+    "player_name": "Trey Burke",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 0.9,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_burksal01_2021_NYK",
+    "player_name": "Alec Burks",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.7,
+      "REB": 4.6,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_butleji01_2021_MIA",
+    "player_name": "Jimmy Butler",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 6.9,
+      "AST": 7.1,
+      "STL": 2.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cacokde01_2021_LAL",
+    "player_name": "Devontae Cacok",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.6,
+      "AST": 0.1,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_caldwke01_2021_LAL",
+    "player_name": "Kentavious Caldwell-Pope",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 2.7,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_campafa01_2021_DEN",
+    "player_name": "Facundo Campazzo",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 2.1,
+      "AST": 3.6,
+      "STL": 1.2,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cancavl01_2021_DEN",
+    "player_name": "Vlatko \u010can\u010dar",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.2,
+      "AST": 0.3,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_capelca01_2021_ATL",
+    "player_name": "Clint Capela",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 15.2,
+      "REB": 14.3,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 2.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_carteje01_2021_PHX",
+    "player_name": "Jevon Carter",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.5,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cartemi01_2021_ORL",
+    "player_name": "Michael Carter-Williams",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 4.5,
+      "AST": 4.2,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cartewe01_2021_2TM",
+    "player_name": "Wendell Carter Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 8.2,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cartewe01_2021_CHI",
+    "player_name": "Wendell Carter Jr.",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.9,
+      "REB": 7.8,
+      "AST": 2.2,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cartewe01_2021_ORL",
+    "player_name": "Wendell Carter Jr.",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 8.8,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_carusal01_2021_LAL",
+    "player_name": "Alex Caruso",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.9,
+      "AST": 2.8,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_caulewi01_2021_DAL",
+    "player_name": "Willie Cauley-Stein",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 4.5,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_chiozch01_2021_BKN",
+    "player_name": "Chris Chiozza",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 1.1,
+      "AST": 3.0,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_clarkbr01_2021_MEM",
+    "player_name": "Brandon Clarke",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 5.6,
+      "AST": 1.6,
+      "STL": 1.0,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_clarkga01_2021_3TM",
+    "player_name": "Gary Clark",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.9,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_clarkga01_2021_ORL",
+    "player_name": "Gary Clark",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 3.2,
+      "AST": 0.9,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_clarkjo01_2021_UTA",
+    "player_name": "Jordan Clarkson",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 18.4,
+      "REB": 4.0,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_claxtni01_2021_BKN",
+    "player_name": "Nic Claxton",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 5.2,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_coffeam01_2021_LAC",
+    "player_name": "Amir Coffey",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.0,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_collijo01_2021_ATL",
+    "player_name": "John Collins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 17.6,
+      "REB": 7.4,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_conlemi01_2021_UTA",
+    "player_name": "Mike Conley",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.2,
+      "REB": 3.5,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_connapa01_2021_MIL",
+    "player_name": "Pat Connaughton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.8,
+      "AST": 1.2,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cookqu01_2021_2TM",
+    "player_name": "Quinn Cook",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.3,
+      "REB": 0.7,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cookty01_2021_2TM",
+    "player_name": "Tyler Cook",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 3.0,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_cookty01_2021_DET",
+    "player_name": "Tyler Cook",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.3,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_couside01_2021_2TM",
+    "player_name": "DeMarcus Cousins",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.9,
+      "REB": 6.4,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_couside01_2021_HOU",
+    "player_name": "DeMarcus Cousins",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 7.6,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_covinro01_2021_POR",
+    "player_name": "Robert Covington",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 6.7,
+      "AST": 1.7,
+      "STL": 1.4,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_craigto01_2021_2TM",
+    "player_name": "Torrey Craig",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 3.9,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_craigto01_2021_PHX",
+    "player_name": "Torrey Craig",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 4.8,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_crowdja01_2021_PHX",
+    "player_name": "Jae Crowder",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 4.7,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_culveja01_2021_MIN",
+    "player_name": "Jarrett Culver",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_curryse01_2021_PHI",
+    "player_name": "Seth Curry",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.5,
+      "REB": 2.4,
+      "AST": 2.7,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_curryst01_2021_GSW",
+    "player_name": "Stephen Curry",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 32.0,
+      "REB": 5.5,
+      "AST": 5.8,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_davisan02_2021_LAL",
+    "player_name": "Anthony Davis",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.8,
+      "REB": 7.9,
+      "AST": 3.1,
+      "STL": 1.3,
+      "BLK": 1.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_davised01_2021_MIN",
+    "player_name": "Ed Davis",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 5.0,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_daviste02_2021_2TM",
+    "player_name": "Terence Davis",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.5,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_daviste02_2021_TOR",
+    "player_name": "Terence Davis",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.9,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_daviste02_2021_SAC",
+    "player_name": "Terence Davis",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 3.3,
+      "AST": 1.7,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_derozde01_2021_SAS",
+    "player_name": "DeMar DeRozan",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 21.6,
+      "REB": 4.2,
+      "AST": 6.9,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_diallha01_2021_2TM",
+    "player_name": "Hamidou Diallo",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.6,
+      "REB": 5.2,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_diallha01_2021_OKC",
+    "player_name": "Hamidou Diallo",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 5.2,
+      "AST": 2.4,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_diallha01_2021_DET",
+    "player_name": "Hamidou Diallo",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 5.4,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_dienggo01_2021_2TM",
+    "player_name": "Gorgui Dieng",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.7,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_dienggo01_2021_MEM",
+    "player_name": "Gorgui Dieng",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 4.5,
+      "AST": 1.3,
+      "STL": 0.8,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_divindo01_2021_MIL",
+    "player_name": "Donte DiVincenzo",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 5.8,
+      "AST": 3.1,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_doncilu01_2021_DAL",
+    "player_name": "Luka Don\u010di\u0107",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 27.7,
+      "REB": 8.0,
+      "AST": 8.6,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_dortlu01_2021_OKC",
+    "player_name": "Luguentz Dort",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.0,
+      "REB": 3.6,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_dotsoda01_2021_CLE",
+    "player_name": "Damyean Dotson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.0,
+      "AST": 2.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_doumbse01_2021_DET",
+    "player_name": "Sekou Doumbouya",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 2.6,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_doziepj01_2021_DEN",
+    "player_name": "PJ Dozier",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 3.6,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_dragigo01_2021_MIA",
+    "player_name": "Goran Dragi\u0107",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 3.4,
+      "AST": 4.4,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_drumman01_2021_2TM",
+    "player_name": "Andre Drummond",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 12.0,
+      "AST": 2.0,
+      "STL": 1.4,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_drumman01_2021_CLE",
+    "player_name": "Andre Drummond",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.5,
+      "REB": 13.5,
+      "AST": 2.6,
+      "STL": 1.6,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_drumman01_2021_LAL",
+    "player_name": "Andre Drummond",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 10.2,
+      "AST": 1.4,
+      "STL": 1.1,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_duranke01_2021_BKN",
+    "player_name": "Kevin Durant",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 26.9,
+      "REB": 7.1,
+      "AST": 5.6,
+      "STL": 0.7,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_edwaran01_2021_MIN",
+    "player_name": "Anthony Edwards",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 4.7,
+      "AST": 2.9,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_edwarca01_2021_BOS",
+    "player_name": "Carsen Edwards",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 0.8,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ellebcj01_2021_POR",
+    "player_name": "CJ Elleby",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 1.1,
+      "AST": 0.3,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ellinwa01_2021_DET",
+    "player_name": "Wayne Ellington",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 1.8,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_embiijo01_2021_PHI",
+    "player_name": "Joel Embiid",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 28.5,
+      "REB": 10.6,
+      "AST": 2.8,
+      "STL": 1.0,
+      "BLK": 1.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ennisja01_2021_ORL",
+    "player_name": "James Ennis III",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 4.0,
+      "AST": 1.5,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_eubandr01_2021_SAS",
+    "player_name": "Drew Eubanks",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 4.5,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_favorde01_2021_UTA",
+    "player_name": "Derrick Favors",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 5.5,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_fernabr01_2021_ATL",
+    "player_name": "Bruno Fernando",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 2.4,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_finnedo01_2021_DAL",
+    "player_name": "Dorian Finney-Smith",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 5.4,
+      "AST": 1.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_flynnma01_2021_TOR",
+    "player_name": "Malachi Flynn",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 2.5,
+      "AST": 2.9,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_forbebr01_2021_MIL",
+    "player_name": "Bryn Forbes",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 1.6,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_forretr01_2021_UTA",
+    "player_name": "Trent Forrest",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.9,
+      "REB": 1.5,
+      "AST": 1.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_fournev01_2021_2TM",
+    "player_name": "Evan Fournier",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 3.0,
+      "AST": 3.4,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_fournev01_2021_ORL",
+    "player_name": "Evan Fournier",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.7,
+      "REB": 2.9,
+      "AST": 3.7,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_foxde01_2021_SAC",
+    "player_name": "De'Aaron Fox",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 25.2,
+      "REB": 3.5,
+      "AST": 7.2,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gabriwe01_2021_NOP",
+    "player_name": "Wenyen Gabriel",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.6,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gaffoda01_2021_2TM",
+    "player_name": "Daniel Gafford",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 4.3,
+      "AST": 0.5,
+      "STL": 0.5,
+      "BLK": 1.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gaffoda01_2021_CHI",
+    "player_name": "Daniel Gafford",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.3,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gaffoda01_2021_WAS",
+    "player_name": "Daniel Gafford",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 5.6,
+      "AST": 0.5,
+      "STL": 0.7,
+      "BLK": 1.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gallida01_2021_ATL",
+    "player_name": "Danilo Gallinari",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 13.3,
+      "REB": 4.1,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gallola01_2021_PHX",
+    "player_name": "Langston Galloway",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.1,
+      "AST": 0.7,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_garlada01_2021_CLE",
+    "player_name": "Darius Garland",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.4,
+      "REB": 2.4,
+      "AST": 6.1,
+      "STL": 1.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gasolma01_2021_LAL",
+    "player_name": "Marc Gasol",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 4.1,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gayru01_2021_SAS",
+    "player_name": "Rudy Gay",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 4.8,
+      "AST": 1.4,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_georgpa01_2021_LAC",
+    "player_name": "Paul George",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 23.3,
+      "REB": 6.6,
+      "AST": 5.2,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gibsota01_2021_NYK",
+    "player_name": "Taj Gibson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 5.6,
+      "AST": 0.8,
+      "STL": 0.7,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gilesha01_2021_POR",
+    "player_name": "Harry Giles",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gilgesh01_2021_OKC",
+    "player_name": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 23.7,
+      "REB": 4.7,
+      "AST": 5.9,
+      "STL": 0.8,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gillan01_2021_WAS",
+    "player_name": "Anthony Gill",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 2.0,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gillefr01_2021_TOR",
+    "player_name": "Freddie Gillespie",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 4.9,
+      "AST": 0.5,
+      "STL": 0.7,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_goberru01_2021_UTA",
+    "player_name": "Rudy Gobert",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 13.5,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 2.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_goodwbr01_2021_ATL",
+    "player_name": "Brandon Goodwin",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 1.5,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gordoaa01_2021_2TM",
+    "player_name": "Aaron Gordon",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.4,
+      "REB": 5.7,
+      "AST": 3.2,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gordoaa01_2021_ORL",
+    "player_name": "Aaron Gordon",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 6.6,
+      "AST": 4.2,
+      "STL": 0.6,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gordoaa01_2021_DEN",
+    "player_name": "Aaron Gordon",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 4.7,
+      "AST": 2.2,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_gordoer01_2021_HOU",
+    "player_name": "Eric Gordon",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.8,
+      "REB": 2.1,
+      "AST": 2.6,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_grahade01_2021_CHO",
+    "player_name": "Devonte' Graham",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.8,
+      "REB": 2.7,
+      "AST": 5.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_grantje01_2021_DET",
+    "player_name": "Jerami Grant",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 22.3,
+      "REB": 4.6,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greenda02_2021_PHI",
+    "player_name": "Danny Green",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 3.8,
+      "AST": 1.7,
+      "STL": 1.3,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greendr01_2021_GSW",
+    "player_name": "Draymond Green",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 7.1,
+      "AST": 8.9,
+      "STL": 1.7,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greenja01_2021_DEN",
+    "player_name": "JaMychal Green",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 4.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greenja02_2021_2TM",
+    "player_name": "Javonte Green",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.6,
+      "REB": 1.7,
+      "AST": 0.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greenja02_2021_BOS",
+    "player_name": "Javonte Green",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.1,
+      "AST": 0.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greenje02_2021_BKN",
+    "player_name": "Jeff Green",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 3.9,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_greenjo02_2021_DAL",
+    "player_name": "Josh Green",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.0,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_griffbl01_2021_2TM",
+    "player_name": "Blake Griffin",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.0,
+      "REB": 4.9,
+      "AST": 3.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_griffbl01_2021_DET",
+    "player_name": "Blake Griffin",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 5.2,
+      "AST": 3.9,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_griffbl01_2021_BKN",
+    "player_name": "Blake Griffin",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 4.7,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_guyky01_2021_SAC",
+    "player_name": "Kyle Guy",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 1.1,
+      "AST": 1.0,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hachiru01_2021_WAS",
+    "player_name": "Rui Hachimura",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 13.8,
+      "REB": 5.5,
+      "AST": 1.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_halibty01_2021_SAC",
+    "player_name": "Tyrese Haliburton",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 3.0,
+      "AST": 5.3,
+      "STL": 1.3,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_halljo01_2021_OKC",
+    "player_name": "Josh Hall",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.8,
+      "AST": 1.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hamptrj01_2021_2TM",
+    "player_name": "R.J. Hampton",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.5,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hamptrj01_2021_DEN",
+    "player_name": "R.J. Hampton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.0,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hamptrj01_2021_ORL",
+    "player_name": "R.J. Hampton",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 5.0,
+      "AST": 2.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hardati02_2021_DAL",
+    "player_name": "Tim Hardaway Jr.",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.3,
+      "AST": 1.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hardeja01_2021_2TM",
+    "player_name": "James Harden",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 24.6,
+      "REB": 7.9,
+      "AST": 10.8,
+      "STL": 1.2,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hardeja01_2021_BKN",
+    "player_name": "James Harden",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 24.6,
+      "REB": 8.5,
+      "AST": 10.9,
+      "STL": 1.3,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harklma01_2021_2TM",
+    "player_name": "Maurice Harkless",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.4,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harklma01_2021_SAC",
+    "player_name": "Maurice Harkless",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.9,
+      "AST": 1.4,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harremo01_2021_LAL",
+    "player_name": "Montrezl Harrell",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 6.2,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harriga01_2021_2TM",
+    "player_name": "Gary Harris",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 2.0,
+      "AST": 2.0,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harriga01_2021_ORL",
+    "player_name": "Gary Harris",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 1.6,
+      "AST": 2.3,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harrijo01_2021_BKN",
+    "player_name": "Joe Harris",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 14.1,
+      "REB": 3.6,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harrish01_2021_2TM",
+    "player_name": "Shaquille Harrison",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.4,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harrito02_2021_PHI",
+    "player_name": "Tobias Harris",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.5,
+      "REB": 6.8,
+      "AST": 3.5,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harteis01_2021_2TM",
+    "player_name": "Isaiah Hartenstein",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 3.9,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_harteis01_2021_DEN",
+    "player_name": "Isaiah Hartenstein",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.5,
+      "REB": 2.8,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hartjo01_2021_NOP",
+    "player_name": "Josh Hart",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 8.0,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hayesja02_2021_NOP",
+    "player_name": "Jaxson Hayes",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 4.3,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hayeski01_2021_DET",
+    "player_name": "Killian Hayes",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 2.7,
+      "AST": 5.3,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_haywago01_2021_CHO",
+    "player_name": "Gordon Hayward",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 5.9,
+      "AST": 4.1,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hernaju01_2021_MIN",
+    "player_name": "Juancho Hernang\u00f3mez",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.9,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hernawi01_2021_NOP",
+    "player_name": "Willy Hernang\u00f3mez",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 7.1,
+      "AST": 1.1,
+      "STL": 0.5,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_herroty01_2021_MIA",
+    "player_name": "Tyler Herro",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 5.0,
+      "AST": 3.4,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hieldbu01_2021_SAC",
+    "player_name": "Buddy Hield",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 4.7,
+      "AST": 3.6,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hillge01_2021_2TM",
+    "player_name": "George Hill",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.0,
+      "AST": 2.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hillso01_2021_ATL",
+    "player_name": "Solomon Hill",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 3.0,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hintona01_2021_DAL",
+    "player_name": "Nate Hinton",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.4,
+      "AST": 0.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_holidaa01_2021_IND",
+    "player_name": "Aaron Holiday",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 1.3,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_holidjr01_2021_MIL",
+    "player_name": "Jrue Holiday",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 17.7,
+      "REB": 4.5,
+      "AST": 6.1,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_holidju01_2021_IND",
+    "player_name": "Justin Holiday",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.5,
+      "REB": 3.6,
+      "AST": 1.7,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_holmeri01_2021_SAC",
+    "player_name": "Richaun Holmes",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 8.3,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 1.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hoodro01_2021_2TM",
+    "player_name": "Rodney Hood",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 1.9,
+      "AST": 1.0,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hoodro01_2021_POR",
+    "player_name": "Rodney Hood",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.9,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_horfoal01_2021_OKC",
+    "player_name": "Al Horford",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 14.2,
+      "REB": 6.7,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hortota01_2021_LAL",
+    "player_name": "Talen Horton-Tucker",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 2.6,
+      "AST": 2.8,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_houseda01_2021_HOU",
+    "player_name": "Danuel House Jr.",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.8,
+      "REB": 3.7,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_howardw01_2021_PHI",
+    "player_name": "Dwight Howard",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 8.4,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_howarma02_2021_DEN",
+    "player_name": "Markus Howard",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.8,
+      "REB": 0.6,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_huertke01_2021_ATL",
+    "player_name": "Kevin Huerter",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 11.9,
+      "REB": 3.3,
+      "AST": 3.5,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_huntede01_2021_ATL",
+    "player_name": "De'Andre Hunter",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 4.8,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_hutchch01_2021_2TM",
+    "player_name": "Chandler Hutchison",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ibakase01_2021_LAC",
+    "player_name": "Serge Ibaka",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.1,
+      "REB": 6.7,
+      "AST": 1.8,
+      "STL": 0.2,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_iguodan01_2021_MIA",
+    "player_name": "Andre Iguodala",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 3.5,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_inglejo01_2021_UTA",
+    "player_name": "Joe Ingles",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 3.6,
+      "AST": 4.7,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ingrabr01_2021_NOP",
+    "player_name": "Brandon Ingram",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 23.8,
+      "REB": 4.9,
+      "AST": 4.9,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_irvinky01_2021_BKN",
+    "player_name": "Kyrie Irving",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 26.9,
+      "REB": 4.8,
+      "AST": 6.0,
+      "STL": 1.4,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_iwundwe01_2021_2TM",
+    "player_name": "Wes Iwundu",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 2.2,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_iwundwe01_2021_DAL",
+    "player_name": "Wes Iwundu",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.9,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jacksfr01_2021_DET",
+    "player_name": "Frank Jackson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 9.8,
+      "REB": 2.2,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jacksjo02_2021_DET",
+    "player_name": "Josh Jackson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 4.1,
+      "AST": 2.3,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jacksju01_2021_2TM",
+    "player_name": "Justin Jackson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.3,
+      "AST": 1.5,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jacksju01_2021_OKC",
+    "player_name": "Justin Jackson",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 2.2,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jacksre01_2021_LAC",
+    "player_name": "Reggie Jackson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.9,
+      "AST": 3.1,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jamesju01_2021_SAC",
+    "player_name": "Justin James",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 0.8,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jamesle01_2021_LAL",
+    "player_name": "LeBron James",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PG-SG-SF-PF-C",
+    "stats": {
+      "PTS": 25.0,
+      "REB": 7.7,
+      "AST": 7.8,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jeffrda01_2021_2TM",
+    "player_name": "DaQuan Jeffries",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.3,
+      "AST": 0.7,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jeromty01_2021_OKC",
+    "player_name": "Ty Jerome",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 10.7,
+      "REB": 2.8,
+      "AST": 3.6,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_joeis01_2021_PHI",
+    "player_name": "Isaiah Joe",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 0.9,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnsca02_2021_PHX",
+    "player_name": "Cameron Johnson",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 3.3,
+      "AST": 1.4,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnsja01_2021_2TM",
+    "player_name": "James Johnson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 7.2,
+      "REB": 3.5,
+      "AST": 1.9,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnsja01_2021_DAL",
+    "player_name": "James Johnson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 3.0,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnsja01_2021_NOP",
+    "player_name": "James Johnson",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "SF-PF-C",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 4.1,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnske04_2021_SAS",
+    "player_name": "Keldon Johnson",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 12.8,
+      "REB": 6.0,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnsst04_2021_TOR",
+    "player_name": "Stanley Johnson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 2.5,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_johnsty01_2021_BKN",
+    "player_name": "Tyler Johnson",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.0,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jokicni01_2021_DEN",
+    "player_name": "Nikola Joki\u0107",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 26.4,
+      "REB": 10.8,
+      "AST": 8.3,
+      "STL": 1.3,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jonesda03_2021_3TM",
+    "player_name": "Damian Jones",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.1,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jonesde02_2021_POR",
+    "player_name": "Derrick Jones Jr.",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.5,
+      "AST": 0.8,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jonesma05_2021_2TM",
+    "player_name": "Mason Jones",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 1.7,
+      "AST": 1.3,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jonesma05_2021_HOU",
+    "player_name": "Mason Jones",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.8,
+      "REB": 2.0,
+      "AST": 1.5,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jonestr01_2021_SAS",
+    "player_name": "Tre Jones",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 0.6,
+      "AST": 1.1,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jonesty01_2021_MEM",
+    "player_name": "Tyus Jones",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 2.0,
+      "AST": 3.7,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_jordade01_2021_BKN",
+    "player_name": "DeAndre Jordan",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 7.5,
+      "AST": 1.6,
+      "STL": 0.3,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_josepco01_2021_2TM",
+    "player_name": "Cory Joseph",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 2.5,
+      "AST": 3.4,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_josepco01_2021_SAC",
+    "player_name": "Cory Joseph",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 2.3,
+      "AST": 2.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kabenmf01_2021_2TM",
+    "player_name": "Mfiondu Kabengele",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.4,
+      "REB": 1.5,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kabenmf01_2021_LAC",
+    "player_name": "Mfiondu Kabengele",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 0.6,
+      "AST": 0.2,
+      "STL": 0.1,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kaminfr01_2021_PHX",
+    "player_name": "Frank Kaminsky",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.0,
+      "AST": 1.7,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kanteen01_2021_POR",
+    "player_name": "Enes Freedom",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 11.0,
+      "AST": 1.2,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kennalu01_2021_LAC",
+    "player_name": "Luke Kennard",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 2.6,
+      "AST": 1.7,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_klebima01_2021_DAL",
+    "player_name": "Maxi Kleber",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 5.2,
+      "AST": 1.4,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_knighna01_2021_ATL",
+    "player_name": "Nathan Knight",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 2.2,
+      "AST": 0.2,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_knoxke01_2021_NYK",
+    "player_name": "Kevin Knox",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.5,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_konchjo01_2021_MEM",
+    "player_name": "John Konchar",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.3,
+      "REB": 3.0,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_korkmfu01_2021_PHI",
+    "player_name": "Furkan Korkmaz",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 2.1,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kornelu01_2021_2TM",
+    "player_name": "Luke Kornet",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.2,
+      "AST": 0.8,
+      "STL": 0.1,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kurucro01_2021_3TM",
+    "player_name": "Rodions Kurucs",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 1.1,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_kuzmaky01_2021_LAL",
+    "player_name": "Kyle Kuzma",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 6.1,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lamban01_2021_HOU",
+    "player_name": "Anthony Lamb",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.9,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lambje01_2021_IND",
+    "player_name": "Jeremy Lamb",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 3.6,
+      "AST": 1.5,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lavinza01_2021_CHI",
+    "player_name": "Zach LaVine",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 27.4,
+      "REB": 5.0,
+      "AST": 4.9,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_laymaja01_2021_MIN",
+    "player_name": "Jake Layman",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 1.5,
+      "AST": 0.6,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_leeda03_2021_GSW",
+    "player_name": "Damion Lee",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.2,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_leesa01_2021_DET",
+    "player_name": "Saben Lee",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 2.0,
+      "AST": 3.6,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lenal01_2021_2TM",
+    "player_name": "Alex Len",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.1,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lenal01_2021_WAS",
+    "player_name": "Alex Len",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 4.4,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_leonaka01_2021_LAC",
+    "player_name": "Kawhi Leonard",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 6.5,
+      "AST": 5.2,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_leverca01_2021_2TM",
+    "player_name": "Caris LeVert",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.2,
+      "REB": 4.6,
+      "AST": 5.2,
+      "STL": 1.4,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_leverca01_2021_IND",
+    "player_name": "Caris LeVert",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.7,
+      "REB": 4.6,
+      "AST": 4.9,
+      "STL": 1.5,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lewiski01_2021_NOP",
+    "player_name": "Kira Lewis Jr.",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 1.3,
+      "AST": 2.3,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lillada01_2021_POR",
+    "player_name": "Damian Lillard",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 28.8,
+      "REB": 4.2,
+      "AST": 7.5,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_littlna01_2021_POR",
+    "player_name": "Nassir Little",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.7,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_looneke01_2021_GSW",
+    "player_name": "Kevon Looney",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 5.3,
+      "AST": 2.0,
+      "STL": 0.3,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lopezbr01_2021_MIL",
+    "player_name": "Brook Lopez",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.3,
+      "REB": 5.0,
+      "AST": 0.7,
+      "STL": 0.6,
+      "BLK": 1.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lopezro01_2021_WAS",
+    "player_name": "Robin Lopez",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 3.8,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_loveke01_2021_CLE",
+    "player_name": "Kevin Love",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.2,
+      "REB": 7.4,
+      "AST": 2.5,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lowryky01_2021_TOR",
+    "player_name": "Kyle Lowry",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 17.2,
+      "REB": 5.4,
+      "AST": 7.3,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_luwawti01_2021_BKN",
+    "player_name": "Timoth\u00e9 Luwawu-Cabarrot",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.4,
+      "REB": 2.2,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_lylestr01_2021_SAS",
+    "player_name": "Trey Lyles",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 3.7,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_maledth01_2021_OKC",
+    "player_name": "Th\u00e9o Maledon",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 3.2,
+      "AST": 3.5,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mannini01_2021_GSW",
+    "player_name": "Nico Mannion",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.5,
+      "AST": 2.3,
+      "STL": 0.5,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mannte01_2021_LAC",
+    "player_name": "Terance Mann",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 3.6,
+      "AST": 1.6,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_marjabo01_2021_DAL",
+    "player_name": "Boban Marjanovi\u0107",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 3.9,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_markkla01_2021_CHI",
+    "player_name": "Lauri Markkanen",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 5.3,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_marshna01_2021_NOP",
+    "player_name": "Naji Marshall",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 4.6,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_martica02_2021_CHO",
+    "player_name": "Caleb Martin",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.7,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_martico01_2021_CHO",
+    "player_name": "Cody Martin",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 3.1,
+      "AST": 1.7,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_martike03_2021_IND",
+    "player_name": "Kelan Martin",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.5,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_martike04_2021_HOU",
+    "player_name": "KJ Martin",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 5.4,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mathega01_2021_WAS",
+    "player_name": "Garrison Mathews",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.4,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_matthwe02_2021_LAL",
+    "player_name": "Wesley Matthews",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.6,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_maxeyty01_2021_PHI",
+    "player_name": "Tyrese Maxey",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 1.7,
+      "AST": 2.0,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mayssk01_2021_ATL",
+    "player_name": "Skylar Mays",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 1.1,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mccolcj01_2021_POR",
+    "player_name": "CJ McCollum",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 23.1,
+      "REB": 3.9,
+      "AST": 4.7,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mccontj01_2021_IND",
+    "player_name": "T.J. McConnell",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 3.7,
+      "AST": 6.6,
+      "STL": 1.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mcdanja01_2021_CHO",
+    "player_name": "Jalen McDaniels",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 3.6,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mcdanja02_2021_MIN",
+    "player_name": "Jaden McDaniels",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 3.7,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mcderdo01_2021_IND",
+    "player_name": "Doug McDermott",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.6,
+      "REB": 3.3,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mcgeeja01_2021_2TM",
+    "player_name": "JaVale McGee",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 5.2,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mcgeeja01_2021_CLE",
+    "player_name": "JaVale McGee",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 5.2,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mckinal01_2021_LAL",
+    "player_name": "Alfonzo McKinnie",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.4,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mclaujo01_2021_MIN",
+    "player_name": "Jordan McLaughlin",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.0,
+      "REB": 2.1,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mclembe01_2021_2TM",
+    "player_name": "Ben McLemore",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 1.9,
+      "AST": 0.7,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mclembe01_2021_HOU",
+    "player_name": "Ben McLemore",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 2.1,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mclembe01_2021_LAL",
+    "player_name": "Ben McLemore",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 1.6,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mellini01_2021_2TM",
+    "player_name": "Nicol\u00f2 Melli",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.7,
+      "AST": 1.0,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mellini01_2021_NOP",
+    "player_name": "Nicol\u00f2 Melli",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 2.6,
+      "AST": 1.1,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mellini01_2021_DAL",
+    "player_name": "Nicol\u00f2 Melli",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 4.0,
+      "REB": 2.8,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_meltode01_2021_MEM",
+    "player_name": "De'Anthony Melton",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 9.1,
+      "REB": 3.1,
+      "AST": 2.5,
+      "STL": 1.2,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_merrisa01_2021_MIL",
+    "player_name": "Sam Merrill",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 1.0,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_metuch01_2021_SAC",
+    "player_name": "Chimezie Metu",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.3,
+      "REB": 3.1,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_middlkh01_2021_MIL",
+    "player_name": "Khris Middleton",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 20.4,
+      "REB": 6.0,
+      "AST": 5.4,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_millspa01_2021_DEN",
+    "player_name": "Paul Millsap",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 4.7,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_millspa02_2021_SAS",
+    "player_name": "Patty Mills",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.8,
+      "REB": 1.7,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_miltosh01_2021_PHI",
+    "player_name": "Shake Milton",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 13.0,
+      "REB": 2.3,
+      "AST": 3.1,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mitchdo01_2021_UTA",
+    "player_name": "Donovan Mitchell",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 26.4,
+      "REB": 4.4,
+      "AST": 5.2,
+      "STL": 1.0,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_monkma01_2021_CHO",
+    "player_name": "Malik Monk",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.7,
+      "REB": 2.4,
+      "AST": 2.1,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mooreet01_2021_PHX",
+    "player_name": "E'Twaun Moore",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 4.9,
+      "REB": 1.7,
+      "AST": 1.5,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_moranja01_2021_MEM",
+    "player_name": "Ja Morant",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.1,
+      "REB": 4.0,
+      "AST": 7.4,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_morgaju01_2021_UTA",
+    "player_name": "Juwan Morgan",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 1.2,
+      "REB": 1.0,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_morrima02_2021_LAL",
+    "player_name": "Markieff Morris",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 4.4,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_morrima03_2021_LAC",
+    "player_name": "Marcus Morris",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 13.4,
+      "REB": 4.1,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_morrimo01_2021_DEN",
+    "player_name": "Monte Morris",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 2.0,
+      "AST": 3.2,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_muldemy01_2021_GSW",
+    "player_name": "Mychal Mulder",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 5.6,
+      "REB": 1.0,
+      "AST": 0.4,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_murrade01_2021_SAS",
+    "player_name": "Dejounte Murray",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.7,
+      "REB": 7.1,
+      "AST": 5.4,
+      "STL": 1.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_murraja01_2021_DEN",
+    "player_name": "Jamal Murray",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 4.0,
+      "AST": 4.8,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_muscami01_2021_OKC",
+    "player_name": "Mike Muscala",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 3.8,
+      "AST": 0.8,
+      "STL": 0.2,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mykhasv01_2021_2TM",
+    "player_name": "Svi Mykhailiuk",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 8.5,
+      "REB": 2.5,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mykhasv01_2021_DET",
+    "player_name": "Svi Mykhailiuk",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.1,
+      "AST": 1.6,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_mykhasv01_2021_OKC",
+    "player_name": "Svi Mykhailiuk",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.3,
+      "REB": 3.0,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_naderab01_2021_PHX",
+    "player_name": "Abdel Nader",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.6,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nancela02_2021_CLE",
+    "player_name": "Larry Nance Jr.",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 6.7,
+      "AST": 3.1,
+      "STL": 1.7,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nesmiaa01_2021_BOS",
+    "player_name": "Aaron Nesmith",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.8,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_netora01_2021_WAS",
+    "player_name": "Raul Neto",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 2.4,
+      "AST": 2.3,
+      "STL": 1.1,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_niangge01_2021_UTA",
+    "player_name": "Georges Niang",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nnajize01_2021_DEN",
+    "player_name": "Zeke Nnaji",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.2,
+      "REB": 1.5,
+      "AST": 0.2,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_noelne01_2021_NYK",
+    "player_name": "Nerlens Noel",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.1,
+      "REB": 6.4,
+      "AST": 0.7,
+      "STL": 1.1,
+      "BLK": 2.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nowelja01_2021_MIN",
+    "player_name": "Jaylen Nowell",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 2.3,
+      "AST": 1.5,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ntilila01_2021_NYK",
+    "player_name": "Frank Ntilikina",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 0.9,
+      "AST": 0.6,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nunnke01_2021_MIA",
+    "player_name": "Kendrick Nunn",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 14.6,
+      "REB": 3.2,
+      "AST": 2.6,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nurkiju01_2021_POR",
+    "player_name": "Jusuf Nurki\u0107",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 9.0,
+      "AST": 3.4,
+      "STL": 1.0,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nwabada01_2021_HOU",
+    "player_name": "David Nwaba",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 3.9,
+      "AST": 1.0,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_nworajo01_2021_MIL",
+    "player_name": "Jordan Nwora",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 2.0,
+      "AST": 0.2,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_ojelese01_2021_BOS",
+    "player_name": "Semi Ojeleye",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.6,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_okafoja01_2021_DET",
+    "player_name": "Jahlil Okafor",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.4,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_okekech01_2021_ORL",
+    "player_name": "Chuma Okeke",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 4.0,
+      "AST": 2.2,
+      "STL": 1.1,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_okogijo01_2021_MIN",
+    "player_name": "Josh Okogie",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.6,
+      "AST": 1.1,
+      "STL": 0.9,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_okongon01_2021_ATL",
+    "player_name": "Onyeka Okongwu",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 3.3,
+      "AST": 0.4,
+      "STL": 0.5,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_okorois01_2021_CLE",
+    "player_name": "Isaac Okoro",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 3.1,
+      "AST": 1.9,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_okpalkz01_2021_MIA",
+    "player_name": "KZ Okpala",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 2.5,
+      "REB": 1.8,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_oladivi01_2021_3TM",
+    "player_name": "Victor Oladipo",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.8,
+      "REB": 4.8,
+      "AST": 4.6,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_oladivi01_2021_HOU",
+    "player_name": "Victor Oladipo",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 21.2,
+      "REB": 4.8,
+      "AST": 5.0,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_olynyke01_2021_2TM",
+    "player_name": "Kelly Olynyk",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 13.5,
+      "REB": 7.0,
+      "AST": 2.9,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_olynyke01_2021_MIA",
+    "player_name": "Kelly Olynyk",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 6.1,
+      "AST": 2.1,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_olynyke01_2021_HOU",
+    "player_name": "Kelly Olynyk",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 8.4,
+      "AST": 4.1,
+      "STL": 1.4,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_onealro01_2021_UTA",
+    "player_name": "Royce O'Neale",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 7.0,
+      "REB": 6.8,
+      "AST": 2.5,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_onimi01_2021_UTA",
+    "player_name": "Miye Oni",
+    "team": "UTA",
+    "team_abbr": "UTA",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 1.6,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_osmande01_2021_CLE",
+    "player_name": "Cedi Osman",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 3.4,
+      "AST": 2.9,
+      "STL": 0.9,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_oturuda01_2021_LAC",
+    "player_name": "Daniel Oturu",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 1.8,
+      "REB": 1.6,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_oubreke01_2021_GSW",
+    "player_name": "Kelly Oubre Jr.",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 6.0,
+      "AST": 1.3,
+      "STL": 1.0,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_pascher01_2021_GSW",
+    "player_name": "Eric Paschall",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 3.2,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_pattepa01_2021_LAC",
+    "player_name": "Patrick Patterson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 2.0,
+      "AST": 0.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_paulch01_2021_PHX",
+    "player_name": "Chris Paul",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 16.4,
+      "REB": 4.5,
+      "AST": 8.9,
+      "STL": 1.4,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_payneca01_2021_PHX",
+    "player_name": "Cameron Payne",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.4,
+      "REB": 2.4,
+      "AST": 3.6,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_paytoel01_2021_NYK",
+    "player_name": "Elfrid Payton",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 3.4,
+      "AST": 3.2,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_perryre01_2021_BKN",
+    "player_name": "Reggie Perry",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.0,
+      "REB": 2.8,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_plumlma01_2021_DET",
+    "player_name": "Mason Plumlee",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 9.3,
+      "AST": 3.6,
+      "STL": 0.8,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_poeltja01_2021_SAS",
+    "player_name": "Jakob Poeltl",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 7.9,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 1.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_pokusal01_2021_OKC",
+    "player_name": "Aleksej Pokusevski",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.2,
+      "REB": 4.7,
+      "AST": 2.2,
+      "STL": 0.4,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_poolejo01_2021_GSW",
+    "player_name": "Jordan Poole",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.0,
+      "REB": 1.8,
+      "AST": 1.9,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_porteke02_2021_HOU",
+    "player_name": "Kevin Porter Jr.",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 16.6,
+      "REB": 3.8,
+      "AST": 6.3,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_portemi01_2021_DEN",
+    "player_name": "Michael Porter Jr.",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 7.3,
+      "AST": 1.1,
+      "STL": 0.7,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_porteot01_2021_2TM",
+    "player_name": "Otto Porter Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.7,
+      "REB": 5.4,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_porteot01_2021_CHI",
+    "player_name": "Otto Porter Jr.",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.9,
+      "REB": 5.5,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_portibo01_2021_MIL",
+    "player_name": "Bobby Portis",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 7.1,
+      "AST": 1.1,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_porzikr01_2021_DAL",
+    "player_name": "Kristaps Porzi\u0146\u0123is",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 20.1,
+      "REB": 8.9,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_poweldw01_2021_DAL",
+    "player_name": "Dwight Powell",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 5.9,
+      "REB": 4.0,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_powelno01_2021_2TM",
+    "player_name": "Norman Powell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 3.1,
+      "AST": 1.9,
+      "STL": 1.2,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_powelno01_2021_TOR",
+    "player_name": "Norman Powell",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 3.0,
+      "AST": 1.8,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_powelno01_2021_POR",
+    "player_name": "Norman Powell",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 17.0,
+      "REB": 3.3,
+      "AST": 1.9,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_princta02_2021_2TM",
+    "player_name": "Taurean Prince",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 3.5,
+      "AST": 1.9,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_princta02_2021_CLE",
+    "player_name": "Taurean Prince",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 10.1,
+      "REB": 3.7,
+      "AST": 2.4,
+      "STL": 0.7,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_pritcpa01_2021_BOS",
+    "player_name": "Payton Pritchard",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.4,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_quickim01_2021_NYK",
+    "player_name": "Immanuel Quickley",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.4,
+      "REB": 2.1,
+      "AST": 2.0,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_randlch01_2021_ORL",
+    "player_name": "Chasson Randle",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 2.0,
+      "AST": 1.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_randlju01_2021_NYK",
+    "player_name": "Julius Randle",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 24.1,
+      "REB": 10.2,
+      "AST": 6.0,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_reddica01_2021_ATL",
+    "player_name": "Cam Reddish",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 4.0,
+      "AST": 1.3,
+      "STL": 1.3,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_redicjj01_2021_2TM",
+    "player_name": "JJ Redick",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.4,
+      "REB": 1.5,
+      "AST": 1.2,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_redicjj01_2021_NOP",
+    "player_name": "JJ Redick",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 1.7,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_reedpa01_2021_PHI",
+    "player_name": "Paul Reed",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 3.4,
+      "REB": 2.3,
+      "AST": 0.5,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_reidna01_2021_MIN",
+    "player_name": "Naz Reid",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 4.6,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_richajo01_2021_DAL",
+    "player_name": "Josh Richardson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 3.3,
+      "AST": 2.6,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_riverau01_2021_2TM",
+    "player_name": "Austin Rivers",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 2.3,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_riverau01_2021_NYK",
+    "player_name": "Austin Rivers",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.2,
+      "AST": 2.0,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_robindu01_2021_MIA",
+    "player_name": "Duncan Robinson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 3.5,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_robingl02_2021_SAC",
+    "player_name": "Glenn Robinson III",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.0,
+      "AST": 0.9,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_robinmi01_2021_NYK",
+    "player_name": "Mitchell Robinson",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.3,
+      "REB": 8.1,
+      "AST": 0.5,
+      "STL": 1.1,
+      "BLK": 1.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_robyis01_2021_OKC",
+    "player_name": "Isaiah Roby",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 5.6,
+      "AST": 1.8,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_rondora01_2021_2TM",
+    "player_name": "Rajon Rondo",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 2.4,
+      "AST": 4.4,
+      "STL": 0.8,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_rondora01_2021_ATL",
+    "player_name": "Rajon Rondo",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 2.0,
+      "AST": 3.5,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_rosede01_2021_2TM",
+    "player_name": "Derrick Rose",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.7,
+      "REB": 2.6,
+      "AST": 4.2,
+      "STL": 1.0,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_rosede01_2021_NYK",
+    "player_name": "Derrick Rose",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.9,
+      "REB": 2.9,
+      "AST": 4.2,
+      "STL": 0.9,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_rosste01_2021_ORL",
+    "player_name": "Terrence Ross",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.6,
+      "REB": 3.4,
+      "AST": 2.3,
+      "STL": 1.0,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_roziete01_2021_CHO",
+    "player_name": "Terry Rozier",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 20.4,
+      "REB": 4.4,
+      "AST": 4.2,
+      "STL": 1.3,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_rubiori01_2021_MIN",
+    "player_name": "Ricky Rubio",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 8.6,
+      "REB": 3.3,
+      "AST": 6.4,
+      "STL": 1.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_russeda01_2021_MIN",
+    "player_name": "D'Angelo Russell",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.0,
+      "REB": 2.6,
+      "AST": 5.8,
+      "STL": 1.1,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_sabondo01_2021_IND",
+    "player_name": "Domantas Sabonis",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 20.3,
+      "REB": 12.0,
+      "AST": 6.7,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_samanlu01_2021_SAS",
+    "player_name": "Luka \u0160amani\u0107",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 2.1,
+      "AST": 0.5,
+      "STL": 0.2,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_sampsja02_2021_IND",
+    "player_name": "JaKarr Sampson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.6,
+      "REB": 2.7,
+      "AST": 0.1,
+      "STL": 0.1,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_saricda01_2021_PHX",
+    "player_name": "Dario \u0160ari\u0107",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 8.7,
+      "REB": 3.8,
+      "AST": 1.3,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_satorto01_2021_CHI",
+    "player_name": "Tom\u00e1\u0161 Satoransk\u00fd",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.7,
+      "REB": 2.4,
+      "AST": 4.7,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_schrode01_2021_LAL",
+    "player_name": "Dennis Schr\u00f6der",
+    "team": "LAL",
+    "team_abbr": "LAL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 3.5,
+      "AST": 5.8,
+      "STL": 1.1,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_scottmi01_2021_PHI",
+    "player_name": "Mike Scott",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.2,
+      "REB": 2.4,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_sextoco01_2021_CLE",
+    "player_name": "Collin Sexton",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 24.3,
+      "REB": 3.1,
+      "AST": 4.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_shamela01_2021_BKN",
+    "player_name": "Landry Shamet",
+    "team": "BRK",
+    "team_abbr": "BKN",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 9.3,
+      "REB": 1.8,
+      "AST": 1.6,
+      "STL": 0.5,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_siakapa01_2021_TOR",
+    "player_name": "Pascal Siakam",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 21.4,
+      "REB": 7.2,
+      "AST": 4.5,
+      "STL": 1.1,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_simmobe01_2021_PHI",
+    "player_name": "Ben Simmons",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 14.3,
+      "REB": 7.2,
+      "AST": 6.9,
+      "STL": 1.6,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_simonan01_2021_POR",
+    "player_name": "Anfernee Simons",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 7.8,
+      "REB": 2.2,
+      "AST": 1.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_sirvyde01_2021_DET",
+    "player_name": "Deividas Sirvydis",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.1,
+      "REB": 1.5,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_smartma01_2021_BOS",
+    "player_name": "Marcus Smart",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 13.1,
+      "REB": 3.5,
+      "AST": 5.7,
+      "STL": 1.5,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_smithde03_2021_2TM",
+    "player_name": "Dennis Smith Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 2.4,
+      "AST": 3.3,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_smithde03_2021_DET",
+    "player_name": "Dennis Smith Jr.",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 7.3,
+      "REB": 2.7,
+      "AST": 3.7,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_smithis01_2021_WAS",
+    "player_name": "Ish Smith",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 3.4,
+      "AST": 3.9,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_smithja04_2021_PHX",
+    "player_name": "Jalen Smith",
+    "team": "PHO",
+    "team_abbr": "PHX",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 1.4,
+      "AST": 0.1,
+      "STL": 0.0,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_snellto01_2021_ATL",
+    "player_name": "Tony Snell",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.3,
+      "REB": 2.4,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_stanlca01_2021_IND",
+    "player_name": "Cassius Stanley",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 1.5,
+      "REB": 0.8,
+      "AST": 0.0,
+      "STL": 0.0,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_stevela01_2021_CLE",
+    "player_name": "Lamar Stevens",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.4,
+      "AST": 0.6,
+      "STL": 0.4,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_stewais01_2021_DET",
+    "player_name": "Isaiah Stewart",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.9,
+      "REB": 6.7,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_strusma01_2021_MIA",
+    "player_name": "Max Strus",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 1.1,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_sumneed01_2021_IND",
+    "player_name": "Edmond Sumner",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 7.5,
+      "REB": 1.8,
+      "AST": 0.9,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_tateja01_2021_HOU",
+    "player_name": "Jae'Sean Tate",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 5.3,
+      "AST": 2.5,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_tatumja01_2021_BOS",
+    "player_name": "Jayson Tatum",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 26.4,
+      "REB": 7.4,
+      "AST": 4.3,
+      "STL": 1.2,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_teaguje01_2021_2TM",
+    "player_name": "Jeff Teague",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.7,
+      "REB": 1.6,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_teaguje01_2021_BOS",
+    "player_name": "Jeff Teague",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.7,
+      "AST": 2.1,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_teaguje01_2021_MIL",
+    "player_name": "Jeff Teague",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 1.5,
+      "AST": 2.8,
+      "STL": 0.4,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_templga01_2021_CHI",
+    "player_name": "Garrett Temple",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG-SF",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 2.9,
+      "AST": 2.2,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_theisda01_2021_2TM",
+    "player_name": "Daniel Theis",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.6,
+      "REB": 5.5,
+      "AST": 1.7,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_theisda01_2021_BOS",
+    "player_name": "Daniel Theis",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.5,
+      "REB": 5.2,
+      "AST": 1.6,
+      "STL": 0.6,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_theisda01_2021_CHI",
+    "player_name": "Daniel Theis",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 5.9,
+      "AST": 1.8,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thomabr01_2021_2TM",
+    "player_name": "Brodric Thomas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.7,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thomabr01_2021_CLE",
+    "player_name": "Brodric Thomas",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.8,
+      "AST": 0.9,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thomama02_2021_2TM",
+    "player_name": "Matt Thomas",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 3.1,
+      "REB": 1.0,
+      "AST": 0.4,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thomama02_2021_TOR",
+    "player_name": "Matt Thomas",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.7,
+      "REB": 0.8,
+      "AST": 0.3,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thomptr01_2021_BOS",
+    "player_name": "Tristan Thompson",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 7.6,
+      "REB": 8.1,
+      "AST": 1.2,
+      "STL": 0.4,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thornsi01_2021_2TM",
+    "player_name": "Sindarius Thornwell",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 2.0,
+      "REB": 0.9,
+      "AST": 1.0,
+      "STL": 0.6,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_thybuma01_2021_PHI",
+    "player_name": "Matisse Thybulle",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 3.9,
+      "REB": 1.9,
+      "AST": 1.0,
+      "STL": 1.6,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_tillmxa01_2021_MEM",
+    "player_name": "Xavier Tillman Sr.",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 6.6,
+      "REB": 4.3,
+      "AST": 1.3,
+      "STL": 0.7,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_toppiob01_2021_NYK",
+    "player_name": "Obi Toppin",
+    "team": "NYK",
+    "team_abbr": "NYK",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 2.2,
+      "AST": 0.5,
+      "STL": 0.3,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_toscaju01_2021_GSW",
+    "player_name": "Juan Toscano-Anderson",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.7,
+      "REB": 4.4,
+      "AST": 2.8,
+      "STL": 0.8,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_townska01_2021_MIN",
+    "player_name": "Karl-Anthony Towns",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 24.8,
+      "REB": 10.6,
+      "AST": 4.5,
+      "STL": 0.8,
+      "BLK": 1.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_trentga02_2021_2TM",
+    "player_name": "Gary Trent Jr.",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.3,
+      "REB": 2.6,
+      "AST": 1.4,
+      "STL": 1.0,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_trentga02_2021_POR",
+    "player_name": "Gary Trent Jr.",
+    "team": "POR",
+    "team_abbr": "POR",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 15.0,
+      "REB": 2.2,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_tuckepj01_2021_2TM",
+    "player_name": "P.J. Tucker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 3.7,
+      "REB": 3.9,
+      "AST": 1.2,
+      "STL": 0.8,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_tuckepj01_2021_HOU",
+    "player_name": "P.J. Tucker",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 4.6,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_tuckepj01_2021_MIL",
+    "player_name": "P.J. Tucker",
+    "team": "MIL",
+    "team_abbr": "MIL",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 2.6,
+      "REB": 2.8,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_turnemy01_2021_IND",
+    "player_name": "Myles Turner",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 12.6,
+      "REB": 6.5,
+      "AST": 1.0,
+      "STL": 0.9,
+      "BLK": 3.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_valanjo01_2021_MEM",
+    "player_name": "Jonas Valan\u010di\u016bnas",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 17.1,
+      "REB": 12.5,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_valende01_2021_CHI",
+    "player_name": "Denzel Valentine",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 6.5,
+      "REB": 3.2,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vandeja01_2021_MIN",
+    "player_name": "Jarred Vanderbilt",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.4,
+      "REB": 5.8,
+      "AST": 1.2,
+      "STL": 1.0,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vanvlfr01_2021_TOR",
+    "player_name": "Fred VanVleet",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 19.6,
+      "REB": 4.2,
+      "AST": 6.3,
+      "STL": 1.7,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vassede01_2021_SAS",
+    "player_name": "Devin Vassell",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 2.8,
+      "AST": 0.9,
+      "STL": 0.7,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vincega01_2021_MIA",
+    "player_name": "Gabe Vincent",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.8,
+      "REB": 1.1,
+      "AST": 1.3,
+      "STL": 0.4,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vucevni01_2021_2TM",
+    "player_name": "Nikola Vu\u010devi\u0107",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 23.4,
+      "REB": 11.7,
+      "AST": 3.8,
+      "STL": 0.9,
+      "BLK": 0.7
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vucevni01_2021_ORL",
+    "player_name": "Nikola Vu\u010devi\u0107",
+    "team": "ORL",
+    "team_abbr": "ORL",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 24.5,
+      "REB": 11.8,
+      "AST": 3.8,
+      "STL": 1.0,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_vucevni01_2021_CHI",
+    "player_name": "Nikola Vu\u010devi\u0107",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 21.5,
+      "REB": 11.5,
+      "AST": 3.9,
+      "STL": 0.9,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wadede01_2021_CLE",
+    "player_name": "Dean Wade",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.0,
+      "REB": 3.4,
+      "AST": 1.2,
+      "STL": 0.6,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wagnemo01_2021_3TM",
+    "player_name": "Moritz Wagner",
+    "team": "3TM",
+    "team_abbr": "3TM",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 3.2,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wagnemo01_2021_WAS",
+    "player_name": "Moritz Wagner",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 7.1,
+      "REB": 2.9,
+      "AST": 1.3,
+      "STL": 0.9,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_walkeke02_2021_BOS",
+    "player_name": "Kemba Walker",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 19.3,
+      "REB": 4.0,
+      "AST": 4.9,
+      "STL": 1.1,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_walkelo01_2021_SAS",
+    "player_name": "Lonnie Walker IV",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 11.2,
+      "REB": 2.6,
+      "AST": 1.7,
+      "STL": 0.5,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_walljo01_2021_HOU",
+    "player_name": "John Wall",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 20.6,
+      "REB": 3.2,
+      "AST": 6.9,
+      "STL": 1.1,
+      "BLK": 0.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wanambr01_2021_2TM",
+    "player_name": "Brad Wanamaker",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 5.5,
+      "REB": 1.7,
+      "AST": 2.9,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wanambr01_2021_GSW",
+    "player_name": "Brad Wanamaker",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 1.7,
+      "AST": 2.5,
+      "STL": 0.7,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wanambr01_2021_CHO",
+    "player_name": "Brad Wanamaker",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 6.9,
+      "REB": 1.8,
+      "AST": 3.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_washipj01_2021_CHO",
+    "player_name": "P.J. Washington",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 12.9,
+      "REB": 6.5,
+      "AST": 2.5,
+      "STL": 1.1,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_watanyu01_2021_TOR",
+    "player_name": "Yuta Watanabe",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.4,
+      "REB": 3.2,
+      "AST": 0.8,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_watertr01_2021_BOS",
+    "player_name": "Tremont Waters",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 3.8,
+      "REB": 0.8,
+      "AST": 2.4,
+      "STL": 0.6,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_watsopa01_2021_TOR",
+    "player_name": "Paul Watson",
+    "team": "TOR",
+    "team_abbr": "TOR",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 4.1,
+      "REB": 1.7,
+      "AST": 0.6,
+      "STL": 0.2,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_weathqu01_2021_SAS",
+    "player_name": "Quinndary Weatherspoon",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG",
+    "stats": {
+      "PTS": 2.3,
+      "REB": 0.6,
+      "AST": 0.4,
+      "STL": 0.4,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_westbru01_2021_WAS",
+    "player_name": "Russell Westbrook",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SF",
+    "stats": {
+      "PTS": 22.2,
+      "REB": 11.5,
+      "AST": 11.7,
+      "STL": 1.4,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_whiteco01_2021_CHI",
+    "player_name": "Coby White",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.1,
+      "REB": 4.1,
+      "AST": 4.8,
+      "STL": 0.6,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_whitede01_2021_SAS",
+    "player_name": "Derrick White",
+    "team": "SAS",
+    "team_abbr": "SAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 15.4,
+      "REB": 3.0,
+      "AST": 3.5,
+      "STL": 0.7,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_whiteha01_2021_SAC",
+    "player_name": "Hassan Whiteside",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.1,
+      "REB": 6.0,
+      "AST": 0.6,
+      "STL": 0.3,
+      "BLK": 1.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wiggian01_2021_GSW",
+    "player_name": "Andrew Wiggins",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 18.6,
+      "REB": 4.9,
+      "AST": 2.4,
+      "STL": 0.9,
+      "BLK": 1.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willigr01_2021_BOS",
+    "player_name": "Grant Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 4.7,
+      "REB": 2.8,
+      "AST": 1.0,
+      "STL": 0.5,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willike04_2021_OKC",
+    "player_name": "Kenrich Williams",
+    "team": "OKC",
+    "team_abbr": "OKC",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF-PF",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 4.1,
+      "AST": 2.3,
+      "STL": 0.8,
+      "BLK": 0.3
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willilo02_2021_2TM",
+    "player_name": "Lou Williams",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 11.3,
+      "REB": 2.1,
+      "AST": 3.4,
+      "STL": 0.7,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willilo02_2021_LAC",
+    "player_name": "Lou Williams",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 2.1,
+      "AST": 3.4,
+      "STL": 0.9,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willilo02_2021_ATL",
+    "player_name": "Lou Williams",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 2.1,
+      "AST": 3.4,
+      "STL": 0.3,
+      "BLK": 0.1
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willipa01_2021_CHI",
+    "player_name": "Patrick Williams",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 9.2,
+      "REB": 4.6,
+      "AST": 1.4,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_williro04_2021_BOS",
+    "player_name": "Robert Williams",
+    "team": "BOS",
+    "team_abbr": "BOS",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 8.0,
+      "REB": 6.9,
+      "AST": 1.8,
+      "STL": 0.8,
+      "BLK": 1.8
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_willizi01_2021_NOP",
+    "player_name": "Zion Williamson",
+    "team": "NOP",
+    "team_abbr": "NOP",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 27.0,
+      "REB": 7.2,
+      "AST": 3.7,
+      "STL": 0.9,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wilsodj01_2021_2TM",
+    "player_name": "D.J. Wilson",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.2,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wilsodj01_2021_HOU",
+    "player_name": "D.J. Wilson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 6.1,
+      "REB": 3.8,
+      "AST": 0.9,
+      "STL": 0.4,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_windldy01_2021_CLE",
+    "player_name": "Dylan Windler",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 2021,
+    "position": "SF",
+    "position_raw": "SF",
+    "stats": {
+      "PTS": 5.2,
+      "REB": 3.5,
+      "AST": 1.1,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_winslju01_2021_MEM",
+    "player_name": "Justise Winslow",
+    "team": "MEM",
+    "team_abbr": "MEM",
+    "season": 2021,
+    "position": "SG",
+    "position_raw": "SG-SF-PF",
+    "stats": {
+      "PTS": 6.8,
+      "REB": 4.5,
+      "AST": 1.9,
+      "STL": 0.6,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_winstca01_2021_WAS",
+    "player_name": "Cassius Winston",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 1.9,
+      "REB": 0.4,
+      "AST": 0.5,
+      "STL": 0.1,
+      "BLK": 0.0
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wisemja01_2021_GSW",
+    "player_name": "James Wiseman",
+    "team": "GSW",
+    "team_abbr": "GSW",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 11.5,
+      "REB": 5.8,
+      "AST": 0.7,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_woodch01_2021_HOU",
+    "player_name": "Christian Wood",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF-C",
+    "stats": {
+      "PTS": 21.0,
+      "REB": 9.6,
+      "AST": 1.7,
+      "STL": 0.8,
+      "BLK": 1.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wrighde01_2021_2TM",
+    "player_name": "Delon Wright",
+    "team": "2TM",
+    "team_abbr": "2TM",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.2,
+      "REB": 4.3,
+      "AST": 4.4,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wrighde01_2021_DET",
+    "player_name": "Delon Wright",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.4,
+      "REB": 4.6,
+      "AST": 5.0,
+      "STL": 1.6,
+      "BLK": 0.5
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_wrighde01_2021_SAC",
+    "player_name": "Delon Wright",
+    "team": "SAC",
+    "team_abbr": "SAC",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG-SG",
+    "stats": {
+      "PTS": 10.0,
+      "REB": 3.9,
+      "AST": 3.6,
+      "STL": 1.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_youngth01_2021_CHI",
+    "player_name": "Thaddeus Young",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 2021,
+    "position": "PF",
+    "position_raw": "PF",
+    "stats": {
+      "PTS": 12.1,
+      "REB": 6.2,
+      "AST": 4.3,
+      "STL": 1.1,
+      "BLK": 0.6
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_youngtr01_2021_ATL",
+    "player_name": "Trae Young",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 2021,
+    "position": "PG",
+    "position_raw": "PG",
+    "stats": {
+      "PTS": 25.3,
+      "REB": 3.9,
+      "AST": 9.4,
+      "STL": 0.8,
+      "BLK": 0.2
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_zelleco01_2021_CHO",
+    "player_name": "Cody Zeller",
+    "team": "CHO",
+    "team_abbr": "CHO",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.4,
+      "REB": 6.8,
+      "AST": 1.8,
+      "STL": 0.6,
+      "BLK": 0.4
+    },
+    "decade": "2020s"
+  },
+  {
+    "player_id": "bref_zubaciv01_2021_LAC",
+    "player_name": "Ivica Zubac",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 2021,
+    "position": "C",
+    "position_raw": "C",
+    "stats": {
+      "PTS": 9.0,
+      "REB": 7.2,
+      "AST": 1.3,
+      "STL": 0.3,
+      "BLK": 0.9
+    },
+    "decade": "2020s"
+  }
+]

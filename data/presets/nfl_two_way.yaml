@@ -1,0 +1,38 @@
+sport: nfl
+name: NFL Two-Way
+slug: nfl_two_way
+description: Six offense and six defense starters with premium QB, EDGE, and CB weights.
+max_games: 17
+balance_penalty: 0.2
+stat_weights:
+  yards: 0.001
+  td: 1.0
+  sacks: 1.2
+  tackles: 0.15
+  interceptions: 2.0
+position_weights:
+  QB: 1.5
+  EDGE: 1.2
+  CB: 1.2
+grade_thresholds:
+  S+: 6.0
+  A+: 3.0
+  A: 1.5
+  B: 0.5
+  C: 0.2
+  D: 0.0
+rating_baseline: 0.0
+win_rating_slope: 0.35
+slots:
+  - {slot_id: qb, label: QB, position: QB, side: offense, weight: 1.0}
+  - {slot_id: rb, label: RB, position: RB, side: offense, weight: 1.0}
+  - {slot_id: wr, label: WR, position: WR, side: offense, weight: 1.0}
+  - {slot_id: te, label: TE, position: TE, side: offense, weight: 1.0}
+  - {slot_id: flex1, label: FLEX, position: FLEX, side: offense, weight: 1.0}
+  - {slot_id: flex2, label: FLEX, position: FLEX, side: offense, weight: 1.0}
+  - {slot_id: edge, label: EDGE, position: EDGE, side: defense, weight: 1.0}
+  - {slot_id: dt, label: DT, position: DT, side: defense, weight: 1.0}
+  - {slot_id: lb, label: LB, position: LB, side: defense, weight: 1.0}
+  - {slot_id: cb, label: CB, position: CB, side: defense, weight: 1.0}
+  - {slot_id: s, label: S, position: S, side: defense, weight: 1.0}
+  - {slot_id: dflex, label: D-FLEX, position: D-FLEX, side: defense, weight: 1.0}

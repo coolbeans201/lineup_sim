@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from lineup_sim.core.models import PlayerSeason
 from lineup_sim.core.peak import pick_peak_seasons
-from lineup_sim.ingest.nba import build_pool
+from lineup_sim.ingest.nba import STL_BLK_FIRST_SEASON, build_pool
 from lineup_sim.sports.base import SportPlugin
 from lineup_sim.sports.nba.positions import position_matches as nba_position_matches
 
@@ -65,3 +65,8 @@ class NBAPlugin(SportPlugin):
 
     def season_value(self, player: PlayerSeason) -> float:
         return player.stats.get("PTS", 0) * 1.0 + player.stats.get("REB", 0) * 0.8
+
+    def stat_tracking_factor(self, player: PlayerSeason, stat: str) -> float:
+        if stat in {"STL", "BLK"} and player.season < STL_BLK_FIRST_SEASON:
+            return 0.0
+        return 1.0

@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from dataclasses import dataclass
+
 from lineup_sim.core.models import Lineup, PlayerSeason, Preset, RosterSlot, SlotAssignment
 from lineup_sim.core.constraints import eligible_for_slot
 from lineup_sim.core.roster_identity import assigned_identities, player_identity
@@ -11,12 +13,26 @@ __all__ = [
     "assigned_identities",
     "completion_ratio",
     "eligible_open_slots",
+    "eligible_reassign_slots",
     "empty_lineup",
     "lineup_from_dict",
     "lineup_to_dict",
     "open_slots",
     "player_identity",
+    "reassign_player",
+    "swap_plans_for_new_pick",
+    "swappable_assignments",
+    "PickSwapPlan",
 ]
+
+
+@dataclass(frozen=True)
+class PickSwapPlan:
+    """Move an occupant off a slot so a new pick can take that position."""
+
+    assign_slot_id: str
+    move_to_slot_id: str
+    occupant: PlayerSeason
 
 
 def empty_lineup(preset: Preset, label: str = "Lineup A") -> Lineup:
@@ -44,6 +60,135 @@ def eligible_open_slots(
         for slot in open_slots(lineup, preset)
         if eligible_for_slot(player, slot, sport, enforce_position=True)
     ]
+
+
+def eligible_reassign_slots(
+    player: PlayerSeason,
+    lineup: Lineup,
+    preset: Preset,
+    sport: str,
+    *,
+    from_slot_id: str,
+) -> list[RosterSlot]:
+    """Empty slots a locked-in player can move to (freeing their current slot)."""
+    return [
+        slot
+        for slot in eligible_open_slots(player, lineup, preset, sport)
+        if slot.slot_id != from_slot_id
+    ]
+
+
+def swap_plans_for_new_pick(
+    player: PlayerSeason,
+    lineup: Lineup,
+    preset: Preset,
+    sport: str,
+) -> list[PickSwapPlan]:
+    """Ways to free an occupied slot the new pick qualifies for by moving someone else."""
+    slot_map = {s.slot_id: s for s in preset.slots}
+    plans: list[PickSwapPlan] = []
+    seen: set[tuple[str, str, str]] = set()
+
+    for assignment in lineup.assignments:
+        if assignment.player is None:
+            continue
+        slot = slot_map[assignment.slot_id]
+        if not eligible_for_slot(player, slot, sport, enforce_position=True):
+            continue
+        for target in eligible_reassign_slots(
+            assignment.player,
+            lineup,
+            preset,
+            sport,
+            from_slot_id=assignment.slot_id,
+        ):
+            key = (assignment.slot_id, target.slot_id, player.player_id)
+            if key in seen:
+                continue
+            seen.add(key)
+            plans.append(
+                PickSwapPlan(
+                    assign_slot_id=assignment.slot_id,
+                    move_to_slot_id=target.slot_id,
+                    occupant=assignment.player,
+                )
+            )
+    return plans
+
+
+def swappable_assignments(
+    lineup: Lineup,
+    preset: Preset,
+    sport: str,
+) -> list[tuple[SlotAssignment, list[RosterSlot]]]:
+    """Locked-in players who can move to at least one other open eligible slot."""
+    out: list[tuple[SlotAssignment, list[RosterSlot]]] = []
+    for assignment in lineup.assignments:
+        if assignment.player is None:
+            continue
+        targets = eligible_reassign_slots(
+            assignment.player,
+            lineup,
+            preset,
+            sport,
+            from_slot_id=assignment.slot_id,
+        )
+        if targets:
+            out.append((assignment, targets))
+    return out
+
+
+def reassign_player(
+    lineup: Lineup,
+    preset: Preset,
+    from_slot_id: str,
+    to_slot_id: str,
+) -> Lineup:
+    """Move a locked-in player to another empty slot they qualify for."""
+    if from_slot_id == to_slot_id:
+        raise ValueError("Cannot reassign a player to the same slot")
+
+    slot_map = {s.slot_id: s for s in preset.slots}
+    if from_slot_id not in slot_map or to_slot_id not in slot_map:
+        raise ValueError("Unknown slot")
+
+    from_assignment = next(a for a in lineup.assignments if a.slot_id == from_slot_id)
+    if from_assignment.player is None:
+        raise ValueError(f"No player assigned to slot {from_slot_id}")
+
+    to_assignment = next(a for a in lineup.assignments if a.slot_id == to_slot_id)
+    if to_assignment.player is not None:
+        raise ValueError(f"Slot {to_slot_id} is not empty")
+
+    player = from_assignment.player
+    targets = eligible_reassign_slots(
+        player,
+        lineup,
+        preset,
+        preset.sport,
+        from_slot_id=from_slot_id,
+    )
+    if not any(slot.slot_id == to_slot_id for slot in targets):
+        raise ValueError(
+            f"{player.player_name} cannot move from {from_slot_id} to {to_slot_id}"
+        )
+
+    new_assignments: list[SlotAssignment] = []
+    for assignment in lineup.assignments:
+        if assignment.slot_id == from_slot_id:
+            new_assignments.append(SlotAssignment(slot_id=from_slot_id, player=None))
+        elif assignment.slot_id == to_slot_id:
+            new_assignments.append(SlotAssignment(slot_id=to_slot_id, player=player))
+        else:
+            new_assignments.append(assignment)
+
+    return Lineup(
+        preset_slug=lineup.preset_slug,
+        sport=lineup.sport,
+        label=lineup.label,
+        assignments=new_assignments,
+        metadata=dict(lineup.metadata),
+    )
 
 
 def assign_player(

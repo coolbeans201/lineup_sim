@@ -44,3 +44,18 @@ def decode_share_payload(token: str) -> dict:
 
 def share_url(token: str) -> str:
     return f"?share={quote(token)}"
+
+
+def share_full_url(token: str) -> str:
+    """Build a copyable URL for the current app page, when running under Streamlit."""
+    relative = share_url(token)
+    try:
+        import streamlit as st
+
+        page_url = getattr(st.context, "url", None)
+        if page_url:
+            base = str(page_url).split("?", 1)[0]
+            return f"{base}{relative}"
+    except Exception:
+        pass
+    return relative

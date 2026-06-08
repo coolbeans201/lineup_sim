@@ -24,10 +24,12 @@ from app.components import (
     render_global_sidebar,
     render_score_panel,
     render_seed_spin_controls,
+    render_draft_header,
+    render_share_panel,
+    reset_lineup_session,
     score_current_lineup,
 )
 from lineup_sim.core.roster import empty_lineup, lineup_to_dict
-from lineup_sim.daily.share import encode_share_payload, lineup_summary
 from lineup_sim.sports.registry import get_sport_plugin
 
 st.title("Sandbox")
@@ -64,7 +66,15 @@ if build_mode == "Random spins (seed)":
 elif build_mode == "Pick team & era" and spin_draft:
     st.caption("Set team and era for the current pick only — future picks stay hidden.")
 
-st.subheader("Draft")
+render_draft_header(
+    button_key=f"{draft_key}_reset",
+    on_reset=lambda: reset_lineup_session(
+        preset=preset,
+        lineup_attr="sandbox_lineup",
+        label="Lineup",
+        key_prefixes=[draft_key],
+    ),
+)
 if build_mode == "Free build":
     if sport == "nba":
         lineup = draft_nba_free_build_lineup_sequential(
@@ -105,19 +115,19 @@ st.session_state.sandbox_lineup = lineup
 
 filled = sum(1 for a in lineup.assignments if a.player is not None)
 if filled > 0 and filled == preset.slot_count:
+    st.divider()
+    st.subheader("Results")
     score = score_current_lineup(lineup)
     render_score_panel(score, preset_slug=preset.slug)
 
     col1, col2 = st.columns(2)
     with col1:
-        if st.button("Export lineup JSON"):
-            st.download_button(
-                "Download",
-                data=json.dumps(lineup_to_dict(lineup), indent=2),
-                file_name="lineup.json",
-                mime="application/json",
-            )
+        st.download_button(
+            "Export lineup JSON",
+            data=json.dumps(lineup_to_dict(lineup), indent=2),
+            file_name="lineup.json",
+            mime="application/json",
+            key=f"{draft_key}_export",
+        )
     with col2:
-        token = encode_share_payload(lineup, score)
-        st.text_input("Share token", value=token)
-        st.caption(f"Summary: {lineup_summary(lineup)}")
+        render_share_panel(lineup=lineup, score=score, key_prefix=f"{draft_key}_share")

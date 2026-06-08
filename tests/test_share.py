@@ -11,7 +11,13 @@ sys.path.insert(0, str(ROOT / "src"))
 from lineup_sim.core.presets import get_preset
 from lineup_sim.core.roster import assign_player, empty_lineup, lineup_from_dict
 from lineup_sim.core.scoring import score_lineup
-from lineup_sim.daily.share import decode_share_payload, encode_share_payload, lineup_summary
+from lineup_sim.daily.share import (
+    decode_share_payload,
+    encode_share_payload,
+    lineup_summary,
+    share_full_url,
+    share_url,
+)
 from lineup_sim.sports.nba.plugin import NBAPlugin
 
 
@@ -29,3 +35,12 @@ def test_share_roundtrip():
     assert filled[0].player.player_name == "Wilt Chamberlain"
     assert payload["score"]["grade"] == score.grade
     assert "Wilt" in lineup_summary(lineup)
+
+
+def test_share_url_formats_query_string():
+    token = "abc123"
+    assert share_url(token) == "?share=abc123"
+
+
+def test_share_full_url_falls_back_without_streamlit_context():
+    assert share_full_url("abc123") == "?share=abc123"

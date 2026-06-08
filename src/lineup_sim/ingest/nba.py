@@ -26,7 +26,8 @@ from lineup_sim.sports.nba.positions import primary_position
 
 SAMPLE_PATH = Path(__file__).resolve().parents[3] / "data" / "sample" / "nba_players.json"
 
-# BRef per-game table exists from 1962 onward; steal/block from 1974
+# BRef per-game table exists from 1962 onward; steal/block from 1973-74 (season=1974)
+STL_BLK_FIRST_SEASON = 1974
 BREF_START = 1962
 BREF_END = 1995
 NBA_API_START = 1996

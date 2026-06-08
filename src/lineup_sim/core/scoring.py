@@ -51,9 +51,12 @@ def player_stat_composite(player: PlayerSeason, preset: Preset) -> float:
     for stat, weight in preset.stat_weights.items():
         if stat not in player.stats:
             continue
+        effective_weight = weight * plugin.stat_tracking_factor(player, stat)
+        if effective_weight <= 0:
+            continue
         direction = plugin.stat_direction(stat)
-        weighted += player.stats[stat] * weight * direction
-        total_w += weight
+        weighted += player.stats[stat] * effective_weight * direction
+        total_w += effective_weight
 
     return weighted / total_w if total_w else 0.0
 
@@ -75,6 +78,9 @@ def player_composite_z(
     for stat, weight in weights.items():
         if stat not in player.stats:
             continue
+        effective_weight = weight * plugin.stat_tracking_factor(player, stat)
+        if effective_weight <= 0:
+            continue
         if stat not in cohort_slice.columns or cohort_slice.empty:
             stat_zs[stat] = 0.0
             continue
@@ -83,8 +89,8 @@ def player_composite_z(
         direction = plugin.stat_direction(stat)
         z = _z(player.stats[stat], mean, std) * direction
         stat_zs[stat] = z
-        weighted += z * weight
-        total_w += weight
+        weighted += z * effective_weight
+        total_w += effective_weight
 
     composite = weighted / total_w if total_w else 0.0
     return composite, stat_zs
@@ -173,6 +179,20 @@ def _build_record_notes(
         "Games like 82-0 treat peak-all-time rosters as undefeated. This sim deliberately caps win rate below "
         "100%, so even S+ teams can show a few projected losses."
     )
+    return notes
+
+
+def _formula_notes(preset: Preset, rating_baseline: float) -> list[str]:
+    notes = [
+        "Slot rating = weighted raw per-game stats × slot/position weight.",
+        "Composite Z = era-relative context vs position/season peers (display only).",
+        f"Balance penalty = {preset.balance_penalty} × (mean − weakest slot).",
+        f"Projected wins = logistic(team_rating − {rating_baseline:.1f} pool median) × season length.",
+    ]
+    if preset.sport == "nba":
+        notes.append(
+            "STL/BLK are omitted from scoring for seasons before 1973-74 (not tracked on Basketball Reference)."
+        )
     return notes
 
 
@@ -286,10 +306,5 @@ def score_lineup(
             win_pct=win_pct,
             rating_baseline=rating_baseline,
         ),
-        formula_notes=[
-            "Slot rating = weighted raw per-game stats × slot/position weight.",
-            "Composite Z = era-relative context vs position/season peers (display only).",
-            f"Balance penalty = {preset.balance_penalty} × (mean − weakest slot).",
-            f"Projected wins = logistic(team_rating − {rating_baseline:.1f} pool median) × season length.",
-        ],
+        formula_notes=_formula_notes(preset, rating_baseline),
     )

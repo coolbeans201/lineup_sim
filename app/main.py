@@ -12,6 +12,8 @@ for p in (ROOT, ROOT / "src"):
     if str(p) not in sys.path:
         sys.path.insert(0, str(p))
 
+from app.components import render_score_panel
+from app.theme import apply_theme, render_theme_selector
 from lineup_sim.daily.share import decode_share_payload
 from lineup_sim.core.presets import get_preset
 from lineup_sim.core.roster import lineup_from_dict
@@ -33,19 +35,23 @@ pages = [
 
 pg = st.navigation(pages)
 
+render_theme_selector()
+
 share_token = st.query_params.get("share")
 if share_token:
-    with st.sidebar.expander("Shared result", expanded=True):
-        try:
-            payload = decode_share_payload(share_token)
-            preset = get_preset(payload["lineup"]["preset_slug"])
-            lineup = lineup_from_dict(preset, payload["lineup"])
-            plugin = get_sport_plugin(lineup.sport)
-            score = score_lineup(lineup, plugin.load_player_pool())
-            st.write(f"**Grade:** {score.grade}")
-            st.write(f"**Record:** {score.projected_wins:.0f}-{score.projected_losses:.0f}")
-            st.write(f"**Rating:** {score.team_rating:.2f}")
-        except Exception as exc:
-            st.error(f"Could not load share token: {exc}")
+    try:
+        payload = decode_share_payload(share_token)
+        preset = get_preset(payload["lineup"]["preset_slug"])
+        lineup = lineup_from_dict(preset, payload["lineup"])
+        plugin = get_sport_plugin(lineup.sport)
+        score = score_lineup(lineup, plugin.load_player_pool())
+        st.subheader("Shared lineup")
+        if payload.get("date"):
+            st.caption(f"Daily puzzle — {payload['date']}")
+        render_score_panel(score, preset_slug=preset.slug)
+        st.divider()
+    except Exception as exc:
+        st.error(f"Could not load share link: {exc}")
 
 pg.run()
+apply_theme()

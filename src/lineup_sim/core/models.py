@@ -140,6 +140,7 @@ class LeaderboardEntry:
     grade: str
     share_code: str
     lineup_summary: str
+    projected_losses: float | None = None
 
 
 def decade_label(season: int) -> str:

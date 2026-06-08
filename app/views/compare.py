@@ -15,17 +15,17 @@ for p in (ROOT, ROOT / "src"):
 
 from app.components import (
     draft_context_key,
+    draft_nba_compare_spin_lineups,
     draft_nba_free_build_lineup_sequential,
     draft_slot_lineup,
     draft_slot_lineup_sequential,
     lineup_filled_count,
-    nba_spin_round_picker,
     nba_uses_spin_draft,
     render_global_sidebar,
-    render_nba_lineup_progress,
     render_score_panel,
     render_seed_spin_controls,
-    spin_pool_for_pick,
+    render_draft_header,
+    reset_compare_lineups,
 )
 from lineup_sim.core.compare import compare_lineups
 from lineup_sim.core.roster import empty_lineup
@@ -71,6 +71,14 @@ elif "compare_lineup_a" not in st.session_state or "compare_lineup_b" not in st.
 lineup_a = st.session_state.compare_lineup_a
 lineup_b = st.session_state.compare_lineup_b
 
+render_draft_header(
+    button_key=f"{compare_key}_reset",
+    on_reset=lambda: reset_compare_lineups(
+        preset=preset,
+        key_prefixes=[side_a_key, side_b_key, shared_key],
+    ),
+)
+
 if build_mode == "Free build":
     col_a, col_b = st.columns(2)
     with col_a:
@@ -107,80 +115,42 @@ if build_mode == "Free build":
                 spin_pools_by_slot={slot.slot_id: None for slot in preset.slots},
                 key_prefix=side_b_key,
             )
+elif spin_draft:
+    lineup_a, lineup_b = draft_nba_compare_spin_lineups(
+        preset=preset,
+        lineup_a=lineup_a,
+        lineup_b=lineup_b,
+        build_mode=build_mode,
+        player_pool=player_pool,
+        side_a_key=side_a_key,
+        side_b_key=side_b_key,
+        shared_key=shared_key,
+        seed_spins=seed_spins or None,
+    )
 else:
-    filled_a = lineup_filled_count(lineup_a)
-    filled_b = lineup_filled_count(lineup_b)
-    pick_index = min(filled_a, filled_b) + 1
-
-    if pick_index <= preset.slot_count:
-        slot = preset.slots[pick_index - 1]
-        spin_pool, spin = spin_pool_for_pick(
-            pick_index=pick_index,
-            build_mode=build_mode,
-            sport=sport,
-            preset=preset,
-            slot=slot,
-            player_pool=player_pool,
-            key_prefix=shared_key,
-            spins=seed_spins or None,
-        )
-        if spin is not None and spin_pool is not None:
-            st.markdown(f"### Pick {pick_index}")
-            st.caption(
-                f"**{spin.team_name}** · {spin.era_label} · {len(spin_pool)} players. "
-                "Both lineups face the same constraint — future picks stay hidden."
-            )
-        elif build_mode == "Pick team & era":
-            st.markdown(f"### Pick {pick_index}")
-            st.caption("Choose one team+era constraint for both lineups.")
-
     col_a, col_b = st.columns(2)
     with col_a:
         st.subheader("Lineup A")
-        if spin_draft:
-            render_nba_lineup_progress(lineup_a, preset)
-            if pick_index <= preset.slot_count and filled_a < pick_index and spin_pool:
-                lineup_a = nba_spin_round_picker(
-                    preset=preset,
-                    lineup=lineup_a,
-                    spin_pool=spin_pool,
-                    pick_index=pick_index,
-                    key_prefix=side_a_key,
-                    spin=spin,
-                )
-        else:
-            lineup_a = draft_slot_lineup_sequential(
-                sport=sport,
-                preset=preset,
-                lineup=lineup_a,
-                key_prefix=side_a_key,
-                seed_spins=seed_spins or None,
-                build_mode=build_mode,
-                player_pool=player_pool,
-            )
+        lineup_a = draft_slot_lineup_sequential(
+            sport=sport,
+            preset=preset,
+            lineup=lineup_a,
+            key_prefix=side_a_key,
+            seed_spins=seed_spins or None,
+            build_mode=build_mode,
+            player_pool=player_pool,
+        )
     with col_b:
         st.subheader("Lineup B")
-        if spin_draft:
-            render_nba_lineup_progress(lineup_b, preset)
-            if pick_index <= preset.slot_count and filled_b < pick_index and spin_pool:
-                lineup_b = nba_spin_round_picker(
-                    preset=preset,
-                    lineup=lineup_b,
-                    spin_pool=spin_pool,
-                    pick_index=pick_index,
-                    key_prefix=side_b_key,
-                    spin=spin,
-                )
-        else:
-            lineup_b = draft_slot_lineup_sequential(
-                sport=sport,
-                preset=preset,
-                lineup=lineup_b,
-                key_prefix=side_b_key,
-                seed_spins=seed_spins or None,
-                build_mode=build_mode,
-                player_pool=player_pool,
-            )
+        lineup_b = draft_slot_lineup_sequential(
+            sport=sport,
+            preset=preset,
+            lineup=lineup_b,
+            key_prefix=side_b_key,
+            seed_spins=seed_spins or None,
+            build_mode=build_mode,
+            player_pool=player_pool,
+        )
 
 st.session_state.compare_lineup_a = lineup_a
 st.session_state.compare_lineup_b = lineup_b

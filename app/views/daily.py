@@ -22,12 +22,15 @@ from app.components import (
     ensure_lineup_session,
     render_global_sidebar,
     render_score_panel,
+    render_draft_header,
+    render_share_panel,
+    reset_lineup_session,
     score_current_lineup,
 )
 from lineup_sim.core.roster import empty_lineup
-from lineup_sim.daily.leaderboard import entries_for_day, submit_entry
+from lineup_sim.daily.leaderboard import entries_for_day, format_leaderboard_record, submit_entry
 from lineup_sim.daily.seed import daily_puzzle
-from lineup_sim.daily.share import encode_share_payload, lineup_summary
+from lineup_sim.daily.share import lineup_summary
 from lineup_sim.sports.registry import get_sport_plugin
 
 st.title("Daily Challenge")
@@ -56,7 +59,15 @@ ensure_lineup_session(
 
 lineup = st.session_state.daily_lineup
 
-st.markdown("### Draft")
+render_draft_header(
+    button_key=f"{daily_key}_reset",
+    on_reset=lambda: reset_lineup_session(
+        preset=preset,
+        lineup_attr="daily_lineup",
+        label="Daily",
+        key_prefixes=[daily_key],
+    ),
+)
 if spin_draft:
     lineup = draft_nba_spin_lineup_sequential(
         preset=preset,
@@ -80,6 +91,8 @@ st.session_state.daily_lineup = lineup
 
 filled = sum(1 for a in lineup.assignments if a.player is not None)
 if filled == preset.slot_count:
+    st.divider()
+    st.subheader("Results")
     score = score_current_lineup(lineup)
     render_score_panel(score, preset_slug=preset_slug)
 
@@ -91,12 +104,17 @@ if filled == preset.slot_count:
             player_name=player_name,
             team_rating=score.team_rating,
             projected_wins=score.projected_wins,
+            projected_losses=score.projected_losses,
             grade=score.grade,
             lineup_summary=lineup_summary(lineup),
         )
-        token = encode_share_payload(lineup, score, date=day)
-        st.success(f"Submitted! Share code: {entry.share_code}")
-        st.text_input("Share token", value=token, key="daily_share_token")
+        st.success(f"Submitted! Leaderboard code: {entry.share_code}")
+        render_share_panel(
+            lineup=lineup,
+            score=score,
+            date=day,
+            key_prefix="daily_share",
+        )
 
 st.subheader("Today's leaderboard")
 entries = entries_for_day(day, sport, preset_slug)
@@ -109,7 +127,7 @@ if entries:
                     "Name": e.player_name,
                     "Grade": e.grade,
                     "Rating": e.team_rating,
-                    "Record": f"{e.projected_wins:.0f}-{preset.max_games - e.projected_wins:.0f}",
+                    "Record": format_leaderboard_record(e, max_games=preset.max_games),
                     "Lineup": e.lineup_summary,
                     "Share": e.share_code,
                 }

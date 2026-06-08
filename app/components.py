@@ -13,13 +13,22 @@ for p in (ROOT, ROOT / "src"):
     if str(p) not in sys.path:
         sys.path.insert(0, str(p))
 
-from lineup_sim.core.models import Lineup, Preset, ScoreResult, SpinConstraint
+from lineup_sim.core.models import Lineup, Preset, RosterSlot, ScoreResult, SpinConstraint
 from lineup_sim.core.presets import get_preset, list_presets
 from lineup_sim.core.constraints import eligible_for_slot, generate_spins, pool_for_spin
 from lineup_sim.core.spin_options import spin_options_for_slot
-from lineup_sim.core.roster import assign_player, eligible_open_slots, empty_lineup, open_slots
+from lineup_sim.core.roster import (
+    PickSwapPlan,
+    assign_player,
+    eligible_open_slots,
+    empty_lineup,
+    open_slots,
+    reassign_player,
+    swap_plans_for_new_pick,
+    swappable_assignments,
+)
 from lineup_sim.core.roster_identity import assigned_identities, player_identity
-from lineup_sim.core.scoring import score_lineup
+from lineup_sim.core.scoring import _slot_weight, player_stat_composite, score_lineup
 from lineup_sim.sports.registry import get_sport_plugin
 
 
@@ -43,6 +52,40 @@ def slot_position_label(slot_id: str, preset_slug: str) -> str:
     return slot_id.upper()
 
 
+def format_player_stat_summary(player, preset: Preset) -> str:
+    plugin = get_sport_plugin(preset.sport)
+    parts: list[str] = []
+    for stat in preset.stat_weights:
+        if plugin.stat_tracking_factor(player, stat) <= 0:
+            parts.append(f"{stat} n/a")
+        else:
+            parts.append(f"{stat} {player.stats.get(stat, 0):.1f}")
+    return " · ".join(parts)
+
+
+def locked_in_player_rows(lineup: Lineup, preset: Preset) -> list[dict]:
+    plugin = get_sport_plugin(preset.sport)
+    slot_map = {s.slot_id: s for s in preset.slots}
+    rows: list[dict] = []
+    for assignment in lineup.assignments:
+        if assignment.player is None:
+            continue
+        player = assignment.player
+        slot = slot_map[assignment.slot_id]
+        row: dict = {
+            "Slot": slot.position or slot.label,
+            "Player": player.player_name,
+            "Season": player.season,
+        }
+        for stat in preset.stat_weights:
+            if plugin.stat_tracking_factor(player, stat) <= 0:
+                row[stat] = "n/a"
+            else:
+                row[stat] = round(player.stats.get(stat, 0), 1)
+        rows.append(row)
+    return rows
+
+
 def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) -> None:
     def format_slot(slot_id: str) -> str:
         if preset_slug:
@@ -59,22 +102,60 @@ def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) ->
         st.caption(f"Weakest slot: {format_slot(score.weakest_slot_id)}")
 
     if score.player_ratings:
+        st.subheader("Lineup breakdown")
+        st.caption(
+            "Per-game stats for each pick, weighted stat score, and slot rating "
+            "(how much that player pulls team rating up or down)."
+        )
+
+        preset = get_preset(preset_slug) if preset_slug else None
+        stat_cols = list(preset.stat_weights.keys()) if preset else []
+        plugin = get_sport_plugin(preset.sport) if preset else None
+
         rows = []
-        for r in score.player_ratings:
-            rows.append(
-                {
-                    "Slot": format_slot(r.slot_id),
-                    "Player": r.player.player_name,
-                    "Season": r.player.season,
-                    "Stat score": round(r.slot_rating, 2),
-                    "Composite Z": round(r.composite_z, 2),
-                }
-            )
+        for rating in score.player_ratings:
+            row: dict = {
+                "Slot": format_slot(rating.slot_id),
+                "Player": rating.player.player_name,
+                "Season": rating.player.season,
+                "Team": rating.player.team_abbr,
+            }
+            for stat in stat_cols:
+                if plugin and plugin.stat_tracking_factor(rating.player, stat) <= 0:
+                    row[stat] = "n/a"
+                else:
+                    row[stat] = round(rating.player.stats.get(stat, 0), 1)
+            if preset:
+                row["Stat score"] = round(player_stat_composite(rating.player, preset), 2)
+            row["Slot rating"] = round(rating.slot_rating, 2)
+            row["Composite Z"] = round(rating.composite_z, 2)
+            rows.append(row)
+
+        if stat_cols and score.category_totals:
+            totals_row: dict = {
+                "Slot": "Team totals",
+                "Player": "—",
+                "Season": "—",
+                "Team": "—",
+            }
+            for stat in stat_cols:
+                totals_row[stat] = score.category_totals.get(stat, 0)
+            totals_row["Stat score"] = "—"
+            totals_row["Slot rating"] = "—"
+            totals_row["Composite Z"] = "—"
+            rows.append(totals_row)
+
         st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
 
-    if score.category_totals:
-        st.subheader("Category totals")
-        st.json(score.category_totals)
+        if preset and score.player_ratings:
+            slot_map = {slot.slot_id: slot for slot in preset.slots}
+            weights = [_slot_weight(slot_map[r.slot_id], preset) for r in score.player_ratings]
+            raw_mean = sum(r.slot_rating * w for r, w in zip(score.player_ratings, weights)) / sum(weights)
+            st.caption(
+                f"Team rating math: weighted mean slot ratings ({raw_mean:.2f}) "
+                f"− balance penalty ({score.balance_adjustment:.2f}) "
+                f"= {score.team_rating:.2f} · stat totals are simple sums across the lineup"
+            )
 
     with st.expander("Why this record?"):
         if score.record_notes:
@@ -86,6 +167,23 @@ def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) ->
     with st.expander("How scoring works"):
         for note in score.formula_notes:
             st.write(f"- {note}")
+
+
+def render_share_panel(
+    *,
+    lineup: Lineup,
+    score: ScoreResult,
+    date: str | None = None,
+    key_prefix: str = "share",
+) -> None:
+    from lineup_sim.daily.share import encode_share_payload, lineup_summary, share_full_url
+
+    token = encode_share_payload(lineup, score, date=date)
+    url = share_full_url(token)
+    st.text_input("Share link", value=url, key=f"{key_prefix}_url")
+    with st.expander("Compact share token"):
+        st.code(token, language=None)
+    st.caption(f"Summary: {lineup_summary(lineup)}")
 
 
 def score_current_lineup(lineup: Lineup) -> ScoreResult:
@@ -242,6 +340,11 @@ UI_SPORTS = ("nba",)
 SIDEBAR_SPORT_KEY = "app_sport"
 SIDEBAR_PRESET_KEY = "app_preset"
 SIDEBAR_BUILD_MODE_KEY = "app_build_mode"
+SIDEBAR_POSITION_SWAPS_KEY = "app_position_swaps"
+
+
+def position_swaps_enabled() -> bool:
+    return bool(st.session_state.get(SIDEBAR_POSITION_SWAPS_KEY, False))
 
 
 def sidebar_help_caption(*, page: str, preset: Preset, build_mode: str | None) -> str:
@@ -250,7 +353,8 @@ def sidebar_help_caption(*, page: str, preset: Preset, build_mode: str | None) -
         base = (
             "Five starters (PG–C), any pick order. After each pick, assign the player to an "
             "open slot they qualify for. Multi-position players (PG/SG, G-F, etc.) let you "
-            "choose among matching open slots."
+            "choose among matching open slots. Enable Position swaps to move someone later "
+            "and free a slot for a tight fit."
         )
         if page == "daily":
             return f"{base} Daily reveals one team+decade spin at a time."
@@ -311,6 +415,16 @@ def render_global_sidebar(
     build_mode: str | None = None
     if show_build_mode:
         build_mode = st.sidebar.radio("Build mode", BUILD_MODES, key=SIDEBAR_BUILD_MODE_KEY)
+
+    if sport == "nba":
+        st.sidebar.checkbox(
+            "Position swaps",
+            key=SIDEBAR_POSITION_SWAPS_KEY,
+            help=(
+                "When picking, offer swaps that move a locked-in player to free a better slot "
+                "(e.g. slide LeBron SF→PG, then lock your new pick at SF)."
+            ),
+        )
 
     st.sidebar.caption(sidebar_help_caption(page=page, preset=preset, build_mode=build_mode))
     return sport, preset, build_mode
@@ -471,6 +585,54 @@ def _pending_nba_pick_key(key_prefix: str) -> str:
     return f"{key_prefix}_pending_nba_pick"
 
 
+def clear_draft_widget_state(key_prefix: str) -> None:
+    st.session_state.pop(_pending_nba_pick_key(key_prefix), None)
+    st.session_state.pop(_pending_swap_key(key_prefix), None)
+    for key in list(st.session_state.keys()):
+        if key.startswith(f"{key_prefix}_"):
+            del st.session_state[key]
+
+
+def reset_lineup_session(
+    *,
+    preset,
+    lineup_attr: str,
+    label: str,
+    key_prefixes: list[str],
+) -> None:
+    st.session_state[lineup_attr] = empty_lineup(preset, label=label)
+    for prefix in key_prefixes:
+        clear_draft_widget_state(prefix)
+    st.rerun()
+
+
+def reset_compare_lineups(*, preset, key_prefixes: list[str]) -> None:
+    st.session_state.compare_lineup_a = empty_lineup(preset, label="Lineup A")
+    st.session_state.compare_lineup_b = empty_lineup(preset, label="Lineup B")
+    for prefix in key_prefixes:
+        clear_draft_widget_state(prefix)
+    st.rerun()
+
+
+def render_start_over_button(
+    *,
+    button_key: str,
+    on_reset,
+    label: str = "Reset lineup",
+    help_text: str = "Clear all picks and draft again from scratch.",
+) -> None:
+    if st.button(label, key=button_key, type="secondary", help=help_text, use_container_width=True):
+        on_reset()
+
+
+def render_draft_header(*, button_key: str, on_reset) -> None:
+    title_col, reset_col = st.columns([6, 1], vertical_alignment="center")
+    with title_col:
+        st.markdown("### Draft")
+    with reset_col:
+        render_start_over_button(button_key=button_key, on_reset=on_reset)
+
+
 def queue_nba_pick_assignment(
     *,
     key_prefix: str,
@@ -479,15 +641,19 @@ def queue_nba_pick_assignment(
     player_id: str,
     slot_position: str | None,
     spin: SpinConstraint | None = None,
+    swap: dict[str, str] | None = None,
 ) -> None:
     """Queue a confirmed pick; applied at the start of the next rerun (before widgets)."""
-    st.session_state[_pending_nba_pick_key(key_prefix)] = {
+    payload: dict = {
         "pick_index": pick_index,
         "slot_id": slot_id,
         "player_id": player_id,
         "slot_position": slot_position,
         "spin": spin,
     }
+    if swap is not None:
+        payload["swap"] = swap
+    st.session_state[_pending_nba_pick_key(key_prefix)] = payload
     st.rerun()
 
 
@@ -510,6 +676,14 @@ def apply_pending_nba_pick(
     if player is None:
         return lineup
 
+    swap = pending.get("swap")
+    if swap:
+        lineup = reassign_player(
+            lineup,
+            preset,
+            from_slot_id=swap["from_slot_id"],
+            to_slot_id=swap["to_slot_id"],
+        )
     lineup = assign_player(lineup, preset, pending["slot_id"], player)
 
     spin = pending.get("spin")
@@ -537,22 +711,102 @@ def apply_pending_nba_pick(
     return lineup
 
 
-def render_nba_lineup_progress(lineup: Lineup, preset) -> None:
+def render_nba_lineup_progress(
+    lineup: Lineup,
+    preset: Preset,
+    *,
+    key_prefix: str = "",
+) -> Lineup:
     filled = lineup_filled_count(lineup)
     st.progress(filled / preset.slot_count)
     st.caption(f"{filled}/{preset.slot_count} picks complete")
 
-    locked = []
-    slot_map = {s.slot_id: s for s in preset.slots}
-    for assignment in lineup.assignments:
-        if assignment.player is None:
-            continue
-        slot = slot_map[assignment.slot_id]
-        locked.append(f"{slot.position}: {assignment.player.player_name} ({assignment.player.season})")
-    if locked:
+    locked_rows = locked_in_player_rows(lineup, preset)
+    if locked_rows:
         st.markdown("**Locked in**")
-        for row in locked:
-            st.write(f"- {row}")
+        st.dataframe(pd.DataFrame(locked_rows), use_container_width=True, hide_index=True)
+        if filled < preset.slot_count:
+            st.caption(
+                "Per-game stats for each pick so far. "
+                "Team rating, projected record, and full scoring breakdown appear after all picks are locked in."
+            )
+
+    if key_prefix and position_swaps_enabled() and 0 < filled < preset.slot_count:
+        lineup = render_nba_position_swap(lineup=lineup, preset=preset, key_prefix=key_prefix)
+    return lineup
+
+
+def _pending_swap_key(key_prefix: str) -> str:
+    return f"{key_prefix}_pending_swap"
+
+
+def apply_pending_nba_position_swap(
+    lineup: Lineup,
+    preset: Preset,
+    key_prefix: str,
+) -> Lineup:
+    pending = st.session_state.pop(_pending_swap_key(key_prefix), None)
+    if not pending:
+        return lineup
+    return reassign_player(
+        lineup,
+        preset,
+        from_slot_id=pending["from_slot_id"],
+        to_slot_id=pending["to_slot_id"],
+    )
+
+
+def render_nba_position_swap(
+    *,
+    lineup: Lineup,
+    preset: Preset,
+    key_prefix: str,
+) -> Lineup:
+    movable = swappable_assignments(lineup, preset, preset.sport)
+    if not movable:
+        return lineup
+
+    slot_map = {s.slot_id: s for s in preset.slots}
+    with st.expander("Move a player to another slot", expanded=False):
+        st.caption(
+            "Free a position for your next pick by moving someone who qualifies for multiple slots."
+        )
+        move_labels = [
+            (
+                f"{assignment.player.player_name} ({assignment.player.season}) "
+                f"at {slot_map[assignment.slot_id].position or assignment.slot_id.upper()}"
+            )
+            for assignment, _ in movable
+        ]
+        move_idx = st.selectbox(
+            "Player to move",
+            range(len(movable)),
+            format_func=lambda i: move_labels[i],
+            key=f"{key_prefix}_swap_player",
+        )
+        assignment, targets = movable[move_idx]
+        from_slot = slot_map[assignment.slot_id]
+        target_labels = [slot.position or slot.label for slot in targets]
+        target_idx = st.selectbox(
+            "Move to",
+            range(len(targets)),
+            format_func=lambda i: target_labels[i],
+            key=f"{key_prefix}_swap_target",
+        )
+        target_slot = targets[target_idx]
+        from_label = from_slot.position or from_slot.label
+        to_label = target_slot.position or target_slot.label
+        if st.button(
+            f"Move {assignment.player.player_name} from {from_label} → {to_label}",
+            key=f"{key_prefix}_swap_confirm",
+            type="secondary",
+        ):
+            st.session_state[_pending_swap_key(key_prefix)] = {
+                "from_slot_id": assignment.slot_id,
+                "to_slot_id": target_slot.slot_id,
+            }
+            st.rerun()
+    return lineup
 
 
 def spin_pool_for_pick(
@@ -585,6 +839,21 @@ def spin_pool_for_pick(
     return None, None
 
 
+def _format_pick_swap_plan(
+    plan: PickSwapPlan,
+    *,
+    new_player: PlayerSeason,
+    slot_map: dict,
+) -> str:
+    from_pos = slot_map[plan.assign_slot_id].position or plan.assign_slot_id.upper()
+    to_pos = slot_map[plan.move_to_slot_id].position or plan.move_to_slot_id.upper()
+    assign_pos = from_pos
+    return (
+        f"Move {plan.occupant.player_name} ({from_pos}→{to_pos}), "
+        f"then lock {new_player.player_name} at {assign_pos}"
+    )
+
+
 def nba_spin_round_picker(
     *,
     preset,
@@ -613,42 +882,84 @@ def nba_spin_round_picker(
         return lineup
 
     eligible = eligible_open_slots(player, lineup, preset, "nba")
-    if not eligible:
+    swap_plans = (
+        swap_plans_for_new_pick(player, lineup, preset, "nba")
+        if position_swaps_enabled()
+        else []
+    )
+    if not eligible and not swap_plans:
         st.warning(f"{player.player_name} does not fit any open position slot.")
+        if position_swaps_enabled():
+            st.caption("No swap is available to free a better slot for this pick.")
         return lineup
 
-    slot_labels = [slot.position or slot.label for slot in eligible]
+    slot_map = {s.slot_id: s for s in preset.slots}
     st.markdown(f"**Step 2 — assign {player.player_name}**")
 
-    with st.form(key=f"{key_prefix}_pick{pick_index}_assign_form", clear_on_submit=True):
-        if len(eligible) == 1:
-            target = eligible[0]
-            st.caption(
-                f"Only **{target.position or target.label}** is open and eligible. "
-                "Confirm to lock them in and continue."
+    assignment_options: list[tuple[str, RosterSlot | None, PickSwapPlan | None, str]] = []
+    for slot in eligible:
+        label = slot.position or slot.label
+        assignment_options.append(
+            ("open", slot, None, f"Assign to open **{label}** slot")
+        )
+    for plan in swap_plans:
+        assignment_options.append(
+            (
+                "swap",
+                slot_map[plan.assign_slot_id],
+                plan,
+                _format_pick_swap_plan(plan, new_player=player, slot_map=slot_map),
             )
-        else:
-            st.caption(
-                f"They qualify for **{' / '.join(slot_labels)}**. "
-                "Choose a slot, then confirm to continue."
-            )
-            slot_idx = st.radio(
-                f"Pick {pick_index} — assign to",
-                range(len(eligible)),
-                format_func=lambda i: slot_labels[i],
-                horizontal=True,
-            )
-            target = eligible[slot_idx]
+        )
 
+    with st.form(key=f"{key_prefix}_pick{pick_index}_assign_form", clear_on_submit=True):
+        if len(assignment_options) == 1:
+            kind, target, plan, caption = assignment_options[0]
+            st.caption(caption)
+        else:
+            if eligible and swap_plans:
+                st.caption(
+                    "Choose an open slot, or move someone already locked in to free a better fit."
+                )
+            elif swap_plans:
+                st.caption(
+                    "No open slot fits — move a multi-position player to free a spot for this pick."
+                )
+            else:
+                open_labels = [slot.position or slot.label for slot in eligible]
+                st.caption(
+                    f"They qualify for **{' / '.join(open_labels)}**. "
+                    "Choose a slot, then confirm to continue."
+                )
+            choice_idx = st.radio(
+                f"Pick {pick_index} — how to assign",
+                range(len(assignment_options)),
+                format_func=lambda i: assignment_options[i][3],
+            )
+            kind, target, plan, _ = assignment_options[choice_idx]
+
+        assert target is not None
         slot_name = target.position or target.label
+        if kind == "swap" and plan is not None:
+            submit_label = f"Swap & lock in {player.player_name} at {slot_name}"
+        else:
+            submit_label = f"Lock in {player.player_name} at {slot_name}"
+
         submitted = st.form_submit_button(
-            f"Lock in {player.player_name} at {slot_name}",
+            submit_label,
             type="primary",
             use_container_width=True,
         )
 
     if not submitted:
         return lineup
+
+    swap_payload = None
+    if kind == "swap" and plan is not None:
+        swap_payload = {
+            "from_slot_id": plan.assign_slot_id,
+            "to_slot_id": plan.move_to_slot_id,
+        }
 
     queue_nba_pick_assignment(
         key_prefix=key_prefix,
@@ -657,6 +968,7 @@ def nba_spin_round_picker(
         player_id=player.player_id,
         slot_position=target.position,
         spin=spin,
+        swap=swap_payload,
     )
     return lineup
 
@@ -665,16 +977,27 @@ def nba_players_for_open_slots(
     player_pool: list,
     lineup: Lineup,
     preset: Preset,
+    *,
+    include_swap_fits: bool = False,
 ) -> list:
-    """Players who can fill at least one still-open lineup slot."""
+    """Players who can fill an open slot, or an occupied slot via a position swap."""
     open = open_slots(lineup, preset)
-    if not open:
+    if not open and not include_swap_fits:
         return []
-    return [
-        player
-        for player in player_pool
-        if any(eligible_for_slot(player, slot, "nba") for slot in open)
-    ]
+
+    out: list = []
+    seen: set[str] = set()
+    for player in player_pool:
+        if player.player_id in seen:
+            continue
+        fits_open = any(eligible_for_slot(player, slot, "nba") for slot in open)
+        fits_swap = include_swap_fits and bool(
+            swap_plans_for_new_pick(player, lineup, preset, "nba")
+        )
+        if fits_open or fits_swap:
+            out.append(player)
+            seen.add(player.player_id)
+    return out
 
 
 def draft_nba_free_build_lineup_sequential(
@@ -685,6 +1008,7 @@ def draft_nba_free_build_lineup_sequential(
     key_prefix: str,
 ) -> Lineup:
     """Full pool; pick a player, then assign to any open slot they qualify for."""
+    lineup = apply_pending_nba_position_swap(lineup, preset, key_prefix)
     lineup = apply_pending_nba_pick(
         key_prefix=key_prefix,
         preset=preset,
@@ -692,14 +1016,20 @@ def draft_nba_free_build_lineup_sequential(
         player_pool=player_pool,
     )
     filled = lineup_filled_count(lineup)
-    render_nba_lineup_progress(lineup, preset)
+    lineup = render_nba_lineup_progress(lineup, preset, key_prefix=key_prefix)
+    filled = lineup_filled_count(lineup)
 
     if filled >= preset.slot_count:
         return lineup
 
     pick_index = filled + 1
     open = open_slots(lineup, preset)
-    pick_pool = nba_players_for_open_slots(player_pool, lineup, preset)
+    pick_pool = nba_players_for_open_slots(
+        player_pool,
+        lineup,
+        preset,
+        include_swap_fits=position_swaps_enabled(),
+    )
     open_label = ", ".join(slot.position or slot.label for slot in open)
 
     st.markdown(f"### Pick {pick_index}")
@@ -734,6 +1064,7 @@ def draft_nba_spin_lineup_sequential(
 ) -> Lineup:
     """Reveal one team+decade pick at a time; future spins stay hidden."""
     spins = fixed_spins or seed_spins
+    lineup = apply_pending_nba_position_swap(lineup, preset, key_prefix)
     lineup = apply_pending_nba_pick(
         key_prefix=key_prefix,
         preset=preset,
@@ -741,7 +1072,8 @@ def draft_nba_spin_lineup_sequential(
         player_pool=player_pool,
     )
     filled = lineup_filled_count(lineup)
-    render_nba_lineup_progress(lineup, preset)
+    lineup = render_nba_lineup_progress(lineup, preset, key_prefix=key_prefix)
+    filled = lineup_filled_count(lineup)
 
     if filled >= preset.slot_count:
         return lineup
@@ -770,7 +1102,12 @@ def draft_nba_spin_lineup_sequential(
         st.caption("Choose team and era for this pick, then draft a player into an open position slot.")
 
     if spin_pool:
-        pick_pool = nba_players_for_open_slots(spin_pool, lineup, preset)
+        pick_pool = nba_players_for_open_slots(
+            spin_pool,
+            lineup,
+            preset,
+            include_swap_fits=position_swaps_enabled(),
+        )
         if not pick_pool:
             st.warning("No players in this spin pool fit the open position slots.")
         else:
@@ -783,6 +1120,114 @@ def draft_nba_spin_lineup_sequential(
                 spin=spin,
             )
     return lineup
+
+
+def draft_nba_compare_spin_lineups(
+    *,
+    preset,
+    lineup_a: Lineup,
+    lineup_b: Lineup,
+    build_mode: str,
+    player_pool: list,
+    side_a_key: str,
+    side_b_key: str,
+    shared_key: str,
+    seed_spins: list[SpinConstraint] | None = None,
+) -> tuple[Lineup, Lineup]:
+    """Same spin constraint for both lineups; each side drafts independently."""
+    lineup_a = apply_pending_nba_position_swap(lineup_a, preset, side_a_key)
+    lineup_b = apply_pending_nba_position_swap(lineup_b, preset, side_b_key)
+    lineup_a = apply_pending_nba_pick(
+        key_prefix=side_a_key,
+        preset=preset,
+        lineup=lineup_a,
+        player_pool=player_pool,
+    )
+    lineup_b = apply_pending_nba_pick(
+        key_prefix=side_b_key,
+        preset=preset,
+        lineup=lineup_b,
+        player_pool=player_pool,
+    )
+
+    filled_a = lineup_filled_count(lineup_a)
+    filled_b = lineup_filled_count(lineup_b)
+    pick_index = min(filled_a, filled_b) + 1
+
+    if pick_index <= preset.slot_count:
+        slot = preset.slots[pick_index - 1]
+        spin_pool, spin = spin_pool_for_pick(
+            pick_index=pick_index,
+            build_mode=build_mode,
+            sport="nba",
+            preset=preset,
+            slot=slot,
+            player_pool=player_pool,
+            key_prefix=shared_key,
+            spins=seed_spins,
+        )
+
+        if spin is not None and spin_pool is not None:
+            st.markdown(f"### Pick {pick_index}")
+            st.caption(
+                f"**{spin.team_name}** · {spin.era_label} · {len(spin_pool)} players. "
+                "Both lineups face the same constraint — future picks stay hidden."
+            )
+        elif build_mode == "Pick team & era":
+            st.markdown(f"### Pick {pick_index}")
+            st.caption("Choose one team+era constraint for both lineups.")
+
+        col_a, col_b = st.columns(2)
+        with col_a:
+            st.subheader("Lineup A")
+            lineup_a = render_nba_lineup_progress(lineup_a, preset, key_prefix=side_a_key)
+            filled_a = lineup_filled_count(lineup_a)
+            if filled_a < pick_index and spin_pool:
+                pick_pool = nba_players_for_open_slots(
+                    spin_pool,
+                    lineup_a,
+                    preset,
+                    include_swap_fits=position_swaps_enabled(),
+                )
+                if pick_pool:
+                    lineup_a = nba_spin_round_picker(
+                        preset=preset,
+                        lineup=lineup_a,
+                        spin_pool=pick_pool,
+                        pick_index=pick_index,
+                        key_prefix=side_a_key,
+                        spin=spin,
+                    )
+        with col_b:
+            st.subheader("Lineup B")
+            lineup_b = render_nba_lineup_progress(lineup_b, preset, key_prefix=side_b_key)
+            filled_b = lineup_filled_count(lineup_b)
+            if filled_b < pick_index and spin_pool:
+                pick_pool = nba_players_for_open_slots(
+                    spin_pool,
+                    lineup_b,
+                    preset,
+                    include_swap_fits=position_swaps_enabled(),
+                )
+                if pick_pool:
+                    lineup_b = nba_spin_round_picker(
+                        preset=preset,
+                        lineup=lineup_b,
+                        spin_pool=pick_pool,
+                        pick_index=pick_index,
+                        key_prefix=side_b_key,
+                        spin=spin,
+                    )
+    else:
+        col_a, col_b = st.columns(2)
+        with col_a:
+            st.subheader("Lineup A")
+            lineup_a = render_nba_lineup_progress(lineup_a, preset, key_prefix=side_a_key)
+        with col_b:
+            st.subheader("Lineup B")
+            lineup_b = render_nba_lineup_progress(lineup_b, preset, key_prefix=side_b_key)
+
+    return lineup_a, lineup_b
 
 
 def draft_nba_spin_lineup(

@@ -25,6 +25,37 @@ def test_presets_load():
     assert "mlb_battery" in presets
 
 
+def test_pre_1974_omits_stl_blk_from_stat_score():
+    preset = get_preset("nba_all_eras")
+    wilt = PlayerSeason(
+        player_id="wilt66",
+        player_name="Wilt Chamberlain",
+        team="Philadelphia Warriors",
+        team_abbr="GSW",
+        season=1962,
+        position="C",
+        decade="1960s",
+        stats={"PTS": 50.4, "REB": 25.7, "AST": 2.4, "STL": 0.0, "BLK": 0.0},
+    )
+    expected = (50.4 * 1.0 + 25.7 * 0.9 + 2.4 * 0.85) / (1.0 + 0.9 + 0.85)
+    assert player_stat_composite(wilt, preset) == pytest.approx(expected, rel=1e-6)
+
+    jordan = PlayerSeason(
+        player_id="mj96",
+        player_name="Michael Jordan",
+        team="Chicago Bulls",
+        team_abbr="CHI",
+        season=1996,
+        position="SG",
+        decade="1990s",
+        stats={"PTS": 30.4, "REB": 6.6, "AST": 4.3, "STL": 2.2, "BLK": 0.5},
+    )
+    jordan_expected = (
+        30.4 * 1.0 + 6.6 * 0.9 + 4.3 * 0.85 + 2.2 * 0.75 + 0.5 * 0.75
+    ) / (1.0 + 0.9 + 0.85 + 0.75 + 0.75)
+    assert player_stat_composite(jordan, preset) == pytest.approx(jordan_expected, rel=1e-6)
+
+
 def test_nba_lineup_scores():
     preset = get_preset("nba_all_eras")
     lineup = empty_lineup(preset)

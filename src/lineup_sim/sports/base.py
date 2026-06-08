@@ -37,6 +37,10 @@ class SportPlugin(ABC):
             return -1.0
         return 1.0
 
+    def stat_tracking_factor(self, player: PlayerSeason, stat: str) -> float:
+        """1.0 when the stat was reliably tracked; 0.0 to drop it from scoring."""
+        return 1.0
+
     def cohort_slice(self, cohort: pd.DataFrame, player: PlayerSeason) -> pd.DataFrame:
         if cohort.empty:
             return cohort

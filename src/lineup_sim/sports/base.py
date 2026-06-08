@@ -8,7 +8,7 @@ from typing import Any
 
 import pandas as pd
 
-from lineup_sim.core.models import PlayerSeason
+from lineup_sim.core.models import PlayerSeason, Preset
 
 
 class SportPlugin(ABC):
@@ -31,6 +31,10 @@ class SportPlugin(ABC):
 
     def season_value(self, player: PlayerSeason) -> float:
         return sum(player.stats.values())
+
+    def stat_composite(self, player: PlayerSeason, preset: Preset) -> float | None:
+        """Optional sport-specific stat score; None falls back to preset stat_weights."""
+        return None
 
     def stat_direction(self, stat: str) -> float:
         if stat.upper() in {"ERA", "WHIP", "INT", "TOV", "TURNOVERS"}:

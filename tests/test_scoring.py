@@ -22,6 +22,7 @@ def test_presets_load():
     presets = load_presets(force=True)
     assert "nba_all_eras" in presets
     assert "nfl_two_way" in presets
+    assert "nfl_offense" in presets
     assert "mlb_battery" in presets
 
 

@@ -13,6 +13,7 @@ from lineup_sim.ingest.bref_bundle import BUNDLE_END, BUNDLE_START, has_bundled_
 from lineup_sim.ingest.mlb import build_pool as build_mlb
 from lineup_sim.ingest.nba import BREF_END, BREF_START, build_pool, ingest_bref_history, persist_pool
 from lineup_sim.ingest.nfl import build_pool as build_nfl
+from lineup_sim.ingest.pfr_bundle import has_pfr_bundled_data
 from lineup_sim.sports.nba.plugin import NBAPlugin
 
 
@@ -75,6 +76,14 @@ def main() -> None:
     persist_pool(pool)
     NBAPlugin().reload_pool()
     print(f"NBA pool: {len(pool)} player-seasons")
+
+    if args.import_bundle or not has_pfr_bundled_data():
+        print("Building bundled PFR historical seasons (1970-1998)...")
+        import subprocess
+
+        subprocess.check_call(
+            [sys.executable, str(ROOT / "scripts" / "import_pfr_bundle.py")],
+        )
 
     nfl = build_nfl()
     print(f"NFL pool: {len(nfl)} player-seasons")

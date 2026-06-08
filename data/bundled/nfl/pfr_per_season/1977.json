@@ -1,0 +1,6320 @@
+[
+  {
+    "player_id": "pfr_walter-payton_1977_CHI",
+    "player_name": "Walter Payton",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2121.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lydell-mitchell_1977_BAL",
+    "player_name": "Lydell Mitchell",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1779.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nat-moore_1977_MIA",
+    "player_name": "Nat Moore",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 854.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-dorsett_1977_DAL",
+    "player_name": "Tony Dorsett",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1314.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-mccutcheon_1977_LAR",
+    "player_name": "Lawrence McCutcheon",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1512.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chuck-foreman_1977_MIN",
+    "player_name": "Chuck Foreman",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1420.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-staubach_1977_DAL",
+    "player_name": "Roger Staubach",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2791.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-pruitt_1977_CLE",
+    "player_name": "Greg Pruitt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1585.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_franco-harris_1977_PIT",
+    "player_name": "Franco Harris",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1224.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-van-eeghen_1977_LV",
+    "player_name": "Mark van Eeghen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1408.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bert-jones_1977_BAL",
+    "player_name": "Bert Jones",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2832.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-burrough_1977_HOU",
+    "player_name": "Ken Burrough",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 826.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sammy-white_1977_MIN",
+    "player_name": "Sammy White",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 760.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-stallworth_1977_PIT",
+    "player_name": "John Stallworth",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 831.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-largent_1977_SEA",
+    "player_name": "Steve Largent",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 643.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lynn-swann_1977_PIT",
+    "player_name": "Lynn Swann",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 795.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-cunningham_1977_NE",
+    "player_name": "Sam Cunningham",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1385.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-bradshaw_1977_PIT",
+    "player_name": "Terry Bradshaw",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2694.0,
+      "td": 20.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-childs_1977_NO",
+    "player_name": "Henry Childs",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 518.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_delvin-williams_1977_SF",
+    "player_name": "Delvin Williams",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1110.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-jaworski_1977_PHI",
+    "player_name": "Ron Jaworski",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2310.0,
+      "td": 23.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-carmichael_1977_PHI",
+    "player_name": "Harold Carmichael",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 665.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walter-white_1977_KC",
+    "player_name": "Walter White",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 671.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mel-gray_1977_LAR",
+    "player_name": "Mel Gray",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 781.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-griese_1977_MIA",
+    "player_name": "Bob Griese",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2282.0,
+      "td": 22.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-morton_1977_DEN",
+    "player_name": "Craig Morton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2054.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-casper_1977_LV",
+    "player_name": "Dave Casper",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 584.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darryl-stingley_1977_NE",
+    "player_name": "Darryl Stingley",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 690.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sherman-smith_1977_SEA",
+    "player_name": "Sherman Smith",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1182.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jean-fugett_1977_WAS",
+    "player_name": "Jean Fugett",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 631.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-ferguson_1977_BUF",
+    "player_name": "Joe Ferguson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3082.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-metcalf_1977_LAR",
+    "player_name": "Terry Metcalf",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1169.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-jackson_1977_LAR",
+    "player_name": "Harold Jackson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 672.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-grogan_1977_NE",
+    "player_name": "Steve Grogan",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2486.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_drew-pearson_1977_DAL",
+    "player_name": "Drew Pearson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 892.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-brooks_1977_CIN",
+    "player_name": "Billy Brooks",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 768.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haskel-stanback_1977_ATL",
+    "player_name": "Haskel Stanback",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1134.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-scott_1977_CHI",
+    "player_name": "James Scott",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 809.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-chandler_1977_BUF",
+    "player_name": "Bob Chandler",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 745.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chuck-muncie_1977_NO",
+    "player_name": "Chuck Muncie",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1059.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wesley-walker_1977_NYJ",
+    "player_name": "Wesley Walker",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 765.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gene-washington_1977_SF",
+    "player_name": "Gene Washington",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 638.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfred-jenkins_1977_ATL",
+    "player_name": "Alfred Jenkins",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 684.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-morris_1977_LAR",
+    "player_name": "Wayne Morris",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 883.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerome-barkum_1977_NYJ",
+    "player_name": "Jerome Barkum",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 450.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-joiner_1977_LAC",
+    "player_name": "Charlie Joiner",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 542.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_duriel-harris_1977_MIA",
+    "player_name": "Duriel Harris",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 601.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-branch_1977_LV",
+    "player_name": "Cliff Branch",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 540.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reuben-gant_1977_BUF",
+    "player_name": "Reuben Gant",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 646.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wilbur-jackson_1977_SF",
+    "player_name": "Wilbur Jackson",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 949.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-thomas_1977_WAS",
+    "player_name": "Mike Thomas",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1051.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_raymond-chester_1977_BAL",
+    "player_name": "Raymond Chester",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 556.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cleo-miller_1977_CLE",
+    "player_name": "Cleo Miller",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1047.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-anderson_1977_CIN",
+    "player_name": "Ken Anderson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2273.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_morris-owens_1977_TB",
+    "player_name": "Morris Owens",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 653.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-krepfle_1977_PHI",
+    "player_name": "Keith Krepfle",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 530.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clark-gaines_1977_NYJ",
+    "player_name": "Clark Gaines",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1064.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ahmad-rashad_1977_MIN",
+    "player_name": "Ahmad Rashad",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 681.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-stabler_1977_LV",
+    "player_name": "Ken Stabler",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2173.0,
+      "td": 20.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haven-moses_1977_DEN",
+    "player_name": "Haven Moses",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 538.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-biletnikoff_1977_LV",
+    "player_name": "Fred Biletnikoff",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 446.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-manning_1977_NO",
+    "player_name": "Archie Manning",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1554.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-odom_1977_GB",
+    "player_name": "Steve Odom",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 555.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ike-harris_1977_LAR",
+    "player_name": "Ike Harris",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 547.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-nelson_1977_LAR",
+    "player_name": "Terry Nelson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 432.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_riley-odoms_1977_DEN",
+    "player_name": "Riley Odoms",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 429.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-smith_1977_PHI",
+    "player_name": "Charlie Smith",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 477.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-davis_1977_LV",
+    "player_name": "Clarence Davis",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 911.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-mccauley_1977_BAL",
+    "player_name": "Don McCauley",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 729.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rickey-young_1977_LAC",
+    "player_name": "Rickey Young",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 966.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-hill_1977_DET",
+    "player_name": "David Hill",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 475.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-marshall_1977_KC",
+    "player_name": "Henry Marshall",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 456.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronnie-coleman_1977_HOU",
+    "player_name": "Ronnie Coleman",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 819.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rucker_1977_CLE",
+    "player_name": "Reggie Rucker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 571.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_glenn-doughty_1977_BAL",
+    "player_name": "Glenn Doughty",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 446.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-haden_1977_LAR",
+    "player_name": "Pat Haden",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1657.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-latta_1977_CHI",
+    "player_name": "Greg Latta",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 335.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-cappelletti_1977_LAR",
+    "player_name": "John Cappelletti",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 826.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-pearson_1977_DAL",
+    "player_name": "Preston Pearson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 876.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-podolak_1977_KC",
+    "player_name": "Ed Podolak",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 863.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-hart_1977_LAR",
+    "player_name": "Jim Hart",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2560.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-zorn_1977_SEA",
+    "player_name": "Jim Zorn",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1828.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-calhoun_1977_NE",
+    "player_name": "Don Calhoun",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 879.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-pastorini_1977_HOU",
+    "player_name": "Dan Pastorini",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2026.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-galbreath_1977_NO",
+    "player_name": "Tony Galbreath",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 909.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-newhouse_1977_DAL",
+    "player_name": "Robert Newhouse",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 827.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barty-smith_1977_GB",
+    "player_name": "Barty Smith",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 894.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-sims_1977_SEA",
+    "player_name": "David Sims",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 588.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-avellini_1977_CHI",
+    "player_name": "Bob Avellini",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2113.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_richard-todd_1977_NYJ",
+    "player_name": "Richard Todd",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1909.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-testerman_1977_SEA",
+    "player_name": "Don Testerman",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 678.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_benny-malone_1977_MIA",
+    "player_name": "Benny Malone",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 673.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-braxton_1977_BUF",
+    "player_name": "Jim Braxton",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 833.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-livingston_1977_KC",
+    "player_name": "Mike Livingston",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1901.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-hammond_1977_NYG",
+    "player_name": "Bobby Hammond",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 713.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-plunkett_1977_SF",
+    "player_name": "Jim Plunkett",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1764.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rocky-bleier_1977_PIT",
+    "player_name": "Rocky Bleier",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 626.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-carpenter_1977_HOU",
+    "player_name": "Rob Carpenter",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 808.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-johnson_1977_CIN",
+    "player_name": "Pete Johnson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 634.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-armstrong_1977_DEN",
+    "player_name": "Otis Armstrong",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 617.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-davis_1977_MIA",
+    "player_name": "Gary Davis",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 684.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-kane_1977_DET",
+    "player_name": "Rick Kane",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 607.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norm-bulaich_1977_MIA",
+    "player_name": "Norm Bulaich",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 596.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-griffin_1977_CIN",
+    "player_name": "Archie Griffin",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 807.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_horace-king_1977_DET",
+    "player_name": "Horace King",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 759.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lonnie-perrin_1977_DEN",
+    "player_name": "Lonnie Perrin",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 562.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brent-mcclanahan_1977_MIN",
+    "player_name": "Brent McClanahan",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 600.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fran-tarkenton_1977_MIN",
+    "player_name": "Fran Tarkenton",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1740.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dexter-bussey_1977_DET",
+    "player_name": "Dexter Bussey",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 454.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-reed_1977_KC",
+    "player_name": "Tony Reed",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 630.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-theismann_1977_WAS",
+    "player_name": "Joe Theismann",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1246.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-landry_1977_DET",
+    "player_name": "Greg Landry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1458.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-woods_1977_LAC",
+    "player_name": "Don Woods",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 623.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-lytle_1977_DEN",
+    "player_name": "Rob Lytle",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 606.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-hogan_1977_PHI",
+    "player_name": "Mike Hogan",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 664.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-sullivan_1977_PHI",
+    "player_name": "Tom Sullivan",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 586.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_o-j-simpson_1977_BUF",
+    "player_name": "O.J. Simpson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 695.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leroy-harris_1977_MIA",
+    "player_name": "Leroy Harris",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 446.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roland-hooks_1977_BUF",
+    "player_name": "Roland Hooks",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 692.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-kilmer_1977_WAS",
+    "player_name": "Billy Kilmer",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1207.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-kotar_1977_NYG",
+    "player_name": "Doug Kotar",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 553.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-grant_1977_WAS",
+    "player_name": "Frank Grant",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 480.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-bailey_1977_KC",
+    "player_name": "Mark Bailey",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 472.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-dolbin_1977_DEN",
+    "player_name": "Jack Dolbin",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 455.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stanley-morgan_1977_NE",
+    "player_name": "Stanley Morgan",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 453.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-wilson_1977_HOU",
+    "player_name": "Tim Wilson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 450.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-harris_1977_LAC",
+    "player_name": "James Harris",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1253.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roland-harper_1977_CHI",
+    "player_name": "Roland Harper",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 599.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-pisarcik_1977_NYG",
+    "player_name": "Joe Pisarcik",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1403.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-robinson_1977_NYG",
+    "player_name": "Jim Robinson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 422.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-lee_1977_BAL",
+    "player_name": "Ron Lee",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 406.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-sipe_1977_CLE",
+    "player_name": "Brian Sipe",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1247.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_woody-thompson_1977_ATL",
+    "player_name": "Woody Thompson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 534.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-bell_1977_TB",
+    "player_name": "Ricky Bell",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 524.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lenvil-elliott_1977_CIN",
+    "player_name": "Lenvil Elliott",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 507.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-csonka_1977_NYG",
+    "player_name": "Larry Csonka",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 484.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-joe-dupree_1977_DAL",
+    "player_name": "Billy Joe DuPree",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 356.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-banaszak_1977_LV",
+    "player_name": "Pete Banaszak",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 228.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roosevelt-leaks_1977_BAL",
+    "player_name": "Roosevelt Leaks",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 276.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-hunter_1977_ATL",
+    "player_name": "Scott Hunter",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 968.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herb-lusk_1977_PHI",
+    "player_name": "Herb Lusk",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 331.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-parris_1977_CLE",
+    "player_name": "Gary Parris",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 213.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-washington_1977_LAC",
+    "player_name": "Joe Washington",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 493.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-poole_1977_CLE",
+    "player_name": "Larry Poole",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 255.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wendell-tyler_1977_LAR",
+    "player_name": "Wendell Tyler",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 320.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_duke-fergerson_1977_SEA",
+    "player_name": "Duke Fergerson",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 374.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-harmon_1977_WAS",
+    "player_name": "Clarence Harmon",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 429.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lynn-dickey_1977_GB",
+    "player_name": "Lynn Dickey",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1370.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-torkelson_1977_GB",
+    "player_name": "Eric Torkelson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 416.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bennie-cunningham_1977_PIT",
+    "player_name": "Bennie Cunningham",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 347.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_russ-francis_1977_NE",
+    "player_name": "Russ Francis",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 229.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-hill_1977_WAS",
+    "player_name": "Calvin Hill",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 411.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-otis_1977_LAR",
+    "player_name": "Jim Otis",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 352.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_isaac-curtis_1977_CIN",
+    "player_name": "Isaac Curtis",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 338.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wallace-francis_1977_ATL",
+    "player_name": "Wallace Francis",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 396.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-siani_1977_LV",
+    "player_name": "Mike Siani",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 344.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-v-cain_1977_LAR",
+    "player_name": "J.V. Cain",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 328.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-davis_1977_TB",
+    "player_name": "Anthony Davis",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 388.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-waddy_1977_LAR",
+    "player_name": "Billy Waddy",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 389.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carl-garrett_1977_LV",
+    "player_name": "Carl Garrett",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 236.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jon-keyworth_1977_DEN",
+    "player_name": "Jon Keyworth",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 359.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-latin_1977_LAR",
+    "player_name": "Jerry Latin",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 297.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bo-rather_1977_CHI",
+    "player_name": "Bo Rather",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 302.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willard-harrell_1977_GB",
+    "player_name": "Willard Harrell",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 367.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-jarvis_1977_DET",
+    "player_name": "Ray Jarvis",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 353.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_golden-richards_1977_DAL",
+    "player_name": "Golden Richards",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 225.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-buggs_1977_WAS",
+    "player_name": "Danny Buggs",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 341.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-dierking_1977_NYJ",
+    "player_name": "Scott Dierking",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 344.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-miller_1977_MIN",
+    "player_name": "Robert Miller",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 398.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-shirk_1977_NYG",
+    "player_name": "Gary Shirk",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 280.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_monroe-eley_1977_ATL",
+    "player_name": "Monroe Eley",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 333.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-hardeman_1977_HOU",
+    "player_name": "Don Hardeman",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 209.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-herrmann_1977_NO",
+    "player_name": "Don Herrmann",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 391.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-nottingham_1977_MIA",
+    "player_name": "Don Nottingham",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 272.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-scott_1977_BAL",
+    "player_name": "Freddie Scott",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 267.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-spencer_1977_NYG",
+    "player_name": "Willie Spencer",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 204.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-dubose_1977_TB",
+    "player_name": "Jimmy DuBose",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 373.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ike-forte_1977_NE",
+    "player_name": "Ike Forte",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 245.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lou-piccone_1977_BUF",
+    "player_name": "Lou Piccone",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 246.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-warfield_1977_CLE",
+    "player_name": "Paul Warfield",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 253.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sammy-johnson_1977_MIN",
+    "player_name": "Sammy Johnson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 238.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-mays_1977_CLE",
+    "player_name": "Dave Mays",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 799.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ollie-smith_1977_GB",
+    "player_name": "Ollie Smith",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 357.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-williams_1977_LAC",
+    "player_name": "Clarence Williams",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 235.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-logan_1977_CLE",
+    "player_name": "Dave Logan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 284.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-betterson_1977_PHI",
+    "player_name": "James Betterson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 274.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robin-earl_1977_CHI",
+    "player_name": "Robin Earl",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 265.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boobie-clark_1977_CIN",
+    "player_name": "Boobie Clark",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 259.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-dorsey_1977_LAC",
+    "player_name": "Larry Dorsey",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 198.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-hasselbeck_1977_NE",
+    "player_name": "Don Hasselbeck",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 76.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-jones_1977_LAR",
+    "player_name": "Steve Jones",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 143.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-lewis_1977_PIT",
+    "player_name": "Frank Lewis",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 263.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wilbert-montgomery_1977_PHI",
+    "player_name": "Wilbert Montgomery",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 201.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-d-hill_1977_DET",
+    "player_name": "J.D. Hill",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 247.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-trumpy_1977_CIN",
+    "player_name": "Bob Trumpy",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 251.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-brunson_1977_KC",
+    "player_name": "Larry Brunson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 303.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_louis-carter_1977_TB",
+    "player_name": "Louis Carter",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 182.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-klein_1977_LAC",
+    "player_name": "Bob Klein",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 244.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-strachan_1977_NO",
+    "player_name": "Mike Strachan",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 297.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-harrison_1977_SF",
+    "player_name": "Kenny Harrison",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 232.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tommy-kramer_1977_MIN",
+    "player_name": "Tommy Kramer",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 428.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-myer_1977_SEA",
+    "player_name": "Steve Myer",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 730.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-seal_1977_SF",
+    "player_name": "Paul Seal",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 230.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-tillman_1977_MIA",
+    "player_name": "Andre Tillman",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 169.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-davis_1977_CIN",
+    "player_name": "Tony Davis",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 164.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-hunter_1977_SEA",
+    "player_name": "Al Hunter",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 221.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-perkins_1977_NYG",
+    "player_name": "Johnny Perkins",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 279.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pruitt_1977_CLE",
+    "player_name": "Mike Pruitt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 217.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-solomon_1977_MIA",
+    "player_name": "Freddie Solomon",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 224.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-white_1977_NYJ",
+    "player_name": "Charlie White",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 156.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-bartkowski_1977_ATL",
+    "player_name": "Steve Bartkowski",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 809.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-jensen_1977_DEN",
+    "player_name": "Jim Jensen",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 206.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-musso_1977_CHI",
+    "player_name": "Johnny Musso",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 145.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-thaxton_1977_NO",
+    "player_name": "Jim Thaxton",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 208.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stu-voigt_1977_MIN",
+    "player_name": "Stu Voigt",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 212.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-whitehurst_1977_GB",
+    "player_name": "David Whitehurst",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 689.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-williams_1977_TB",
+    "player_name": "Ed Williams",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 265.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-carr_1977_BAL",
+    "player_name": "Roger Carr",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 199.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-mccullum_1977_SEA",
+    "player_name": "Sam McCullum",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 198.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_oscar-roan_1977_CLE",
+    "player_name": "Oscar Roan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 136.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-caster_1977_NYJ",
+    "player_name": "Rich Caster",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 190.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marv-hubbard_1977_DET",
+    "player_name": "Marv Hubbard",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 186.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rod-phillips_1977_LAR",
+    "player_name": "Rod Phillips",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 188.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-howard_1977_SEA",
+    "player_name": "Ron Howard",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 177.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-ferrell_1977_SF",
+    "player_name": "Bob Ferrell",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 172.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-huff_1977_TB",
+    "player_name": "Gary Huff",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 899.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bo-matthews_1977_LAC",
+    "player_name": "Bo Matthews",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 234.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-mitchell_1977_SF",
+    "player_name": "Tom Mitchell",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 226.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-rodgers_1977_LAC",
+    "player_name": "Johnny Rodgers",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 231.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jay-saldi_1977_DAL",
+    "player_name": "Jay Saldi",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 108.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-sanders_1977_DET",
+    "player_name": "Charlie Sanders",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 170.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sidney-thornton_1977_PIT",
+    "player_name": "Sidney Thornton",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 108.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nate-simpson_1977_GB",
+    "player_name": "Nate Simpson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 223.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-foster_1977_HOU",
+    "player_name": "Eddie Foster",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 208.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emery-moorehead_1977_NYG",
+    "player_name": "Emery Moorehead",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 148.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_isaac-hagins_1977_TB",
+    "player_name": "Isaac Hagins",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 198.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-mcgeorge_1977_GB",
+    "player_name": "Rich McGeorge",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 142.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norris-weese_1977_DEN",
+    "player_name": "Norris Weese",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 175.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-corbett_1977_CIN",
+    "player_name": "Jim Corbett",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 126.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-harrison_1977_PIT",
+    "player_name": "Reggie Harrison",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 186.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_butch-johnson_1977_DAL",
+    "player_name": "Butch Johnson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 132.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-long_1977_NYJ",
+    "player_name": "Kevin Long",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 187.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leonard-thompson_1977_DET",
+    "player_name": "Leonard Thompson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 133.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-danielson_1977_DET",
+    "player_name": "Gary Danielson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 507.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-marshall_1977_NYG",
+    "player_name": "Ed Marshall",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 178.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-mcdonald_1977_LAC",
+    "player_name": "Dwight McDonald",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 174.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mitchell_1977_ATL",
+    "player_name": "Jim Mitchell",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 172.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-adams_1977_KC",
+    "player_name": "Tony Adams",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 712.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mckay_1977_TB",
+    "player_name": "John McKay",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 164.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-rae_1977_LV",
+    "player_name": "Mike Rae",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 237.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-robiskie_1977_LV",
+    "player_name": "Terry Robiskie",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 100.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-scales_1977_LAR",
+    "player_name": "Dwight Scales",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 104.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charley-taylor_1977_WAS",
+    "player_name": "Charley Taylor",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 158.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-barber_1977_HOU",
+    "player_name": "Mike Barber",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 94.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-hofer_1977_SF",
+    "player_name": "Paul Hofer",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 152.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mcdaniel_1977_CIN",
+    "player_name": "John McDaniel",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 148.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_secdrick-mcintyre_1977_ATL",
+    "player_name": "Secdrick McIntyre",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 92.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_luther-blue_1977_DET",
+    "player_name": "Luther Blue",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 84.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-collier_1977_BUF",
+    "player_name": "Mike Collier",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 139.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmie-giles_1977_HOU",
+    "player_name": "Jimmie Giles",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 137.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-jodat_1977_LAR",
+    "player_name": "Jim Jodat",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 17.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-laidlaw_1977_DAL",
+    "player_name": "Scott Laidlaw",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 75.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-curran_1977_LAC",
+    "player_name": "Pat Curran",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 125.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-dennison_1977_DAL",
+    "player_name": "Doug Dennison",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 69.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-knight_1977_NYJ",
+    "player_name": "David Knight",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 129.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alvin-maxson_1977_PIT",
+    "player_name": "Alvin Maxson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 126.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terdell-middleton_1977_GB",
+    "player_name": "Terdell Middleton",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 124.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dana-nafziger_1977_TB",
+    "player_name": "Dana Nafziger",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 119.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-schubert_1977_CHI",
+    "player_name": "Steve Schubert",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 119.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_curtis-brown_1977_BUF",
+    "player_name": "Curtis Brown",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 54.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-mccrary_1977_ATL",
+    "player_name": "Greg McCrary",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 48.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-sawyer_1977_SEA",
+    "player_name": "John Sawyer",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 105.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jackie-smith_1977_LAR",
+    "player_name": "Jackie Smith",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 49.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-vataha_1977_GB",
+    "player_name": "Randy Vataha",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 109.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gordon-bell_1977_NYG",
+    "player_name": "Gordon Bell",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 96.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-esposito_1977_ATL",
+    "player_name": "Mike Esposito",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 100.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charle-young_1977_LAR",
+    "player_name": "Charle Young",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 35.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_morris-bradshaw_1977_LV",
+    "player_name": "Morris Bradshaw",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 90.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-brinson_1977_DAL",
+    "player_name": "Larry Brinson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 28.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marty-domres_1977_NYJ",
+    "player_name": "Marty Domres",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 136.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-mcknight_1977_KC",
+    "player_name": "Ted McKnight",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 85.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jess-phillips_1977_NE",
+    "player_name": "Jess Phillips",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 27.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hank-bauer_1977_LAC",
+    "player_name": "Hank Bauer",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 19.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-benjamin_1977_SEA",
+    "player_name": "Tony Benjamin",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 75.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-burks_1977_NE",
+    "player_name": "Steve Burks",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 79.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-dixon_1977_NYG",
+    "player_name": "Al Dixon",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 78.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-duncan_1977_CLE",
+    "player_name": "Brian Duncan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 21.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-golsteyn_1977_NYG",
+    "player_name": "Jerry Golsteyn",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 412.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-raible_1977_SEA",
+    "player_name": "Steve Raible",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 79.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-smith_1977_PIT",
+    "player_name": "Jim Smith",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 80.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-watkins_1977_NYG",
+    "player_name": "Larry Watkins",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 80.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cullen-bryant_1977_LAR",
+    "player_name": "Cullen Bryant",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 70.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-chandler_1977_NE",
+    "player_name": "Al Chandler",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 68.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-grim_1977_MIN",
+    "player_name": "Bob Grim",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 65.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-mauti_1977_NO",
+    "player_name": "Rich Mauti",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 71.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_loaird-mccreary_1977_MIA",
+    "player_name": "Loaird McCreary",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 10.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-newton_1977_NYJ",
+    "player_name": "Tom Newton",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 72.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-ryckman_1977_ATL",
+    "player_name": "Billy Ryckman",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 5.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-samuels_1977_KC",
+    "player_name": "Tony Samuels",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 65.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-culbreath_1977_GB",
+    "player_name": "Jim Culbreath",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 59.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-grossman_1977_PIT",
+    "player_name": "Randy Grossman",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 57.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mandich_1977_MIA",
+    "player_name": "Jim Mandich",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 63.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kim-mcquilken_1977_ATL",
+    "player_name": "Kim McQuilken",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 46.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-mucker_1977_TB",
+    "player_name": "Larry Mucker",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 59.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_laverne-smith_1977_PIT",
+    "player_name": "Laverne Smith",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 55.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-tilley_1977_LAR",
+    "player_name": "Pat Tilley",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 64.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-baschnagel_1977_CHI",
+    "player_name": "Brian Baschnagel",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 50.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-reaves_1977_CIN",
+    "player_name": "John Reaves",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 383.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_karl-farmer_1977_ATL",
+    "player_name": "Karl Farmer",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 43.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-hadl_1977_HOU",
+    "player_name": "John Hadl",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 87.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-ragsdale_1977_TB",
+    "player_name": "George Ragsdale",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 38.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-egloff_1977_DEN",
+    "player_name": "Ron Egloff",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kim-jones_1977_NO",
+    "player_name": "Kim Jones",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 32.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_arnold-morgado_1977_KC",
+    "player_name": "Arnold Morgado",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 33.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-penrose_1977_DEN",
+    "player_name": "Craig Penrose",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 241.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-best_1977_CHI",
+    "player_name": "Art Best",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 20.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-bull_1977_SF",
+    "player_name": "Scott Bull",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 109.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_shelton-diggs_1977_NYJ",
+    "player_name": "Shelton Diggs",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 16.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-hill_1977_DAL",
+    "player_name": "Tony Hill",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 21.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-kellar_1977_MIN",
+    "player_name": "Mark Kellar",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-lash_1977_SF",
+    "player_name": "Jim Lash",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-mcgee_1977_SF",
+    "player_name": "Willie McGee",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-novak_1977_TB",
+    "player_name": "Jack Novak",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-obradovich_1977_SF",
+    "player_name": "Jim Obradovich",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 16.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-papale_1977_PHI",
+    "player_name": "Vince Papale",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-seymour_1977_BUF",
+    "player_name": "Paul Seymour",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 21.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-voight_1977_HOU",
+    "player_name": "Mike Voight",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 20.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-anderson_1977_MIA",
+    "player_name": "Terry Anderson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 11.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andy-bolton_1977_DET",
+    "player_name": "Andy Bolton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-boykin_1977_NO",
+    "player_name": "Greg Boykin",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-craig_1977_MIN",
+    "player_name": "Steve Craig",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-deloplaine_1977_PIT",
+    "player_name": "Jack Deloplaine",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roman-gabriel_1977_PHI",
+    "player_name": "Roman Gabriel",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hubert-ginn_1977_LV",
+    "player_name": "Hubert Ginn",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wally-henry_1977_PHI",
+    "player_name": "Wally Henry",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_richard-osborne_1977_PHI",
+    "player_name": "Richard Osborne",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-pritchett_1977_ATL",
+    "player_name": "Billy Pritchett",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-smith_1977_WAS",
+    "player_name": "Jerry Smith",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aundra-thompson_1977_GB",
+    "player_name": "Aundra Thompson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-walker_1977_CIN",
+    "player_name": "Rick Walker",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 13.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-williams_1977_SF",
+    "player_name": "Dave Williams",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-beckman_1977_KC",
+    "player_name": "Ed Beckman",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 3.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-evans_1977_CHI",
+    "player_name": "Vince Evans",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 0.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cleveland-franklin_1977_PHI",
+    "player_name": "Cleveland Franklin",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 0.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-franckowiak_1977_BUF",
+    "player_name": "Mike Franckowiak",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1977,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 0.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_artie-owens_1977_LAC",
+    "player_name": "Artie Owens",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 3.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ernest-pough_1977_PIT",
+    "player_name": "Ernest Pough",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1977,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 3.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-seiple_1977_MIA",
+    "player_name": "Larry Seiple",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1977,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": -1.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-white_1977_DAL",
+    "player_name": "Danny White",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 33.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-troup_1977_BAL",
+    "player_name": "Bill Troup",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": -8.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-hedberg_1977_TB",
+    "player_name": "Randy Hedberg",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1977,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 279.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  }
+]

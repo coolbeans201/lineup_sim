@@ -15,10 +15,12 @@ __all__ = [
     "eligible_open_slots",
     "eligible_reassign_slots",
     "empty_lineup",
+    "find_player_in_pool",
     "lineup_from_dict",
     "lineup_to_dict",
     "open_slots",
     "player_identity",
+    "player_pool_key",
     "reassign_player",
     "swap_plans_for_new_pick",
     "swappable_assignments",
@@ -35,6 +37,27 @@ class PickSwapPlan:
     occupant: PlayerSeason
 
 
+def player_pool_key(player: PlayerSeason) -> tuple[str, int, str]:
+    """Disambiguate peak-pool rows that share a player_id across teams/seasons."""
+    return (player.player_id, player.season, player.team_abbr.upper())
+
+
+def find_player_in_pool(
+    pool: Iterable[PlayerSeason],
+    *,
+    player_id: str,
+    season: int | None = None,
+    team_abbr: str | None = None,
+) -> PlayerSeason | None:
+    if season is not None and team_abbr:
+        target = (player_id, season, team_abbr.upper())
+        for player in pool:
+            if player_pool_key(player) == target:
+                return player
+        return None
+    return next((player for player in pool if player.player_id == player_id), None)
+
+
 def empty_lineup(preset: Preset, label: str = "Lineup A") -> Lineup:
     return Lineup(
         preset_slug=preset.slug,
@@ -44,9 +67,23 @@ def empty_lineup(preset: Preset, label: str = "Lineup A") -> Lineup:
     )
 
 
+def offense_first_draft(preset: Preset) -> bool:
+    """NFL offense/defense presets: fill all offense slots before defense opens."""
+    if preset.sport != "nfl":
+        return False
+    sides = {s.side for s in preset.slots if s.side}
+    return "offense" in sides and "defense" in sides
+
+
 def open_slots(lineup: Lineup, preset: Preset) -> list[RosterSlot]:
     filled = {a.slot_id for a in lineup.assignments if a.player is not None}
-    return [s for s in preset.slots if s.slot_id not in filled]
+    empty = [s for s in preset.slots if s.slot_id not in filled]
+    if offense_first_draft(preset):
+        offense_empty = [s for s in empty if s.side == "offense"]
+        if offense_empty:
+            return offense_empty
+        return [s for s in empty if s.side == "defense"]
+    return empty
 
 
 def eligible_open_slots(

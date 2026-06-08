@@ -1,0 +1,5492 @@
+[
+  {
+    "player_id": "pfr_o-j-simpson_1973_BUF",
+    "player_name": "O.J. Simpson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2070.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-carmichael_1973_PHI",
+    "player_name": "Harold Carmichael",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1158.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-jackson_1973_LAR",
+    "player_name": "Harold Jackson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 866.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_floyd-little_1973_DEN",
+    "player_name": "Floyd Little",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1402.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-brown_1973_WAS",
+    "player_name": "Larry Brown",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1342.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-gilliam_1973_MIN",
+    "player_name": "John Gilliam",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 978.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roman-gabriel_1973_PHI",
+    "player_name": "Roman Gabriel",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3229.0,
+      "td": 24.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-staubach_1973_DAL",
+    "player_name": "Roger Staubach",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2678.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_isaac-curtis_1973_CIN",
+    "player_name": "Isaac Curtis",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 832.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charle-young_1973_PHI",
+    "player_name": "Charle Young",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 878.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-shanklin_1973_PIT",
+    "player_name": "Ron Shanklin",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 712.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_donny-anderson_1973_LAR",
+    "player_name": "Donny Anderson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1088.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charley-taylor_1973_WAS",
+    "player_name": "Charley Taylor",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 794.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-warfield_1973_MIA",
+    "player_name": "Paul Warfield",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 529.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-johnson_1973_NYG",
+    "player_name": "Ron Johnson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1279.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boobie-clark_1973_CIN",
+    "player_name": "Boobie Clark",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1335.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerome-barkum_1973_NYJ",
+    "player_name": "Jerome Barkum",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 812.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_riley-odoms_1973_DEN",
+    "player_name": "Riley Odoms",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 682.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-hill_1973_DAL",
+    "player_name": "Calvin Hill",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1432.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_essex-johnson_1973_CIN",
+    "player_name": "Essex Johnson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1353.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-kwalick_1973_SF",
+    "player_name": "Ted Kwalick",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 766.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-plunkett_1973_NE",
+    "player_name": "Jim Plunkett",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2759.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haven-moses_1973_DEN",
+    "player_name": "Haven Moses",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 543.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-mccutcheon_1973_LAR",
+    "player_name": "Lawrence McCutcheon",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1386.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-tucker_1973_NYG",
+    "player_name": "Bob Tucker",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 685.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-burrow_1973_ATL",
+    "player_name": "Ken Burrow",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 584.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mercury-morris_1973_MIA",
+    "player_name": "Mercury Morris",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1005.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-sullivan_1973_PHI",
+    "player_name": "Tom Sullivan",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1290.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fran-tarkenton_1973_MIN",
+    "player_name": "Fran Tarkenton",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2315.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-hampton_1973_ATL",
+    "player_name": "Dave Hampton",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1270.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mel-gray_1973_LAR",
+    "player_name": "Mel Gray",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 513.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-anderson_1973_CIN",
+    "player_name": "Ken Anderson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2525.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_glenn-doughty_1973_BAL",
+    "player_name": "Glenn Doughty",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 683.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-siani_1973_LV",
+    "player_name": "Mike Siani",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 742.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rucker_1973_NE",
+    "player_name": "Reggie Rucker",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 742.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-biletnikoff_1973_LV",
+    "player_name": "Fred Biletnikoff",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 660.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chuck-foreman_1973_MIN",
+    "player_name": "Chuck Foreman",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1163.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-caster_1973_NYJ",
+    "player_name": "Rich Caster",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 584.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-hadl_1973_LAR",
+    "player_name": "John Hadl",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2013.0,
+      "td": 22.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charley-johnson_1973_DEN",
+    "player_name": "Charley Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2463.0,
+      "td": 20.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-brockington_1973_GB",
+    "player_name": "John Brockington",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1272.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-trumpy_1973_CIN",
+    "player_name": "Bob Trumpy",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 435.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-burrough_1973_HOU",
+    "player_name": "Ken Burrough",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 615.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-taylor_1973_KC",
+    "player_name": "Otis Taylor",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 551.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-bertelsen_1973_LAR",
+    "player_name": "Jim Bertelsen",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1121.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otto-stowe_1973_DAL",
+    "player_name": "Otto Stowe",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 417.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-joe-dupree_1973_DAL",
+    "player_name": "Billy Joe DuPree",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 394.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-levias_1973_LAC",
+    "player_name": "Jerry LeVias",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 569.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marv-hubbard_1973_LV",
+    "player_name": "Marv Hubbard",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1019.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-newland_1973_NO",
+    "player_name": "Bob Newland",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 495.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-phipps_1973_CLE",
+    "player_name": "Mike Phipps",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2114.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gene-washington_1973_SF",
+    "player_name": "Gene Washington",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 606.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-podolak_1973_KC",
+    "player_name": "Ed Podolak",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1166.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-walton_1973_DET",
+    "player_name": "Larry Walton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 409.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jackie-smith_1973_LAR",
+    "player_name": "Jackie Smith",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 586.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-grim_1973_NYG",
+    "player_name": "Bob Grim",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 583.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-douglass_1973_CHI",
+    "player_name": "Bobby Douglass",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1582.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-csonka_1973_MIA",
+    "player_name": "Larry Csonka",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1025.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jubilee-dunbar_1973_NO",
+    "player_name": "Jubilee Dunbar",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 450.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emerson-boozer_1973_NYJ",
+    "player_name": "Emerson Boozer",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 961.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jon-staggers_1973_GB",
+    "player_name": "Jon Staggers",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 445.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-moore_1973_LV",
+    "player_name": "Bob Moore",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 375.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-hart_1973_LAR",
+    "player_name": "Jim Hart",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2220.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roy-jefferson_1973_WAS",
+    "player_name": "Roy Jefferson",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 596.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-ray_1973_ATL",
+    "player_name": "Eddie Ray",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 626.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-windsor_1973_NE",
+    "player_name": "Bob Windsor",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 342.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-stabler_1973_LV",
+    "player_name": "Ken Stabler",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2098.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-parks_1973_HOU",
+    "player_name": "Billy Parks",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 581.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-herrmann_1973_NYG",
+    "player_name": "Don Herrmann",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 520.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_altie-taylor_1973_DET",
+    "player_name": "Altie Taylor",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 971.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-jessie_1973_DET",
+    "player_name": "Ron Jessie",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 395.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vic-washington_1973_SF",
+    "player_name": "Vic Washington",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 772.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-willis_1973_HOU",
+    "player_name": "Fred Willis",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 950.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-mitchell_1973_BAL",
+    "player_name": "Tom Mitchell",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 313.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-manning_1973_NO",
+    "player_name": "Archie Manning",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1935.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-sanders_1973_DET",
+    "player_name": "Charlie Sanders",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 432.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carl-garrett_1973_CHI",
+    "player_name": "Carl Garrett",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 947.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cotton-speyrer_1973_BAL",
+    "player_name": "Cotton Speyrer",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 366.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-smith_1973_LV",
+    "player_name": "Charlie Smith",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 942.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lydell-mitchell_1973_BAL",
+    "player_name": "Lydell Mitchell",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1076.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walt-garrison_1973_DAL",
+    "player_name": "Walt Garrison",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 713.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-dawkins_1973_DEN",
+    "player_name": "Joe Dawkins",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1035.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-griese_1973_MIA",
+    "player_name": "Bob Griese",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1442.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norm-bulaich_1973_PHI",
+    "player_name": "Norm Bulaich",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 839.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-metcalf_1973_LAR",
+    "player_name": "Terry Metcalf",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 944.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-kilmer_1973_WAS",
+    "player_name": "Billy Kilmer",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1666.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-lee_1973_ATL",
+    "player_name": "Bob Lee",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1853.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-harraway_1973_WAS",
+    "player_name": "Charlie Harraway",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 743.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-pearson_1973_PIT",
+    "player_name": "Preston Pearson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 727.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-cunningham_1973_NE",
+    "player_name": "Sam Cunningham",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 660.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_franco-harris_1973_PIT",
+    "player_name": "Franco Harris",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 767.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_macarthur-lane_1973_GB",
+    "player_name": "MacArthur Lane",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 806.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-davis_1973_LV",
+    "player_name": "Clarence Davis",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 685.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-bradshaw_1973_PIT",
+    "player_name": "Terry Bradshaw",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1328.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-riggins_1973_NYJ",
+    "player_name": "John Riggins",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 640.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-holmes_1973_LAC",
+    "player_name": "Robert Holmes",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 440.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-braxton_1973_BUF",
+    "player_name": "Jim Braxton",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 595.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cid-edwards_1973_LAC",
+    "player_name": "Cid Edwards",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 773.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jess-phillips_1973_NO",
+    "player_name": "Jess Phillips",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 832.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-gresham_1973_HOU",
+    "player_name": "Bob Gresham",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 644.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-mccauley_1973_BAL",
+    "player_name": "Don McCauley",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 700.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marty-domres_1973_BAL",
+    "player_name": "Marty Domres",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1279.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-owens_1973_DET",
+    "player_name": "Steve Owens",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 633.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mel-farr_1973_DET",
+    "player_name": "Mel Farr",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 556.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-pruitt_1973_CLE",
+    "player_name": "Greg Pruitt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 479.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-baker_1973_LAR",
+    "player_name": "Tony Baker",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 344.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-woodall_1973_NYJ",
+    "player_name": "Al Woodall",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1296.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-harrison_1973_CHI",
+    "player_name": "Jim Harrison",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 570.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leroy-kelly_1973_CLE",
+    "player_name": "Leroy Kelly",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 569.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-marinaro_1973_MIN",
+    "player_name": "Ed Marinaro",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 498.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-fuqua_1973_PIT",
+    "player_name": "John Fuqua",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 607.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-brown_1973_CLE",
+    "player_name": "Ken Brown",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 724.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-johnson_1973_NYG",
+    "player_name": "Randy Johnson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1303.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_oscar-reed_1973_MIN",
+    "player_name": "Oscar Reed",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 523.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-malone_1973_ATL",
+    "player_name": "Art Malone",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 513.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-livingston_1973_KC",
+    "player_name": "Mike Livingston",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1010.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-munson_1973_DET",
+    "player_name": "Bill Munson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1162.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-watkins_1973_BUF",
+    "player_name": "Larry Watkins",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 500.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-landry_1973_DET",
+    "player_name": "Greg Landry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1175.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-butler_1973_NO",
+    "player_name": "Bill Butler",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 473.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-garrett_1973_LAC",
+    "player_name": "Mike Garrett",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 591.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-willard_1973_SF",
+    "player_name": "Ken Willard",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 526.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-newhouse_1973_DAL",
+    "player_name": "Robert Newhouse",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 523.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-chandler_1973_BUF",
+    "player_name": "Bob Chandler",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 413.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wendell-hayes_1973_KC",
+    "player_name": "Wendell Hayes",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 486.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-tarver_1973_NE",
+    "player_name": "John Tarver",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 372.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-ellison_1973_KC",
+    "player_name": "Willie Ellison",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 475.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-ferguson_1973_BUF",
+    "player_name": "Joe Ferguson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1083.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-lewis_1973_PIT",
+    "player_name": "Frank Lewis",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 408.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ahmad-rashad_1973_LAR",
+    "player_name": "Ahmad Rashad",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 409.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-thomas_1973_CHI",
+    "player_name": "Earl Thomas",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 348.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marlin-briscoe_1973_MIA",
+    "player_name": "Marlin Briscoe",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 442.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-pitts_1973_CLE",
+    "player_name": "Frank Pitts",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 317.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-pastorini_1973_HOU",
+    "player_name": "Dan Pastorini",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1584.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-hayes_1973_DAL",
+    "player_name": "Bob Hayes",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 360.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mandich_1973_MIA",
+    "player_name": "Jim Mandich",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 302.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-spurrier_1973_SF",
+    "player_name": "Steve Spurrier",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 914.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darryl-stingley_1973_NE",
+    "player_name": "Darryl Stingley",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 403.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sonny-jurgensen_1973_WAS",
+    "player_name": "Sonny Jurgensen",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 908.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_drew-pearson_1973_DAL",
+    "player_name": "Drew Pearson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 388.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barry-pearson_1973_PIT",
+    "player_name": "Barry Pearson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 317.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-smith_1973_LAR",
+    "player_name": "Larry Smith",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 387.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-davis_1973_PIT",
+    "player_name": "Steve Davis",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 297.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-hanratty_1973_PIT",
+    "player_name": "Terry Hanratty",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 643.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_milt-morin_1973_CLE",
+    "player_name": "Milt Morin",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 417.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-thomas_1973_SF",
+    "player_name": "Jimmy Thomas",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 416.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-branch_1973_LV",
+    "player_name": "Cliff Branch",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 290.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-brown_1973_MIN",
+    "player_name": "Bill Brown",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 228.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-kiick_1973_MIA",
+    "player_name": "Jim Kiick",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 465.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-clements_1973_NYG",
+    "player_name": "Vince Clements",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 343.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-fouts_1973_LAC",
+    "player_name": "Dan Fouts",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1158.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-namath_1973_NYJ",
+    "player_name": "Joe Namath",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 964.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mack-alston_1973_HOU",
+    "player_name": "Mack Alston",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 208.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mitchell_1973_ATL",
+    "player_name": "Jim Mitchell",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 454.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-roland_1973_NYG",
+    "player_name": "Johnny Roland",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 332.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norm-snead_1973_NYG",
+    "player_name": "Norm Snead",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1496.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-vataha_1973_NE",
+    "player_name": "Randy Vataha",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 326.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-bell_1973_NYJ",
+    "player_name": "Eddie Bell",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 319.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stu-voigt_1973_MIN",
+    "player_name": "Stu Voigt",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 320.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_josh-ashton_1973_NE",
+    "player_name": "Josh Ashton",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 418.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lynn-dickey_1973_HOU",
+    "player_name": "Lynn Dickey",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 897.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-d-hill_1973_BUF",
+    "player_name": "J.D. Hill",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 422.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-brodie_1973_SF",
+    "player_name": "John Brodie",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1142.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-garrison_1973_LAC",
+    "player_name": "Gary Garrison",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 292.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-tagge_1973_GB",
+    "player_name": "Jerry Tagge",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 782.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-klein_1973_LAR",
+    "player_name": "Bob Klein",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 277.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_elmo-wright_1973_KC",
+    "player_name": "Elmo Wright",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 281.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-zimmerman_1973_PHI",
+    "player_name": "Don Zimmerman",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 220.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jean-fugett_1973_DAL",
+    "player_name": "Jean Fugett",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 202.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-snow_1973_LAR",
+    "player_name": "Jack Snow",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 252.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clint-jones_1973_LAC",
+    "player_name": "Clint Jones",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 295.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barry-smith_1973_GB",
+    "player_name": "Barry Smith",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 238.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-cunningham_1973_SF",
+    "player_name": "Doug Cunningham",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 283.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_morris-stroud_1973_KC",
+    "player_name": "Morris Stroud",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 216.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-adamle_1973_NYJ",
+    "player_name": "Mike Adamle",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 327.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_po-james_1973_PHI",
+    "player_name": "Po James",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 272.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-montgomery_1973_DAL",
+    "player_name": "Mike Montgomery",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 154.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gene-washington_1973_DEN",
+    "player_name": "Gene Washington",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 150.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fair-hooker_1973_CLE",
+    "player_name": "Fair Hooker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 196.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-mcgeorge_1973_GB",
+    "player_name": "Rich McGeorge",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 260.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-robinson_1973_HOU",
+    "player_name": "Paul Robinson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 197.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_len-dawson_1973_KC",
+    "player_name": "Len Dawson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 765.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-kinney_1973_KC",
+    "player_name": "Jeff Kinney",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 254.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-otis_1973_LAR",
+    "player_name": "Jim Otis",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 253.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-simmons_1973_DEN",
+    "player_name": "Jerry Simmons",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 245.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walker-gillette_1973_LAR",
+    "player_name": "Walker Gillette",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 244.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-anderson_1973_DEN",
+    "player_name": "Bobby Anderson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 261.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-beathard_1973_KC",
+    "player_name": "Pete Beathard",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 405.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-dodd_1973_ATL",
+    "player_name": "Al Dodd",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 291.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-farmer_1973_CHI",
+    "player_name": "George Farmer",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 227.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-geredine_1973_ATL",
+    "player_name": "Tom Geredine",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 228.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_les-josephson_1973_LAR",
+    "player_name": "Les Josephson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 174.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-reed_1973_SF",
+    "player_name": "Joe Reed",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 674.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-hinton_1973_HOU",
+    "player_name": "Eddie Hinton",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 200.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mcmakin_1973_PIT",
+    "player_name": "John McMakin",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 195.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-butler_1973_KC",
+    "player_name": "Gary Butler",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 134.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lenvil-elliott_1973_CIN",
+    "player_name": "Lenvil Elliott",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 134.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-holliday_1973_LAC",
+    "player_name": "Ron Holliday",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 252.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-mccullouch_1973_DET",
+    "player_name": "Earl McCullouch",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 191.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_raymond-chester_1973_BAL",
+    "player_name": "Raymond Chester",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 182.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-hunter_1973_GB",
+    "player_name": "Scott Hunter",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 445.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-thaxton_1973_LAC",
+    "player_name": "Jim Thaxton",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 119.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-bailey_1973_PHI",
+    "player_name": "Tom Bailey",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 171.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-banaszak_1973_LV",
+    "player_name": "Pete Banaszak",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 229.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gloster-richardson_1973_CLE",
+    "player_name": "Gloster Richardson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 165.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-olds_1973_BAL",
+    "player_name": "Bill Olds",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 96.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-osborn_1973_MIN",
+    "player_name": "Dave Osborn",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 220.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-smith_1973_WAS",
+    "player_name": "Jerry Smith",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 215.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-moore_1973_CHI",
+    "player_name": "Joe Moore",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 208.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pettis-norman_1973_LAC",
+    "player_name": "Pettis Norman",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 210.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-orduna_1973_NYG",
+    "player_name": "Joe Orduna",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 148.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-adams_1973_NE",
+    "player_name": "Bob Adams",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 204.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-leigh_1973_MIA",
+    "player_name": "Charlie Leigh",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 143.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-armstrong_1973_DEN",
+    "player_name": "Otis Armstrong",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 133.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-cotton_1973_CHI",
+    "player_name": "Craig Cotton",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 186.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carroll-dale_1973_MIN",
+    "player_name": "Carroll Dale",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 192.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-huff_1973_CHI",
+    "player_name": "Gary Huff",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 547.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bert-jones_1973_BAL",
+    "player_name": "Bert Jones",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 597.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_perry-williams_1973_GB",
+    "player_name": "Perry Williams",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 131.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_les-goodman_1973_GB",
+    "player_name": "Les Goodman",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 107.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-lefear_1973_CLE",
+    "player_name": "Billy Lefear",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 173.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-morton_1973_DAL",
+    "player_name": "Craig Morton",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 174.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_daryle-lamonica_1973_LV",
+    "player_name": "Daryle Lamonica",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 607.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bo-scott_1973_CLE",
+    "player_name": "Bo Scott",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 102.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-thomas_1973_LAC",
+    "player_name": "Bob Thomas",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 99.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_golden-richards_1973_DAL",
+    "player_name": "Golden Richards",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 93.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-knight_1973_NYJ",
+    "player_name": "David Knight",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 78.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-shy_1973_LAR",
+    "player_name": "Don Shy",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 81.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_duane-thomas_1973_WAS",
+    "player_name": "Duane Thomas",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 135.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-hilton_1973_DET",
+    "player_name": "John Hilton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 70.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-lawson_1973_CHI",
+    "player_name": "Roger Lawson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 130.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-reynolds_1973_CHI",
+    "player_name": "Tom Reynolds",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 127.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-scribner_1973_LAR",
+    "player_name": "Rob Scribner",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 128.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-amundson_1973_HOU",
+    "player_name": "George Amundson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 116.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-clark_1973_LAC",
+    "player_name": "Wayne Clark",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 618.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-coslet_1973_CIN",
+    "player_name": "Bruce Coslet",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 123.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-curran_1973_LAR",
+    "player_name": "Pat Curran",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 56.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leland-glass_1973_GB",
+    "player_name": "Leland Glass",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 119.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-hancock_1973_WAS",
+    "player_name": "Mike Hancock",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 3.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-hooks_1973_DET",
+    "player_name": "Jim Hooks",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 116.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_les-strayhorn_1973_DAL",
+    "player_name": "Les Strayhorn",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 62.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harmon-wages_1973_ATL",
+    "player_name": "Harmon Wages",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 61.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lee-bouggess_1973_PHI",
+    "player_name": "Lee Bouggess",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 52.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-seymour_1973_BUF",
+    "player_name": "Paul Seymour",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 114.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-sweeney_1973_LV",
+    "player_name": "Steve Sweeney",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 52.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-barnes_1973_DET",
+    "player_name": "Al Barnes",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 43.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-nance_1973_NYJ",
+    "player_name": "Jim Nance",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 104.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-scott_1973_NO",
+    "player_name": "Bobby Scott",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 263.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hank-bjorklund_1973_NYJ",
+    "player_name": "Hank Bjorklund",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 87.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leon-crosswhite_1973_DET",
+    "player_name": "Leon Crosswhite",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 34.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-del-gaizo_1973_GB",
+    "player_name": "Jim Del Gaizo",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 319.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-houston_1973_NYG",
+    "player_name": "Rich Houston",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 90.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hugh-mckinnis_1973_CLE",
+    "player_name": "Hugh McKinnis",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 88.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-parsons_1973_CHI",
+    "player_name": "Bob Parsons",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 25.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-isenbarger_1973_SF",
+    "player_name": "John Isenbarger",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 109.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-mcclain_1973_NYJ",
+    "player_name": "Cliff McClain",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 84.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-grant_1973_WAS",
+    "player_name": "Frank Grant",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 12.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-kosins_1973_CHI",
+    "player_name": "Gary Kosins",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 73.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-mcgee_1973_LAC",
+    "player_name": "Willie McGee",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 67.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-west_1973_KC",
+    "player_name": "Robert West",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 65.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-andrews_1973_BAL",
+    "player_name": "John Andrews",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 1.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chip-glass_1973_CLE",
+    "player_name": "Chip Glass",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 60.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-harris_1973_LAR",
+    "player_name": "James Harris",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 97.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lewis-jolley_1973_HOU",
+    "player_name": "Lewis Jolley",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 62.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-masters_1973_DEN",
+    "player_name": "Billy Masters",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 56.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mickey-zofko_1973_DET",
+    "player_name": "Mickey Zofko",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 84.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-berry_1973_MIN",
+    "player_name": "Bob Berry",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 126.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-hammond_1973_LAR",
+    "player_name": "Gary Hammond",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 50.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-horn_1973_CLE",
+    "player_name": "Don Horn",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 22.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-winslow_1973_NO",
+    "player_name": "Doug Winslow",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-thomas_1973_HOU",
+    "player_name": "Bill Thomas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 43.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-wilson_1973_CIN",
+    "player_name": "Joe Wilson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 39.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-george_1973_CIN",
+    "player_name": "Tim George",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 28.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-holden_1973_CLE",
+    "player_name": "Steve Holden",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-kingsriter_1973_MIN",
+    "player_name": "Doug Kingsriter",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-lash_1973_MIN",
+    "player_name": "Jim Lash",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 34.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-mccall_1973_NE",
+    "player_name": "Bob McCall",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 33.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-mialik_1973_ATL",
+    "player_name": "Larry Mialik",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 30.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-morrall_1973_MIA",
+    "player_name": "Earl Morrall",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 262.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ollie-smith_1973_BAL",
+    "player_name": "Ollie Smith",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 34.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_howard-twilley_1973_MIA",
+    "player_name": "Howard Twilley",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 30.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-van-valkenberg_1973_BUF",
+    "player_name": "Pete Van Valkenberg",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marv-fleming_1973_MIA",
+    "player_name": "Marv Fleming",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-havrilak_1973_BAL",
+    "player_name": "Sam Havrilak",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 18.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_odell-lawson_1973_NO",
+    "player_name": "Odell Lawson",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 18.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lincoln-minor_1973_NO",
+    "player_name": "Lincoln Minor",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herb-mul-key_1973_WAS",
+    "player_name": "Herb Mul-Key",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 20.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-oliver_1973_PHI",
+    "player_name": "Greg Oliver",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stan-davis_1973_PHI",
+    "player_name": "Stan Davis",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-donohoe_1973_GB",
+    "player_name": "Mike Donohoe",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-highsmith_1973_GB",
+    "player_name": "Don Highsmith",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-hudson_1973_LV",
+    "player_name": "Bob Hudson",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-jarvis_1973_BUF",
+    "player_name": "Ray Jarvis",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-jones_1973_BUF",
+    "player_name": "Steve Jones",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 9.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-krause_1973_GB",
+    "player_name": "Larry Krause",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 8.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mcfarland_1973_LAR",
+    "player_name": "Jim McFarland",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1973,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_warren-mcvea_1973_KC",
+    "player_name": "Warren McVea",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-o-brien_1973_DET",
+    "player_name": "Jim O'Brien",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-rizzo_1973_NYG",
+    "player_name": "Jack Rizzo",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dick-witcher_1973_SF",
+    "player_name": "Dick Witcher",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1973,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 13.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rocky-bleier_1973_PIT",
+    "player_name": "Rocky Bleier",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 0.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-brunet_1973_WAS",
+    "player_name": "Bob Brunet",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 4.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-hull_1973_WAS",
+    "player_name": "Mike Hull",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1973,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": -3.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-cappleman_1973_DET",
+    "player_name": "Bill Cappleman",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 31.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-demory_1973_NYJ",
+    "player_name": "Bill Demory",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1973,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 158.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  }
+]

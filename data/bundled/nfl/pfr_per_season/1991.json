@@ -1,0 +1,6572 @@
+[
+  {
+    "player_id": "pfr_barry-sanders_1991_DET",
+    "player_name": "Barry Sanders",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1855.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_thurman-thomas_1991_BUF",
+    "player_name": "Thurman Thomas",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2038.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emmitt-smith_1991_DAL",
+    "player_name": "Emmitt Smith",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1821.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-kelly_1991_BUF",
+    "player_name": "Jim Kelly",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3889.0,
+      "td": 34.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-rice_1991_SF",
+    "player_name": "Jerry Rice",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1208.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_warren-moon_1991_HOU",
+    "player_name": "Warren Moon",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4758.0,
+      "td": 25.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-irvin_1991_DAL",
+    "player_name": "Michael Irvin",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1523.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-clark_1991_WAS",
+    "player_name": "Gary Clark",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1340.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-marino_1991_MIA",
+    "player_name": "Dan Marino",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4002.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-rypien_1991_WAS",
+    "player_name": "Mark Rypien",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3570.0,
+      "td": 29.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-reed_1991_BUF",
+    "player_name": "Andre Reed",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1249.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-haynes_1991_ATL",
+    "player_name": "Michael Haynes",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1122.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rodney-hampton_1991_NYG",
+    "player_name": "Rodney Hampton",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1342.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-clayton_1991_MIA",
+    "player_name": "Mark Clayton",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1053.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-delpino_1991_LAR",
+    "player_name": "Robert Delpino",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1305.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-elway_1991_DEN",
+    "player_name": "John Elway",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3532.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-rison_1991_ATL",
+    "player_name": "Andre Rison",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 967.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-young_1991_SF",
+    "player_name": "Steve Young",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2932.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-miller_1991_ATL",
+    "player_name": "Chris Miller",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3332.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haywood-jeffires_1991_HOU",
+    "player_name": "Haywood Jeffires",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1181.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marv-cook_1991_NE",
+    "player_name": "Marv Cook",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 808.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-lofton_1991_BUF",
+    "player_name": "James Lofton",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1072.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-taylor_1991_SF",
+    "player_name": "John Taylor",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1011.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-monk_1991_WAS",
+    "player_name": "Art Monk",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1068.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ethan-horton_1991_LV",
+    "player_name": "Ethan Horton",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 650.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-green_1991_PIT",
+    "player_name": "Eric Green",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 582.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earnest-byner_1991_WAS",
+    "player_name": "Earnest Byner",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1374.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jay-novacek_1991_DAL",
+    "player_name": "Jay Novacek",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 664.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_neal-anderson_1991_CHI",
+    "player_name": "Neal Anderson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1115.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bernie-kosar_1991_CLE",
+    "player_name": "Bernie Kosar",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3562.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-jackson_1991_PHI",
+    "player_name": "Keith Jackson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 569.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herschel-walker_1991_MIN",
+    "player_name": "Herschel Walker",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1029.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-harbaugh_1991_CHI",
+    "player_name": "Jim Harbaugh",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3459.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_christian-okoye_1991_KC",
+    "player_name": "Christian Okoye",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1065.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-mack_1991_CLE",
+    "player_name": "Kevin Mack",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 981.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_floyd-turner_1991_NO",
+    "player_name": "Floyd Turner",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 927.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-duper_1991_MIA",
+    "player_name": "Mark Duper",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1085.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_allen-pinkett_1991_HOU",
+    "player_name": "Allen Pinkett",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 948.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-williams_1991_SEA",
+    "player_name": "John Williams",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1240.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-jordan_1991_MIN",
+    "player_name": "Steve Jordan",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 638.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_drew-hill_1991_HOU",
+    "player_name": "Drew Hill",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1110.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ernest-givins_1991_HOU",
+    "player_name": "Ernest Givins",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1026.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wendell-davis_1991_CHI",
+    "player_name": "Wendell Davis",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 945.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-moore_1991_NYJ",
+    "player_name": "Rob Moore",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 987.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brad-baxter_1991_NYJ",
+    "player_name": "Brad Baxter",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 790.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cris-carter_1991_MIN",
+    "player_name": "Cris Carter",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 962.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rod-bernstine_1991_LAC",
+    "player_name": "Rod Bernstine",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 901.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-ellard_1991_LAR",
+    "player_name": "Henry Ellard",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1052.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ernie-jones_1991_ARI",
+    "player_name": "Ernie Jones",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 981.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leroy-hoard_1991_CLE",
+    "player_name": "Leroy Hoard",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 721.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-mckeller_1991_BUF",
+    "player_name": "Keith McKeller",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 434.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-clark_1991_IND",
+    "player_name": "Ken Clark",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 611.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sterling-sharpe_1991_GB",
+    "player_name": "Sterling Sharpe",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 965.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_irving-fryar_1991_NE",
+    "player_name": "Irving Fryar",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1025.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-barnett_1991_PHI",
+    "player_name": "Fred Barnett",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 948.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gaston-green_1991_DEN",
+    "player_name": "Gaston Green",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1115.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marion-butts_1991_LAC",
+    "player_name": "Marion Butts",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 925.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-mcewen_1991_LAC",
+    "player_name": "Craig McEwen",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 399.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rodney-holman_1991_CIN",
+    "player_name": "Rodney Holman",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 445.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-blades_1991_SEA",
+    "player_name": "Brian Blades",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1020.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-brooks_1991_IND",
+    "player_name": "Bill Brooks",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 888.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-price_1991_LAR",
+    "player_name": "Jim Price",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 410.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-cobb_1991_TB",
+    "player_name": "Reggie Cobb",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 863.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leonard-russell_1991_NE",
+    "player_name": "Leonard Russell",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1040.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-workman_1991_GB",
+    "player_name": "Vince Workman",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 608.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_webster-slaughter_1991_CLE",
+    "player_name": "Webster Slaughter",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 906.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-johnson_1991_ARI",
+    "player_name": "Johnny Johnson",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 891.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-dawsey_1991_TB",
+    "player_name": "Lawrence Dawsey",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 827.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-o-brien_1991_NYJ",
+    "player_name": "Ken O'Brien",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3387.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-higgs_1991_MIA",
+    "player_name": "Mark Higgs",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 985.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-gannon_1991_MIN",
+    "player_name": "Rich Gannon",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2402.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jessie-hester_1991_IND",
+    "player_name": "Jessie Hester",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 753.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronnie-harmon_1991_LAC",
+    "player_name": "Ronnie Harmon",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1099.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-martin_1991_NO",
+    "player_name": "Eric Martin",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 803.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-mcgee_1991_CIN",
+    "player_name": "Tim McGee",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 802.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_blair-thomas_1991_NYJ",
+    "player_name": "Blair Thomas",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 939.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jackie-harris_1991_GB",
+    "player_name": "Jackie Harris",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 265.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-deberg_1991_KC",
+    "player_name": "Steve DeBerg",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2950.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-everett_1991_LAR",
+    "player_name": "Jim Everett",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3482.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boomer-esiason_1991_CIN",
+    "player_name": "Boomer Esiason",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2949.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_troy-aikman_1991_DAL",
+    "player_name": "Troy Aikman",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2753.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hugh-millen_1991_NE",
+    "player_name": "Hugh Millen",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3165.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jay-schroeder_1991_LV",
+    "player_name": "Jay Schroeder",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2638.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-friesz_1991_LAC",
+    "player_name": "John Friesz",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2914.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-george_1991_IND",
+    "player_name": "Jeff George",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2946.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-hostetler_1991_NYG",
+    "player_name": "Jeff Hostetler",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2305.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mcmahon_1991_PHI",
+    "player_name": "Jim McMahon",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2289.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_neil-o-donnell_1991_PIT",
+    "player_name": "Neil O'Donnell",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2045.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-byars_1991_PHI",
+    "player_name": "Keith Byars",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 947.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_merril-hoge_1991_PIT",
+    "player_name": "Merril Hoge",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 989.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-brooks_1991_CIN",
+    "player_name": "James Brooks",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 919.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brad-muster_1991_CHI",
+    "player_name": "Brad Muster",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 699.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-ervins_1991_WAS",
+    "player_name": "Ricky Ervins",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 861.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-krieg_1991_SEA",
+    "player_name": "Dave Krieg",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2139.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-bono_1991_SF",
+    "player_name": "Steve Bono",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1663.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenneth-davis_1991_BUF",
+    "player_name": "Kenneth Davis",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 742.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-carter_1991_MIN",
+    "player_name": "Anthony Carter",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 670.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_erik-kramer_1991_DET",
+    "player_name": "Erik Kramer",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1661.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gill-fenerty_1991_NO",
+    "player_name": "Gill Fenerty",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 712.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-green_1991_DET",
+    "player_name": "Willie Green",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 592.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-tomczak_1991_GB",
+    "player_name": "Mike Tomczak",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1583.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-clark_1991_DET",
+    "player_name": "Robert Clark",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 640.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-ingram_1991_NYG",
+    "player_name": "Mark Ingram",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 824.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-dickerson_1991_IND",
+    "player_name": "Eric Dickerson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 805.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-green_1991_CIN",
+    "player_name": "Harold Green",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 867.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-sanders_1991_WAS",
+    "player_name": "Ricky Sanders",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 627.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-henderson_1991_SF",
+    "player_name": "Keith Henderson",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 864.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-walsh_1991_NO",
+    "player_name": "Steve Walsh",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1638.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-toon_1991_NYJ",
+    "player_name": "Al Toon",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 990.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-brown_1991_CIN",
+    "player_name": "Eddie Brown",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 835.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-tupa_1991_ARI",
+    "player_name": "Tom Tupa",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2150.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-stone_1991_PIT",
+    "player_name": "Dwight Stone",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 651.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barry-word_1991_KC",
+    "player_name": "Barry Word",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 697.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-hebert_1991_NO",
+    "player_name": "Bobby Hebert",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1732.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vinny-testaverde_1991_TB",
+    "player_name": "Vinny Testaverde",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2095.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lorenzo-white_1991_HOU",
+    "player_name": "Lorenzo White",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 676.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-proehl_1991_ARI",
+    "player_name": "Ricky Proehl",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 787.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gerald-riggs_1991_WAS",
+    "player_name": "Gerald Riggs",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 253.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-sewell_1991_DEN",
+    "player_name": "Steve Sewell",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 671.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tommy-kane_1991_SEA",
+    "player_name": "Tommy Kane",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 763.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-broussard_1991_ATL",
+    "player_name": "Steve Broussard",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 569.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-brown_1991_LV",
+    "player_name": "Tim Brown",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 570.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-barnett_1991_KC",
+    "player_name": "Tim Barnett",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 564.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_curtis-duncan_1991_HOU",
+    "player_name": "Curtis Duncan",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 588.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-miller_1991_LAC",
+    "player_name": "Anthony Miller",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 649.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-rathman_1991_SF",
+    "player_name": "Tom Rathman",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 469.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-carrier_1991_TB",
+    "player_name": "Mark Carrier",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 698.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dexter-carter_1991_SF",
+    "player_name": "Dexter Carter",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 632.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rodney-peete_1991_DET",
+    "player_name": "Rodney Peete",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1464.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-allen_1991_MIN",
+    "player_name": "Terry Allen",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 612.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-craig_1991_LV",
+    "player_name": "Roger Craig",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 726.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_louis-lipps_1991_PIT",
+    "player_name": "Louis Lipps",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 671.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-waddle_1991_CHI",
+    "player_name": "Tom Waddle",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 599.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stephen-baker_1991_NYG",
+    "player_name": "Stephen Baker",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 525.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-beebe_1991_BUF",
+    "player_name": "Don Beebe",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 414.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harvey-williams_1991_KC",
+    "player_name": "Harvey Williams",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 594.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harry-sydney_1991_SF",
+    "player_name": "Harry Sydney",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 335.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mervyn-fernandez_1991_LV",
+    "player_name": "Mervyn Fernandez",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 694.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-young_1991_DEN",
+    "player_name": "Mike Young",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 629.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bubby-brister_1991_PIT",
+    "player_name": "Bubby Brister",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1367.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nate-lewis_1991_LAC",
+    "player_name": "Nate Lewis",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 564.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brett-perriman_1991_DET",
+    "player_name": "Brett Perriman",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 678.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pritchard_1991_ATL",
+    "player_name": "Mike Pritchard",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 624.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_phil-simms_1991_NYG",
+    "player_name": "Phil Simms",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1035.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barry-foster_1991_PIT",
+    "player_name": "Barry Foster",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 605.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-majkowski_1991_GB",
+    "player_name": "Don Majkowski",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1470.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-mcmurtry_1991_NE",
+    "player_name": "Greg McMurtry",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 614.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_perry-kemp_1991_GB",
+    "player_name": "Perry Kemp",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 583.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dalton-hilliard_1991_NO",
+    "player_name": "Dalton Hilliard",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 379.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-jackson_1991_DEN",
+    "player_name": "Mark Jackson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 621.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-joseph_1991_PHI",
+    "player_name": "James Joseph",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 504.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_quinn-early_1991_NO",
+    "player_name": "Quinn Early",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 554.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_warren-williams_1991_PIT",
+    "player_name": "Warren Williams",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 401.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-langhorne_1991_CLE",
+    "player_name": "Reggie Langhorne",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 505.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-lewis_1991_DEN",
+    "player_name": "Greg Lewis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 385.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-mcafee_1991_NO",
+    "player_name": "Fred McAfee",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 502.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emile-harry_1991_KC",
+    "player_name": "Emile Harry",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 431.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-heyward_1991_NO",
+    "player_name": "Craig Heyward",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 338.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darrell-thompson_1991_GB",
+    "player_name": "Darrell Thompson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 542.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_flipper-anderson_1991_LAR",
+    "player_name": "Flipper Anderson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 530.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-j-birden_1991_KC",
+    "player_name": "J.J. Birden",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 465.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-gault_1991_LV",
+    "player_name": "Willie Gault",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 346.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-timpson_1991_NE",
+    "player_name": "Michael Timpson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 467.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marcus-allen_1991_LV",
+    "player_name": "Marcus Allen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 429.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-fenner_1991_SEA",
+    "player_name": "Derrick Fenner",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 339.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-burkett_1991_NYJ",
+    "player_name": "Chris Burkett",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 325.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-woodside_1991_GB",
+    "player_name": "Keith Woodside",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 511.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robb-thomas_1991_KC",
+    "player_name": "Robb Thomas",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 495.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nick-bell_1991_LV",
+    "player_name": "Nick Bell",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 369.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-martin_1991_MIA",
+    "player_name": "Tony Martin",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 434.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-paige_1991_MIA",
+    "player_name": "Tony Paige",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 494.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darrin-nelson_1991_MIN",
+    "player_name": "Darrin Nelson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 377.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-smith_1991_LV",
+    "player_name": "Steve Smith",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 395.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-anderson_1991_TB",
+    "player_name": "Gary Anderson",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 447.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-beuerlein_1991_DAL",
+    "player_name": "Steve Beuerlein",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 895.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-williams_1991_PHI",
+    "player_name": "Calvin Williams",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 326.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-farr_1991_DET",
+    "player_name": "Mike Farr",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 431.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-morris_1991_CLE",
+    "player_name": "Joe Morris",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 365.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-thompson_1991_ARI",
+    "player_name": "Anthony Thompson",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 428.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-thomas_1991_ATL",
+    "player_name": "George Thomas",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 365.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freeman-mcneil_1991_NYJ",
+    "player_name": "Freeman McNeil",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 356.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-green_1991_CHI",
+    "player_name": "Mark Green",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 271.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-mcnair_1991_KC",
+    "player_name": "Todd McNair",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 393.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sammie-smith_1991_MIA",
+    "player_name": "Sammie Smith",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 392.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-chadwick_1991_SEA",
+    "player_name": "Jeff Chadwick",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 255.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-johnson_1991_IND",
+    "player_name": "Anthony Johnson",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 438.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hassan-jones_1991_MIN",
+    "player_name": "Hassan Jones",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 384.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-jones_1991_SEA",
+    "player_name": "James Jones",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 257.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-orr_1991_WAS",
+    "player_name": "Terry Orr",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 201.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cleveland-gary_1991_LAR",
+    "player_name": "Cleveland Gary",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 355.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brent-jones_1991_SF",
+    "player_name": "Brent Jones",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 417.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_buford-jordan_1991_NO",
+    "player_name": "Buford Jordan",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 242.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-sherrard_1991_SF",
+    "player_name": "Mike Sherrard",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 296.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-wilson_1991_TB",
+    "player_name": "Robert Wilson",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 300.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carwell-gardner_1991_BUF",
+    "player_name": "Carwell Gardner",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 166.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terance-mathis_1991_NYJ",
+    "player_name": "Terance Mathis",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 348.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-nattiel_1991_DEN",
+    "player_name": "Ricky Nattiel",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 288.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_erric-pegram_1991_ATL",
+    "player_name": "Erric Pegram",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 348.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_howard-cross_1991_NYG",
+    "player_name": "Howard Cross",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 283.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-hector_1991_NYJ",
+    "player_name": "Johnny Hector",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 396.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_shannon-sharpe_1991_DEN",
+    "player_name": "Shannon Sharpe",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 337.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-stephens_1991_NE",
+    "player_name": "John Stephens",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 282.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-taylor_1991_CIN",
+    "player_name": "Craig Taylor",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 275.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jon-vaughn_1991_NE",
+    "player_name": "Jon Vaughn",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 248.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-brennan_1991_CLE",
+    "player_name": "Brian Brennan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 325.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alvin-harper_1991_DAL",
+    "player_name": "Alvin Harper",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 326.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-jackson_1991_CLE",
+    "player_name": "Michael Jackson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 268.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vance-johnson_1991_DEN",
+    "player_name": "Vance Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 208.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-rozier_1991_ATL",
+    "player_name": "Mike Rozier",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 376.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-russell_1991_DEN",
+    "player_name": "Derek Russell",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 317.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lewis-tillman_1991_NYG",
+    "player_name": "Lewis Tillman",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 317.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_damone-johnson_1991_LAR",
+    "player_name": "Damone Johnson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 253.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-jones_1991_HOU",
+    "player_name": "Tony Jones",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 251.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ickey-woods_1991_CIN",
+    "player_name": "Ickey Woods",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 133.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roy-green_1991_PHI",
+    "player_name": "Roy Green",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 364.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_daryl-johnston_1991_DAL",
+    "player_name": "Daryl Johnston",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 298.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_odessa-turner_1991_NYG",
+    "player_name": "Odessa Turner",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 356.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_louis-clark_1991_SEA",
+    "player_name": "Louis Clark",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 228.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-morgan_1991_CHI",
+    "player_name": "Anthony Morgan",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 229.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_heath-sherman_1991_PHI",
+    "player_name": "Heath Sherman",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 338.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-thornton_1991_CHI",
+    "player_name": "James Thornton",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 278.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-joe-tolliver_1991_ATL",
+    "player_name": "Billy Joe Tolliver",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 537.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-baty_1991_MIA",
+    "player_name": "Greg Baty",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 269.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-galbraith_1991_CLE",
+    "player_name": "Scott Galbraith",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 328.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jonathan-hayes_1991_KC",
+    "player_name": "Jonathan Hayes",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 208.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-reich_1991_BUF",
+    "player_name": "Frank Reich",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 311.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-west_1991_GB",
+    "player_name": "Ed West",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 151.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-barber_1991_CIN",
+    "player_name": "Michael Barber",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 255.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-calloway_1991_PIT",
+    "player_name": "Chris Calloway",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 254.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-edwards_1991_BUF",
+    "player_name": "Al Edwards",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 245.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-hill_1991_TB",
+    "player_name": "Bruce Hill",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 185.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-jensen_1991_MIA",
+    "player_name": "Jim Jensen",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 200.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-tice_1991_SEA",
+    "player_name": "Mike Tice",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 70.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jamie-williams_1991_SF",
+    "player_name": "Jamie Williams",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 235.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marcus-dupree_1991_LAR",
+    "player_name": "Marcus Dupree",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 225.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-hall_1991_TB",
+    "player_name": "Ron Hall",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 284.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_adrian-cooper_1991_PIT",
+    "player_name": "Adrian Cooper",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 147.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_travis-mcneal_1991_SEA",
+    "player_name": "Travis McNeal",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 208.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-graddy_1991_LV",
+    "player_name": "Sam Graddy",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 195.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ottis-anderson_1991_NYG",
+    "player_name": "Ottis Anderson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 182.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wesley-carroll_1991_NO",
+    "player_name": "Wesley Carroll",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 184.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ferrell-edmunds_1991_MIA",
+    "player_name": "Ferrell Edmunds",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 118.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andrew-glover_1991_LV",
+    "player_name": "Andrew Glover",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 45.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-holohan_1991_KC",
+    "player_name": "Pete Holohan",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 113.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_buford-mcgee_1991_LAR",
+    "player_name": "Buford McGee",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 225.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-tice_1991_NO",
+    "player_name": "John Tice",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 230.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-centers_1991_ARI",
+    "player_name": "Larry Centers",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 220.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aaron-cox_1991_LAR",
+    "player_name": "Aaron Cox",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 216.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-perryman_1991_DEN",
+    "player_name": "Bob Perryman",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 216.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kitrick-taylor_1991_LAC",
+    "player_name": "Kitrick Taylor",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 218.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_floyd-dixon_1991_ATL",
+    "player_name": "Floyd Dixon",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 146.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stan-gelbaugh_1991_ARI",
+    "player_name": "Stan Gelbaugh",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 697.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-gentry_1991_CHI",
+    "player_name": "Dennis Gentry",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 207.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_shawn-jefferson_1991_LAC",
+    "player_name": "Shawn Jefferson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 152.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-manoa_1991_IND",
+    "player_name": "Tim Manoa",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 149.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-vlasic_1991_KC",
+    "player_name": "Mark Vlasic",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 315.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-coleman_1991_HOU",
+    "player_name": "Pat Coleman",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 138.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfredo-roberts_1991_DAL",
+    "player_name": "Alfredo Roberts",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 136.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jesse-anderson_1991_TB",
+    "player_name": "Jesse Anderson",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 73.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-carter_1991_LAR",
+    "player_name": "Pat Carter",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 69.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-chaffey_1991_ATL",
+    "player_name": "Pat Chaffey",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 127.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aaron-craver_1991_MIA",
+    "player_name": "Aaron Craver",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 125.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_maurice-johnson_1991_PHI",
+    "player_name": "Maurice Johnson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 70.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfred-anderson_1991_MIN",
+    "player_name": "Alfred Anderson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 120.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-banks_1991_MIA",
+    "player_name": "Fred Banks",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 119.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hoby-brenner_1991_NO",
+    "player_name": "Hoby Brenner",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 179.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rembert_1991_CIN",
+    "player_name": "Reggie Rembert",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 117.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leroy-thompson_1991_PIT",
+    "player_name": "Leroy Thompson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 178.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-dingle_1991_CIN",
+    "player_name": "Mike Dingle",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 114.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_napoleon-mccallum_1991_LV",
+    "player_name": "Napoleon McCallum",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 110.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-metzelaars_1991_BUF",
+    "player_name": "Pete Metzelaars",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 54.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-rouse_1991_CHI",
+    "player_name": "James Rouse",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 167.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alexander-wright_1991_DAL",
+    "player_name": "Alexander Wright",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 169.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-jones_1991_KC",
+    "player_name": "Bill Jones",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 97.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-boyer_1991_NYJ",
+    "player_name": "Mark Boyer",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 153.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-brown_1991_HOU",
+    "player_name": "Gary Brown",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 86.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_maurice-carthon_1991_NYG",
+    "player_name": "Maurice Carthon",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 148.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ben-coates_1991_NE",
+    "player_name": "Ben Coates",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 89.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-drummond_1991_PHI",
+    "player_name": "Robert Drummond",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 27.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_donald-hollas_1991_CIN",
+    "player_name": "Donald Hollas",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 376.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ivy-joe-hunter_1991_NE",
+    "player_name": "Ivy Joe Hunter",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 150.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-mccaffrey_1991_NYG",
+    "player_name": "Ed McCaffrey",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 146.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-secules_1991_MIA",
+    "player_name": "Scott Secules",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 120.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vernon-turner_1991_LAR",
+    "player_name": "Vernon Turner",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 85.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-weathers_1991_GB",
+    "player_name": "Clarence Weathers",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 150.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-kattus_1991_CIN",
+    "player_name": "Eric Kattus",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 136.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-kay_1991_DEN",
+    "player_name": "Clarence Kay",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 139.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ernie-mills_1991_PIT",
+    "player_name": "Ernie Mills",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 79.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herman-moore_1991_DET",
+    "player_name": "Herman Moore",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 135.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_zeke-mowatt_1991_NYG",
+    "player_name": "Zeke Mowatt",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 78.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pagel_1991_LAR",
+    "player_name": "Mike Pagel",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 150.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmie-johnson_1991_WAS",
+    "player_name": "Jimmie Johnson",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 7.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-johnson_1991_DEN",
+    "player_name": "Reggie Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 73.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-jones_1991_MIN",
+    "player_name": "Mike Jones",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 8.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-jorden_1991_ARI",
+    "player_name": "Tim Jorden",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 127.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_butch-rolle_1991_BUF",
+    "player_name": "Butch Rolle",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 10.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-walker_1991_LAC",
+    "player_name": "Derrick Walker",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 134.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tommie-agee_1991_DAL",
+    "player_name": "Tommie Agee",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 63.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-dressel_1991_NYJ",
+    "player_name": "Chris Dressel",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 122.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-fenney_1991_MIN",
+    "player_name": "Rick Fenney",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 110.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-jackson_1991_ARI",
+    "player_name": "John Jackson",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 108.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-jennings_1991_CHI",
+    "player_name": "Keith Jennings",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 109.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_allen-rice_1991_GB",
+    "player_name": "Allen Rice",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 110.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-ball_1991_CIN",
+    "player_name": "Eric Ball",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 38.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leonard-harris_1991_HOU",
+    "player_name": "Leonard Harris",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 101.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-hodson_1991_NE",
+    "player_name": "Tom Hodson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 345.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-overton_1991_DET",
+    "player_name": "Don Overton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 97.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-rutledge_1991_WAS",
+    "player_name": "Jeff Rutledge",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 176.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_troy-stradford_1991_KC",
+    "player_name": "Troy Stradford",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 98.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-tasker_1991_BUF",
+    "player_name": "Steve Tasker",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 39.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terrence-flagler_1991_ARI",
+    "player_name": "Terrence Flagler",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 92.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-jones_1991_KC",
+    "player_name": "Fred Jones",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 85.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-mrosko_1991_IND",
+    "player_name": "Bob Mrosko",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 90.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-query_1991_GB",
+    "player_name": "Jeff Query",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 94.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-loville_1991_SEA",
+    "player_name": "Derek Loville",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 69.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-mularkey_1991_PIT",
+    "player_name": "Mike Mularkey",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 67.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jason-phillips_1991_ATL",
+    "player_name": "Jason Phillips",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 73.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-saxon_1991_KC",
+    "player_name": "James Saxon",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 68.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marvin-allen_1991_NE",
+    "player_name": "Marvin Allen",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 59.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-awalt_1991_DAL",
+    "player_name": "Robert Awalt",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 57.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-beach_1991_IND",
+    "player_name": "Pat Beach",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 56.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_a-b-brown_1991_NYJ",
+    "player_name": "A.B. Brown",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 4.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-brown_1991_LAR",
+    "player_name": "Ron Brown",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 63.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-thomas_1991_TB",
+    "player_name": "Ed Thomas",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 55.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-anthony_1991_TB",
+    "player_name": "Terry Anthony",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 51.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-campbell_1991_DET",
+    "player_name": "Jeff Campbell",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 49.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-carpenter_1991_NE",
+    "player_name": "Rob Carpenter",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_d-j-dozier_1991_DET",
+    "player_name": "D.J. Dozier",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 51.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cedric-jackson_1991_DET",
+    "player_name": "Cedric Jackson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 53.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-jackson_1991_PHI",
+    "player_name": "Kenny Jackson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 47.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tracy-johnson_1991_ATL",
+    "player_name": "Tracy Johnson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 53.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-miller_1991_MIA",
+    "player_name": "Scott Miller",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 49.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walter-reeves_1991_ARI",
+    "player_name": "Walter Reeves",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-warren_1991_WAS",
+    "player_name": "Don Warren",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 51.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sanjay-beach_1991_SF",
+    "player_name": "Sanjay Beach",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 43.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cap-boso_1991_CHI",
+    "player_name": "Cap Boso",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 36.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-daniels_1991_SEA",
+    "player_name": "David Daniels",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 38.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dale-dawkins_1991_NYJ",
+    "player_name": "Dale Dawkins",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 38.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darren-lewis_1991_CHI",
+    "player_name": "Darren Lewis",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 36.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leo-lewis_1991_MIN",
+    "player_name": "Leo Lewis",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 36.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-tennell_1991_DET",
+    "player_name": "Derek Tennell",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 43.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_spencer-tillman_1991_SF",
+    "player_name": "Spencer Tillman",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 43.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-middleton_1991_WAS",
+    "player_name": "Ron Middleton",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 25.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-newman_1991_NO",
+    "player_name": "Pat Newman",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 33.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brent-novoselsky_1991_MIN",
+    "player_name": "Brent Novoselsky",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-thomas_1991_SEA",
+    "player_name": "Doug Thomas",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-whisenhunt_1991_NYJ",
+    "player_name": "Ken Whisenhunt",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 34.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-bieniemy_1991_LAC",
+    "player_name": "Eric Bieniemy",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 17.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-graham_1991_PIT",
+    "player_name": "Jeff Graham",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 21.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-henry_1991_MIA",
+    "player_name": "Charles Henry",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 17.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stephen-hobbs_1991_WAS",
+    "player_name": "Stephen Hobbs",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_glen-kozlowski_1991_CHI",
+    "player_name": "Glen Kozlowski",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1991,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 16.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-kubiak_1991_DEN",
+    "player_name": "Gary Kubiak",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 44.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lee-rouson_1991_CLE",
+    "player_name": "Lee Rouson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 23.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wesley-walls_1991_SF",
+    "player_name": "Wesley Walls",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-warren_1991_SEA",
+    "player_name": "Chris Warren",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jarrod-bunch_1991_NYG",
+    "player_name": "Jarrod Bunch",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 8.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-coley_1991_IND",
+    "player_name": "James Coley",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 13.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marc-logan_1991_MIA",
+    "player_name": "Marc Logan",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-morse_1991_NO",
+    "player_name": "Bobby Morse",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-perkins_1991_IND",
+    "player_name": "Bruce Perkins",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 9.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-riggs_1991_CIN",
+    "player_name": "Jim Riggs",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rivers_1991_DEN",
+    "player_name": "Reggie Rivers",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1991,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_duane-young_1991_LAC",
+    "player_name": "Duane Young",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-wainright_1991_NO",
+    "player_name": "Frank Wainright",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1991,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 3.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  }
+]

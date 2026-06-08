@@ -1,0 +1,6950 @@
+[
+  {
+    "player_id": "pfr_brett-favre_1996_GB",
+    "player_name": "Brett Favre",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4035.0,
+      "td": 41.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-allen_1996_WAS",
+    "player_name": "Terry Allen",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1547.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terrell-davis_1996_DEN",
+    "player_name": "Terrell Davis",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1848.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vinny-testaverde_1996_BAL",
+    "player_name": "Vinny Testaverde",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4365.0,
+      "td": 35.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-watters_1996_PHI",
+    "player_name": "Ricky Watters",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1855.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_curtis-martin_1996_NE",
+    "player_name": "Curtis Martin",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1485.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-brunell_1996_JAX",
+    "player_name": "Mark Brunell",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4763.0,
+      "td": 22.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emmitt-smith_1996_DAL",
+    "player_name": "Emmitt Smith",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1453.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barry-sanders_1996_DET",
+    "player_name": "Barry Sanders",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1700.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_shannon-sharpe_1996_DEN",
+    "player_name": "Shannon Sharpe",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 1062.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-blake_1996_CIN",
+    "player_name": "Jeff Blake",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3941.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-elway_1996_DEN",
+    "player_name": "John Elway",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3577.0,
+      "td": 30.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerome-bettis_1996_PIT",
+    "player_name": "Jerome Bettis",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1553.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-jackson_1996_BAL",
+    "player_name": "Michael Jackson",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1201.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_drew-bledsoe_1996_NE",
+    "player_name": "Drew Bledsoe",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4113.0,
+      "td": 27.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-martin_1996_LAC",
+    "player_name": "Tony Martin",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1171.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carl-pickens_1996_CIN",
+    "player_name": "Carl Pickens",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1194.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-george_1996_HOU",
+    "player_name": "Eddie George",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1550.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-rice_1996_SF",
+    "player_name": "Jerry Rice",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1331.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herman-moore_1996_DET",
+    "player_name": "Herman Moore",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1296.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_irving-fryar_1996_PHI",
+    "player_name": "Irving Fryar",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1191.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wesley-walls_1996_CAR",
+    "player_name": "Wesley Walls",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 713.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_karim-abdul-jabbar_1996_MIA",
+    "player_name": "Karim Abdul-Jabbar",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1255.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cris-carter_1996_MIN",
+    "player_name": "Cris Carter",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1163.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ben-coates_1996_NE",
+    "player_name": "Ben Coates",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 682.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jamal-anderson_1996_ATL",
+    "player_name": "Jamal Anderson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1528.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_isaac-bruce_1996_LAR",
+    "player_name": "Isaac Bruce",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1357.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jake-reed_1996_MIN",
+    "player_name": "Jake Reed",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1320.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-brown_1996_LV",
+    "player_name": "Tim Brown",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1139.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-smith_1996_JAX",
+    "player_name": "Jimmy Smith",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1244.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-alexander_1996_BAL",
+    "player_name": "Derrick Alexander",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1099.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_thurman-thomas_1996_BUF",
+    "player_name": "Thurman Thomas",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1287.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-jackson_1996_GB",
+    "player_name": "Keith Jackson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 505.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_adrian-murrell_1996_NYJ",
+    "player_name": "Adrian Murrell",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1330.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-centers_1996_ARI",
+    "player_name": "Larry Centers",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1191.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_curtis-conway_1996_CHI",
+    "player_name": "Curtis Conway",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1132.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-johnson_1996_CAR",
+    "player_name": "Anthony Johnson",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1312.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joey-galloway_1996_SEA",
+    "player_name": "Joey Galloway",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1114.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-glenn_1996_NE",
+    "player_name": "Terry Glenn",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1174.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marcus-allen_1996_KC",
+    "player_name": "Marcus Allen",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1100.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-young_1996_SF",
+    "player_name": "Steve Young",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2720.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_antonio-freeman_1996_GB",
+    "player_name": "Antonio Freeman",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 933.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-kennison_1996_LAR",
+    "player_name": "Eddie Kennison",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 924.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-hostetler_1996_LV",
+    "player_name": "Jeff Hostetler",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2727.0,
+      "td": 24.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-reed_1996_BUF",
+    "player_name": "Andre Reed",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1058.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-wycheck_1996_HOU",
+    "player_name": "Frank Wycheck",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 514.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_o-j-mcduffie_1996_MIA",
+    "player_name": "O.J. McDuffie",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 925.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-stewart_1996_JAX",
+    "player_name": "James Stewart",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 900.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-mitchell_1996_DET",
+    "player_name": "Scott Mitchell",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3000.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keyshawn-johnson_1996_NYJ",
+    "player_name": "Keyshawn Johnson",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 844.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brett-perriman_1996_DET",
+    "player_name": "Brett Perriman",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1034.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marvin-harrison_1996_IND",
+    "player_name": "Marvin Harrison",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 851.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keenan-mccardell_1996_JAX",
+    "player_name": "Keenan McCardell",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1129.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-warren_1996_SEA",
+    "player_name": "Chris Warren",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1128.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-hebert_1996_ATL",
+    "player_name": "Bobby Hebert",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3211.0,
+      "td": 23.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marshall-faulk_1996_IND",
+    "player_name": "Marshall Faulk",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1015.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bert-emanuel_1996_ATL",
+    "player_name": "Bert Emanuel",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 921.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-dilger_1996_IND",
+    "player_name": "Ken Dilger",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 503.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-moore_1996_ARI",
+    "player_name": "Rob Moore",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1016.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dorsey-levens_1996_GB",
+    "player_name": "Dorsey Levens",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 792.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jamie-asher_1996_WAS",
+    "player_name": "Jamie Asher",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 481.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-mcgee_1996_CIN",
+    "player_name": "Tony McGee",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 446.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_raymont-harris_1996_CHI",
+    "player_name": "Raymont Harris",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1044.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terance-mathis_1996_ATL",
+    "player_name": "Terance Mathis",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 771.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-johnson_1996_PIT",
+    "player_name": "Charles Johnson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1008.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-popson_1996_SF",
+    "player_name": "Ted Popson",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 301.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gus-frerotte_1996_WAS",
+    "player_name": "Gus Frerotte",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3469.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leonard-russell_1996_LAC",
+    "player_name": "Leonard Russell",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 893.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-kinchen_1996_BAL",
+    "player_name": "Brian Kinchen",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 581.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-hastings_1996_PIT",
+    "player_name": "Andre Hastings",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 810.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-mitchell_1996_JAX",
+    "player_name": "Pete Mitchell",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 575.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-carrier_1996_CAR",
+    "player_name": "Mark Carrier",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 808.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_edgar-bennett_1996_GB",
+    "player_name": "Edgar Bennett",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1075.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-alstott_1996_TB",
+    "player_name": "Mike Alstott",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 934.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ty-detmer_1996_PHI",
+    "player_name": "Ty Detmer",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2970.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rickey-dudley_1996_LV",
+    "player_name": "Rickey Dudley",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 386.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-marino_1996_MIA",
+    "player_name": "Dan Marino",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2792.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_troy-aikman_1996_DAL",
+    "player_name": "Troy Aikman",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3168.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-harbaugh_1996_IND",
+    "player_name": "Jim Harbaugh",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2822.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brad-johnson_1996_MIN",
+    "player_name": "Brad Johnson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2348.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stan-humphries_1996_LAC",
+    "player_name": "Stan Humphries",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2698.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-banks_1996_LAR",
+    "player_name": "Tony Banks",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2756.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-kelly_1996_BUF",
+    "player_name": "Jim Kelly",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2876.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kerry-collins_1996_CAR",
+    "player_name": "Kerry Collins",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2492.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-tomczak_1996_PIT",
+    "player_name": "Mike Tomczak",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2760.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_trent-dilfer_1996_TB",
+    "player_name": "Trent Dilfer",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2983.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-chandler_1996_HOU",
+    "player_name": "Chris Chandler",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2212.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-krieg_1996_CHI",
+    "player_name": "Dave Krieg",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2295.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-kirby_1996_SF",
+    "player_name": "Terry Kirby",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1022.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-bono_1996_KC",
+    "player_name": "Steve Bono",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2599.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-everett_1996_NO",
+    "player_name": "Jim Everett",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2800.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bam-morris_1996_BAL",
+    "player_name": "Bam Morris",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 979.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lamar-smith_1996_SEA",
+    "player_name": "Lamar Smith",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 738.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-reich_1996_NYJ",
+    "player_name": "Frank Reich",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2236.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-brown_1996_NYG",
+    "player_name": "Dave Brown",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2582.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boomer-esiason_1996_ARI",
+    "player_name": "Boomer Esiason",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2345.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earnest-byner_1996_BAL",
+    "player_name": "Earnest Byner",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 904.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-jones_1996_PHI",
+    "player_name": "Chris Jones",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 859.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-graham_1996_NYJ",
+    "player_name": "Jeff Graham",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 788.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_napoleon-kaufman_1996_LV",
+    "player_name": "Napoleon Kaufman",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1017.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darnay-scott_1996_CIN",
+    "player_name": "Darnay Scott",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 837.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-ellard_1996_WAS",
+    "player_name": "Henry Ellard",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1014.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-sanders_1996_HOU",
+    "player_name": "Chris Sanders",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 882.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnnie-morton_1996_DET",
+    "player_name": "Johnnie Morton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 749.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_quinn-early_1996_BUF",
+    "player_name": "Quinn Early",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 837.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kent-graham_1996_ARI",
+    "player_name": "Kent Graham",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1711.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-irvin_1996_DAL",
+    "player_name": "Michael Irvin",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 962.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-chrebet_1996_NYJ",
+    "player_name": "Wayne Chrebet",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 909.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-green_1996_LAR",
+    "player_name": "Harold Green",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 769.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_garrison-hearst_1996_CIN",
+    "player_name": "Garrison Hearst",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 978.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-haynes_1996_NO",
+    "player_name": "Michael Haynes",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 786.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leshon-johnson_1996_ARI",
+    "player_name": "LeShon Johnson",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 810.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-sanders_1996_ARI",
+    "player_name": "Frank Sanders",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 809.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_shawn-jefferson_1996_NE",
+    "player_name": "Shawn Jefferson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 777.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-hill_1996_KC",
+    "player_name": "Greg Hill",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 705.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-miller_1996_DEN",
+    "player_name": "Anthony Miller",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 774.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darick-holmes_1996_BUF",
+    "player_name": "Darick Holmes",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 673.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-calloway_1996_NYG",
+    "player_name": "Chris Calloway",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 741.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-fenner_1996_LV",
+    "player_name": "Derrick Fenner",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 497.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kimble-anders_1996_KC",
+    "player_name": "Kimble Anders",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 730.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ki-jana-carter_1996_CIN",
+    "player_name": "Ki-Jana Carter",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 433.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rodney-hampton_1996_NYG",
+    "player_name": "Rodney Hampton",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 909.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-mccaffrey_1996_DEN",
+    "player_name": "Ed McCaffrey",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 553.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-metcalf_1996_ATL",
+    "player_name": "Eric Metcalf",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 607.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-phillips_1996_LAR",
+    "player_name": "Lawrence Phillips",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 660.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kordell-stewart_1996_PIT",
+    "player_name": "Kordell Stewart",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 564.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-beebe_1996_GB",
+    "player_name": "Don Beebe",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 699.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_thomas-lewis_1996_NYG",
+    "player_name": "Thomas Lewis",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 694.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-mcnair_1996_HOU",
+    "player_name": "Steve McNair",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1366.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-penn_1996_KC",
+    "player_name": "Chris Penn",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 628.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-smith_1996_MIN",
+    "player_name": "Robert Smith",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 731.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-friesz_1996_SEA",
+    "player_name": "John Friesz",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1630.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-mirer_1996_SEA",
+    "player_name": "Rick Mirer",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1737.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terrell-fletcher_1996_LAC",
+    "player_name": "Terrell Fletcher",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 758.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mario-bates_1996_NO",
+    "player_name": "Mario Bates",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 628.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-davis_1996_HOU",
+    "player_name": "Willie Davis",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 479.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-jett_1996_LV",
+    "player_name": "James Jett",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 601.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-timpson_1996_CHI",
+    "player_name": "Michael Timpson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 823.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sean-dawkins_1996_IND",
+    "player_name": "Sean Dawkins",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 751.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-green_1996_CAR",
+    "player_name": "Willie Green",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 615.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronnie-harmon_1996_HOU",
+    "player_name": "Ronnie Harmon",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 619.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_errict-rhett_1996_TB",
+    "player_name": "Errict Rhett",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 550.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_torrance-small_1996_NO",
+    "player_name": "Torrance Small",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 609.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rashaan-salaam_1996_CHI",
+    "player_name": "Rashaan Salaam",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 540.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_elvis-grbac_1996_SF",
+    "player_name": "Elvis Grbac",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1257.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-jones_1996_LAC",
+    "player_name": "Charlie Jones",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 524.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terrell-owens_1996_SF",
+    "player_name": "Terrell Owens",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 520.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-zellars_1996_NO",
+    "player_name": "Ray Zellars",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 520.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-engram_1996_CHI",
+    "player_name": "Bobby Engram",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 389.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_warren-moon_1996_MIN",
+    "player_name": "Warren Moon",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1616.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-barnett_1996_MIA",
+    "player_name": "Fred Barnett",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 562.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leslie-shepherd_1996_WAS",
+    "player_name": "Leslie Shepherd",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 440.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_natrone-means_1996_JAX",
+    "player_name": "Natrone Means",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 552.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aaron-craver_1996_DEN",
+    "player_name": "Aaron Craver",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 529.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-jackson_1996_JAX",
+    "player_name": "Willie Jackson",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 488.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_amp-lee_1996_MIN",
+    "player_name": "Amp Lee",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 583.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-blades_1996_SEA",
+    "player_name": "Brian Blades",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 556.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_erric-pegram_1996_PIT",
+    "player_name": "Erric Pegram",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 621.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tyrone-wheatley_1996_NYG",
+    "player_name": "Tyrone Wheatley",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 475.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-heyward_1996_ATL",
+    "player_name": "Craig Heyward",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 489.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-bieniemy_1996_CIN",
+    "player_name": "Eric Bieniemy",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 541.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-beuerlein_1996_CAR",
+    "player_name": "Steve Beuerlein",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 896.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randal-hill_1996_MIA",
+    "player_name": "Randal Hill",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 409.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_irving-spikes_1996_MIA",
+    "player_name": "Irving Spikes",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 397.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harvey-williams_1996_LV",
+    "player_name": "Harvey Williams",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 592.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-coleman_1996_LAC",
+    "player_name": "Andre Coleman",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 486.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_daryl-hobbs_1996_LV",
+    "player_name": "Daryl Hobbs",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 430.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-loville_1996_SF",
+    "player_name": "Derek Loville",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 367.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_richie-anderson_1996_NYJ",
+    "player_name": "Richie Anderson",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 535.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-bjornson_1996_DAL",
+    "player_name": "Eric Bjornson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 388.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-brooks_1996_GB",
+    "player_name": "Robert Brooks",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 346.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_courtney-hawkins_1996_TB",
+    "player_name": "Courtney Hawkins",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 531.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_floyd-turner_1996_BAL",
+    "player_name": "Floyd Turner",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 473.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-tasker_1996_BUF",
+    "player_name": "Steve Tasker",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 403.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-westbrook_1996_WAS",
+    "player_name": "Michael Westbrook",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 507.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_william-floyd_1996_SF",
+    "player_name": "William Floyd",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 383.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_webster-slaughter_1996_NYJ",
+    "player_name": "Webster Slaughter",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 434.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robb-thomas_1996_TB",
+    "player_name": "Robb Thomas",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 427.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sean-lachapelle_1996_KC",
+    "player_name": "Sean LaChapelle",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 422.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-russell_1996_HOU",
+    "player_name": "Derek Russell",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 421.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_deion-sanders_1996_DAL",
+    "player_name": "Deion Sanders",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 477.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-way_1996_NYG",
+    "player_name": "Charles Way",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 407.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_neil-o-donnell_1996_NYJ",
+    "player_name": "Neil O'Donnell",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1177.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-turner_1996_PHI",
+    "player_name": "Kevin Turner",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 448.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-brooks_1996_TB",
+    "player_name": "Reggie Brooks",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 381.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-garner_1996_PHI",
+    "player_name": "Charlie Garner",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 438.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marc-logan_1996_WAS",
+    "player_name": "Marc Logan",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 380.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stanley-pritchett_1996_MIA",
+    "player_name": "Stanley Pritchett",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 381.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brent-jones_1996_SF",
+    "player_name": "Brent Jones",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 428.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tommy-vardell_1996_SF",
+    "player_name": "Tommy Vardell",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 371.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-erickson_1996_MIA",
+    "player_name": "Craig Erickson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 796.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leeland-mcelroy_1996_ARI",
+    "player_name": "Leeland McElroy",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 346.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_muhsin-muhammad_1996_CAR",
+    "player_name": "Muhsin Muhammad",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 406.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lonnie-johnson_1996_BUF",
+    "player_name": "Lonnie Johnson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 457.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lamont-warren_1996_IND",
+    "player_name": "Lamont Warren",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 404.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-aska_1996_LV",
+    "player_name": "Joe Aska",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 389.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jason-dunn_1996_PHI",
+    "player_name": "Jason Dunn",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 332.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sean-salisbury_1996_LAC",
+    "player_name": "Sean Salisbury",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 998.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-j-birden_1996_ATL",
+    "player_name": "J.J. Birden",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 319.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marcus-dowdell_1996_ARI",
+    "player_name": "Marcus Dowdell",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 318.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-moulds_1996_BUF",
+    "player_name": "Eric Moulds",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 323.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-gash_1996_NE",
+    "player_name": "Sam Gash",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 291.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jackie-harris_1996_TB",
+    "player_name": "Jackie Harris",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 349.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-proehl_1996_SEA",
+    "player_name": "Ricky Proehl",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 309.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-justin_1996_IND",
+    "player_name": "Paul Justin",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 846.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-moore_1996_TB",
+    "player_name": "Dave Moore",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 237.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-collins_1996_BUF",
+    "player_name": "Todd Collins",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 782.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haywood-jeffires_1996_NO",
+    "player_name": "Haywood Jeffires",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 215.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pritchard_1996_SEA",
+    "player_name": "Mike Pritchard",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 341.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tyrone-brown_1996_ATL",
+    "player_name": "Tyrone Brown",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 325.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-carter_1996_ARI",
+    "player_name": "Pat Carter",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 329.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-chmura_1996_GB",
+    "player_name": "Mark Chmura",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 370.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_william-henderson_1996_GB",
+    "player_name": "William Henderson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 333.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_daryl-johnston_1996_DAL",
+    "player_name": "Daryl Johnston",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 326.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-williams_1996_DAL",
+    "player_name": "Kevin Williams",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 334.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lorenzo-neal_1996_NO",
+    "player_name": "Lorenzo Neal",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 252.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-edwards_1996_ARI",
+    "player_name": "Anthony Edwards",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 303.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rod-smith_1996_DEN",
+    "player_name": "Rod Smith",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 238.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_yancey-thigpen_1996_PIT",
+    "player_name": "Yancey Thigpen",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 244.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_howard-griffith_1996_CAR",
+    "player_name": "Howard Griffith",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 230.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alvin-harper_1996_TB",
+    "player_name": "Alvin Harper",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 289.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rocket-ismail_1996_CAR",
+    "player_name": "Rocket Ismail",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 294.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-joe-hobert_1996_LV",
+    "player_name": "Billy Joe Hobert",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 680.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rodney-thomas_1996_HOU",
+    "player_name": "Rodney Thomas",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 279.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-green_1996_CHI",
+    "player_name": "Robert Green",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 327.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_winslow-oliver_1996_CAR",
+    "player_name": "Winslow Oliver",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 327.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfred-pupunu_1996_LAC",
+    "player_name": "Alfred Pupunu",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 271.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-ellison_1996_TB",
+    "player_name": "Jerry Ellison",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 314.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerris-mcphail_1996_MIA",
+    "player_name": "Jerris McPhail",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 310.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tamarick-vanover_1996_KC",
+    "player_name": "Tamarick Vanover",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 247.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sherman-williams_1996_DAL",
+    "player_name": "Sherman Williams",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 310.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clif-groce_1996_IND",
+    "player_name": "Clif Groce",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 290.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-carter_1996_CHI",
+    "player_name": "Tony Carter",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 276.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-mickens_1996_GB",
+    "player_name": "Terry Mickens",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 161.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ryan-wetnight_1996_CHI",
+    "player_name": "Ryan Wetnight",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 223.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_christian-fauria_1996_SEA",
+    "player_name": "Christian Fauria",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 214.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-mcnair_1996_KC",
+    "player_name": "Todd McNair",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 213.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bernie-parmalee_1996_MIA",
+    "player_name": "Bernie Parmalee",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 269.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aaron-pierce_1996_NYG",
+    "player_name": "Aaron Pierce",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 145.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roell-preston_1996_ATL",
+    "player_name": "Roell Preston",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 208.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carlester-crumpler_1996_SEA",
+    "player_name": "Carlester Crumpler",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 258.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stephen-davis_1996_WAS",
+    "player_name": "Stephen Davis",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 139.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-seay_1996_PHI",
+    "player_name": "Mark Seay",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 260.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-johnson_1996_KC",
+    "player_name": "Reggie Johnson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 189.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-sherrard_1996_DEN",
+    "player_name": "Mike Sherrard",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 185.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-stablein_1996_IND",
+    "player_name": "Brian Stablein",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 192.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-j-stokes_1996_SF",
+    "player_name": "J.J. Stokes",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 249.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_howard-cross_1996_NYG",
+    "player_name": "Howard Cross",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 178.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lee-deramus_1996_NO",
+    "player_name": "Lee DeRamus",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 184.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danan-hughes_1996_KC",
+    "player_name": "Danan Hughes",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 197.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_karl-williams_1996_TB",
+    "player_name": "Karl Williams",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 243.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-dawsey_1996_NYG",
+    "player_name": "Lawrence Dawsey",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 233.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lamar-thomas_1996_MIA",
+    "player_name": "Lamar Thomas",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 166.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herschel-walker_1996_DAL",
+    "player_name": "Herschel Walker",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 172.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kyle-brady_1996_NYJ",
+    "player_name": "Kyle Brady",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 144.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-brooks_1996_WAS",
+    "player_name": "Bill Brooks",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 224.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_troy-brown_1996_NE",
+    "player_name": "Troy Brown",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 222.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jermaine-ross_1996_LAR",
+    "player_name": "Jermaine Ross",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 163.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_malcolm-floyd_1996_HOU",
+    "player_name": "Malcolm Floyd",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 145.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-galbraith_1996_WAS",
+    "player_name": "Scott Galbraith",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 89.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-green_1996_BAL",
+    "player_name": "Eric Green",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 150.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-lusk_1996_NO",
+    "player_name": "Henry Lusk",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 210.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-whittle_1996_NO",
+    "player_name": "Ricky Whittle",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 214.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-robinson_1996_LAR",
+    "player_name": "Greg Robinson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 140.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_donnell-bennett_1996_KC",
+    "player_name": "Donnell Bennett",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 187.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-broussard_1996_SEA",
+    "player_name": "Steve Broussard",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 132.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scottie-graham_1996_MIN",
+    "player_name": "Scottie Graham",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 186.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jamie-martin_1996_LAR",
+    "player_name": "Jamie Martin",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 255.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_deems-may_1996_LAC",
+    "player_name": "Deems May",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 188.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-cline_1996_BUF",
+    "player_name": "Tony Cline",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 117.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aaron-hayden_1996_LAC",
+    "player_name": "Aaron Hayden",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 176.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-lynn_1996_SF",
+    "player_name": "Anthony Lynn",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 178.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ernie-mills_1996_PIT",
+    "player_name": "Ernie Mills",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 116.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alex-van-dyke_1996_NYJ",
+    "player_name": "Alex Van Dyke",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 118.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-cobb_1996_NYJ",
+    "player_name": "Reggie Cobb",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 108.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marrio-grier_1996_NE",
+    "player_name": "Marrio Grier",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 113.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-mayes_1996_GB",
+    "player_name": "Derrick Mayes",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 46.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-bruener_1996_PIT",
+    "player_name": "Mark Bruener",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 141.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ernie-conwell_1996_LAR",
+    "player_name": "Ernie Conwell",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 164.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-evans_1996_MIN",
+    "player_name": "Charles Evans",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 164.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carwell-gardner_1996_BAL",
+    "player_name": "Carwell Gardner",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 136.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andrew-glover_1996_LV",
+    "player_name": "Andrew Glover",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 101.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-cothran_1996_CIN",
+    "player_name": "Jeff Cothran",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 93.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andrew-jordan_1996_MIN",
+    "player_name": "Andrew Jordan",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 128.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-jordan_1996_MIA",
+    "player_name": "Charles Jordan",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 152.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-lester_1996_PIT",
+    "player_name": "Tim Lester",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 90.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-metzelaars_1996_DET",
+    "player_name": "Pete Metzelaars",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 146.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marcus-pollard_1996_IND",
+    "player_name": "Marcus Pollard",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 86.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-shedd_1996_LV",
+    "player_name": "Kenny Shedd",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 87.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_iheanyi-uwaezuoke_1996_SF",
+    "player_name": "Iheanyi Uwaezuoke",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 91.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-brown_1996_JAX",
+    "player_name": "Derek Brown",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 141.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-johnson_1996_NO",
+    "player_name": "Tony Johnson",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 76.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-mcwilliams_1996_ARI",
+    "player_name": "Johnny McWilliams",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 80.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cedric-smith_1996_ARI",
+    "player_name": "Cedric Smith",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 18.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_irv-smith_1996_NO",
+    "player_name": "Irv Smith",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 144.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bryan-still_1996_LAC",
+    "player_name": "Bryan Still",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 142.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-bradley_1996_LAC",
+    "player_name": "Freddie Bradley",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 129.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_byron-chamberlain_1996_DEN",
+    "player_name": "Byron Chamberlain",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 129.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmie-johnson_1996_PHI",
+    "player_name": "Jimmie Johnson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 127.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-solomon_1996_PHI",
+    "player_name": "Freddie Solomon",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 125.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-walker_1996_KC",
+    "player_name": "Derrick Walker",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 73.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aaron-laing_1996_LAR",
+    "player_name": "Aaron Laing",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 116.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-miller_1996_MIA",
+    "player_name": "Scott Miller",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 116.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-walsh_1996_MIN",
+    "player_name": "Chris Walsh",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 39.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-baxter_1996_NYJ",
+    "player_name": "Fred Baxter",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 114.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-brantley_1996_BUF",
+    "player_name": "Chris Brantley",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 47.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brett-carolan_1996_MIA",
+    "player_name": "Brett Carolan",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 48.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-downs_1996_NYG",
+    "player_name": "Gary Downs",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 114.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mercury-hayes_1996_NO",
+    "player_name": "Mercury Hayes",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 108.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_travis-jervey_1996_GB",
+    "player_name": "Travis Jervey",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 106.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-milne_1996_CIN",
+    "player_name": "Brian Milne",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 51.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-rivers_1996_DET",
+    "player_name": "Ron Rivers",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 114.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-roche_1996_LAC",
+    "player_name": "Brian Roche",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 111.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-workman_1996_IND",
+    "player_name": "Vince Workman",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 106.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dino-philyaw_1996_CAR",
+    "player_name": "Dino Philyaw",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 38.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwayne-carswell_1996_DEN",
+    "player_name": "Dwayne Carswell",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 85.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_russell-copeland_1996_BUF",
+    "player_name": "Russell Copeland",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 85.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-frisch_1996_MIN",
+    "player_name": "David Frisch",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 27.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-green_1996_NO",
+    "player_name": "Paul Green",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 91.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-neely_1996_CHI",
+    "player_name": "Bobby Neely",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 92.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-richardson_1996_KC",
+    "player_name": "Tony Richardson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 28.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mack-strong_1996_SEA",
+    "player_name": "Mack Strong",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 86.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-west_1996_PHI",
+    "player_name": "Ed West",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 91.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronnie-williams_1996_SEA",
+    "player_name": "Ronnie Williams",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 25.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marco-battaglia_1996_CIN",
+    "player_name": "Marco Battaglia",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 79.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-brown_1996_NO",
+    "player_name": "Derek Brown",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 84.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-cash_1996_KC",
+    "player_name": "Keith Cash",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 80.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-elias_1996_NYG",
+    "player_name": "Keith Elias",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 75.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mitch-lyons_1996_ATL",
+    "player_name": "Mitch Lyons",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 16.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_le-shai-maston_1996_JAX",
+    "player_name": "Le'Shai Maston",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 76.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-scott_1996_ATL",
+    "player_name": "Freddie Scott",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 80.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jon-witman_1996_PIT",
+    "player_name": "Jon Witman",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 84.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jahine-arnold_1996_PIT",
+    "player_name": "Jahine Arnold",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 73.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-greene_1996_CAR",
+    "player_name": "Scott Greene",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 7.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-mcknight_1996_SEA",
+    "player_name": "James McKnight",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 73.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-musgrave_1996_DEN",
+    "player_name": "Bill Musgrave",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 272.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-wilson_1996_MIA",
+    "player_name": "Robert Wilson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stevie-anderson_1996_ARI",
+    "player_name": "Stevie Anderson",
+    "team": "ARI",
+    "team_abbr": "ARI",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 64.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-bartrum_1996_NE",
+    "player_name": "Mike Bartrum",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 1.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-dulaney_1996_CHI",
+    "player_name": "Mike Dulaney",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hason-graham_1996_NE",
+    "player_name": "Hason Graham",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 64.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-jennings_1996_CHI",
+    "player_name": "Keith Jennings",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 56.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_shannon-mitchell_1996_LAC",
+    "player_name": "Shannon Mitchell",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 57.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-wainright_1996_MIA",
+    "player_name": "Frank Wainright",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 2.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hayward-clay_1996_LAR",
+    "player_name": "Hayward Clay",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 51.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-griffith_1996_JAX",
+    "player_name": "Rich Griffith",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 53.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roderick-lewis_1996_HOU",
+    "player_name": "Roderick Lewis",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 50.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerald-moore_1996_LAR",
+    "player_name": "Jerald Moore",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-t-thomas_1996_LAR",
+    "player_name": "J.T. Thomas",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-thomason_1996_GB",
+    "player_name": "Jeff Thomason",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-tindale_1996_BUF",
+    "player_name": "Tim Tindale",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 48.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kirk-botkin_1996_PIT",
+    "player_name": "Kirk Botkin",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 36.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-horn_1996_KC",
+    "player_name": "Joe Horn",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 38.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aubrey-matthews_1996_DET",
+    "player_name": "Aubrey Matthews",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 41.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-mcafee_1996_PIT",
+    "player_name": "Fred McAfee",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 38.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-delong_1996_MIN",
+    "player_name": "Greg DeLong",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 34.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronnie-harris_1996_SEA",
+    "player_name": "Ronnie Harris",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 26.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-kinchen_1996_DEN",
+    "player_name": "Todd Kinchen",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 27.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-saxton_1996_NYG",
+    "player_name": "Brian Saxton",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 31.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_william-bell_1996_WAS",
+    "player_name": "William Bell",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 23.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-bishop_1996_BAL",
+    "player_name": "Harold Bishop",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-burke_1996_NE",
+    "player_name": "John Burke",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 19.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_omar-ellison_1996_LAC",
+    "player_name": "'Omar Ellison",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-ethridge_1996_BAL",
+    "player_name": "Ray Ethridge",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hunter-goodwin_1996_MIN",
+    "player_name": "Hunter Goodwin",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-harris_1996_LAR",
+    "player_name": "Derrick Harris",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sean-manuel_1996_SF",
+    "player_name": "Sean Manuel",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 18.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_troy-sadowski_1996_CIN",
+    "player_name": "Troy Sadowski",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-stock_1996_IND",
+    "player_name": "Mark Stock",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-stone_1996_CAR",
+    "player_name": "Dwight Stone",
+    "team": "CAR",
+    "team_abbr": "CAR",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 17.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sheddrick-wilson_1996_HOU",
+    "player_name": "Sheddrick Wilson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tyji-armstrong_1996_DAL",
+    "player_name": "Tyji Armstrong",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-coons_1996_BUF",
+    "player_name": "Rob Coons",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_adrian-cooper_1996_SF",
+    "player_name": "Adrian Cooper",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 11.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_oscar-gray_1996_SEA",
+    "player_name": "Oscar Gray",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 9.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ty-hallock_1996_JAX",
+    "player_name": "Ty Hallock",
+    "team": "JAX",
+    "team_abbr": "JAX",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jonathan-hayes_1996_PIT",
+    "player_name": "Jonathan Hayes",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_corey-holliday_1996_PIT",
+    "player_name": "Corey Holliday",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dietrich-jells_1996_NE",
+    "player_name": "Dietrich Jells",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-jenkins_1996_WAS",
+    "player_name": "James Jenkins",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derek-price_1996_DET",
+    "player_name": "Derek Price",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rivers_1996_DEN",
+    "player_name": "Reggie Rivers",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_amani-toomer_1996_NYG",
+    "player_name": "Amani Toomer",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1996,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-lynch_1996_DET",
+    "player_name": "Eric Lynch",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronald-moore_1996_NYJ",
+    "player_name": "Ronald Moore",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1996,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walter-reeves_1996_LAC",
+    "player_name": "Walter Reeves",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1996,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 3.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1990s",
+    "source": "pfr_offense"
+  }
+]

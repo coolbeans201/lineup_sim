@@ -2,11 +2,12 @@
 
 from __future__ import annotations
 
-from lineup_sim.core.models import PlayerSeason, Preset, RosterSlot, SpinConstraint
+from lineup_sim.core.models import Lineup, PlayerSeason, Preset, RosterSlot, SpinConstraint
 from lineup_sim.sports.registry import get_sport_plugin
 
 NBA_DECADES = ["1960s", "1970s", "1980s", "1990s", "2000s", "2010s", "2020s"]
-OTHER_SPORT_DECADES = ["1990s", "2000s", "2010s", "2020s"]
+OTHER_SPORT_DECADES = ["1970s", "1980s", "1990s", "2000s", "2010s", "2020s"]
+PICK_SPIN_SPORTS = frozenset({"nba", "nfl"})
 
 
 def seasons_for_decade(decade: str) -> tuple[int, int]:
@@ -54,24 +55,64 @@ def _spin_has_players(
     slot: RosterSlot | None,
     *,
     min_pool_size: int,
+    required_slots: list[RosterSlot] | None = None,
 ) -> bool:
-    from lineup_sim.core.constraints import pool_for_spin
+    from lineup_sim.core.constraints import _spin_has_players as constraints_spin_has_players
 
-    if preset.sport == "nba":
-        return len(pool_for_spin(pool, spin, sport="nba")) >= min_pool_size
-    assert slot is not None
-    return (
-        len(
-            pool_for_spin(
-                pool,
-                spin,
-                sport=preset.sport,
-                position=slot.position,
-                side=slot.side,
-            )
-        )
-        >= min_pool_size
+    return constraints_spin_has_players(
+        pool,
+        preset,
+        spin,
+        slot,
+        min_pool_size=min_pool_size,
+        required_slots=required_slots,
     )
+
+
+def spin_options_for_pick(
+    preset: Preset,
+    pool: list[PlayerSeason] | None = None,
+    *,
+    min_pool_size: int = 1,
+    lineup: Lineup | None = None,
+    pick_index: int | None = None,
+) -> list[SpinConstraint]:
+    """Team+era combos for pick-then-assign draft (NBA/NFL) — not filtered by slot position."""
+    if preset.sport not in PICK_SPIN_SPORTS:
+        raise ValueError(f"spin_options_for_pick does not support {preset.sport}")
+    from lineup_sim.core.constraints import anticipated_open_slots
+
+    plugin = get_sport_plugin(preset.sport)
+    pool = pool or plugin.load_player_pool()
+    teams = plugin.teams()
+    decades = NBA_DECADES if preset.sport == "nba" else OTHER_SPORT_DECADES
+    required_slots = None
+    if lineup is not None and pick_index is not None:
+        required_slots = anticipated_open_slots(preset, pick_index, lineup)
+    options: list[SpinConstraint] = []
+
+    for team in teams:
+        for decade in decades:
+            start, end = seasons_for_decade(decade)
+            probe = spin_constraint(
+                round_index=0,
+                team=team,
+                era_label=decade,
+                season_start=start,
+                season_end=end,
+            )
+            if _spin_has_players(
+                pool,
+                preset,
+                probe,
+                None,
+                min_pool_size=min_pool_size,
+                required_slots=required_slots,
+            ):
+                options.append(probe)
+
+    options.sort(key=lambda spin: (spin.team_name, spin.era_label))
+    return options
 
 
 def spin_options_for_slot(
@@ -91,7 +132,7 @@ def spin_options_for_slot(
     for team in teams:
         for decade in decades:
             start, end = seasons_for_decade(decade)
-            era_label = decade if preset.sport == "nba" else era_window_label(start, end)
+            era_label = decade
             probe = spin_constraint(
                 round_index=0,
                 team=team,
@@ -99,7 +140,7 @@ def spin_options_for_slot(
                 season_start=start,
                 season_end=end,
             )
-            if _spin_has_players(pool, preset, probe, None, min_pool_size=min_pool_size):
+            if _spin_has_players(pool, preset, probe, slot, min_pool_size=min_pool_size):
                 options.append(
                     spin_constraint(
                         round_index=0,

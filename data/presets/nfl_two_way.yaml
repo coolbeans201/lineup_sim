@@ -1,7 +1,7 @@
 sport: nfl
-name: NFL Two-Way
+name: NFL Offense/Defense
 slug: nfl_two_way
-description: Six offense and six defense starters with premium QB, EDGE, and CB weights.
+description: Six offense starters plus EDGE, DT, LB, CB, S, and D-FLEX — mirrors 20-0.com two-way rosters.
 max_games: 17
 balance_penalty: 0.2
 stat_weights:
@@ -21,8 +21,7 @@ grade_thresholds:
   B: 0.5
   C: 0.2
   D: 0.0
-rating_baseline: 0.0
-win_rating_slope: 0.35
+win_rating_slope: 0.20
 slots:
   - {slot_id: qb, label: QB, position: QB, side: offense, weight: 1.0}
   - {slot_id: rb, label: RB, position: RB, side: offense, weight: 1.0}

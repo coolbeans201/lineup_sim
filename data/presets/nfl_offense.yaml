@@ -1,0 +1,26 @@
+sport: nfl
+name: NFL Offense
+slug: nfl_offense
+description: Six offensive starters — QB, RB, WR, TE, and two FLEX spots (RB/WR/TE only; no defense).
+max_games: 17
+balance_penalty: 0.2
+stat_weights:
+  yards: 0.001
+  td: 1.0
+position_weights:
+  QB: 1.5
+grade_thresholds:
+  S+: 6.0
+  A+: 3.0
+  A: 1.5
+  B: 0.5
+  C: 0.2
+  D: 0.0
+win_rating_slope: 0.20
+slots:
+  - {slot_id: qb, label: QB, position: QB, side: offense, weight: 1.0}
+  - {slot_id: rb, label: RB, position: RB, side: offense, weight: 1.0}
+  - {slot_id: wr, label: WR, position: WR, side: offense, weight: 1.0}
+  - {slot_id: te, label: TE, position: TE, side: offense, weight: 1.0}
+  - {slot_id: flex1, label: FLEX, position: FLEX, side: offense, weight: 1.0}
+  - {slot_id: flex2, label: FLEX, position: FLEX, side: offense, weight: 1.0}

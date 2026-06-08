@@ -17,6 +17,7 @@ from lineup_sim.core.models import (
     ScoreResult,
 )
 from lineup_sim.core.presets import get_preset
+from lineup_sim.core.stat_labels import integer_record
 from lineup_sim.sports.registry import get_sport_plugin
 
 
@@ -42,8 +43,8 @@ def _z(value: float, mean: float, std: float) -> float:
     return (value - mean) / std
 
 
-def player_stat_composite(player: PlayerSeason, preset: Preset) -> float:
-    """Weighted average of raw per-game stats (the score that drives wins)."""
+def preset_weighted_composite(player: PlayerSeason, preset: Preset) -> float:
+    """Weighted sum from preset stat_weights (no sport-specific overrides)."""
     plugin = get_sport_plugin(preset.sport)
     weighted = 0.0
     total_w = 0.0
@@ -59,6 +60,15 @@ def player_stat_composite(player: PlayerSeason, preset: Preset) -> float:
         total_w += effective_weight
 
     return weighted / total_w if total_w else 0.0
+
+
+def player_stat_composite(player: PlayerSeason, preset: Preset) -> float:
+    """Weighted average of raw per-game stats (the score that drives wins)."""
+    plugin = get_sport_plugin(preset.sport)
+    custom = plugin.stat_composite(player, preset)
+    if custom is not None:
+        return custom
+    return preset_weighted_composite(player, preset)
 
 
 def player_composite_z(
@@ -101,7 +111,41 @@ def _slot_weight(slot: RosterSlot, preset: Preset) -> float:
     return slot.weight * pos_weight
 
 
+def _median_slot_rating(
+    players: Iterable[PlayerSeason],
+    preset: Preset,
+    slot: RosterSlot,
+) -> float | None:
+    from lineup_sim.core.constraints import eligible_for_slot
+
+    values = [
+        player_stat_composite(player, preset) * _slot_weight(slot, preset)
+        for player in players
+        if eligible_for_slot(player, slot, preset.sport)
+    ]
+    if not values:
+        return None
+    return float(np.median(values))
+
+
+def _estimated_lineup_rating_baseline(players: list[PlayerSeason], preset: Preset) -> float:
+    """Typical team rating if every slot drew a median pool player at that position."""
+    slot_medians: list[float] = []
+    slot_weights: list[float] = []
+    for slot in preset.slots:
+        median_rating = _median_slot_rating(players, preset, slot)
+        if median_rating is None:
+            continue
+        slot_medians.append(median_rating)
+        slot_weights.append(_slot_weight(slot, preset))
+    if not slot_medians:
+        return 0.0
+    return float(np.average(slot_medians, weights=slot_weights))
+
+
 def _pool_rating_baseline(players: list[PlayerSeason], preset: Preset) -> float:
+    if preset.sport == "nfl":
+        return _estimated_lineup_rating_baseline(players, preset)
     if preset.rating_baseline is not None:
         return preset.rating_baseline
     composites = [player_stat_composite(p, preset) for p in players]
@@ -150,6 +194,7 @@ def _build_record_notes(
         baseline=rating_baseline,
         slope=preset.win_rating_slope,
     )
+    wins_int, losses_int = integer_record(wins, preset.max_games)
     near_perfect = max(preset.max_games - 2, preset.max_games * 0.9)
     rating_near_perfect = rating_for_win_pct(
         near_perfect / preset.max_games,
@@ -167,7 +212,7 @@ def _build_record_notes(
             f"Win rate: {win_pct * 100:.1f}% from a logistic curve vs pool median baseline "
             f"({rating_baseline:.1f})"
         ),
-        f"Projected: {wins:.0f}-{losses:.0f} over {preset.max_games} games",
+        f"Projected: {wins_int}-{losses_int} over {preset.max_games} games",
     ]
     if balance_adj > 0.01:
         notes.append(f"Without balance penalty this lineup would project ~{wins_no_penalty:.0f} wins.")
@@ -192,6 +237,15 @@ def _formula_notes(preset: Preset, rating_baseline: float) -> list[str]:
     if preset.sport == "nba":
         notes.append(
             "STL/BLK are omitted from scoring for seasons before 1973-74 (not tracked on Basketball Reference)."
+        )
+    if preset.sport == "nfl":
+        notes.append(
+            "Offense uses per-game fantasy scaling (pass yards 0.04/pt, rush/rec yards 0.1/pt, "
+            "pass TD 4, rush/rec TD 6). Defense uses sacks, tackles, and interceptions."
+        )
+        notes.append(
+            "NFL win curve baseline is the weighted median slot rating across the player pool "
+            "(a typical lineup projects near .500)."
         )
     return notes
 
@@ -277,7 +331,8 @@ def score_lineup(
         baseline=rating_baseline,
         slope=preset.win_rating_slope,
     )
-    losses = round(preset.max_games - wins, 1)
+    wins_int, losses_int = integer_record(wins, preset.max_games)
+    losses = float(losses_int)
     win_pct = win_pct_from_rating(
         team_rating,
         baseline=rating_baseline,

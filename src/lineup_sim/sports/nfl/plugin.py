@@ -5,8 +5,18 @@ from __future__ import annotations
 import random
 
 from lineup_sim.core.models import PlayerSeason
+from lineup_sim.core.peak import pick_peak_seasons
 from lineup_sim.ingest.nfl import build_pool
+from lineup_sim.ingest.nfl_positions import (
+    DEFENSE_POSITIONS,
+    OFFENSE_FLEX_POSITIONS,
+    OFFENSE_POSITIONS,
+)
 from lineup_sim.sports.base import SportPlugin
+from lineup_sim.sports.nfl.scoring import nfl_stat_composite
+
+_OFFENSE_STATS = frozenset({"yards", "td", "pass_yds", "rush_yds", "rec_yds", "pass_td", "rush_td", "rec_td"})
+_DEFENSE_STATS = frozenset({"sacks", "tackles", "interceptions"})
 
 NFL_TEAMS = [
     {"abbr": "ARI", "name": "Arizona Cardinals"},
@@ -43,10 +53,6 @@ NFL_TEAMS = [
     {"abbr": "WAS", "name": "Washington Commanders"},
 ]
 
-OFFENSE = {"QB", "RB", "WR", "TE", "FB"}
-DEFENSE = {"EDGE", "DE", "DT", "LB", "OLB", "ILB", "MLB", "CB", "S", "DB", "DL", "NT"}
-
-
 class NFLPlugin(SportPlugin):
     sport_id = "nfl"
     display_name = "NFL"
@@ -58,31 +64,56 @@ class NFLPlugin(SportPlugin):
 
     def load_player_pool(self) -> list[PlayerSeason]:
         if self._pool_cache is None:
-            self._pool_cache = build_pool()
+            self._pool_cache = pick_peak_seasons(build_pool(), self.sport_id)
         return self._pool_cache
+
+    def reload_pool(self) -> list[PlayerSeason]:
+        self._pool_cache = None
+        return self.load_player_pool()
 
     def position_matches(self, player_pos: str, slot_pos: str) -> bool:
         pos = player_pos.upper()
         slot = slot_pos.upper()
         if slot == "FLEX":
-            return pos in OFFENSE
+            return pos in OFFENSE_FLEX_POSITIONS
         if slot == "D-FLEX":
-            return pos in DEFENSE
+            return pos in DEFENSE_POSITIONS
         if slot == "EDGE":
-            return pos in {"EDGE", "DE", "OLB", "LB"}
-        return pos == slot or (slot == "S" and pos in {"S", "DB"})
+            return pos in {"EDGE", "DE", "OLB"}
+        if slot == "S":
+            return pos in {"S", "SAF", "SS", "FS", "DB"}
+        if slot == "LB":
+            return pos in {"LB", "ILB", "MLB"}
+        if slot == "DT":
+            return pos in {"DT", "NT", "DL"}
+        return pos == slot
 
     def side_matches(self, player_pos: str, side: str) -> bool:
         pos = player_pos.upper()
         if side == "offense":
-            return pos in OFFENSE
+            return pos in OFFENSE_POSITIONS
         if side == "defense":
-            return pos in DEFENSE
+            return pos in DEFENSE_POSITIONS
         return True
 
     def random_era_window(self, rng: random.Random) -> tuple[int, int]:
-        start = rng.choice(list(range(1999, 2021, 5)))
-        return start, start + 4
+        start = rng.choice(list(range(1970, 2021, 5)))
+        return start, min(start + 4, 2024)
+
+    def stat_tracking_factor(self, player: PlayerSeason, stat: str) -> float:
+        pos = player.position
+        if pos in DEFENSE_POSITIONS:
+            return 1.0 if stat in _DEFENSE_STATS else 0.0
+        if pos in OFFENSE_POSITIONS:
+            return 1.0 if stat in _OFFENSE_STATS else 0.0
+        return 1.0
+
+    def stat_composite(self, player: PlayerSeason, preset) -> float | None:
+        return nfl_stat_composite(player, preset)
 
     def season_value(self, player: PlayerSeason) -> float:
-        return player.stats.get("yards", 0) + player.stats.get("td", 0) * 12
+        """Peak-season tiebreaker — mirrors position-aware NFL scoring."""
+        from lineup_sim.core.presets import get_preset
+
+        preset_slug = "nfl_two_way" if player.position in DEFENSE_POSITIONS else "nfl_offense"
+        return nfl_stat_composite(player, get_preset(preset_slug))

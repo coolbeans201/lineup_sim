@@ -122,6 +122,10 @@ def entry_by_share_code(code: str) -> LeaderboardEntry | None:
 
 
 def format_leaderboard_record(entry: LeaderboardEntry, *, max_games: int) -> str:
-    if entry.projected_losses is not None:
-        return f"{entry.projected_wins:.0f}-{entry.projected_losses:.0f}"
-    return f"{entry.projected_wins:.0f}-{max_games - entry.projected_wins:.0f}"
+    from lineup_sim.core.stat_labels import format_projected_record
+
+    return format_projected_record(
+        entry.projected_wins,
+        max_games=max_games,
+        projected_losses=entry.projected_losses,
+    )

@@ -5,7 +5,7 @@ from __future__ import annotations
 import random
 from typing import Iterable
 
-from lineup_sim.core.models import PlayerSeason, Preset, RosterSlot, SpinConstraint
+from lineup_sim.core.models import Lineup, PlayerSeason, Preset, RosterSlot, SpinConstraint
 from lineup_sim.core.peak import pick_peak_seasons
 from lineup_sim.sports.registry import get_sport_plugin
 
@@ -82,25 +82,145 @@ def eligible_for_slot(
     return True
 
 
-def _nba_team_decade_has_players(
-    pool: list[PlayerSeason],
-    spin: SpinConstraint,
+def anticipated_open_slots(
+    preset: Preset,
+    pick_index: int,
+    lineup: Lineup | None = None,
+) -> list[RosterSlot]:
+    """Open slots for spin validation — uses live lineup when drafting, else pick phase."""
+    from lineup_sim.core.roster import offense_first_draft, open_slots
+
+    if lineup is not None and any(a.player is not None for a in lineup.assignments):
+        return open_slots(lineup, preset)
+    if offense_first_draft(preset):
+        offense_slots = [s for s in preset.slots if s.side == "offense"]
+        defense_slots = [s for s in preset.slots if s.side == "defense"]
+        if pick_index <= len(offense_slots):
+            return offense_slots
+        return defense_slots
+    return list(preset.slots)
+
+
+def players_fitting_open_slots(
+    player_pool: Iterable[PlayerSeason],
+    lineup: Lineup,
+    preset: Preset,
+    sport: str,
+) -> list[PlayerSeason]:
+    """Players from a pool who can fill at least one currently open slot."""
+    from lineup_sim.core.roster import open_slots, player_pool_key
+
+    slots = open_slots(lineup, preset)
+    if not slots:
+        return []
+
+    out: list[PlayerSeason] = []
+    seen: set[tuple[str, int, str]] = set()
+    for player in player_pool:
+        key = player_pool_key(player)
+        if key in seen:
+            continue
+        if any(eligible_for_slot(player, slot, sport) for slot in slots):
+            out.append(player)
+            seen.add(key)
+    return out
+
+
+def _count_players_fitting_slots(
+    player_pool: Iterable[PlayerSeason],
+    slots: Iterable[RosterSlot],
+    sport: str,
+) -> int:
+    slot_list = list(slots)
+    if not slot_list:
+        return 0
+    return sum(
+        1
+        for player in player_pool
+        if any(eligible_for_slot(player, slot, sport) for slot in slot_list)
+    )
+
+
+def used_spin_keys(spins: list[SpinConstraint] | None, pick_index: int) -> set[tuple[str, str]]:
+    if not spins or pick_index <= 1:
+        return set()
+    return {(spin.team_abbr, spin.era_label) for spin in spins[: pick_index - 1]}
+
+
+def choose_spin_for_lineup(
     *,
-    min_pool_size: int,
-) -> bool:
-    return len(pool_for_spin(pool, spin, sport="nba")) >= min_pool_size
+    pool: list[PlayerSeason],
+    preset: Preset,
+    lineup: Lineup,
+    sport: str,
+    used: set[tuple[str, str]],
+    pick_index: int,
+    seed: int | None = None,
+) -> SpinConstraint | None:
+    from lineup_sim.core.spin_options import spin_options_for_pick
+
+    options = spin_options_for_pick(preset, pool, lineup=lineup, pick_index=pick_index)
+    options = [spin for spin in options if (spin.team_abbr, spin.era_label) not in used]
+    if not options:
+        return None
+    options.sort(key=lambda spin: (spin.team_abbr, spin.era_label))
+    if seed is not None:
+        rng = random.Random(seed + pick_index * 9973)
+        return rng.choice(options)
+    return options[0]
+
+
+def resolve_spin_for_pick(
+    *,
+    pool: list[PlayerSeason],
+    preset: Preset,
+    lineup: Lineup,
+    sport: str,
+    pick_index: int,
+    spin: SpinConstraint | None,
+    spins: list[SpinConstraint] | None,
+    used: set[tuple[str, str]],
+    seed: int | None = None,
+) -> SpinConstraint | None:
+    """Pick a team+era whose pool includes someone for the current open slots."""
+
+    def spin_works(candidate: SpinConstraint | None) -> bool:
+        if candidate is None:
+            return False
+        spin_pool = pool_for_spin(pool, candidate, sport=sport)
+        return len(players_fitting_open_slots(spin_pool, lineup, preset, sport)) > 0
+
+    if spin_works(spin):
+        return spin
+
+    return choose_spin_for_lineup(
+        pool=pool,
+        preset=preset,
+        lineup=lineup,
+        sport=sport,
+        used=used,
+        pick_index=pick_index,
+        seed=seed,
+    )
 
 
 def _spin_has_players(
     pool: list[PlayerSeason],
     preset: Preset,
     spin: SpinConstraint,
-    slot: RosterSlot,
+    slot: RosterSlot | None,
     *,
     min_pool_size: int,
+    required_slots: list[RosterSlot] | None = None,
 ) -> bool:
-    if preset.sport == "nba":
-        return _nba_team_decade_has_players(pool, spin, min_pool_size=min_pool_size)
+    if preset.sport in PICK_SPIN_SPORTS:
+        spin_pool = pool_for_spin(pool, spin, sport=preset.sport)
+        if required_slots:
+            return (
+                _count_players_fitting_slots(spin_pool, required_slots, preset.sport)
+                >= min_pool_size
+            )
+        return len(spin_pool) >= min_pool_size
     return (
         len(
             pool_for_spin(
@@ -115,19 +235,19 @@ def _spin_has_players(
     )
 
 
-from lineup_sim.core.spin_options import NBA_DECADES, spin_constraint, spin_options_for_slot
+from lineup_sim.core.spin_options import NBA_DECADES, OTHER_SPORT_DECADES, PICK_SPIN_SPORTS
 
 
-def _nba_spin_candidates(
+def _pick_spin_candidates(
     pool: list[PlayerSeason],
     preset: Preset,
-    slot: RosterSlot,
     teams: list[dict[str, str]],
     used: set[tuple[str, str]],
+    decades: list[str],
     *,
     min_pool_size: int,
+    required_slots: list[RosterSlot] | None = None,
 ) -> list[tuple[dict[str, str], str, int, int]]:
-    decades = NBA_DECADES
     candidates: list[tuple[dict[str, str], str, int, int]] = []
 
     for team in teams:
@@ -144,7 +264,14 @@ def _nba_spin_candidates(
                 season_start=start,
                 season_end=end,
             )
-            if _spin_has_players(pool, preset, probe, slot, min_pool_size=min_pool_size):
+            if _spin_has_players(
+                pool,
+                preset,
+                probe,
+                None,
+                min_pool_size=min_pool_size,
+                required_slots=required_slots,
+            ):
                 candidates.append((team, decade, start, end))
 
     return candidates
@@ -168,14 +295,22 @@ def generate_spins(
     for i in range(n):
         slot = preset.slots[i]
 
-        if preset.sport == "nba":
-            candidates = _nba_spin_candidates(
-                pool, preset, slot, teams, used, min_pool_size=min_pool_size
+        if preset.sport in PICK_SPIN_SPORTS:
+            decades = NBA_DECADES if preset.sport == "nba" else OTHER_SPORT_DECADES
+            required_slots = anticipated_open_slots(preset, i + 1, None)
+            candidates = _pick_spin_candidates(
+                pool,
+                preset,
+                teams,
+                used,
+                decades,
+                min_pool_size=min_pool_size,
+                required_slots=required_slots,
             )
             if not candidates:
                 raise ValueError(
-                    f"No valid NBA team+decade spin with at least {min_pool_size} players "
-                    f"(round {i + 1})"
+                    f"No valid {preset.sport.upper()} team+era spin with at least "
+                    f"{min_pool_size} players (round {i + 1})"
                 )
             candidates.sort(key=lambda item: (item[0]["abbr"], item[1]))
             team, era_label, start, end = rng.choice(candidates)
@@ -229,10 +364,11 @@ def pool_for_spin(
     position: str | None = None,
     side: str | None = None,
 ) -> list[PlayerSeason]:
-    # NBA team+decade spins expose the full roster — position is chosen at draft time.
-    if sport == "nba":
+    # NBA/NFL pick spins expose the full roster — position is chosen at draft time.
+    if sport in PICK_SPIN_SPORTS:
         position = None
         side = None
+    if sport == "nba":
         decade = spin.era_label
         pool = filter_pool(
             all_players,

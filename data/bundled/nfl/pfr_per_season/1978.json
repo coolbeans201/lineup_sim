@@ -1,0 +1,6158 @@
+[
+  {
+    "player_id": "pfr_walter-payton_1978_CHI",
+    "player_name": "Walter Payton",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1875.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-jefferson_1978_LAC",
+    "player_name": "John Jefferson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1008.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-casper_1978_LV",
+    "player_name": "Dave Casper",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 857.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-largent_1978_SEA",
+    "player_name": "Steve Largent",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1168.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-staubach_1978_DAL",
+    "player_name": "Roger Staubach",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3372.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wesley-walker_1978_NYJ",
+    "player_name": "Wesley Walker",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1166.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-campbell_1978_HOU",
+    "player_name": "Earl Campbell",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1498.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-zorn_1978_SEA",
+    "player_name": "Jim Zorn",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3573.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-dorsett_1978_DAL",
+    "player_name": "Tony Dorsett",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1703.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-carmichael_1978_PHI",
+    "player_name": "Harold Carmichael",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1093.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-grogan_1978_NE",
+    "player_name": "Steve Grogan",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3363.0,
+      "td": 20.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lynn-swann_1978_PIT",
+    "player_name": "Lynn Swann",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 887.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terdell-middleton_1978_GB",
+    "player_name": "Terdell Middleton",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1448.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-bradshaw_1978_PIT",
+    "player_name": "Terry Bradshaw",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3009.0,
+      "td": 29.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_riley-odoms_1978_DEN",
+    "player_name": "Riley Odoms",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 834.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-manning_1978_NO",
+    "player_name": "Archie Manning",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3618.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-sipe_1978_CLE",
+    "player_name": "Brian Sipe",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2993.0,
+      "td": 24.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rucker_1978_CLE",
+    "player_name": "Reggie Rucker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 907.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wilbert-montgomery_1978_PHI",
+    "player_name": "Wilbert Montgomery",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1415.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-fouts_1978_LAC",
+    "player_name": "Dan Fouts",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3042.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-childs_1978_NO",
+    "player_name": "Henry Childs",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 865.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-stallworth_1978_PIT",
+    "player_name": "John Stallworth",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 798.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-joe-dupree_1978_DAL",
+    "player_name": "Billy Joe DuPree",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 524.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sammy-white_1978_MIN",
+    "player_name": "Sammy White",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 771.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_delvin-williams_1978_MIA",
+    "player_name": "Delvin Williams",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1450.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-van-eeghen_1978_LV",
+    "player_name": "Mark van Eeghen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1371.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-reed_1978_KC",
+    "player_name": "Tony Reed",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1536.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fran-tarkenton_1978_MIN",
+    "player_name": "Fran Tarkenton",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3462.0,
+      "td": 26.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ahmad-rashad_1978_MIN",
+    "player_name": "Ahmad Rashad",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 769.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nat-moore_1978_MIA",
+    "player_name": "Nat Moore",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 642.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-sims_1978_SEA",
+    "player_name": "David Sims",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 962.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-hill_1978_DAL",
+    "player_name": "Tony Hill",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 840.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-lofton_1978_GB",
+    "player_name": "James Lofton",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 831.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ozzie-newsome_1978_CLE",
+    "player_name": "Ozzie Newsome",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 685.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roland-harper_1978_CHI",
+    "player_name": "Roland Harper",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1332.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-lewis_1978_BUF",
+    "player_name": "Frank Lewis",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 735.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-hill_1978_DET",
+    "player_name": "David Hill",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 645.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stanley-morgan_1978_NE",
+    "player_name": "Stanley Morgan",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 831.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-long_1978_NYJ",
+    "player_name": "Kevin Long",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1158.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-tilley_1978_LAR",
+    "player_name": "Pat Tilley",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 932.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-jackson_1978_NE",
+    "player_name": "Harold Jackson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 750.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-hart_1978_LAR",
+    "player_name": "Jim Hart",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3132.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-miller_1978_BUF",
+    "player_name": "Terry Miller",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1306.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_franco-harris_1978_PIT",
+    "player_name": "Franco Harris",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1226.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-miller_1978_LAR",
+    "player_name": "Willie Miller",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 760.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-scott_1978_CHI",
+    "player_name": "James Scott",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 759.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jean-fugett_1978_WAS",
+    "player_name": "Jean Fugett",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 367.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_russ-francis_1978_NE",
+    "player_name": "Russ Francis",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 543.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haven-moses_1978_DEN",
+    "player_name": "Haven Moses",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 744.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mel-gray_1978_LAR",
+    "player_name": "Mel Gray",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 922.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-galbreath_1978_NO",
+    "player_name": "Tony Galbreath",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1217.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-haden_1978_LAR",
+    "player_name": "Pat Haden",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3201.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-jessie_1978_LAR",
+    "player_name": "Ron Jessie",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 752.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-carr_1978_BAL",
+    "player_name": "Roger Carr",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 629.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lydell-mitchell_1978_LAC",
+    "player_name": "Lydell Mitchell",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1320.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reuben-gant_1978_BUF",
+    "player_name": "Reuben Gant",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 422.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-riggins_1978_WAS",
+    "player_name": "John Riggins",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1313.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-barber_1978_HOU",
+    "player_name": "Mike Barber",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 527.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sherman-smith_1978_SEA",
+    "player_name": "Sherman Smith",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1171.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-bass_1978_CIN",
+    "player_name": "Don Bass",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 443.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_morris-owens_1978_TB",
+    "player_name": "Morris Owens",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 640.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chuck-foreman_1978_MIN",
+    "player_name": "Chuck Foreman",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1145.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dexter-bussey_1978_DET",
+    "player_name": "Dexter Bussey",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1199.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_drew-pearson_1978_DAL",
+    "player_name": "Drew Pearson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 743.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_isaac-curtis_1978_CIN",
+    "player_name": "Isaac Curtis",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 738.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-cunningham_1978_NE",
+    "player_name": "Sam Cunningham",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1065.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-theismann_1978_WAS",
+    "player_name": "Joe Theismann",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2770.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-chandler_1978_BUF",
+    "player_name": "Bob Chandler",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 581.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-pruitt_1978_CLE",
+    "player_name": "Greg Pruitt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1252.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-washington_1978_BAL",
+    "player_name": "Joe Washington",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1413.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-gaffney_1978_NYJ",
+    "player_name": "Derrick Gaffney",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 689.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wallace-francis_1978_ATL",
+    "player_name": "Wallace Francis",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 684.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ike-harris_1978_NO",
+    "player_name": "Ike Harris",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 612.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rickey-young_1978_MIN",
+    "player_name": "Rickey Young",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1121.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_horace-ivory_1978_NE",
+    "player_name": "Horace Ivory",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 815.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mcdaniel_1978_WAS",
+    "player_name": "John McDaniel",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 602.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-tillman_1978_MIA",
+    "player_name": "Andre Tillman",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 398.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-jaworski_1978_PHI",
+    "player_name": "Ron Jaworski",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2566.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-johnson_1978_CIN",
+    "player_name": "Pete Johnson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 998.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_horace-king_1978_DET",
+    "player_name": "Horace King",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1056.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-danielson_1978_DET",
+    "player_name": "Gary Danielson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2387.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-newhouse_1978_DAL",
+    "player_name": "Robert Newhouse",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 760.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-pastorini_1978_HOU",
+    "player_name": "Dan Pastorini",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2484.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-ferguson_1978_BUF",
+    "player_name": "Joe Ferguson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2206.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-cappelletti_1978_LAR",
+    "player_name": "John Cappelletti",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 986.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-bartkowski_1978_ATL",
+    "player_name": "Steve Bartkowski",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2549.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-stabler_1978_LV",
+    "player_name": "Ken Stabler",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2944.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-thomas_1978_WAS",
+    "player_name": "Mike Thomas",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 920.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chuck-muncie_1978_NO",
+    "player_name": "Chuck Muncie",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 790.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_arthur-whittington_1978_LV",
+    "player_name": "Arthur Whittington",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 767.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-otis_1978_LAR",
+    "player_name": "Jim Otis",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 702.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-bell_1978_TB",
+    "player_name": "Ricky Bell",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 801.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rocky-bleier_1978_PIT",
+    "player_name": "Rocky Bleier",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 801.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cullen-bryant_1978_LAR",
+    "player_name": "Cullen Bryant",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 734.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bubba-bean_1978_ATL",
+    "player_name": "Bubba Bean",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 916.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-mcknight_1978_KC",
+    "player_name": "Ted McKnight",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 710.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andy-johnson_1978_NE",
+    "player_name": "Andy Johnson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 942.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-anderson_1978_CIN",
+    "player_name": "Ken Anderson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2386.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-dierking_1978_NYJ",
+    "player_name": "Scott Dierking",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 833.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-hogan_1978_PHI",
+    "player_name": "Mike Hogan",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 771.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-morton_1978_DEN",
+    "player_name": "Craig Morton",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1873.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-hofer_1978_SF",
+    "player_name": "Paul Hofer",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 635.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_arnold-morgado_1978_KC",
+    "player_name": "Arnold Morgado",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 640.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barty-smith_1978_GB",
+    "player_name": "Barty Smith",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 823.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-morris_1978_LAR",
+    "player_name": "Wayne Morris",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 929.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-hill_1978_CLE",
+    "player_name": "Calvin Hill",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 623.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_matt-robinson_1978_NYJ",
+    "player_name": "Matt Robinson",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2025.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-whitehurst_1978_GB",
+    "player_name": "David Whitehurst",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2160.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-griffin_1978_CIN",
+    "player_name": "Archie Griffin",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 789.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_haskel-stanback_1978_ATL",
+    "player_name": "Haskel Stanback",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 696.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-pisarcik_1978_NYG",
+    "player_name": "Joe Pisarcik",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2164.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-woods_1978_LAC",
+    "player_name": "Don Woods",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 809.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-kotar_1978_NYG",
+    "player_name": "Doug Kotar",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 850.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pruitt_1978_CLE",
+    "player_name": "Mike Pruitt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 672.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_curtis-brown_1978_BUF",
+    "player_name": "Curtis Brown",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 721.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-griese_1978_MIA",
+    "player_name": "Bob Griese",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1801.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_o-j-simpson_1978_SF",
+    "player_name": "O.J. Simpson",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 765.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hank-bauer_1978_LAC",
+    "player_name": "Hank Bauer",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 382.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-hammond_1978_NYG",
+    "player_name": "Bobby Hammond",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 727.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jon-keyworth_1978_DEN",
+    "player_name": "Jon Keyworth",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 610.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leroy-harris_1978_MIA",
+    "player_name": "Leroy Harris",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 723.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_duriel-harris_1978_MIA",
+    "player_name": "Duriel Harris",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 654.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-logan_1978_CLE",
+    "player_name": "Dave Logan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 585.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-troup_1978_BAL",
+    "player_name": "Bill Troup",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1907.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lonnie-perrin_1978_DEN",
+    "player_name": "Lonnie Perrin",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 509.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-carpenter_1978_HOU",
+    "player_name": "Rob Carpenter",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 498.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-ryckman_1978_ATL",
+    "player_name": "Billy Ryckman",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 679.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-branch_1978_LV",
+    "player_name": "Cliff Branch",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 709.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-avellini_1978_CHI",
+    "player_name": "Bob Avellini",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1772.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-csonka_1978_NYG",
+    "player_name": "Larry Csonka",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 384.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-robinson_1978_NYG",
+    "player_name": "Jim Robinson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 620.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-scott_1978_DET",
+    "player_name": "Freddie Scott",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 617.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-burrough_1978_HOU",
+    "player_name": "Ken Burrough",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 613.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-jones_1978_LAR",
+    "player_name": "Steve Jones",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 609.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-stief_1978_LAR",
+    "player_name": "Dave Stief",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 512.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-solomon_1978_SF",
+    "player_name": "Freddie Solomon",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 613.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-davis_1978_MIA",
+    "player_name": "Gary Davis",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 531.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-mccullum_1978_SEA",
+    "player_name": "Sam McCullum",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 525.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-strock_1978_MIA",
+    "player_name": "Don Strock",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 848.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-buggs_1978_WAS",
+    "player_name": "Danny Buggs",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 575.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-mccauley_1978_BAL",
+    "player_name": "Don McCauley",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 403.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-perkins_1978_NYG",
+    "player_name": "Johnny Perkins",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 517.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_morris-bradshaw_1978_LV",
+    "player_name": "Morris Bradshaw",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 557.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-livingston_1978_KC",
+    "player_name": "Mike Livingston",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1622.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-strachan_1978_NO",
+    "player_name": "Mike Strachan",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 439.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-joiner_1978_LAC",
+    "player_name": "Charlie Joiner",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 607.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_aundra-thompson_1978_GB",
+    "player_name": "Aundra Thompson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 552.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-williams_1978_TB",
+    "player_name": "Doug Williams",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1193.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-laidlaw_1978_DAL",
+    "player_name": "Scott Laidlaw",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 420.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-caster_1978_HOU",
+    "player_name": "Rich Caster",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 348.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-ferrell_1978_SF",
+    "player_name": "Bob Ferrell",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 594.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roland-hooks_1978_BUF",
+    "player_name": "Roland Hooks",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 468.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfred-jackson_1978_ATL",
+    "player_name": "Alfred Jackson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 526.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-hunter_1978_SEA",
+    "player_name": "Al Hunter",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 520.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-brooks_1978_CIN",
+    "player_name": "Billy Brooks",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 506.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-pearson_1978_DAL",
+    "player_name": "Preston Pearson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 630.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roosevelt-leaks_1978_BAL",
+    "player_name": "Roosevelt Leaks",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 377.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-mccutcheon_1978_LAR",
+    "player_name": "Lawrence McCutcheon",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 496.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-miller_1978_MIN",
+    "player_name": "Robert Miller",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 443.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-preston_1978_DEN",
+    "player_name": "Dave Preston",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 495.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-armstrong_1978_DEN",
+    "player_name": "Otis Armstrong",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 479.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wes-chandler_1978_NO",
+    "player_name": "Wes Chandler",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 482.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-dubose_1978_TB",
+    "player_name": "Jimmy DuBose",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 361.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-lee_1978_BAL",
+    "player_name": "Ron Lee",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 483.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-boykin_1978_SF",
+    "player_name": "Greg Boykin",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 473.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-deberg_1978_SF",
+    "player_name": "Steve DeBerg",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1590.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-canada_1978_DEN",
+    "player_name": "Larry Canada",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 402.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-wilson_1978_HOU",
+    "player_name": "Tim Wilson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 522.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerome-barkum_1978_NYJ",
+    "player_name": "Jerome Barkum",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 391.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_glenn-doughty_1978_BAL",
+    "player_name": "Glenn Doughty",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 389.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tinker-owens_1978_NO",
+    "player_name": "Tinker Owens",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 446.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-davis_1978_TB",
+    "player_name": "Johnny Davis",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 383.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-dixon_1978_NYG",
+    "player_name": "Al Dixon",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 376.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_macarthur-lane_1978_KC",
+    "player_name": "MacArthur Lane",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 556.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ronnie-coleman_1978_HOU",
+    "player_name": "Ronnie Coleman",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 434.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-krepfle_1978_PHI",
+    "player_name": "Keith Krepfle",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 374.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-marshall_1978_KC",
+    "player_name": "Henry Marshall",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 428.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cleo-miller_1978_CLE",
+    "player_name": "Cleo Miller",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 488.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-tucker_1978_MIN",
+    "player_name": "Bob Tucker",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 540.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-klein_1978_LAC",
+    "player_name": "Bob Klein",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 413.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_louis-carter_1978_TB",
+    "player_name": "Louis Carter",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 501.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-grossman_1978_PIT",
+    "player_name": "Randy Grossman",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 448.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sidney-thornton_1978_PIT",
+    "player_name": "Sidney Thornton",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 330.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-lytle_1978_DEN",
+    "player_name": "Rob Lytle",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 378.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mitchell_1978_ATL",
+    "player_name": "Jim Mitchell",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 366.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-rae_1978_TB",
+    "player_name": "Mike Rae",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 891.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-seal_1978_SF",
+    "player_name": "Paul Seal",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 370.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_luther-blue_1978_DET",
+    "player_name": "Luther Blue",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 359.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-calhoun_1978_NE",
+    "player_name": "Don Calhoun",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 420.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-nelson_1978_LAR",
+    "player_name": "Terry Nelson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 411.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-renfro_1978_HOU",
+    "player_name": "Mike Renfro",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 348.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norris-weese_1978_DEN",
+    "player_name": "Norris Weese",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 771.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bennie-cunningham_1978_PIT",
+    "player_name": "Bennie Cunningham",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 321.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmie-giles_1978_TB",
+    "player_name": "Jimmie Giles",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 323.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-doornink_1978_NYG",
+    "player_name": "Dan Doornink",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 372.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-johnson_1978_BUF",
+    "player_name": "Dennis Johnson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 305.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-kane_1978_DET",
+    "player_name": "Rick Kane",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 314.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-patton_1978_ATL",
+    "player_name": "Ricky Patton",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 296.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walter-white_1978_KC",
+    "player_name": "Walter White",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 384.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-biletnikoff_1978_LV",
+    "player_name": "Fred Biletnikoff",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 285.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norm-bulaich_1978_MIA",
+    "player_name": "Norm Bulaich",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 288.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leonard-thompson_1978_DET",
+    "player_name": "Leonard Thompson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 174.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-thompson_1978_WAS",
+    "player_name": "Ricky Thompson",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 350.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-obradovich_1978_TB",
+    "player_name": "Jim Obradovich",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 219.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-raible_1978_SEA",
+    "player_name": "Steve Raible",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 329.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_deacon-turner_1978_CIN",
+    "player_name": "Deacon Turner",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 383.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bo-matthews_1978_LAC",
+    "player_name": "Bo Matthews",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 364.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-robiskie_1978_LV",
+    "player_name": "Terry Robiskie",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 240.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-campfield_1978_PHI",
+    "player_name": "Billy Campfield",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 348.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-waddy_1978_LAR",
+    "player_name": "Billy Waddy",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 289.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mack-alston_1978_BAL",
+    "player_name": "Mack Alston",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 210.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-cefalo_1978_MIA",
+    "player_name": "Jimmy Cefalo",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 145.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-hardeman_1978_BAL",
+    "player_name": "Don Hardeman",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 332.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-reaves_1978_CIN",
+    "player_name": "John Reaves",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 840.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-harrison_1978_SF",
+    "player_name": "Kenny Harrison",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 320.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-payne_1978_PHI",
+    "player_name": "Ken Payne",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 255.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-taylor_1978_NYG",
+    "player_name": "Billy Taylor",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 320.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-bailey_1978_KC",
+    "player_name": "Mark Bailey",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 311.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-harmon_1978_WAS",
+    "player_name": "Clarence Harmon",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 253.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-howard_1978_SEA",
+    "player_name": "Ron Howard",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 251.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-mcgeorge_1978_GB",
+    "player_name": "Rich McGeorge",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 247.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-mucker_1978_TB",
+    "player_name": "Larry Mucker",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 306.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eason-ramson_1978_LAR",
+    "player_name": "Eason Ramson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 246.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clark-gaines_1978_NYJ",
+    "player_name": "Clark Gaines",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 177.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-testerman_1978_SEA",
+    "player_name": "Don Testerman",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 298.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-dorsey_1978_KC",
+    "player_name": "Larry Dorsey",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 169.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-dolbin_1978_DEN",
+    "player_name": "Jack Dolbin",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 284.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-strong_1978_ATL",
+    "player_name": "Ray Strong",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 155.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_raymond-chester_1978_LV",
+    "player_name": "Raymond Chester",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 146.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-macafee_1978_SF",
+    "player_name": "Ken MacAfee",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 205.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boobie-clark_1978_CIN",
+    "player_name": "Boobie Clark",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 260.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-smith_1978_PHI",
+    "player_name": "Charlie Smith",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 142.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lawrence-gaines_1978_DET",
+    "player_name": "Lawrence Gaines",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 194.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-shirk_1978_NYG",
+    "player_name": "Gary Shirk",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 127.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mickey-shuler_1978_NYJ",
+    "player_name": "Mickey Shuler",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 67.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-walker_1978_CIN",
+    "player_name": "Rick Walker",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 126.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-bull_1978_SF",
+    "player_name": "Scott Bull",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 751.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mckay_1978_TB",
+    "player_name": "John McKay",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 166.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-banaszak_1978_LV",
+    "player_name": "Pete Banaszak",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 215.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-brinson_1978_DAL",
+    "player_name": "Larry Brinson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 96.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reese-mccall_1978_BAL",
+    "player_name": "Reese McCall",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 160.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charle-young_1978_LAR",
+    "player_name": "Charle Young",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 219.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-curran_1978_LAC",
+    "player_name": "Pat Curran",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 92.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cleveland-franklin_1978_PHI",
+    "player_name": "Cleveland Franklin",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 213.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-mcalister_1978_NE",
+    "player_name": "James McAlister",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 89.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-newton_1978_NYJ",
+    "player_name": "Tom Newton",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 93.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-siani_1978_BAL",
+    "player_name": "Mike Siani",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 151.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-spencer_1978_NYG",
+    "player_name": "Willie Spencer",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 86.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-adams_1978_KC",
+    "player_name": "Tony Adams",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 430.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-davis_1978_CIN",
+    "player_name": "Tony Davis",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 80.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-smith_1978_PIT",
+    "player_name": "Jim Smith",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 83.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-corbett_1978_CIN",
+    "player_name": "Jim Corbett",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 187.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-hardy_1978_NO",
+    "player_name": "Larry Hardy",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 131.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-mauti_1978_NO",
+    "player_name": "Rich Mauti",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 69.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lou-piccone_1978_BUF",
+    "player_name": "Lou Piccone",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 71.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lenvil-elliott_1978_CIN",
+    "player_name": "Lenvil Elliott",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 175.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_horace-belton_1978_KC",
+    "player_name": "Horace Belton",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 167.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-culbreath_1978_GB",
+    "player_name": "Jim Culbreath",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 170.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-miller_1978_CLE",
+    "player_name": "Mark Miller",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 275.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_butch-johnson_1978_DAL",
+    "player_name": "Butch Johnson",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 155.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-latta_1978_CHI",
+    "player_name": "Greg Latta",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 159.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-dean_1978_NYG",
+    "player_name": "Randy Dean",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 282.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-hardy_1978_MIA",
+    "player_name": "Bruce Hardy",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 32.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_loaird-mccreary_1978_MIA",
+    "player_name": "Loaird McCreary",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 27.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-moser_1978_PIT",
+    "player_name": "Rick Moser",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 152.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_richard-osborne_1978_PHI",
+    "player_name": "Richard Osborne",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 145.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willard-harrell_1978_LAR",
+    "player_name": "Willard Harrell",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 139.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-mcdonald_1978_LAC",
+    "player_name": "Dwight McDonald",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 84.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darnell-powell_1978_NYJ",
+    "player_name": "Darnell Powell",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 77.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rod-phillips_1978_LAR",
+    "player_name": "Rod Phillips",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 129.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-walton_1978_BUF",
+    "player_name": "Larry Walton",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 66.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_duke-fergerson_1978_SEA",
+    "player_name": "Duke Fergerson",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 116.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-jodat_1978_LAR",
+    "player_name": "Jim Jodat",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 121.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_theo-bell_1978_PIT",
+    "player_name": "Theo Bell",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 53.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-childs_1978_LAR",
+    "player_name": "Jimmy Childs",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 50.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-harris_1978_LAC",
+    "player_name": "James Harris",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 525.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-hasselbeck_1978_NE",
+    "player_name": "Don Hasselbeck",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 107.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_june-jones_1978_ATL",
+    "player_name": "June Jones",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 391.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-scales_1978_LAR",
+    "player_name": "Dwight Scales",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 105.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-thompson_1978_NYG",
+    "player_name": "James Thompson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 113.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-miller_1978_MIN",
+    "player_name": "Kevin Miller",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 35.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-phipps_1978_CHI",
+    "player_name": "Mike Phipps",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 499.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-samuels_1978_KC",
+    "player_name": "Tony Samuels",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 97.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-sawyer_1978_SEA",
+    "player_name": "John Sawyer",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 101.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-egloff_1978_DEN",
+    "player_name": "Ron Egloff",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 33.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-williams_1978_LAC",
+    "player_name": "Clarence Williams",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 93.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-douglass_1978_GB",
+    "player_name": "Bobby Douglass",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 117.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-feacher_1978_CLE",
+    "player_name": "Ricky Feacher",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 76.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_booker-russell_1978_LV",
+    "player_name": "Booker Russell",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 65.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-white_1978_TB",
+    "player_name": "Charlie White",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 73.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-white_1978_DAL",
+    "player_name": "Danny White",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 222.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-huff_1978_TB",
+    "player_name": "Gary Huff",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 179.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nate-simpson_1978_GB",
+    "player_name": "Nate Simpson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 62.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gordon-bell_1978_LAR",
+    "player_name": "Gordon Bell",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 51.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-hart_1978_LV",
+    "player_name": "Harold Hart",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-haynes_1978_WAS",
+    "player_name": "Reggie Haynes",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emery-moorehead_1978_NYG",
+    "player_name": "Emery Moorehead",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 45.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-rodgers_1978_LAC",
+    "player_name": "Johnny Rodgers",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 52.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-schubert_1978_CHI",
+    "player_name": "Steve Schubert",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 51.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-torkelson_1978_GB",
+    "player_name": "Eric Torkelson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 54.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stu-voigt_1978_MIN",
+    "player_name": "Stu Voigt",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 52.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-betterson_1978_PHI",
+    "player_name": "James Betterson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 40.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alois-blackwell_1978_DAL",
+    "player_name": "Alois Blackwell",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 37.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-dennard_1978_LAR",
+    "player_name": "Preston Dennard",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 35.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-humm_1978_LV",
+    "player_name": "David Humm",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 147.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kim-jones_1978_NO",
+    "player_name": "Kim Jones",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 41.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brent-mcclanahan_1978_MIN",
+    "player_name": "Brent McClanahan",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 37.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_conrad-rucker_1978_HOU",
+    "player_name": "Conrad Rucker",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 38.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-westbrook_1978_NE",
+    "player_name": "Don Westbrook",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 36.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-baschnagel_1978_CHI",
+    "player_name": "Brian Baschnagel",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 29.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-craig_1978_MIN",
+    "player_name": "Steve Craig",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 31.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-esposito_1978_ATL",
+    "player_name": "Mike Esposito",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 31.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-kellar_1978_MIN",
+    "player_name": "Mark Kellar",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 29.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carlos-pennywell_1978_NE",
+    "player_name": "Carlos Pennywell",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 28.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-sproul_1978_GB",
+    "player_name": "Dennis Sproul",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 87.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-wright_1978_ATL",
+    "player_name": "James Wright",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 26.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-benjamin_1978_SEA",
+    "player_name": "Tony Benjamin",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 16.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robin-earl_1978_CHI",
+    "player_name": "Robin Earl",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 18.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-ferragamo_1978_LAR",
+    "player_name": "Vince Ferragamo",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 124.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-golsteyn_1978_NYG",
+    "player_name": "Jerry Golsteyn",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 107.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marshall-johnson_1978_BAL",
+    "player_name": "Marshall Johnson",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-jones_1978_NYJ",
+    "player_name": "Bobby Jones",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 18.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vince-kinney_1978_DEN",
+    "player_name": "Vince Kinney",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 23.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-smith_1978_LAR",
+    "player_name": "Ron Smith",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harry-washington_1978_MIN",
+    "player_name": "Harry Washington",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 24.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rickey-anderson_1978_LAC",
+    "player_name": "Rickey Anderson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 8.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-best_1978_CHI",
+    "player_name": "Art Best",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 11.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andy-bolton_1978_DET",
+    "player_name": "Andy Bolton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 5.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-cobb_1978_CHI",
+    "player_name": "Mike Cobb",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-franklin_1978_ATL",
+    "player_name": "George Franklin",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 11.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_louie-giammona_1978_PHI",
+    "player_name": "Louie Giammona",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alvin-maxson_1978_4TM",
+    "player_name": "Alvin Maxson",
+    "team": "4TM",
+    "team_abbr": "4TM",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 9.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_guido-merkens_1978_HOU",
+    "player_name": "Guido Merkens",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1978,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-peets_1978_SEA",
+    "player_name": "Brian Peets",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mosi-tatupu_1978_NE",
+    "player_name": "Mosi Tatupu",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-carr_1978_SF",
+    "player_name": "Earl Carr",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ike-forte_1978_WAS",
+    "player_name": "Ike Forte",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 4.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-holmes_1978_NO",
+    "player_name": "Jack Holmes",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1978,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 4.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-kirkland_1978_BAL",
+    "player_name": "Mike Kirkland",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 246.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-olander_1978_LAC",
+    "player_name": "Cliff Olander",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 46.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-parris_1978_CLE",
+    "player_name": "Gary Parris",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1978,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 4.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-kruczek_1978_PIT",
+    "player_name": "Mike Kruczek",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1978,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 53.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  }
+]

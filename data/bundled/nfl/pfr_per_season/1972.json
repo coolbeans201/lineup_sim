@@ -1,0 +1,5276 @@
+[
+  {
+    "player_id": "pfr_ron-johnson_1972_NYG",
+    "player_name": "Ron Johnson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1633.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-brown_1972_WAS",
+    "player_name": "Larry Brown",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1689.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-landry_1972_DET",
+    "player_name": "Greg Landry",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2590.0,
+      "td": 27.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gene-washington_1972_SF",
+    "player_name": "Gene Washington",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 918.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-caster_1972_NYJ",
+    "player_name": "Rich Caster",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 839.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-douglass_1972_CHI",
+    "player_name": "Bobby Douglass",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2214.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-gilliam_1972_MIN",
+    "player_name": "John Gilliam",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1049.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_floyd-little_1972_DEN",
+    "player_name": "Floyd Little",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1269.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-kwalick_1972_SF",
+    "player_name": "Ted Kwalick",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 762.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-hill_1972_DAL",
+    "player_name": "Calvin Hill",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1455.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-malone_1972_ATL",
+    "player_name": "Art Malone",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1383.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-jackson_1972_PHI",
+    "player_name": "Harold Jackson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1124.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-manning_1972_NO",
+    "player_name": "Archie Manning",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3132.0,
+      "td": 20.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_franco-harris_1972_PIT",
+    "player_name": "Franco Harris",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1235.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_o-j-simpson_1972_BUF",
+    "player_name": "O.J. Simpson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1562.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mercury-morris_1972_MIA",
+    "player_name": "Mercury Morris",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1168.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-biletnikoff_1972_LV",
+    "player_name": "Fred Biletnikoff",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 802.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-brockington_1972_GB",
+    "player_name": "John Brockington",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1270.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-taylor_1972_KC",
+    "player_name": "Otis Taylor",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 834.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-bradshaw_1972_PIT",
+    "player_name": "Terry Bradshaw",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2233.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-tucker_1972_NYG",
+    "player_name": "Bob Tucker",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 770.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walt-garrison_1972_DAL",
+    "player_name": "Walt Garrison",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1174.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_raymond-chester_1972_LV",
+    "player_name": "Raymond Chester",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 579.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-garrison_1972_LAC",
+    "player_name": "Gary Garrison",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 738.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charley-taylor_1972_WAS",
+    "player_name": "Charley Taylor",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 712.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-pitts_1972_CLE",
+    "player_name": "Frank Pitts",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 649.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fran-tarkenton_1972_MIN",
+    "player_name": "Fran Tarkenton",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2831.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-garrett_1972_LAC",
+    "player_name": "Mike Garrett",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1276.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-abramowicz_1972_NO",
+    "player_name": "Danny Abramowicz",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 668.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-d-hill_1972_BUF",
+    "player_name": "J.D. Hill",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 765.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-hampton_1972_ATL",
+    "player_name": "Dave Hampton",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1239.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cid-edwards_1972_LAC",
+    "player_name": "Cid Edwards",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1236.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-riggins_1972_NYJ",
+    "player_name": "John Riggins",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1174.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-smith_1972_LV",
+    "player_name": "Charlie Smith",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1039.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-parks_1972_NO",
+    "player_name": "Dave Parks",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 535.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_essex-johnson_1972_CIN",
+    "player_name": "Essex Johnson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1245.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sam-havrilak_1972_BAL",
+    "player_name": "Sam Havrilak",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 643.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-phipps_1972_CLE",
+    "player_name": "Mike Phipps",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2250.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chip-myers_1972_CIN",
+    "player_name": "Chip Myers",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 792.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-sellers_1972_DAL",
+    "player_name": "Ron Sellers",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 653.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emerson-boozer_1972_NYJ",
+    "player_name": "Emerson Boozer",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 691.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-csonka_1972_MIA",
+    "player_name": "Larry Csonka",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1165.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-namath_1972_NYJ",
+    "player_name": "Joe Namath",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2824.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-smith_1972_WAS",
+    "player_name": "Jerry Smith",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 362.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reggie-rucker_1972_NE",
+    "player_name": "Reggie Rucker",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 686.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-chandler_1972_BUF",
+    "player_name": "Bob Chandler",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 555.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-mitchell_1972_BAL",
+    "player_name": "Tom Mitchell",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 501.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-shanklin_1972_PIT",
+    "player_name": "Ron Shanklin",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 669.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-walton_1972_DET",
+    "player_name": "Larry Walton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 485.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rod-sherman_1972_DEN",
+    "player_name": "Rod Sherman",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 663.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marv-hubbard_1972_LV",
+    "player_name": "Marv Hubbard",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1203.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mitchell_1972_ATL",
+    "player_name": "Jim Mitchell",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 489.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-snow_1972_LAR",
+    "player_name": "Jack Snow",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 590.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norm-snead_1972_NYG",
+    "player_name": "Norm Snead",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2328.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-warfield_1972_MIA",
+    "player_name": "Paul Warfield",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 629.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-siani_1972_LV",
+    "player_name": "Mike Siani",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 496.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-burrow_1972_ATL",
+    "player_name": "Ken Burrow",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 495.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-berry_1972_ATL",
+    "player_name": "Bob Berry",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2235.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-burrough_1972_HOU",
+    "player_name": "Ken Burrough",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 521.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-lewis_1972_PIT",
+    "player_name": "Frank Lewis",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 459.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-bell_1972_NYJ",
+    "player_name": "Eddie Bell",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 624.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_daryle-lamonica_1972_LV",
+    "player_name": "Daryle Lamonica",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2031.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-trumpy_1972_CIN",
+    "player_name": "Bob Trumpy",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 500.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-dressler_1972_CIN",
+    "player_name": "Doug Dressler",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 913.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-herrmann_1972_NYG",
+    "player_name": "Don Herrmann",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 431.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roy-jefferson_1972_WAS",
+    "player_name": "Roy Jefferson",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 550.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ahmad-rashad_1972_LAR",
+    "player_name": "Ahmad Rashad",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 544.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-podolak_1972_KC",
+    "player_name": "Ed Podolak",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 960.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leroy-kelly_1972_CLE",
+    "player_name": "Leroy Kelly",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1015.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_milt-morin_1972_CLE",
+    "player_name": "Milt Morin",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 540.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-morton_1972_DAL",
+    "player_name": "Craig Morton",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2422.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-newland_1972_NO",
+    "player_name": "Bob Newland",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 579.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_macarthur-lane_1972_GB",
+    "player_name": "MacArthur Lane",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1125.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-spurrier_1972_SF",
+    "player_name": "Steve Spurrier",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2034.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-masters_1972_DEN",
+    "player_name": "Billy Masters",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 378.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-bertelsen_1972_LAR",
+    "player_name": "Jim Bertelsen",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 912.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-thomas_1972_CHI",
+    "player_name": "Earl Thomas",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 378.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jackie-smith_1972_LAR",
+    "player_name": "Jackie Smith",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 438.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-ellison_1972_LAR",
+    "player_name": "Willie Ellison",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 905.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_altie-taylor_1972_DET",
+    "player_name": "Altie Taylor",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 908.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_donny-anderson_1972_LAR",
+    "player_name": "Donny Anderson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 905.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-hadl_1972_LAC",
+    "player_name": "John Hadl",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2552.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-kilmer_1972_WAS",
+    "player_name": "Billy Kilmer",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1645.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-anderson_1972_CIN",
+    "player_name": "Ken Anderson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2012.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carl-garrett_1972_NE",
+    "player_name": "Carl Garrett",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 898.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-mccauley_1972_BAL",
+    "player_name": "Don McCauley",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 931.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vic-washington_1972_SF",
+    "player_name": "Vic Washington",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 861.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_len-dawson_1972_KC",
+    "player_name": "Len Dawson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1910.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marty-domres_1972_BAL",
+    "player_name": "Marty Domres",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1529.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roman-gabriel_1972_LAR",
+    "player_name": "Roman Gabriel",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2043.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-fuqua_1972_PIT",
+    "player_name": "John Fuqua",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 817.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-braxton_1972_BUF",
+    "player_name": "Jim Braxton",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 685.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-pastorini_1972_HOU",
+    "player_name": "Dan Pastorini",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1916.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-brown_1972_MIN",
+    "player_name": "Bill Brown",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 561.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-harraway_1972_WAS",
+    "player_name": "Charlie Harraway",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 672.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-kiick_1972_MIA",
+    "player_name": "Jim Kiick",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 668.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-shaw_1972_BUF",
+    "player_name": "Dennis Shaw",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1804.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wendell-hayes_1972_KC",
+    "player_name": "Wendell Hayes",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 831.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_josh-ashton_1972_NE",
+    "player_name": "Josh Ashton",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 753.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charley-johnson_1972_DEN",
+    "player_name": "Charley Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1783.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-plunkett_1972_NE",
+    "player_name": "Jim Plunkett",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2426.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-roland_1972_LAR",
+    "player_name": "Johnny Roland",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 735.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-morrall_1972_MIA",
+    "player_name": "Earl Morrall",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1427.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_oscar-reed_1972_MIN",
+    "player_name": "Oscar Reed",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 844.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-hunter_1972_GB",
+    "player_name": "Scott Hunter",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1289.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-schreiber_1972_SF",
+    "player_name": "Larry Schreiber",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 703.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-owens_1972_DET",
+    "player_name": "Steve Owens",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 619.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bo-scott_1972_CLE",
+    "player_name": "Bo Scott",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 743.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-nottingham_1972_BAL",
+    "player_name": "Don Nottingham",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 657.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-harrison_1972_CHI",
+    "player_name": "Jim Harrison",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 652.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-davis_1972_LV",
+    "player_name": "Clarence Davis",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 445.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-reaves_1972_PHI",
+    "player_name": "John Reaves",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1617.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-evans_1972_NYG",
+    "player_name": "Charlie Evans",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 499.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_po-james_1972_PHI",
+    "player_name": "Po James",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 721.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-willard_1972_SF",
+    "player_name": "Ken Willard",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 476.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-gresham_1972_NO",
+    "player_name": "Bob Gresham",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 573.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-thomas_1972_LAR",
+    "player_name": "Bob Thomas",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 528.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-anderson_1972_DEN",
+    "player_name": "Bobby Anderson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 548.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walker-gillette_1972_LAR",
+    "player_name": "Walker Gillette",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 550.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-jessie_1972_DET",
+    "player_name": "Ron Jessie",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 424.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-houston_1972_NYG",
+    "player_name": "Rich Houston",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 468.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-smith_1972_LAR",
+    "player_name": "Larry Smith",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 462.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-brodie_1972_SF",
+    "player_name": "John Brodie",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 913.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-maynard_1972_NYJ",
+    "player_name": "Don Maynard",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 510.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-dawkins_1972_DEN",
+    "player_name": "Joe Dawkins",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 485.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-osborn_1972_MIN",
+    "player_name": "Dave Osborn",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 427.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-butler_1972_NO",
+    "player_name": "Bill Butler",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 459.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ben-hawkins_1972_PHI",
+    "player_name": "Ben Hawkins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 512.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fair-hooker_1972_CLE",
+    "player_name": "Fair Hooker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 441.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lance-rentzel_1972_LAR",
+    "player_name": "Lance Rentzel",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 436.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marlin-briscoe_1972_MIA",
+    "player_name": "Marlin Briscoe",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 351.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-sanders_1972_DET",
+    "player_name": "Charlie Sanders",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 416.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_howard-twilley_1972_MIA",
+    "player_name": "Howard Twilley",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 364.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mel-farr_1972_DET",
+    "player_name": "Mel Farr",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 348.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-shy_1972_CHI",
+    "player_name": "Don Shy",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 451.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-williams_1972_LAC",
+    "player_name": "Dave Williams",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 329.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-marinaro_1972_MIN",
+    "player_name": "Ed Marinaro",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 441.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-ramsey_1972_DEN",
+    "player_name": "Steve Ramsey",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1065.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-unitas_1972_BAL",
+    "player_name": "Johnny Unitas",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1126.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-farmer_1972_CHI",
+    "player_name": "George Farmer",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 367.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cyril-pinder_1972_CHI",
+    "player_name": "Cyril Pinder",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 313.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-vataha_1972_NE",
+    "player_name": "Randy Vataha",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 369.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lydell-mitchell_1972_BAL",
+    "player_name": "Lydell Mitchell",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 362.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-frazier_1972_KC",
+    "player_name": "Willie Frazier",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 172.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-hart_1972_LAR",
+    "player_name": "Jim Hart",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 874.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-thomas_1972_SF",
+    "player_name": "Jimmy Thomas",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 398.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_virgil-carter_1972_CIN",
+    "player_name": "Virgil Carter",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 636.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_riley-odoms_1972_DEN",
+    "player_name": "Riley Odoms",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 392.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-adamle_1972_KC",
+    "player_name": "Mike Adamle",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 379.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-baker_1972_PHI",
+    "player_name": "Tony Baker",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 436.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-windsor_1972_NE",
+    "player_name": "Bob Windsor",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 379.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-dowling_1972_NE",
+    "player_name": "Brian Dowling",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 418.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerome-barkum_1972_NYJ",
+    "player_name": "Jerome Barkum",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 304.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-griese_1972_MIA",
+    "player_name": "Bob Griese",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 649.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harold-carmichael_1972_PHI",
+    "player_name": "Harold Carmichael",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 276.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wes-chesson_1972_ATL",
+    "player_name": "Wes Chesson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 338.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otto-stowe_1972_MIA",
+    "player_name": "Otto Stowe",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 276.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-liske_1972_PHI",
+    "player_name": "Pete Liske",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 993.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-mcclain_1972_NYJ",
+    "player_name": "Cliff McClain",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 393.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-o-brien_1972_BAL",
+    "player_name": "Jim O'Brien",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 272.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carroll-dale_1972_GB",
+    "player_name": "Carroll Dale",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 317.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-klein_1972_LAR",
+    "player_name": "Bob Klein",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 323.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-matte_1972_BAL",
+    "player_name": "Tom Matte",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 319.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gene-washington_1972_MIN",
+    "player_name": "Gene Washington",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 259.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fran-lynch_1972_DEN",
+    "player_name": "Fran Lynch",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 239.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-parks_1972_DAL",
+    "player_name": "Billy Parks",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 298.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-simmons_1972_DEN",
+    "player_name": "Jerry Simmons",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 235.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-tarver_1972_NE",
+    "player_name": "John Tarver",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 244.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-cuozzo_1972_LAR",
+    "player_name": "Gary Cuozzo",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 904.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mandich_1972_MIA",
+    "player_name": "Jim Mandich",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 168.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chuck-dicus_1972_LAC",
+    "player_name": "Chuck Dicus",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 216.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mcmakin_1972_PIT",
+    "player_name": "John McMakin",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 277.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-montgomery_1972_DAL",
+    "player_name": "Mike Montgomery",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 243.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-pearson_1972_PIT",
+    "player_name": "Preston Pearson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 343.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-stabler_1972_LV",
+    "player_name": "Ken Stabler",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 551.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leland-glass_1972_GB",
+    "player_name": "Leland Glass",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 274.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clint-jones_1972_MIN",
+    "player_name": "Clint Jones",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 206.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lance-alworth_1972_DAL",
+    "player_name": "Lance Alworth",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 197.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jess-phillips_1972_CIN",
+    "player_name": "Jess Phillips",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 257.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-watkins_1972_PHI",
+    "player_name": "Larry Watkins",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 260.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-henderson_1972_MIN",
+    "player_name": "John Henderson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 190.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_les-josephson_1972_LAR",
+    "player_name": "Les Josephson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 245.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-brown_1972_CLE",
+    "player_name": "Ken Brown",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 178.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-beasley_1972_MIN",
+    "player_name": "John Beasley",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 232.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-lawson_1972_CHI",
+    "player_name": "Roger Lawson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 226.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-west_1972_KC",
+    "player_name": "Robert West",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 167.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pettis-norman_1972_LAC",
+    "player_name": "Pettis Norman",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 271.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-reynolds_1972_NE",
+    "player_name": "Tom Reynolds",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 152.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jan-white_1972_BUF",
+    "player_name": "Jan White",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 148.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-banaszak_1972_LV",
+    "player_name": "Pete Banaszak",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 201.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-ditka_1972_DAL",
+    "player_name": "Mike Ditka",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 198.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-orduna_1972_NYG",
+    "player_name": "Joe Orduna",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 135.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hoyle-granger_1972_HOU",
+    "player_name": "Hoyle Granger",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 249.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sonny-jurgensen_1972_WAS",
+    "player_name": "Sonny Jurgensen",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 628.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alvin-reed_1972_HOU",
+    "player_name": "Alvin Reed",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 251.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-brown_1972_NO",
+    "player_name": "Robert Brown",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 175.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-harkey_1972_NYJ",
+    "player_name": "Steve Harkey",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 243.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kent-kramer_1972_PHI",
+    "player_name": "Kent Kramer",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 176.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-strong_1972_NO",
+    "player_name": "Jim Strong",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 243.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hubert-ginn_1972_MIA",
+    "player_name": "Hubert Ginn",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 165.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-gladieux_1972_NE",
+    "player_name": "Bob Gladieux",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 248.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-kinney_1972_KC",
+    "player_name": "Jeff Kinney",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 167.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-patrick_1972_BUF",
+    "player_name": "Wayne Patrick",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 172.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_speedy-thomas_1972_CIN",
+    "player_name": "Speedy Thomas",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 171.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_norm-bulaich_1972_BAL",
+    "player_name": "Norm Bulaich",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 164.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marv-fleming_1972_MIA",
+    "player_name": "Marv Fleming",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 156.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-riley_1972_SF",
+    "player_name": "Preston Riley",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 156.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-seymour_1972_CHI",
+    "player_name": "Jim Seymour",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 156.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-brunet_1972_WAS",
+    "player_name": "Bob Brunet",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 90.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leon-burns_1972_LAR",
+    "player_name": "Leon Burns",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 93.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-hayes_1972_DAL",
+    "player_name": "Bob Hayes",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 208.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-hinton_1972_BAL",
+    "player_name": "Eddie Hinton",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 146.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-holmes_1972_HOU",
+    "player_name": "Robert Holmes",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 204.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-homan_1972_KC",
+    "player_name": "Dennis Homan",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 135.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-cotton_1972_DET",
+    "player_name": "Craig Cotton",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 129.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-williams_1972_NO",
+    "player_name": "Joe Williams",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 188.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-ballman_1972_PHI",
+    "player_name": "Gary Ballman",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 183.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-davis_1972_GB",
+    "player_name": "Dave Davis",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 119.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robert-newhouse_1972_DAL",
+    "player_name": "Robert Newhouse",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 124.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jon-staggers_1972_GB",
+    "player_name": "Jon Staggers",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 115.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-mccullouch_1972_DET",
+    "player_name": "Earl McCullouch",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 119.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-otis_1972_KC",
+    "player_name": "Jim Otis",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 168.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stu-voigt_1972_MIN",
+    "player_name": "Stu Voigt",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 51.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-beirne_1972_HOU",
+    "player_name": "Jim Beirne",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 95.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-krieg_1972_DEN",
+    "player_name": "Jim Krieg",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 162.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-davis_1972_PIT",
+    "player_name": "Steve Davis",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 90.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-profit_1972_ATL",
+    "player_name": "Joe Profit",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 154.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-davis_1972_NYJ",
+    "player_name": "Bob Davis",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 146.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rhett-dawson_1972_HOU",
+    "player_name": "Rhett Dawson",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 78.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-isenbarger_1972_SF",
+    "player_name": "John Isenbarger",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 75.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_morris-stroud_1972_KC",
+    "player_name": "Morris Stroud",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 80.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_perry-williams_1972_GB",
+    "player_name": "Perry Williams",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 139.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-grim_1972_NYG",
+    "player_name": "Bob Grim",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 67.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-barnes_1972_DET",
+    "player_name": "Al Barnes",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 58.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kent-nix_1972_HOU",
+    "player_name": "Kent Nix",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 290.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-coslet_1972_CIN",
+    "player_name": "Bruce Coslet",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 48.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-highsmith_1972_LV",
+    "player_name": "Don Highsmith",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 45.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mackey_1972_LAC",
+    "player_name": "John Mackey",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 110.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-moore_1972_LV",
+    "player_name": "Bob Moore",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 49.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_elmo-wright_1972_KC",
+    "player_name": "Elmo Wright",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 105.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hank-bjorklund_1972_NYJ",
+    "player_name": "Hank Bjorklund",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 96.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jean-fugett_1972_DAL",
+    "player_name": "Jean Fugett",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 96.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_arthur-green_1972_NO",
+    "player_name": "Arthur Green",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 100.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lee-white_1972_LAC",
+    "player_name": "Lee White",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 95.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-stewart_1972_NYJ",
+    "player_name": "Wayne Stewart",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 26.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-sweet_1972_LAR",
+    "player_name": "Joe Sweet",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 27.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_al-young_1972_PIT",
+    "player_name": "Al Young",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 86.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-kosins_1972_CHI",
+    "player_name": "Gary Kosins",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 20.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-leigh_1972_MIA",
+    "player_name": "Charlie Leigh",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 79.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-staroba_1972_CLE",
+    "player_name": "Paul Staroba",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 19.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-walik_1972_PHI",
+    "player_name": "Billy Walik",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 15.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dick-witcher_1972_SF",
+    "player_name": "Dick Witcher",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 22.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_len-garrett_1972_GB",
+    "player_name": "Len Garrett",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 66.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jack-maitland_1972_NE",
+    "player_name": "Jack Maitland",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 66.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-parsons_1972_CHI",
+    "player_name": "Bob Parsons",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 6.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chip-glass_1972_CLE",
+    "player_name": "Chip Glass",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 61.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mel-gray_1972_LAR",
+    "player_name": "Mel Gray",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 62.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-hudson_1972_GB",
+    "player_name": "Bob Hudson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 62.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-kopay_1972_GB",
+    "player_name": "Dave Kopay",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 58.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mickey-zofko_1972_DET",
+    "player_name": "Mickey Zofko",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 42.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mack-alston_1972_WAS",
+    "player_name": "Mack Alston",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 53.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-bailey_1972_PHI",
+    "player_name": "Tom Bailey",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 54.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-branch_1972_LV",
+    "player_name": "Cliff Branch",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 46.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-mosier_1972_BAL",
+    "player_name": "John Mosier",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 53.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-ray_1972_ATL",
+    "player_name": "Eddie Ray",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 48.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-triplett_1972_DET",
+    "player_name": "Bill Triplett",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 48.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-truax_1972_DAL",
+    "player_name": "Billy Truax",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 49.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-beer_1972_NE",
+    "player_name": "Tom Beer",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 40.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-lindsey_1972_MIN",
+    "player_name": "Jim Lindsey",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 36.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_warren-bankston_1972_PIT",
+    "player_name": "Warren Bankston",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 25.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_oscar-dragon_1972_LAC",
+    "player_name": "Oscar Dragon",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 30.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-hyatt_1972_LAR",
+    "player_name": "Fred Hyatt",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 32.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-sullivan_1972_PHI",
+    "player_name": "Tom Sullivan",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 30.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clem-turner_1972_DEN",
+    "player_name": "Clem Turner",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 26.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-beasley_1972_SF",
+    "player_name": "Terry Beasley",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 20.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rocky-bleier_1972_PIT",
+    "player_name": "Rocky Bleier",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 17.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-koy_1972_BUF",
+    "player_name": "Ted Koy",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 18.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-lammons_1972_GB",
+    "player_name": "Pete Lammons",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1972,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 19.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-nock_1972_WAS",
+    "player_name": "George Nock",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-reed_1972_SF",
+    "player_name": "Joe Reed",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-snyder_1972_ATL",
+    "player_name": "Todd Snyder",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 19.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_terry-hanratty_1972_PIT",
+    "player_name": "Terry Hanratty",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 23.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-lamb_1972_ATL",
+    "player_name": "Ron Lamb",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-lefear_1972_CLE",
+    "player_name": "Billy Lefear",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-nowatzke_1972_BAL",
+    "player_name": "Tom Nowatzke",
+    "team": "BAL",
+    "team_abbr": "BAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 11.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-queen_1972_LV",
+    "player_name": "Jeff Queen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-reeves_1972_DAL",
+    "player_name": "Dan Reeves",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1972,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gloster-richardson_1972_CLE",
+    "player_name": "Gloster Richardson",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-wallace_1972_CHI",
+    "player_name": "Bob Wallace",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 9.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bob-wicks_1972_LAR",
+    "player_name": "Bob Wicks",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 8.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-beathard_1972_LAR",
+    "player_name": "Pete Beathard",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 254.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-clark_1972_LAC",
+    "player_name": "Wayne Clark",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 59.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-sullivan_1972_ATL",
+    "player_name": "Pat Sullivan",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1972,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 52.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1970s",
+    "source": "pfr_offense"
+  }
+]

@@ -1,0 +1,7112 @@
+[
+  {
+    "player_id": "pfr_eric-dickerson_1984_LAR",
+    "player_name": "Eric Dickerson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2244.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-marino_1984_MIA",
+    "player_name": "Dan Marino",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 5077.0,
+      "td": 48.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-wilder_1984_TB",
+    "player_name": "James Wilder",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2245.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marcus-allen_1984_LV",
+    "player_name": "Marcus Allen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1964.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walter-payton_1984_CHI",
+    "player_name": "Walter Payton",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2099.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-clayton_1984_MIA",
+    "player_name": "Mark Clayton",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1424.0,
+      "td": 18.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gerald-riggs_1984_ATL",
+    "player_name": "Gerald Riggs",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1763.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roy-green_1984_LAR",
+    "player_name": "Roy Green",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1545.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_neil-lomax_1984_LAR",
+    "player_name": "Neil Lomax",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4798.0,
+      "td": 31.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-stallworth_1984_PIT",
+    "player_name": "John Stallworth",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1395.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ottis-anderson_1984_LAR",
+    "player_name": "Ottis Anderson",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1785.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-largent_1984_SEA",
+    "player_name": "Steve Largent",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1174.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-riggins_1984_WAS",
+    "player_name": "John Riggins",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1282.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-lofton_1984_GB",
+    "player_name": "James Lofton",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1443.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-krieg_1984_SEA",
+    "player_name": "Dave Krieg",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3857.0,
+      "td": 35.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-montana_1984_SF",
+    "player_name": "Joe Montana",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3748.0,
+      "td": 30.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-dorsett_1984_DAL",
+    "player_name": "Tony Dorsett",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1648.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-monk_1984_WAS",
+    "player_name": "Art Monk",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1390.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wendell-tyler_1984_SF",
+    "player_name": "Wendell Tyler",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1492.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-duper_1984_MIA",
+    "player_name": "Mark Duper",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1306.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-eason_1984_NE",
+    "player_name": "Tony Eason",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3382.0,
+      "td": 28.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earnest-jackson_1984_LAC",
+    "player_name": "Earnest Jackson",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1401.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_roger-craig_1984_SF",
+    "player_name": "Roger Craig",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1324.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-christensen_1984_LV",
+    "player_name": "Todd Christensen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 1007.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-theismann_1984_WAS",
+    "player_name": "Joe Theismann",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3705.0,
+      "td": 25.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-bell_1984_BUF",
+    "player_name": "Greg Bell",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1377.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-watson_1984_DEN",
+    "player_name": "Steve Watson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1170.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-quick_1984_PHI",
+    "player_name": "Mike Quick",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1047.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sammy-winder_1984_DEN",
+    "player_name": "Sammy Winder",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1441.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ozzie-newsome_1984_CLE",
+    "player_name": "Ozzie Newsome",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 1001.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_louis-lipps_1984_PIT",
+    "player_name": "Louis Lipps",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 931.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_phil-simms_1984_NYG",
+    "player_name": "Phil Simms",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 4219.0,
+      "td": 22.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-jones_1984_DET",
+    "player_name": "James Jones",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1256.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stacey-bailey_1984_ATL",
+    "player_name": "Stacey Bailey",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1138.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freeman-mcneil_1984_NYJ",
+    "player_name": "Freeman McNeil",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1364.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_freddie-solomon_1984_SF",
+    "player_name": "Freddie Solomon",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 809.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-ramsey_1984_NE",
+    "player_name": "Derrick Ramsey",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 792.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mickey-shuler_1984_NYJ",
+    "player_name": "Mickey Shuler",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 782.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-smith_1984_HOU",
+    "player_name": "Tim Smith",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1141.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cris-collinsworth_1984_CIN",
+    "player_name": "Cris Collinsworth",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 996.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-coffman_1984_GB",
+    "player_name": "Paul Coffman",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 562.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_daryl-turner_1984_SEA",
+    "player_name": "Daryl Turner",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 715.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carlos-carson_1984_KC",
+    "player_name": "Carlos Carson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1070.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-danielson_1984_DET",
+    "player_name": "Gary Danielson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3316.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kevin-house_1984_TB",
+    "player_name": "Kevin House",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1005.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lynn-dickey_1984_GB",
+    "player_name": "Lynn Dickey",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3201.0,
+      "td": 28.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_zeke-mowatt_1984_NYG",
+    "player_name": "Zeke Mowatt",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 698.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-cosbie_1984_DAL",
+    "player_name": "Doug Cosbie",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 789.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-carpenter_1984_NYG",
+    "player_name": "Rob Carpenter",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1004.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-clark_1984_SF",
+    "player_name": "Dwight Clark",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 880.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-deberg_1984_TB",
+    "player_name": "Steve DeBerg",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3613.0,
+      "td": 21.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-johnson_1984_NYG",
+    "player_name": "Bobby Johnson",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 795.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stump-mitchell_1984_LAR",
+    "player_name": "Stump Mitchell",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 772.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-moriarty_1984_HOU",
+    "player_name": "Larry Moriarty",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1007.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wilbert-montgomery_1984_PHI",
+    "player_name": "Wilbert Montgomery",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1290.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-hill_1984_DAL",
+    "player_name": "Tony Hill",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 871.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-pollard_1984_PIT",
+    "player_name": "Frank Pollard",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1037.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hoby-brenner_1984_NO",
+    "player_name": "Hoby Brenner",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 554.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-joiner_1984_LAC",
+    "player_name": "Charlie Joiner",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 793.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-marshall_1984_KC",
+    "player_name": "Henry Marshall",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 912.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-kinnebrew_1984_CIN",
+    "player_name": "Larry Kinnebrew",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 782.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-marsh_1984_LAR",
+    "player_name": "Doug Marsh",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 603.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hokie-gajan_1984_NO",
+    "player_name": "Hokie Gajan",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 937.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gerald-carter_1984_TB",
+    "player_name": "Gerald Carter",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 832.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leonard-thompson_1984_DET",
+    "player_name": "Leonard Thompson",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 766.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_m-l-harris_1984_CIN",
+    "player_name": "M.L. Harris",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 757.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-fouts_1984_LAC",
+    "player_name": "Dan Fouts",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3711.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_byron-franklin_1984_BUF",
+    "player_name": "Byron Franklin",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 855.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-holohan_1984_LAC",
+    "player_name": "Pete Holohan",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 759.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-nathan_1984_MIA",
+    "player_name": "Tony Nathan",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 1137.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_leo-lewis_1984_MIN",
+    "player_name": "Leo Lewis",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 841.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wes-chandler_1984_LAC",
+    "player_name": "Wes Chandler",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 708.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-tilley_1984_LAR",
+    "player_name": "Pat Tilley",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 758.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wesley-walker_1984_NYJ",
+    "player_name": "Wesley Walker",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 624.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gerry-ellis_1984_GB",
+    "player_name": "Gerry Ellis",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 910.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kellen-winslow_1984_LAC",
+    "player_name": "Kellen Winslow",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 663.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-butler_1984_IND",
+    "player_name": "Ray Butler",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 664.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_warren-moon_1984_HOU",
+    "player_name": "Warren Moon",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3549.0,
+      "td": 13.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-elway_1984_DEN",
+    "player_name": "John Elway",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2835.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-mcdonald_1984_CLE",
+    "player_name": "Paul McDonald",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 3472.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-jaworski_1984_PHI",
+    "player_name": "Ron Jaworski",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2772.0,
+      "td": 17.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-kemp_1984_LAR",
+    "player_name": "Jeff Kemp",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2174.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-malone_1984_PIT",
+    "player_name": "Mark Malone",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2179.0,
+      "td": 19.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marc-wilson_1984_LV",
+    "player_name": "Marc Wilson",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2207.0,
+      "td": 16.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-kenney_1984_KC",
+    "player_name": "Bill Kenney",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2090.0,
+      "td": 15.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-sims_1984_DET",
+    "player_name": "Billy Sims",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 926.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-mcmillan_1984_IND",
+    "player_name": "Randy McMillan",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 906.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-mcmahon_1984_CHI",
+    "player_name": "Jim McMahon",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1464.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-ryan_1984_NYJ",
+    "player_name": "Pat Ryan",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2031.0,
+      "td": 14.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfred-anderson_1984_MIN",
+    "player_name": "Alfred Anderson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 970.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ted-brown_1984_MIN",
+    "player_name": "Ted Brown",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 791.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herman-heard_1984_KC",
+    "player_name": "Herman Heard",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 907.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-bartkowski_1984_ATL",
+    "player_name": "Steve Bartkowski",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2192.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_woody-bennett_1984_MIA",
+    "player_name": "Woody Bennett",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 650.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eddie-lee-ivery_1984_GB",
+    "player_name": "Eddie Lee Ivery",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 693.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-rogers_1984_NO",
+    "player_name": "George Rogers",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 990.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_matt-suhey_1984_CHI",
+    "player_name": "Matt Suhey",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 736.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-anderson_1984_CIN",
+    "player_name": "Ken Anderson",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2171.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-ferguson_1984_BUF",
+    "player_name": "Joe Ferguson",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2093.0,
+      "td": 12.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_richard-todd_1984_NO",
+    "player_name": "Richard Todd",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2289.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stanford-jennings_1984_CIN",
+    "player_name": "Stanford Jennings",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 725.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-james_1984_NE",
+    "player_name": "Craig James",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 949.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stanley-morgan_1984_NE",
+    "player_name": "Stanley Morgan",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 709.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_henry-ellard_1984_LAR",
+    "player_name": "Henry Ellard",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 617.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_malcolm-barnwell_1984_LV",
+    "player_name": "Malcolm Barnwell",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 851.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jessie-clark_1984_GB",
+    "player_name": "Jessie Clark",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 609.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-hogeboom_1984_DAL",
+    "player_name": "Gary Hogeboom",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 2385.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-muhammad_1984_WAS",
+    "player_name": "Calvin Muhammad",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 729.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bobby-duckworth_1984_LAC",
+    "player_name": "Bobby Duckworth",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 715.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-collins_1984_NE",
+    "player_name": "Tony Collins",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 650.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-gault_1984_CHI",
+    "player_name": "Willie Gault",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 587.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_butch-johnson_1984_DEN",
+    "player_name": "Butch Johnson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 590.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mosi-tatupu_1984_NE",
+    "player_name": "Mosi Tatupu",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 712.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rich-erenberg_1984_PIT",
+    "player_name": "Rich Erenberg",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 763.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nat-moore_1984_MIA",
+    "player_name": "Nat Moore",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 576.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pagel_1984_IND",
+    "player_name": "Mike Pagel",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1575.0,
+      "td": 9.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tommy-kramer_1984_MIN",
+    "player_name": "Tommy Kramer",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1707.0,
+      "td": 10.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-brooks_1984_CIN",
+    "player_name": "James Brooks",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 664.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_curtis-dickey_1984_IND",
+    "player_name": "Curtis Dickey",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 721.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-pruitt_1984_CLE",
+    "player_name": "Mike Pruitt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 535.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-springs_1984_DAL",
+    "player_name": "Ron Springs",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 651.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stephen-starring_1984_NE",
+    "player_name": "Stephen Starring",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 641.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-morris_1984_NYG",
+    "player_name": "Joe Morris",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 634.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-white_1984_DAL",
+    "player_name": "Danny White",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1601.0,
+      "td": 11.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-blackledge_1984_KC",
+    "player_name": "Todd Blackledge",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1809.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boyce-green_1984_CLE",
+    "player_name": "Boyce Green",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 797.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lionel-manuel_1984_NYG",
+    "player_name": "Lionel Manuel",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 621.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alfred-jackson_1984_ATL",
+    "player_name": "Alfred Jackson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 731.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_preston-dennard_1984_BUF",
+    "player_name": "Preston Dennard",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 417.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_timmy-newsome_1984_DAL",
+    "player_name": "Timmy Newsome",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 531.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-nichols_1984_DET",
+    "player_name": "Mark Nichols",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 771.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-wilson_1984_NO",
+    "player_name": "Wayne Wilson",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 575.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_walter-abercrombie_1984_PIT",
+    "player_name": "Walter Abercrombie",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 745.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_theotis-brown_1984_KC",
+    "player_name": "Theotis Brown",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 573.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darrin-nelson_1984_MIN",
+    "player_name": "Darrin Nelson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 568.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-alexander_1984_CIN",
+    "player_name": "Charles Alexander",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 682.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stephone-paige_1984_KC",
+    "player_name": "Stephone Paige",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 560.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gerald-willhite_1984_DEN",
+    "player_name": "Gerald Willhite",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 689.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tyrone-young_1984_NO",
+    "player_name": "Tyrone Young",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 597.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-hector_1984_NYJ",
+    "player_name": "Johnny Hector",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 713.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-renfro_1984_DAL",
+    "player_name": "Mike Renfro",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 632.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-spagnola_1984_PHI",
+    "player_name": "John Spagnola",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 701.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dokie-williams_1984_LV",
+    "player_name": "Dokie Williams",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 509.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-brown_1984_LAR",
+    "player_name": "Ron Brown",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 503.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-chadwick_1984_DET",
+    "player_name": "Jeff Chadwick",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 552.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jamie-williams_1984_HOU",
+    "player_name": "Jamie Williams",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 545.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-cooper_1984_SF",
+    "player_name": "Earl Cooper",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 472.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tracy-porter_1984_IND",
+    "player_name": "Tracy Porter",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 590.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-doornink_1984_SEA",
+    "player_name": "Dan Doornink",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 580.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-jones_1984_MIN",
+    "player_name": "Mike Jones",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 636.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-lane_1984_SEA",
+    "player_name": "Eric Lane",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 400.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-plunkett_1984_LV",
+    "player_name": "Jim Plunkett",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1487.0,
+      "td": 7.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-woodley_1984_PIT",
+    "player_name": "David Woodley",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1287.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-o-brien_1984_NYJ",
+    "player_name": "Ken O'Brien",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1431.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lin-dawson_1984_NE",
+    "player_name": "Lin Dawson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 427.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earnest-byner_1984_CLE",
+    "player_name": "Earnest Byner",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 544.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-jenkins_1984_DET",
+    "player_name": "Ken Jenkins",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 604.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_buford-mcgee_1984_LAC",
+    "player_name": "Buford McGee",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 302.0,
+      "td": 6.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-woodruff_1984_PHI",
+    "player_name": "Tony Woodruff",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 484.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clint-didier_1984_WAS",
+    "player_name": "Clint Didier",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 350.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earnest-gray_1984_NYG",
+    "player_name": "Earnest Gray",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 529.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jerry-bell_1984_TB",
+    "player_name": "Jerry Bell",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 397.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-brennan_1984_CLE",
+    "player_name": "Brian Brennan",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 455.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-paige_1984_NYJ",
+    "player_name": "Tony Paige",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 161.0,
+      "td": 8.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_drew-hill_1984_LAR",
+    "player_name": "Drew Hill",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 390.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_phil-epps_1984_GB",
+    "player_name": "Phil Epps",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 435.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-luther_1984_LAC",
+    "player_name": "Ed Luther",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1174.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-mckinnon_1984_CHI",
+    "player_name": "Dennis McKinnon",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 443.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-sievers_1984_LAC",
+    "player_name": "Eric Sievers",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 438.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-carter_1984_MIA",
+    "player_name": "Joe Carter",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 548.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-hawkins_1984_LV",
+    "player_name": "Frank Hawkins",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 427.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dan-johnson_1984_MIA",
+    "player_name": "Dan Johnson",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 426.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-pisarcik_1984_PHI",
+    "player_name": "Joe Pisarcik",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1055.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_doug-donley_1984_DAL",
+    "player_name": "Doug Donley",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 478.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-jordan_1984_MIN",
+    "player_name": "Steve Jordan",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 418.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_byron-williams_1984_NYG",
+    "player_name": "Byron Williams",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 471.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-hughes_1984_SEA",
+    "player_name": "David Hughes",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 448.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-hardy_1984_MIA",
+    "player_name": "Bruce Hardy",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 257.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_emery-moorehead_1984_CHI",
+    "player_name": "Emery Moorehead",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 495.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lynn-cain_1984_ATL",
+    "player_name": "Lynn Cain",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 363.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_earl-ferrell_1984_LAR",
+    "player_name": "Earl Ferrell",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 421.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_turk-schonert_1984_CIN",
+    "player_name": "Turk Schonert",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1022.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lam-jones_1984_NYJ",
+    "player_name": "Lam Jones",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 470.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_adger-armstrong_1984_TB",
+    "player_name": "Adger Armstrong",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 214.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_arthur-cox_1984_ATL",
+    "player_name": "Arthur Cox",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 329.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-fuller_1984_CHI",
+    "player_name": "Steve Fuller",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 684.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-middleton_1984_IND",
+    "player_name": "Frank Middleton",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 387.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-dressel_1984_HOU",
+    "player_name": "Chris Dressel",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 378.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-groth_1984_NO",
+    "player_name": "Jeff Groth",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 487.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ken-lacy_1984_KC",
+    "player_name": "Ken Lacy",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 252.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_stan-edwards_1984_HOU",
+    "player_name": "Stan Edwards",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 418.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-moroski_1984_ATL",
+    "player_name": "Mike Moroski",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1305.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_renaldo-nehemiah_1984_SF",
+    "player_name": "Renaldo Nehemiah",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 357.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwayne-crutchfield_1984_LAR",
+    "player_name": "Dwayne Crutchfield",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 348.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eugene-goodlow_1984_NO",
+    "player_name": "Eugene Goodlow",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 286.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_art-schlichter_1984_IND",
+    "player_name": "Art Schlichter",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 847.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_weegie-thompson_1984_PIT",
+    "player_name": "Weegie Thompson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 291.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_boomer-esiason_1984_CIN",
+    "player_name": "Boomer Esiason",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 593.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-galbreath_1984_NYG",
+    "player_name": "Tony Galbreath",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 467.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tony-hunter_1984_BUF",
+    "player_name": "Tony Hunter",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 337.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-jackson_1984_PHI",
+    "player_name": "Kenny Jackson",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 398.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_sammy-white_1984_MIN",
+    "player_name": "Sammy White",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 399.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_keith-griffin_1984_WAS",
+    "player_name": "Keith Griffin",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 451.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_billy-jackson_1984_KC",
+    "player_name": "Billy Jackson",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 326.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ricky-feacher_1984_CLE",
+    "player_name": "Ricky Feacher",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 382.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmie-giles_1984_TB",
+    "player_name": "Jimmie Giles",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 310.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-scott_1984_KC",
+    "player_name": "Willie Scott",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 253.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_julius-dawkins_1984_BUF",
+    "player_name": "Julius Dawkins",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 295.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-haddix_1984_PHI",
+    "player_name": "Michael Haddix",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 361.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gary-kubiak_1984_DEN",
+    "player_name": "Gary Kubiak",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 487.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-lewis_1984_DET",
+    "player_name": "David Lewis",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 236.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wade-wilson_1984_MIN",
+    "player_name": "Wade Wilson",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 1049.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mitchell-brookins_1984_BUF",
+    "player_name": "Mitchell Brookins",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 345.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_russ-francis_1984_SF",
+    "player_name": "Russ Francis",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 285.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_hubie-oliver_1984_PHI",
+    "player_name": "Hubie Oliver",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 405.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-branch_1984_LV",
+    "player_name": "Cliff Branch",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 401.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charle-young_1984_SEA",
+    "player_name": "Charle Young",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 342.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charlie-brown_1984_WAS",
+    "player_name": "Charlie Brown",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 200.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cedric-minter_1984_NYJ",
+    "player_name": "Cedric Minter",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 245.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_herkie-walls_1984_HOU",
+    "player_name": "Herkie Walls",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 311.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-hill_1984_LAR",
+    "player_name": "David Hill",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 300.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cedric-jones_1984_NE",
+    "player_name": "Cedric Jones",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 244.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-west_1984_GB",
+    "player_name": "Ed West",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 56.0,
+      "td": 5.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_marion-barber_1984_NYJ",
+    "player_name": "Marion Barber",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 227.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_theo-bell_1984_TB",
+    "player_name": "Theo Bell",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 350.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-holston_1984_HOU",
+    "player_name": "Mike Holston",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 287.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-king_1984_LV",
+    "player_name": "Kenny King",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 353.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-parros_1984_DEN",
+    "player_name": "Rick Parros",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 233.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bill-ring_1984_SF",
+    "player_name": "Bill Ring",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 172.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-jefferson_1984_GB",
+    "player_name": "John Jefferson",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 339.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_lindsay-scott_1984_NO",
+    "player_name": "Lindsay Scott",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 278.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_matt-cavanaugh_1984_SF",
+    "player_name": "Matt Cavanaugh",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 438.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-washington_1984_WAS",
+    "player_name": "Joe Washington",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 266.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-crouse_1984_GB",
+    "player_name": "Ray Crouse",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 262.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-kay_1984_DEN",
+    "player_name": "Clarence Kay",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 136.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-rose_1984_MIA",
+    "player_name": "Joe Rose",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 195.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jimmy-cefalo_1984_MIA",
+    "player_name": "Jimmy Cefalo",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 185.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-jensen_1984_MIA",
+    "player_name": "Jim Jensen",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 174.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_speedy-neal_1984_BUF",
+    "player_name": "Speedy Neal",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 251.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-wilson_1984_SF",
+    "player_name": "Mike Wilson",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 245.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rodney-holman_1984_CIN",
+    "player_name": "Rodney Holman",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 239.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-kreider_1984_CIN",
+    "player_name": "Steve Kreider",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 243.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_alvin-moore_1984_IND",
+    "player_name": "Alvin Moore",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 179.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_byron-walker_1984_SEA",
+    "player_name": "Byron Walker",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 236.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-gaffney_1984_NYJ",
+    "player_name": "Derrick Gaffney",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 285.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_barry-redden_1984_LAR",
+    "player_name": "Barry Redden",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 286.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-thomas_1984_CHI",
+    "player_name": "Calvin Thomas",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 225.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tyrone-anthony_1984_NO",
+    "player_name": "Tyrone Anthony",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 218.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_steve-bryant_1984_HOU",
+    "player_name": "Steve Bryant",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 278.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_zachary-dixon_1984_SEA",
+    "player_name": "Zachary Dixon",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 155.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-hancock_1984_KC",
+    "player_name": "Anthony Hancock",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 217.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_vyto-kab_1984_PHI",
+    "player_name": "Vyto Kab",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 102.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_archie-manning_1984_MIN",
+    "player_name": "Archie Manning",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 587.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_robb-riddick_1984_BUF",
+    "player_name": "Robb Riddick",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 279.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-wonsley_1984_WAS",
+    "player_name": "Otis Wonsley",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 38.0,
+      "td": 4.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-young_1984_IND",
+    "player_name": "Dave Young",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 164.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_matt-bouza_1984_IND",
+    "player_name": "Matt Bouza",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 270.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harry-holt_1984_CLE",
+    "player_name": "Harry Holt",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 273.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-tice_1984_SEA",
+    "player_name": "Mike Tice",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 90.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willis-adams_1984_CLE",
+    "player_name": "Willis Adams",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 261.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bernard-henry_1984_IND",
+    "player_name": "Bernard Henry",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 139.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_melvin-hoover_1984_PHI",
+    "player_name": "Melvin Hoover",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 143.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_booker-moore_1984_BUF",
+    "player_name": "Booker Moore",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 256.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-benson_1984_ATL",
+    "player_name": "Cliff Benson",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 252.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bruce-davis_1984_CLE",
+    "player_name": "Bruce Davis",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 125.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-harmon_1984_SF",
+    "player_name": "Derrick Harmon",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 194.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_floyd-hodge_1984_ATL",
+    "player_name": "Floyd Hodge",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 251.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_gene-lang_1984_DEN",
+    "player_name": "Gene Lang",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 66.0,
+      "td": 3.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-moore_1984_WAS",
+    "player_name": "Jeff Moore",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 128.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randall-morris_1984_SEA",
+    "player_name": "Randall Morris",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 250.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-mularkey_1984_MIN",
+    "player_name": "Mike Mularkey",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 134.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rob-rubick_1984_DET",
+    "player_name": "Rob Rubick",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 188.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-love_1984_LAR",
+    "player_name": "Randy Love",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 123.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_allen-rice_1984_MIN",
+    "player_name": "Allen Rice",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 117.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clarence-weathers_1984_NE",
+    "player_name": "Clarence Weathers",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 115.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_matt-kofler_1984_BUF",
+    "player_name": "Matt Kofler",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 512.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jesse-bendross_1984_LAC",
+    "player_name": "Jesse Bendross",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 213.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_glenn-dennison_1984_NYJ",
+    "player_name": "Glenn Dennison",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 145.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_irving-fryar_1984_NE",
+    "player_name": "Irving Fryar",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 153.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_harlan-huckleby_1984_GB",
+    "player_name": "Harlan Huckleby",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 210.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-mccloskey_1984_HOU",
+    "player_name": "Mike McCloskey",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 152.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_carl-monroe_1984_SF",
+    "player_name": "Carl Monroe",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 152.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_butch-woolfolk_1984_NYG",
+    "player_name": "Butch Woolfolk",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 145.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-lafleur_1984_LAR",
+    "player_name": "Greg LaFleur",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 198.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ray-alexander_1984_DEN",
+    "player_name": "Ray Alexander",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 132.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-collins_1984_MIN",
+    "player_name": "Dwight Collins",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 129.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-warren_1984_WAS",
+    "player_name": "Don Warren",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 192.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-mcgrath_1984_WAS",
+    "player_name": "Mark McGrath",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 118.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_clint-sampson_1984_DEN",
+    "player_name": "Clint Sampson",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 123.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-wright_1984_DEN",
+    "player_name": "James Wright",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 118.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pat-dunsmore_1984_CHI",
+    "player_name": "Pat Dunsmore",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 106.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dennis-gentry_1984_CHI",
+    "player_name": "Dennis Gentry",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 108.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_franco-harris_1984_SEA",
+    "player_name": "Franco Harris",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 173.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willard-harrell_1984_LAR",
+    "player_name": "Willard Harrell",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 113.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rusty-lisch_1984_CHI",
+    "player_name": "Rusty Lisch",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 534.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-sherwin_1984_IND",
+    "player_name": "Tim Sherwin",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 169.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-guman_1984_LAR",
+    "player_name": "Mike Guman",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 163.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jewerl-thomas_1984_LAC",
+    "player_name": "Jewerl Thomas",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 43.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_van-williams_1984_BUF",
+    "player_name": "Van Williams",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 97.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-wonsley_1984_IND",
+    "player_name": "George Wonsley",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 158.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dexter-bussey_1984_DET",
+    "player_name": "Dexter Bussey",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 154.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-casper_1984_LV",
+    "player_name": "Dave Casper",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 29.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-mullins_1984_HOU",
+    "player_name": "Eric Mullins",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 85.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_danny-pittman_1984_LAR",
+    "player_name": "Danny Pittman",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 145.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brad-anderson_1984_CHI",
+    "player_name": "Brad Anderson",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 77.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_isaac-curtis_1984_CIN",
+    "player_name": "Isaac Curtis",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 135.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_junior-miller_1984_NO",
+    "player_name": "Junior Miller",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 81.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-hawthorne_1984_NE",
+    "player_name": "Greg Hawthorne",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 127.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-jones_1984_DAL",
+    "player_name": "James Jones",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 70.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_michael-williams_1984_PHI",
+    "player_name": "Michael Williams",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 130.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bennie-cunningham_1984_PIT",
+    "player_name": "Bennie Cunningham",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 64.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-frank_1984_SF",
+    "player_name": "John Frank",
+    "team": "SF",
+    "team_abbr": "SF",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 60.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_eric-hipple_1984_DET",
+    "player_name": "Eric Hipple",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 249.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_derrick-jensen_1984_LV",
+    "player_name": "Derrick Jensen",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 4.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-sawyer_1984_DEN",
+    "player_name": "John Sawyer",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 122.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-tice_1984_NO",
+    "player_name": "John Tice",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 55.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_david-verser_1984_CIN",
+    "player_name": "David Verser",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 118.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jay-carroll_1984_TB",
+    "player_name": "Jay Carroll",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 50.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_larry-hardy_1984_NO",
+    "player_name": "Larry Hardy",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 50.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-hutchison_1984_CHI",
+    "player_name": "Anthony Hutchison",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 46.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_joe-senser_1984_MIN",
+    "player_name": "Joe Senser",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 110.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwight-walker_1984_CLE",
+    "player_name": "Dwight Walker",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 114.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-walker_1984_WAS",
+    "player_name": "Rick Walker",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 54.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ed-beckman_1984_KC",
+    "player_name": "Ed Beckman",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 44.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_randy-wright_1984_GB",
+    "player_name": "Randy Wright",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 321.0,
+      "td": 2.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-castor_1984_SEA",
+    "player_name": "Chris Castor",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 89.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-corley_1984_PIT",
+    "player_name": "Anthony Corley",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 89.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-egloff_1984_LAC",
+    "player_name": "Ron Egloff",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 92.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rocky-klever_1984_NYJ",
+    "player_name": "Rocky Klever",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 29.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-morris_1984_LAC",
+    "player_name": "Wayne Morris",
+    "team": "LAC",
+    "team_abbr": "LAC",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 32.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_bo-robinson_1984_NE",
+    "player_name": "Bo Robinson",
+    "team": "NE",
+    "team_abbr": "NE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 32.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jay-saldi_1984_CHI",
+    "player_name": "Jay Saldi",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 90.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_paul-skansi_1984_SEA",
+    "player_name": "Paul Skansi",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 85.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_elton-veals_1984_PIT",
+    "player_name": "Elton Veals",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 87.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_charles-white_1984_CLE",
+    "player_name": "Charles White",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 91.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cullen-bryant_1984_SEA",
+    "player_name": "Cullen Bryant",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 78.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_wayne-capers_1984_PIT",
+    "player_name": "Wayne Capers",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 78.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_fred-cornwell_1984_DAL",
+    "player_name": "Fred Cornwell",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 23.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_johnny-davis_1984_CLE",
+    "player_name": "Johnny Davis",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 15.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scott-dierking_1984_TB",
+    "player_name": "Scott Dierking",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 19.0,
+      "td": 1.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-farmer_1984_LAR",
+    "player_name": "George Farmer",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 75.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_donald-jordan_1984_CHI",
+    "player_name": "Donald Jordan",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 76.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_pete-metzelaars_1984_SEA",
+    "player_name": "Pete Metzelaars",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 80.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_buster-barnett_1984_BUF",
+    "player_name": "Buster Barnett",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 67.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dwayne-dixon_1984_TB",
+    "player_name": "Dwayne Dixon",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 69.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-landrum_1984_ATL",
+    "player_name": "Mike Landrum",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 66.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_j-t-smith_1984_KC",
+    "player_name": "J.T. Smith",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 69.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_brian-baschnagel_1984_CHI",
+    "player_name": "Brian Baschnagel",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 60.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-d-addio_1984_DET",
+    "player_name": "Dave D'Addio",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 58.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_otis-grant_1984_LAR",
+    "player_name": "Otis Grant",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 64.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_andre-hardy_1984_PHI",
+    "player_name": "Andre Hardy",
+    "team": "PHI",
+    "team_abbr": "PHI",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 63.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-kolodziejski_1984_PIT",
+    "player_name": "Chris Kolodziejski",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 59.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_james-mcdonald_1984_LAR",
+    "player_name": "James McDonald",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 55.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mark-brammer_1984_BUF",
+    "player_name": "Mark Brammer",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 49.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-brewer_1984_DEN",
+    "player_name": "Chris Brewer",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 48.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rick-kane_1984_WAS",
+    "player_name": "Rick Kane",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 50.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mike-barber_1984_LAR",
+    "player_name": "Mike Barber",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 42.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tom-mullady_1984_NYG",
+    "player_name": "Tom Mullady",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 35.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_scoop-gillespie_1984_PIT",
+    "player_name": "Scoop Gillespie",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 30.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_mitch-krenk_1984_CHI",
+    "player_name": "Mitch Krenk",
+    "team": "CHI",
+    "team_abbr": "CHI",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 31.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jesse-myles_1984_DEN",
+    "player_name": "Jesse Myles",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 29.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_darrell-nelson_1984_PIT",
+    "player_name": "Darrell Nelson",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 31.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-summers_1984_DEN",
+    "player_name": "Don Summers",
+    "team": "DEN",
+    "team_abbr": "DEN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 32.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_calvin-sweeney_1984_PIT",
+    "player_name": "Calvin Sweeney",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 25.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_craig-white_1984_BUF",
+    "player_name": "Craig White",
+    "team": "BUF",
+    "team_abbr": "BUF",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 28.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_rickey-bolden_1984_CLE",
+    "player_name": "Rickey Bolden",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 19.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_ron-cassidy_1984_GB",
+    "player_name": "Ron Cassidy",
+    "team": "GB",
+    "team_abbr": "GB",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 16.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kenny-duckett_1984_NO",
+    "player_name": "Kenny Duckett",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 21.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-farley_1984_CIN",
+    "player_name": "John Farley",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_john-goode_1984_LAR",
+    "player_name": "John Goode",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 23.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_willie-joyner_1984_HOU",
+    "player_name": "Willie Joyner",
+    "team": "HOU",
+    "team_abbr": "HOU",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_reese-mccall_1984_DET",
+    "player_name": "Reese McCall",
+    "team": "DET",
+    "team_abbr": "DET",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-stracka_1984_CLE",
+    "player_name": "Tim Stracka",
+    "team": "CLE",
+    "team_abbr": "CLE",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 15.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cliff-austin_1984_ATL",
+    "player_name": "Cliff Austin",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_nick-bruckner_1984_NYJ",
+    "player_name": "Nick Bruckner",
+    "team": "NYJ",
+    "team_abbr": "NYJ",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 11.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_william-curran_1984_ATL",
+    "player_name": "William Curran",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chris-faulkner_1984_LAR",
+    "player_name": "Chris Faulkner",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_perry-harrington_1984_LAR",
+    "player_name": "Perry Harrington",
+    "team": "LAR",
+    "team_abbr": "LAR",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-hasselbeck_1984_MIN",
+    "player_name": "Don Hasselbeck",
+    "team": "MIN",
+    "team_abbr": "MIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_anthony-jones_1984_WAS",
+    "player_name": "Anthony Jones",
+    "team": "WAS",
+    "team_abbr": "WAS",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-kern_1984_CIN",
+    "player_name": "Don Kern",
+    "team": "CIN",
+    "team_abbr": "CIN",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 14.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_dave-little_1984_KC",
+    "player_name": "Dave Little",
+    "team": "KC",
+    "team_abbr": "KC",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 13.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_allama-matthews_1984_ATL",
+    "player_name": "Allama Matthews",
+    "team": "ATL",
+    "team_abbr": "ATL",
+    "season": 1984,
+    "position": "TE",
+    "position_raw": "TE",
+    "stats": {
+      "yards": 7.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_kirk-phillips_1984_DAL",
+    "player_name": "Kirk Phillips",
+    "team": "DAL",
+    "team_abbr": "DAL",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 6.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_greg-pruitt_1984_LV",
+    "player_name": "Greg Pruitt",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 12.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_don-strock_1984_MIA",
+    "player_name": "Don Strock",
+    "team": "MIA",
+    "team_abbr": "MIA",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 22.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_tim-wilson_1984_NO",
+    "player_name": "Tim Wilson",
+    "team": "NO",
+    "team_abbr": "NO",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 8.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_frank-cephous_1984_NYG",
+    "player_name": "Frank Cephous",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_cleo-montgomery_1984_LV",
+    "player_name": "Cleo Montgomery",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": 1.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_george-peoples_1984_TB",
+    "player_name": "George Peoples",
+    "team": "TB",
+    "team_abbr": "TB",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 2.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jeff-rutledge_1984_NYG",
+    "player_name": "Jeff Rutledge",
+    "team": "NYG",
+    "team_abbr": "NYG",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 9.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_todd-spencer_1984_PIT",
+    "player_name": "Todd Spencer",
+    "team": "PIT",
+    "team_abbr": "PIT",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 0.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_chester-willis_1984_LV",
+    "player_name": "Chester Willis",
+    "team": "LV",
+    "team_abbr": "LV",
+    "season": 1984,
+    "position": "RB",
+    "position_raw": "RB",
+    "stats": {
+      "yards": 4.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_phil-smith_1984_IND",
+    "player_name": "Phil Smith",
+    "team": "IND",
+    "team_abbr": "IND",
+    "season": 1984,
+    "position": "WR",
+    "position_raw": "WR",
+    "stats": {
+      "yards": -10.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  },
+  {
+    "player_id": "pfr_jim-zorn_1984_SEA",
+    "player_name": "Jim Zorn",
+    "team": "SEA",
+    "team_abbr": "SEA",
+    "season": 1984,
+    "position": "QB",
+    "position_raw": "QB",
+    "stats": {
+      "yards": 77.0,
+      "td": 0.0,
+      "sacks": 0.0,
+      "tackles": 0.0,
+      "interceptions": 0.0
+    },
+    "decade": "1980s",
+    "source": "pfr_offense"
+  }
+]

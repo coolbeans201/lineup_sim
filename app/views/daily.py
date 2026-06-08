@@ -17,8 +17,8 @@ for p in (ROOT, ROOT / "src"):
 from app.components import (
     BUILD_MODES,
     draft_context_key,
-    draft_nba_spin_lineup_sequential,
-    draft_slot_lineup_sequential,
+    draft_spin_lineup_sequential,
+    uses_spin_draft,
     ensure_lineup_session,
     render_global_sidebar,
     render_score_panel,
@@ -43,7 +43,7 @@ player_name = st.sidebar.text_input("Your name (for leaderboard)", value="Anonym
 puzzle = daily_puzzle(sport, preset_slug, day=day)
 plugin = get_sport_plugin(sport)
 player_pool = plugin.load_player_pool()
-spin_draft = sport == "nba"
+spin_draft = uses_spin_draft(sport=sport, build_mode=BUILD_MODES[1])
 
 st.subheader(f"Puzzle — {day}")
 st.caption(f"Seed: {puzzle.seed} · picks reveal one at a time")
@@ -68,24 +68,15 @@ render_draft_header(
         key_prefixes=[daily_key],
     ),
 )
-if spin_draft:
-    lineup = draft_nba_spin_lineup_sequential(
-        preset=preset,
-        lineup=lineup,
-        build_mode=BUILD_MODES[1],
-        player_pool=player_pool,
-        key_prefix=daily_key,
-        fixed_spins=puzzle.spins,
-    )
-else:
-    lineup = draft_slot_lineup_sequential(
-        sport=sport,
-        preset=preset,
-        lineup=lineup,
-        key_prefix=daily_key,
-        fixed_spins=puzzle.spins,
-        player_pool=player_pool,
-    )
+lineup = draft_spin_lineup_sequential(
+    sport=sport,
+    preset=preset,
+    lineup=lineup,
+    build_mode=BUILD_MODES[1],
+    player_pool=player_pool,
+    key_prefix=daily_key,
+    fixed_spins=puzzle.spins,
+)
 
 st.session_state.daily_lineup = lineup
 

@@ -15,12 +15,13 @@ for p in (ROOT, ROOT / "src"):
 
 from app.components import (
     draft_context_key,
-    draft_nba_free_build_lineup_sequential,
-    draft_nba_spin_lineup_sequential,
+    draft_free_build_sequential,
+    draft_spin_lineup_sequential,
     draft_slot_lineup,
     draft_slot_lineup_sequential,
     ensure_lineup_session,
-    nba_uses_spin_draft,
+    pick_then_assign_sport,
+    uses_spin_draft,
     render_global_sidebar,
     render_score_panel,
     render_seed_spin_controls,
@@ -38,7 +39,7 @@ st.caption("Build lineups freely or under team-era spins — one pick revealed a
 sport, preset, build_mode = render_global_sidebar(page="sandbox", show_build_mode=True)
 plugin = get_sport_plugin(sport)
 player_pool = plugin.load_player_pool()
-spin_draft = nba_uses_spin_draft(sport=sport, build_mode=build_mode)
+spin_draft = uses_spin_draft(sport=sport, build_mode=build_mode)
 draft_key = draft_context_key(
     page="sandbox",
     sport=sport,
@@ -76,8 +77,9 @@ render_draft_header(
     ),
 )
 if build_mode == "Free build":
-    if sport == "nba":
-        lineup = draft_nba_free_build_lineup_sequential(
+    if pick_then_assign_sport(sport):
+        lineup = draft_free_build_sequential(
+            sport=sport,
             preset=preset,
             lineup=lineup,
             player_pool=player_pool,
@@ -92,7 +94,8 @@ if build_mode == "Free build":
             key_prefix=draft_key,
         )
 elif spin_draft:
-    lineup = draft_nba_spin_lineup_sequential(
+    lineup = draft_spin_lineup_sequential(
+        sport=sport,
         preset=preset,
         lineup=lineup,
         build_mode=build_mode,

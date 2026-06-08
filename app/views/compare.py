@@ -15,12 +15,12 @@ for p in (ROOT, ROOT / "src"):
 
 from app.components import (
     draft_context_key,
-    draft_nba_compare_spin_lineups,
-    draft_nba_free_build_lineup_sequential,
+    draft_compare_spin_lineups,
+    draft_free_build_sequential,
     draft_slot_lineup,
-    draft_slot_lineup_sequential,
     lineup_filled_count,
-    nba_uses_spin_draft,
+    pick_then_assign_sport,
+    uses_spin_draft,
     render_global_sidebar,
     render_score_panel,
     render_seed_spin_controls,
@@ -38,7 +38,7 @@ sport, preset, build_mode = render_global_sidebar(page="compare", show_build_mod
 preset_slug = preset.slug
 plugin = get_sport_plugin(sport)
 player_pool = plugin.load_player_pool()
-spin_draft = nba_uses_spin_draft(sport=sport, build_mode=build_mode)
+spin_draft = uses_spin_draft(sport=sport, build_mode=build_mode)
 compare_key = draft_context_key(
     page="compare",
     sport=sport,
@@ -83,8 +83,9 @@ if build_mode == "Free build":
     col_a, col_b = st.columns(2)
     with col_a:
         st.subheader("Lineup A")
-        if sport == "nba":
-            lineup_a = draft_nba_free_build_lineup_sequential(
+        if pick_then_assign_sport(sport):
+            lineup_a = draft_free_build_sequential(
+                sport=sport,
                 preset=preset,
                 lineup=lineup_a,
                 player_pool=player_pool,
@@ -100,8 +101,9 @@ if build_mode == "Free build":
             )
     with col_b:
         st.subheader("Lineup B")
-        if sport == "nba":
-            lineup_b = draft_nba_free_build_lineup_sequential(
+        if pick_then_assign_sport(sport):
+            lineup_b = draft_free_build_sequential(
+                sport=sport,
                 preset=preset,
                 lineup=lineup_b,
                 player_pool=player_pool,
@@ -116,7 +118,8 @@ if build_mode == "Free build":
                 key_prefix=side_b_key,
             )
 elif spin_draft:
-    lineup_a, lineup_b = draft_nba_compare_spin_lineups(
+    lineup_a, lineup_b = draft_compare_spin_lineups(
+        sport=sport,
         preset=preset,
         lineup_a=lineup_a,
         lineup_b=lineup_b,
@@ -127,30 +130,6 @@ elif spin_draft:
         shared_key=shared_key,
         seed_spins=seed_spins or None,
     )
-else:
-    col_a, col_b = st.columns(2)
-    with col_a:
-        st.subheader("Lineup A")
-        lineup_a = draft_slot_lineup_sequential(
-            sport=sport,
-            preset=preset,
-            lineup=lineup_a,
-            key_prefix=side_a_key,
-            seed_spins=seed_spins or None,
-            build_mode=build_mode,
-            player_pool=player_pool,
-        )
-    with col_b:
-        st.subheader("Lineup B")
-        lineup_b = draft_slot_lineup_sequential(
-            sport=sport,
-            preset=preset,
-            lineup=lineup_b,
-            key_prefix=side_b_key,
-            seed_spins=seed_spins or None,
-            build_mode=build_mode,
-            player_pool=player_pool,
-        )
 
 st.session_state.compare_lineup_a = lineup_a
 st.session_state.compare_lineup_b = lineup_b

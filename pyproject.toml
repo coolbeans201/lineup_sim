@@ -1,6 +1,6 @@
 [project]
 name = "lineup-sim"
-version = "0.1.0"
+version = "1.0.0"
 description = "Original roster builder inspired by 82-0 / 20-0"
 requires-python = ">=3.11"
 dependencies = [
@@ -10,7 +10,6 @@ dependencies = [
     "pyyaml>=6.0",
     "nba_api>=1.4.1",
     "nflreadpy>=0.1.0",
-    "pybaseball>=2.2.7",
     "requests>=2.31.0",
 ]
 

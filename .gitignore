@@ -3,9 +3,17 @@ __pycache__/
 .venv/
 venv/
 .env
-data/cache/
-data/raw/
-data/leaderboard.json
-*.db
 .pytest_cache/
 .streamlit/secrets.toml
+*.db
+
+# ---------------------------------------------------------------------------
+# Local data (downloaded, imported, or generated at runtime — not in git).
+# Preset YAML under data/presets/ is configuration and stays tracked.
+# ---------------------------------------------------------------------------
+data/bundled/
+data/cache/
+data/raw/
+data/sample/
+data/fixtures/
+data/leaderboard.json

@@ -14,6 +14,7 @@ for p in (ROOT, ROOT / "src"):
     if str(p) not in sys.path:
         sys.path.insert(0, str(p))
 
+from app.cache import load_player_pool_cached
 from app.components import (
     BUILD_MODES,
     draft_context_key,
@@ -30,8 +31,8 @@ from app.components import (
 from lineup_sim.core.roster import empty_lineup
 from lineup_sim.daily.leaderboard import entries_for_day, format_leaderboard_record, submit_entry
 from lineup_sim.daily.seed import daily_puzzle
-from lineup_sim.daily.share import lineup_summary
-from lineup_sim.sports.registry import get_sport_plugin
+from lineup_sim.daily.share import encode_share_payload, lineup_summary, share_full_url
+from lineup_sim.ingest.readiness import sport_pool_ready
 
 st.title("Daily Challenge")
 st.caption("Same puzzle for everyone — one revealed pick at a time.")
@@ -40,9 +41,18 @@ sport, preset, _ = render_global_sidebar(page="daily", show_build_mode=False)
 preset_slug = preset.slug
 day = st.sidebar.date_input("Challenge date", value=date.today()).isoformat()
 player_name = st.sidebar.text_input("Your name (for leaderboard)", value="Anonymous")
-puzzle = daily_puzzle(sport, preset_slug, day=day)
-plugin = get_sport_plugin(sport)
-player_pool = plugin.load_player_pool()
+player_pool = load_player_pool_cached(sport)
+ready, pool_message = sport_pool_ready(sport, pool_size=len(player_pool))
+if not ready and pool_message:
+    st.error(pool_message)
+    st.stop()
+
+try:
+    puzzle = daily_puzzle(sport, preset_slug, day=day)
+except ValueError as exc:
+    st.error(str(exc))
+    st.stop()
+
 spin_draft = uses_spin_draft(sport=sport, build_mode=BUILD_MODES[1])
 
 st.subheader(f"Puzzle — {day}")
@@ -88,6 +98,7 @@ if filled == preset.slot_count:
     render_score_panel(score, preset_slug=preset_slug)
 
     if st.button("Submit to today's leaderboard"):
+        share_token = encode_share_payload(lineup, score, date=day)
         entry = submit_entry(
             date=day,
             sport=sport,
@@ -98,6 +109,7 @@ if filled == preset.slot_count:
             projected_losses=score.projected_losses,
             grade=score.grade,
             lineup_summary=lineup_summary(lineup),
+            share_token=share_token,
         )
         st.success(f"Submitted! Leaderboard code: {entry.share_code}")
         render_share_panel(
@@ -110,23 +122,27 @@ if filled == preset.slot_count:
 st.subheader("Today's leaderboard")
 entries = entries_for_day(day, sport, preset_slug)
 if entries:
+    rows = []
+    for i, entry in enumerate(entries):
+        share_link = share_full_url(entry.share_token) if entry.share_token else ""
+        rows.append(
+            {
+                "Rank": i + 1,
+                "Name": entry.player_name,
+                "Grade": entry.grade,
+                "Rating": entry.team_rating,
+                "Record": format_leaderboard_record(entry, max_games=preset.max_games),
+                "Lineup": entry.lineup_summary,
+                "Share": share_link,
+            }
+        )
     st.dataframe(
-        pd.DataFrame(
-            [
-                {
-                    "Rank": i + 1,
-                    "Name": e.player_name,
-                    "Grade": e.grade,
-                    "Rating": e.team_rating,
-                    "Record": format_leaderboard_record(e, max_games=preset.max_games),
-                    "Lineup": e.lineup_summary,
-                    "Share": e.share_code,
-                }
-                for i, e in enumerate(entries)
-            ]
-        ),
+        pd.DataFrame(rows),
         use_container_width=True,
         hide_index=True,
+        column_config={
+            "Share": st.column_config.LinkColumn("Share", display_text="View lineup"),
+        },
     )
 else:
     st.info("No submissions yet for this puzzle.")

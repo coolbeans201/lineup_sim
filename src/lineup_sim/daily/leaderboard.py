@@ -57,6 +57,7 @@ def submit_entry(
     grade: str,
     lineup_summary: str,
     projected_losses: float | None = None,
+    share_token: str | None = None,
 ) -> LeaderboardEntry:
     share_code = secrets.token_urlsafe(8)
     entry = LeaderboardEntry(
@@ -70,6 +71,7 @@ def submit_entry(
         share_code=share_code,
         lineup_summary=lineup_summary,
         projected_losses=projected_losses,
+        share_token=share_token,
     )
     rows = _load_rows()
     prior = next(

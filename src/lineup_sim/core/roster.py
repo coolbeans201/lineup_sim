@@ -37,9 +37,12 @@ class PickSwapPlan:
     occupant: PlayerSeason
 
 
-def player_pool_key(player: PlayerSeason) -> tuple[str, int, str]:
-    """Disambiguate peak-pool rows that share a player_id across teams/seasons."""
-    return (player.player_id, player.season, player.team_abbr.upper())
+def player_pool_key(player: PlayerSeason) -> tuple[str, ...]:
+    """Disambiguate pool rows that share a player_id across teams/seasons/roles."""
+    key: tuple[str, ...] = (player.player_id, player.season, player.team_abbr.upper())
+    if player.role:
+        return key + (player.role,)
+    return key
 
 
 def find_player_in_pool(
@@ -48,9 +51,12 @@ def find_player_in_pool(
     player_id: str,
     season: int | None = None,
     team_abbr: str | None = None,
+    role: str | None = None,
 ) -> PlayerSeason | None:
     if season is not None and team_abbr:
-        target = (player_id, season, team_abbr.upper())
+        target: tuple[str, ...] = (player_id, season, team_abbr.upper())
+        if role:
+            target = target + (role,)
         for player in pool:
             if player_pool_key(player) == target:
                 return player
@@ -285,6 +291,7 @@ def lineup_from_dict(preset: Preset, data: dict, label: str = "Lineup A") -> Lin
                 position_raw=raw.get("position_raw", raw["position"]),
                 stats={k: float(v) for k, v in raw.get("stats", {}).items()},
                 decade=raw.get("decade", ""),
+                role=raw.get("role", ""),
             )
             lineup = assign_player(lineup, preset, slot_id, player)
     return lineup
@@ -309,6 +316,7 @@ def lineup_to_dict(lineup: Lineup) -> dict:
             "position_raw": p.position_raw,
             "stats": p.stats,
             "decade": p.decade,
+            "role": p.role,
         }
     return {
         "preset_slug": lineup.preset_slug,

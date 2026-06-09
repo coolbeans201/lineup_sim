@@ -134,8 +134,9 @@ def test_nfl_dropdown_stats_hide_irrelevant_zeros():
     offense_line = format_player_dropdown_stats(mahomes)
     assert "sk" not in offense_line
     assert "tkl" not in offense_line
-    assert "yds/g" in offense_line
-    assert "TD/g" in offense_line
+    assert "pass yds" in offense_line or "yds" in offense_line
+    assert "TD" in offense_line
+    assert "/g" not in offense_line
 
     defense_line = format_player_dropdown_stats(watt)
     assert "sk" in defense_line

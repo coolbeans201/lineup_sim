@@ -6,6 +6,7 @@ from dataclasses import dataclass
 
 from lineup_sim.core.models import Lineup, ScoreResult
 from lineup_sim.core.scoring import score_lineup
+from lineup_sim.core.stat_labels import stat_accumulates_in_lineup_total
 from lineup_sim.sports.registry import get_sport_plugin
 
 
@@ -68,6 +69,7 @@ def compare_lineups(lineup_a: Lineup, lineup_b: Lineup) -> CompareResult:
     category_deltas = {
         stat: score_a.category_totals.get(stat, 0.0) - score_b.category_totals.get(stat, 0.0)
         for stat in preset.stat_weights
+        if stat_accumulates_in_lineup_total(stat, sport=preset.sport)
     }
 
     if score_a.team_rating > score_b.team_rating:

@@ -17,7 +17,11 @@ from lineup_sim.core.models import (
     ScoreResult,
 )
 from lineup_sim.core.presets import get_preset
-from lineup_sim.core.stat_labels import integer_record
+from lineup_sim.core.stat_labels import (
+    empty_lineup_formula_notes,
+    integer_record,
+    stat_accumulates_in_lineup_total,
+)
 from lineup_sim.sports.registry import get_sport_plugin
 
 
@@ -144,7 +148,7 @@ def _estimated_lineup_rating_baseline(players: list[PlayerSeason], preset: Prese
 
 
 def _pool_rating_baseline(players: list[PlayerSeason], preset: Preset) -> float:
-    if preset.sport == "nfl":
+    if preset.sport in {"nfl", "mlb"}:
         return _estimated_lineup_rating_baseline(players, preset)
     if preset.rating_baseline is not None:
         return preset.rating_baseline
@@ -247,6 +251,16 @@ def _formula_notes(preset: Preset, rating_baseline: float) -> list[str]:
             "NFL win curve baseline is the weighted median slot rating across the player pool "
             "(a typical lineup projects near .500)."
         )
+    if preset.sport == "mlb":
+        notes.append(
+            "Hitters score on decade tenure totals (HR/RBI/SB per 100 games plus OPS/AVG). "
+            "Pitchers use wins, strikeouts, saves, ERA, and WHIP over the same franchise-decade window."
+        )
+        notes.append(
+            "MLB win curve baseline is the weighted median slot rating across the player pool "
+            "(a typical lineup projects near .500). Tenure totals spread ratings widely, so MLB "
+            "uses a gentler slope than NBA/NFL — even strong drafts project roughly 100–115 wins."
+        )
     return notes
 
 
@@ -273,12 +287,19 @@ def score_lineup(
     preset = get_preset(lineup.preset_slug)
     plugin = get_sport_plugin(preset.sport)
     pool = cohort or plugin.load_player_pool()
-    cohort_df = _cohort_frame(pool, preset.sport)
+    if preset.sport == "mlb" and hasattr(plugin, "cohort_dataframe"):
+        cohort_df = plugin.cohort_dataframe()
+    else:
+        cohort_df = _cohort_frame(pool, preset.sport)
     rating_baseline = _pool_rating_baseline(pool, preset)
 
     slot_map = {s.slot_id: s for s in preset.slots}
     ratings: list[PlayerRating] = []
-    category_totals: dict[str, float] = {k: 0.0 for k in preset.stat_weights}
+    category_totals: dict[str, float] = {
+        k: 0.0
+        for k in preset.stat_weights
+        if stat_accumulates_in_lineup_total(k, sport=preset.sport)
+    }
 
     for assignment in lineup.assignments:
         if assignment.player is None:
@@ -312,11 +333,7 @@ def score_lineup(
             category_totals=category_totals,
             weakest_slot_id=None,
             balance_adjustment=0.0,
-            formula_notes=[
-                "Slot rating = weighted raw per-game stats × slot/position weight.",
-                "Composite Z = era-relative context vs position/season peers (display only).",
-                "Team rating = weighted mean slot ratings minus balance penalty for weak slot.",
-            ],
+            formula_notes=empty_lineup_formula_notes(preset),
         )
 
     weights = [_slot_weight(slot_map[r.slot_id], preset) for r in ratings]

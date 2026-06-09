@@ -1,0 +1,47 @@
+sport: mlb
+name: MLB Classic (All-Time)
+slug: mlb_classic
+description: Nine field spots plus SP and closer — franchise-decade tenure stats from 1950s onward.
+max_games: 162
+balance_penalty: 0.12
+era_decades:
+  - "1950s"
+  - "1960s"
+  - "1970s"
+  - "1980s"
+  - "1990s"
+  - "2000s"
+  - "2010s"
+  - "2020s"
+stat_weights:
+  HR: 0.35
+  RBI: 0.08
+  SB: 0.2
+  OPS: 1.2
+  AVG: 2.0
+  W: 0.25
+  K: 0.04
+  SV: 0.35
+  ERA: 0.25
+  WHIP: 0.8
+position_weights: {}
+grade_thresholds:
+  S+: 26.0
+  A+: 22.0
+  A: 19.0
+  B: 16.0
+  C: 13.0
+  D: 8.0
+win_rating_slope: 0.05
+slots:
+  - {slot_id: c, label: C, position: C, side: batting, weight: 1.0}
+  - {slot_id: b1, label: 1B, position: 1B, side: batting, weight: 1.0}
+  - {slot_id: b2, label: 2B, position: 2B, side: batting, weight: 1.0}
+  - {slot_id: b3, label: 3B, position: 3B, side: batting, weight: 1.0}
+  - {slot_id: ss, label: SS, position: SS, side: batting, weight: 1.0}
+  - {slot_id: lf, label: LF, position: LF, side: batting, weight: 1.0}
+  - {slot_id: cf, label: CF, position: CF, side: batting, weight: 1.0}
+  - {slot_id: rf, label: RF, position: RF, side: batting, weight: 1.0}
+  - {slot_id: dh, label: DH, position: DH, side: batting, weight: 1.0}
+  - {slot_id: sp, label: SP, position: SP, side: pitching, weight: 1.1}
+  - {slot_id: cl, label: CL, position: CL, side: pitching, weight: 1.0}

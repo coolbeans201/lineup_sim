@@ -41,11 +41,17 @@ def filter_pool(
     side: str | None = None,
     sport: str = "nba",
 ) -> list[PlayerSeason]:
+    if sport == "mlb" and team_abbr and decade and position is None and side is None:
+        from lineup_sim.sports.mlb.plugin import MLBPlugin
+
+        plugin = get_sport_plugin("mlb")
+        if isinstance(plugin, MLBPlugin):
+            return plugin.spin_pool(team_abbr, decade)
+
     plugin = get_sport_plugin(sport)
-    rows = list(players)
     out: list[PlayerSeason] = []
 
-    for p in rows:
+    for p in players:
         if team_abbr and p.team_abbr.upper() != team_abbr.upper():
             continue
         if decade and p.decade != decade:
@@ -141,6 +147,24 @@ def _count_players_fitting_slots(
     )
 
 
+def _spin_covers_slots(
+    player_pool: Iterable[PlayerSeason],
+    slots: Iterable[RosterSlot],
+    sport: str,
+) -> bool:
+    """True when the pool can fill every required slot (MLB lineup viability)."""
+    slot_list = list(slots)
+    if not slot_list:
+        return False
+    pool = list(player_pool)
+    if not pool:
+        return False
+    return all(
+        any(eligible_for_slot(player, slot, sport) for player in pool)
+        for slot in slot_list
+    )
+
+
 def used_spin_keys(spins: list[SpinConstraint] | None, pick_index: int) -> set[tuple[str, str]]:
     if not spins or pick_index <= 1:
         return set()
@@ -215,12 +239,16 @@ def _spin_has_players(
 ) -> bool:
     if preset.sport in PICK_SPIN_SPORTS:
         spin_pool = pool_for_spin(pool, spin, sport=preset.sport)
+        if len(spin_pool) < min_pool_size:
+            return False
         if required_slots:
+            if preset.sport == "mlb":
+                return _spin_covers_slots(spin_pool, required_slots, preset.sport)
             return (
                 _count_players_fitting_slots(spin_pool, required_slots, preset.sport)
                 >= min_pool_size
             )
-        return len(spin_pool) >= min_pool_size
+        return True
     return (
         len(
             pool_for_spin(
@@ -235,7 +263,11 @@ def _spin_has_players(
     )
 
 
-from lineup_sim.core.spin_options import NBA_DECADES, OTHER_SPORT_DECADES, PICK_SPIN_SPORTS
+from lineup_sim.core.spin_options import (
+    PICK_SPIN_SPORTS,
+    TENURE_SPORTS,
+    decades_for_preset,
+)
 
 
 def _pick_spin_candidates(
@@ -249,6 +281,13 @@ def _pick_spin_candidates(
     required_slots: list[RosterSlot] | None = None,
 ) -> list[tuple[dict[str, str], str, int, int]]:
     candidates: list[tuple[dict[str, str], str, int, int]] = []
+    mlb_viable: set[tuple[str, str]] | None = None
+    if preset.sport == "mlb":
+        from lineup_sim.sports.mlb.plugin import MLBPlugin
+
+        plugin = get_sport_plugin("mlb")
+        if isinstance(plugin, MLBPlugin):
+            mlb_viable = plugin.viable_spin_keys(preset)
 
     for team in teams:
         for decade in decades:
@@ -256,6 +295,10 @@ def _pick_spin_candidates(
             if key in used:
                 continue
             start, end = seasons_for_decade(decade)
+            if mlb_viable is not None:
+                if key in mlb_viable:
+                    candidates.append((team, decade, start, end))
+                continue
             probe = SpinConstraint(
                 round_index=0,
                 team_abbr=team["abbr"],
@@ -296,7 +339,7 @@ def generate_spins(
         slot = preset.slots[i]
 
         if preset.sport in PICK_SPIN_SPORTS:
-            decades = NBA_DECADES if preset.sport == "nba" else OTHER_SPORT_DECADES
+            decades = decades_for_preset(preset)
             required_slots = anticipated_open_slots(preset, i + 1, None)
             candidates = _pick_spin_candidates(
                 pool,
@@ -308,9 +351,15 @@ def generate_spins(
                 required_slots=required_slots,
             )
             if not candidates:
+                hint = ""
+                if preset.sport == "mlb" and len(pool) < 500:
+                    hint = (
+                        " Import the Lahman tenure bundle first: "
+                        "`.venv\\Scripts\\python.exe scripts\\import_lahman_bundle.py`"
+                    )
                 raise ValueError(
-                    f"No valid {preset.sport.upper()} team+era spin with at least "
-                    f"{min_pool_size} players (round {i + 1})"
+                    f"No valid {preset.sport.upper()} team+era spin with enough players "
+                    f"to fill all lineup slots (round {i + 1}).{hint}"
                 )
             candidates.sort(key=lambda item: (item[0]["abbr"], item[1]))
             team, era_label, start, end = rng.choice(candidates)
@@ -368,7 +417,7 @@ def pool_for_spin(
     if sport in PICK_SPIN_SPORTS:
         position = None
         side = None
-    if sport == "nba":
+    if sport in {"nba", "mlb"}:
         decade = spin.era_label
         pool = filter_pool(
             all_players,
@@ -388,4 +437,6 @@ def pool_for_spin(
             side=side,
             sport=sport,
         )
+    if sport in TENURE_SPORTS:
+        return pool
     return pick_peak_seasons(pool, sport)

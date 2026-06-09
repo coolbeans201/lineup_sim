@@ -51,6 +51,8 @@ def _row_from_dict(raw: dict) -> PlayerSeason:
 
 
 def load_sample_pool() -> list[PlayerSeason]:
+    if not SAMPLE_PATH.exists():
+        return []
     with SAMPLE_PATH.open(encoding="utf-8") as f:
         rows = json.load(f)
     return [_row_from_dict(r) for r in rows]

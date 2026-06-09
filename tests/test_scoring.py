@@ -23,7 +23,8 @@ def test_presets_load():
     assert "nba_all_eras" in presets
     assert "nfl_two_way" in presets
     assert "nfl_offense" in presets
-    assert "mlb_battery" in presets
+    assert "mlb_classic" in presets
+    assert "mlb_modern" in presets
 
 
 def test_pre_1974_omits_stl_blk_from_stat_score():

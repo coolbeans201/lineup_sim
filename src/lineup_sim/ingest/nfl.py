@@ -121,6 +121,8 @@ def _dict_from_nflverse_row(row, *, season: int) -> dict | None:
 
 
 def load_sample_pool() -> list[PlayerSeason]:
+    if not SAMPLE_PATH.exists():
+        return []
     with SAMPLE_PATH.open(encoding="utf-8") as f:
         rows = json.load(f)
     pool: list[PlayerSeason] = []

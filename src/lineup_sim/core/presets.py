@@ -48,6 +48,7 @@ def _parse_preset(raw: dict) -> Preset:
         grade_thresholds={k: float(v) for k, v in raw.get("grade_thresholds", {}).items()},
         rating_baseline=float(raw["rating_baseline"]) if raw.get("rating_baseline") is not None else None,
         win_rating_slope=float(raw.get("win_rating_slope", 0.30)),
+        era_decades=list(raw.get("era_decades") or []),
     )
 
 
@@ -79,4 +80,10 @@ def list_presets(sport: str | None = None) -> list[Preset]:
     presets = list(load_presets().values())
     if sport:
         presets = [p for p in presets if p.sport == sport]
-    return sorted(presets, key=lambda p: p.name)
+    def _sort_key(preset: Preset) -> tuple:
+        # Keep MLB Modern first when browsing MLB presets in the UI.
+        if preset.sport == "mlb" and preset.slug == "mlb_modern":
+            return (preset.sport, "0", preset.name)
+        return (preset.sport, preset.name)
+
+    return sorted(presets, key=_sort_key)

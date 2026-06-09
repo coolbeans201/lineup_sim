@@ -46,11 +46,23 @@ from lineup_sim.core.roster import (
 )
 from lineup_sim.core.roster_identity import assigned_identities, player_identity
 from lineup_sim.core.scoring import _slot_weight, player_stat_composite, score_lineup
-from lineup_sim.core.stat_labels import format_projected_record, stat_display_label
+from lineup_sim.core.stat_labels import (
+    era_column_label,
+    format_projected_record,
+    format_stat_display_string,
+    format_stat_display_value,
+    lineup_breakdown_caption,
+    player_era_display,
+    stat_accumulates_in_lineup_total,
+    stat_display_label,
+)
+from lineup_sim.ingest.readiness import sport_pool_ready
 from lineup_sim.sports.registry import get_sport_plugin
 
+from app.cache import load_player_pool_cached, score_lineup_for_ui
 
-def player_option_label(player, *, sport: str | None = None) -> str:
+
+def player_option_label(player, *, sport: str | None = None, compact: bool = False) -> str:
     if sport == "nfl":
         from lineup_sim.sports.nfl.display import format_player_dropdown_stats
 
@@ -58,6 +70,20 @@ def player_option_label(player, *, sport: str | None = None) -> str:
         label = (
             f"{player.player_name} ({player.season} {player.team_abbr}, {player.position}) — {stats}"
         )
+    elif sport == "mlb":
+        label = (
+            f"{player.player_name} ({player.decade} {player.team_abbr}, "
+            f"{player.position_raw or player.position})"
+        )
+        if not compact:
+            from lineup_sim.sports.mlb.display import format_player_dropdown_stats
+
+            label += f" — {format_player_dropdown_stats(player)}"
+    elif sport == "nba":
+        from lineup_sim.sports.nba.display import format_player_dropdown_stats
+
+        stats = format_player_dropdown_stats(player)
+        label = f"{player.player_name} ({player.season}, {player.team_abbr}) — {stats}"
     else:
         stats = ", ".join(f"{k} {v:g}" for k, v in player.stats.items())
         label = f"{player.player_name} ({player.season}, {player.team_abbr}) — {stats}"
@@ -68,6 +94,23 @@ def player_option_label(player, *, sport: str | None = None) -> str:
         if len(positions) > 1:
             label += f" · {'/'.join(positions)}"
     return label
+
+
+def _picker_option_labels(
+    candidates: list[PlayerSeason],
+    *,
+    sport: str,
+    cache_key: str,
+) -> list[str]:
+    """Build selectbox labels once per candidate set — avoids reformatting on every rerun."""
+    signature = tuple(player_pool_key(p) for p in candidates)
+    bucket = st.session_state.setdefault("_picker_label_cache", {})
+    entry = bucket.get(cache_key)
+    if entry and entry.get("signature") == signature:
+        return entry["labels"]
+    labels = [player_option_label(p, sport=sport) for p in candidates]
+    bucket[cache_key] = {"signature": signature, "labels": labels}
+    return labels
 
 
 def slot_position_label(slot_id: str, preset_slug: str) -> str:
@@ -86,7 +129,9 @@ def format_player_stat_summary(player, preset: Preset) -> str:
         if plugin.stat_tracking_factor(player, stat) <= 0:
             parts.append(f"{label} n/a")
         else:
-            parts.append(f"{label} {player.stats.get(stat, 0):.1f}")
+            parts.append(
+                f"{label} {format_stat_display_string(player.stats.get(stat, 0), stat, sport=preset.sport)}"
+            )
     return " · ".join(parts)
 
 
@@ -99,17 +144,20 @@ def locked_in_player_rows(lineup: Lineup, preset: Preset) -> list[dict]:
             continue
         player = assignment.player
         slot = slot_map[assignment.slot_id]
+        era_label = era_column_label(sport=preset.sport)
         row: dict = {
             "Slot": slot.position or slot.label,
             "Player": player.player_name,
-            "Season": player.season,
+            era_label: player_era_display(player, sport=preset.sport),
         }
         for stat in preset.stat_weights:
             label = stat_display_label(stat, sport=preset.sport)
             if plugin.stat_tracking_factor(player, stat) <= 0:
                 row[label] = "n/a"
             else:
-                row[label] = round(player.stats.get(stat, 0), 1)
+                row[label] = format_stat_display_value(
+                    player.stats.get(stat, 0), stat, sport=preset.sport
+                )
         rows.append(row)
     return rows
 
@@ -138,21 +186,25 @@ def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) ->
 
     if score.player_ratings:
         st.subheader("Lineup breakdown")
-        st.caption(
-            "Per-game stats for each pick, weighted stat score, and slot rating "
-            "(how much that player pulls team rating up or down)."
-        )
 
         preset = get_preset(preset_slug) if preset_slug else None
+        if preset:
+            st.caption(lineup_breakdown_caption(preset))
+        else:
+            st.caption(
+                "Per-game stats for each pick, weighted stat score, and slot rating "
+                "(how much that player pulls team rating up or down)."
+            )
         stat_cols = list(preset.stat_weights.keys()) if preset else []
         plugin = get_sport_plugin(preset.sport) if preset else None
 
+        era_label = era_column_label(sport=preset.sport) if preset else "Season"
         rows = []
         for rating in score.player_ratings:
             row: dict = {
                 "Slot": format_slot(rating.slot_id),
                 "Player": rating.player.player_name,
-                "Season": rating.player.season,
+                era_label: player_era_display(rating.player, sport=preset.sport if preset else None),
                 "Team": rating.player.team_abbr,
             }
             for stat in stat_cols:
@@ -160,7 +212,9 @@ def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) ->
                 if plugin and plugin.stat_tracking_factor(rating.player, stat) <= 0:
                     row[label] = "n/a"
                 else:
-                    row[label] = round(rating.player.stats.get(stat, 0), 1)
+                    row[label] = format_stat_display_value(
+                        rating.player.stats.get(stat, 0), stat, sport=preset.sport
+                    )
             if preset:
                 row["Stat score"] = round(player_stat_composite(rating.player, preset), 2)
             row["Slot rating"] = round(rating.slot_rating, 2)
@@ -171,13 +225,17 @@ def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) ->
             totals_row: dict = {
                 "Slot": "Team totals",
                 "Player": "—",
-                "Season": "—",
+                era_label: "—",
                 "Team": "—",
             }
             for stat in stat_cols:
-                totals_row[stat_display_label(stat, sport=preset.sport)] = score.category_totals.get(
-                    stat, 0
-                )
+                label = stat_display_label(stat, sport=preset.sport)
+                if stat_accumulates_in_lineup_total(stat, sport=preset.sport):
+                    totals_row[label] = format_stat_display_value(
+                        score.category_totals.get(stat, 0), stat, sport=preset.sport
+                    )
+                else:
+                    totals_row[label] = "—"
             totals_row["Stat score"] = "—"
             totals_row["Slot rating"] = "—"
             totals_row["Composite Z"] = "—"
@@ -225,8 +283,14 @@ def render_share_panel(
 
 
 def score_current_lineup(lineup: Lineup) -> ScoreResult:
-    plugin = get_sport_plugin(lineup.sport)
-    return score_lineup(lineup, plugin.load_player_pool())
+    return score_lineup_for_ui(lineup)
+
+
+def _player_picker_sort_key(player: PlayerSeason, *, sport: str, preset: Preset | None) -> tuple:
+    if preset is not None:
+        return (-player_stat_composite(player, preset), player.player_name.lower())
+    plugin = get_sport_plugin(sport)
+    return (-plugin.season_value(player), player.player_name.lower())
 
 
 def slot_player_picker(
@@ -279,7 +343,10 @@ def slot_player_picker(
         st.warning(f"No players available for {slot.label}")
         return None
 
-    candidates = sorted(candidates, key=lambda p: (-p.stats.get("PTS", 0), p.player_name))
+    candidates = sorted(
+        candidates,
+        key=lambda p: _player_picker_sort_key(p, sport=sport, preset=preset),
+    )
     if spin_pool is not None and sport in PICK_SPIN_SPORTS:
         if lineup is not None and preset is not None:
             open_positions = ", ".join(
@@ -311,7 +378,11 @@ def slot_player_picker(
             ]
             st.caption(f"{len(candidates)} matches after search")
 
-    labels = ["— Select —"] + [player_option_label(p, sport=sport) for p in candidates]
+    labels = ["— Select —"] + _picker_option_labels(
+        candidates,
+        sport=sport,
+        cache_key=key,
+    )
     choice = st.selectbox(picker_label, labels, key=key)
     if choice == "— Select —":
         return None
@@ -344,7 +415,7 @@ def spin_constraint_picker(
     else:
         options = spin_options_for_slot(preset, slot, pool)
     if not options:
-        st.warning(f"No team-era combos with players for {label}")
+        st.warning(f"No team+decade combos with players for {label}")
         return None
 
     teams = sorted({spin.team_abbr: spin.team_name for spin in options}.items(), key=lambda item: item[1])
@@ -368,7 +439,7 @@ def spin_constraint_picker(
         era_labels.append(f"{spin.era_label} ({count} players)")
 
     era_idx = st.selectbox(
-        f"{label} — era",
+        f"{label} — decade",
         range(len(era_options)),
         format_func=lambda i: era_labels[i],
         key=f"{key}_era",
@@ -376,9 +447,28 @@ def spin_constraint_picker(
     return era_options[era_idx]
 
 
-BUILD_MODES = ("Free build", "Random spins (seed)", "Pick team & era")
+BUILD_MODE_FREE = "Free build"
+BUILD_MODE_RANDOM = "Random spins (seed)"
+BUILD_MODE_PICK = "Pick team & decade"
+BUILD_MODES = (BUILD_MODE_FREE, BUILD_MODE_RANDOM, BUILD_MODE_PICK)
 
-UI_SPORTS = ("nba", "nfl")
+
+def block_spin_draft_if_unready(
+    *,
+    sport: str,
+    build_mode: str | None,
+    pool_size: int,
+) -> None:
+    """Stop the page when spin/daily modes need bundles that are not imported yet."""
+    if build_mode == BUILD_MODE_FREE or build_mode is None:
+        return
+    ready, message = sport_pool_ready(sport, pool_size=pool_size)
+    if not ready and message:
+        st.error(message)
+        st.stop()
+
+
+UI_SPORTS = ("nba", "nfl", "mlb")
 
 SIDEBAR_SPORT_KEY = "app_sport"
 SIDEBAR_PRESET_KEY = "app_preset"
@@ -402,18 +492,18 @@ def sidebar_help_caption(*, page: str, preset: Preset, build_mode: str | None) -
         if page == "daily":
             return f"{base} Daily reveals one team+decade spin at a time."
         if page == "compare":
-            if build_mode == "Free build":
+            if build_mode == BUILD_MODE_FREE:
                 return f"{base} Build two lineups from the full pool."
-            if build_mode == "Random spins (seed)":
+            if build_mode == BUILD_MODE_RANDOM:
                 return f"{base} Both lineups share the same seeded team+decade spins."
-            if build_mode == "Pick team & era":
+            if build_mode == BUILD_MODE_PICK:
                 return f"{base} Both lineups share the same team+decade picks."
             return f"{base} Compare two lineups under identical constraints."
-        if build_mode == "Free build":
+        if build_mode == BUILD_MODE_FREE:
             return f"{base} Full player pool — no team/decade spin."
-        if build_mode == "Random spins (seed)":
+        if build_mode == BUILD_MODE_RANDOM:
             return f"{base} Each pick uses a seeded team+decade spin."
-        if build_mode == "Pick team & era":
+        if build_mode == BUILD_MODE_PICK:
             return f"{base} You choose team+decade for each pick."
         return base
     if preset.sport == "nfl":
@@ -423,19 +513,62 @@ def sidebar_help_caption(*, page: str, preset: Preset, build_mode: str | None) -
             "FLEX is RB/WR/TE only — QBs stay at QB. No position swaps."
         )
         if page == "daily":
-            return f"{base} Daily reveals one team+era spin per pick."
+            return f"{base} Daily reveals one team+decade spin per pick."
         if page == "compare":
-            if build_mode == "Free build":
+            if build_mode == BUILD_MODE_FREE:
                 return f"{base} Build two lineups from the full pool."
-            return f"{base} Both lineups share the same team+era spin each pick."
-        if build_mode == "Free build":
-            return f"{base} Full player pool — no team/era spin."
-        if build_mode == "Random spins (seed)":
-            return f"{base} Each pick uses a seeded team+era spin."
-        if build_mode == "Pick team & era":
-            return f"{base} You choose team+era for each pick."
+            if build_mode == BUILD_MODE_RANDOM:
+                return f"{base} Both lineups share the same seeded team+decade spins."
+            if build_mode == BUILD_MODE_PICK:
+                return f"{base} Both lineups share the same team+decade picks."
+            return f"{base} Compare two lineups under identical constraints."
+        if build_mode == BUILD_MODE_FREE:
+            return f"{base} Full player pool — no team/decade spin."
+        if build_mode == BUILD_MODE_RANDOM:
+            return f"{base} Each pick uses a seeded team+decade spin."
+        if build_mode == BUILD_MODE_PICK:
+            return f"{base} You choose team+decade for each pick."
+        return base
+    if preset.sport == "mlb":
+        base = (
+            "Eleven slots (C–DH + SP + CL). Spin a franchise and decade, pick a player, "
+            "then assign them to one open position they qualify for — multi-position players "
+            "pick a single slot and stay there. Stats are franchise-decade tenure totals, not peak seasons."
+        )
+        if page == "daily":
+            return f"{base} Daily reveals one team+decade spin per pick."
+        if page == "compare":
+            if build_mode == BUILD_MODE_FREE:
+                return f"{base} Build two lineups from the full pool."
+            if build_mode == BUILD_MODE_RANDOM:
+                return f"{base} Both lineups share the same seeded team+decade spins."
+            if build_mode == BUILD_MODE_PICK:
+                return f"{base} Both lineups share the same team+decade picks."
+            return f"{base} Compare two lineups under identical constraints."
+        if build_mode == BUILD_MODE_FREE:
+            return f"{base} Full player pool — no team/decade spin."
+        if build_mode == BUILD_MODE_RANDOM:
+            return f"{base} Each pick uses a seeded team+decade spin."
+        if build_mode == BUILD_MODE_PICK:
+            return f"{base} You choose team+decade for each pick."
         return base
     return preset.description
+
+
+def render_data_status(sport: str, *, pool_size: int) -> None:
+    from lineup_sim.ingest.readiness import import_command_hint, sport_data_summary, sport_pool_ready
+
+    summary = sport_data_summary(sport)
+    ready, message = sport_pool_ready(sport, pool_size=pool_size)
+    with st.sidebar.expander("Local data", expanded=not ready):
+        if summary:
+            for key, ok in summary.items():
+                label = key.replace("_", " ")
+                st.write(f"{'✓' if ok else '✗'} {label}")
+        st.caption(f"Player pool: {pool_size:,} rows")
+        if message:
+            st.warning(message)
+        st.code(import_command_hint(sport), language=None)
 
 
 def render_global_sidebar(
@@ -464,7 +597,10 @@ def render_global_sidebar(
 
     current_preset = st.session_state.get(SIDEBAR_PRESET_KEY)
     if current_preset not in preset_slugs:
-        st.session_state[SIDEBAR_PRESET_KEY] = preset_slugs[0]
+        default_slug = preset_slugs[0]
+        if sport == "mlb" and "mlb_modern" in preset_slugs:
+            default_slug = "mlb_modern"
+        st.session_state[SIDEBAR_PRESET_KEY] = default_slug
 
     preset_slug = st.sidebar.selectbox(
         "Preset",
@@ -487,6 +623,9 @@ def render_global_sidebar(
                 "(e.g. slide LeBron SF→PG, then lock your new pick at SF)."
             ),
         )
+
+    pool = load_player_pool_cached(sport)
+    render_data_status(sport, pool_size=len(pool))
 
     st.sidebar.caption(sidebar_help_caption(page=page, preset=preset, build_mode=build_mode))
     return sport, preset, build_mode
@@ -522,7 +661,7 @@ def ensure_lineup_session(
 
 
 def uses_spin_draft(*, sport: str, build_mode: str) -> bool:
-    return sport in PICK_SPIN_SPORTS and build_mode != "Free build"
+    return sport in PICK_SPIN_SPORTS and build_mode != BUILD_MODE_FREE
 
 
 def pick_then_assign_sport(sport: str) -> bool:
@@ -570,7 +709,11 @@ def render_seed_spin_controls(
     seed = container.number_input("Spin seed", min_value=0, value=42, step=1, key=f"{key_prefix}_seed")
     spins_key = f"{key_prefix}_spins"
     if container.button("Regenerate spins", key=f"{key_prefix}_regen") or spins_key not in st.session_state:
-        st.session_state[spins_key] = generate_spins(preset, seed=int(seed))
+        try:
+            st.session_state[spins_key] = generate_spins(preset, seed=int(seed))
+        except ValueError as exc:
+            st.error(str(exc))
+            st.session_state[spins_key] = []
     spins: list[SpinConstraint] = st.session_state.get(spins_key, [])
     return spins
 
@@ -586,9 +729,9 @@ def spin_pool_for_slot(
     seed_spins: list[SpinConstraint] | None = None,
     pick_index: int | None = None,
 ) -> list | None:
-    if build_mode == "Free build":
+    if build_mode == BUILD_MODE_FREE:
         return None
-    if build_mode == "Random spins (seed)":
+    if build_mode == BUILD_MODE_RANDOM:
         if seed_spins:
             idx = preset.slots.index(slot)
             if idx < len(seed_spins):
@@ -598,7 +741,7 @@ def spin_pool_for_slot(
                     sport=sport,
                 )
         return None
-    if build_mode == "Pick team & era":
+    if build_mode == BUILD_MODE_PICK:
         pick_label = (
             f"Pick {pick_index}"
             if pick_index is not None and sport in PICK_SPIN_SPORTS
@@ -742,6 +885,7 @@ def queue_pick_assignment(
         "player_id": player.player_id,
         "season": player.season,
         "team_abbr": player.team_abbr,
+        "role": player.role,
         "slot_position": slot_position,
         "spin": spin,
     }
@@ -771,6 +915,7 @@ def apply_pending_pick(
         player_id=pending["player_id"],
         season=pending.get("season"),
         team_abbr=pending.get("team_abbr"),
+        role=pending.get("role"),
     )
     if player is None:
         return lineup
@@ -825,10 +970,16 @@ def render_lineup_progress(
         st.markdown("**Locked in**")
         st.dataframe(pd.DataFrame(locked_rows), use_container_width=True, hide_index=True)
         if filled < preset.slot_count:
-            st.caption(
-                "Per-game stats for each pick so far. "
-                "Team rating, projected record, and full scoring breakdown appear after all picks are locked in."
-            )
+            if preset.sport == "mlb":
+                st.caption(
+                    "Franchise-decade tenure totals for each pick so far. "
+                    "Team rating, projected record, and full scoring breakdown appear after all picks are locked in."
+                )
+            else:
+                st.caption(
+                    "Per-game stats for each pick so far. "
+                    "Team rating, projected record, and full scoring breakdown appear after all picks are locked in."
+                )
 
     if key_prefix and position_swaps_enabled() and 0 < filled < preset.slot_count:
         lineup = render_position_swap(lineup=lineup, preset=preset, key_prefix=key_prefix)
@@ -921,10 +1072,10 @@ def spin_pool_for_pick(
     lineup: Lineup | None = None,
 ) -> tuple[list | None, SpinConstraint | None]:
     spin_seed = None
-    if build_mode == "Random spins (seed)":
+    if build_mode == BUILD_MODE_RANDOM:
         spin_seed = int(st.session_state.get(f"{key_prefix}_seed", 42))
 
-    if build_mode == "Pick team & era":
+    if build_mode == BUILD_MODE_PICK:
         pick_label = f"Pick {pick_index}" if sport in PICK_SPIN_SPORTS else None
         spin = spin_constraint_picker(
             sport=sport,
@@ -1237,9 +1388,9 @@ def draft_spin_lineup_sequential(
         if phase_caption:
             caption = f"{phase_caption} · {caption}"
         st.caption(caption)
-    elif build_mode == "Pick team & era" and pick_index <= preset.slot_count:
+    elif build_mode == BUILD_MODE_PICK and pick_index <= preset.slot_count:
         st.markdown(f"### Pick {pick_index}")
-        pick_caption = "Choose team and era for this pick, then draft a player into an open position slot."
+        pick_caption = "Choose team and decade for this pick, then draft a player into an open position slot."
         if phase_caption:
             pick_caption = f"{phase_caption} · {pick_caption}"
         st.caption(pick_caption)
@@ -1256,7 +1407,7 @@ def draft_spin_lineup_sequential(
             open_label = ", ".join(slot.position or slot.label for slot in open_slots(lineup, preset))
             st.warning(
                 f"No players in this spin pool fit the open position slots ({open_label}). "
-                "Try a different team/era or reset the draft."
+                "Try a different team/decade or reset the draft."
             )
         else:
             lineup = pick_spin_round_picker(
@@ -1330,9 +1481,9 @@ def draft_compare_spin_lineups(
             if phase_caption:
                 caption = f"{phase_caption} · {caption}"
             st.caption(caption)
-        elif build_mode == "Pick team & era":
+        elif build_mode == BUILD_MODE_PICK:
             st.markdown(f"### Pick {pick_index}")
-            pick_caption = "Choose one team+era constraint for both lineups."
+            pick_caption = "Choose one team+decade constraint for both lineups."
             if phase_caption:
                 pick_caption = f"{phase_caption} · {pick_caption}"
             st.caption(pick_caption)
@@ -1402,7 +1553,7 @@ def draft_slot_lineup_sequential(
     key_prefix: str,
     fixed_spins: list[SpinConstraint] | None = None,
     seed_spins: list[SpinConstraint] | None = None,
-    build_mode: str = "Free build",
+    build_mode: str = BUILD_MODE_FREE,
     player_pool: list | None = None,
     spin_pools_by_slot: dict[str, list | None] | None = None,
 ) -> Lineup:

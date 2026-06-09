@@ -252,6 +252,20 @@ def has_pfr_bundled_data() -> bool:
     return bool(bundled_years())
 
 
+def has_pfr_defense_data() -> bool:
+    if not has_pfr_bundled_data():
+        return False
+    for raw in load_all_pfr_bundled():
+        if raw.get("source") == "pfr_defense":
+            return True
+        stats = raw.get("stats") or {}
+        if stats.get("sacks", 0) or stats.get("tackles", 0) or stats.get("interceptions", 0):
+            pos = str(raw.get("position", "")).upper()
+            if pos in {"EDGE", "DE", "DT", "LB", "CB", "S", "DB"}:
+                return True
+    return False
+
+
 def load_all_pfr_bundled(
     *,
     start_year: int = PFR_START,

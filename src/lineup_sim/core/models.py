@@ -19,6 +19,7 @@ class PlayerSeason:
     stats: dict[str, float]
     decade: str = ""
     position_raw: str = ""
+    role: str = ""  # mlb: "bat" | "pitch"
 
     def __post_init__(self) -> None:
         if not self.decade:
@@ -51,6 +52,7 @@ class Preset:
     grade_thresholds: dict[str, float] = field(default_factory=dict)
     rating_baseline: float | None = None
     win_rating_slope: float = 0.30
+    era_decades: list[str] = field(default_factory=list)
 
     @property
     def slot_count(self) -> int:
@@ -141,6 +143,7 @@ class LeaderboardEntry:
     share_code: str
     lineup_summary: str
     projected_losses: float | None = None
+    share_token: str | None = None
 
 
 def decade_label(season: int) -> str:

@@ -28,17 +28,31 @@ def test_nfl_lineup_scores():
 
 
 def test_mlb_lineup_scores():
-    preset = get_preset("mlb_battery")
-    pool = {p.player_name: p for p in MLBPlugin().load_player_pool()}
+    preset = get_preset("mlb_modern")
+    pool = MLBPlugin().load_player_pool()
+    judge = next(
+        p
+        for p in pool
+        if p.player_name == "Aaron Judge" and p.team_abbr == "NYY" and p.decade == "2020s"
+    )
+    kershaw = next(
+        p
+        for p in pool
+        if p.player_name == "Clayton Kershaw" and p.team_abbr == "LAD" and p.role == "pitch"
+    )
     lineup = empty_lineup(preset)
-    lineup = assign_player(lineup, preset, "h1", pool["Aaron Judge"])
-    lineup = assign_player(lineup, preset, "sp", pool["Clayton Kershaw"])
-    score = score_lineup(lineup, MLBPlugin().load_player_pool())
+    lineup = assign_player(lineup, preset, "dh", judge)
+    lineup = assign_player(lineup, preset, "sp", kershaw)
+    score = score_lineup(lineup, pool)
     assert score.team_rating != 0
     assert score.max_games == 162
 
 
-def test_leaderboard_submit_and_list():
+def test_leaderboard_submit_and_list(tmp_path, monkeypatch):
+    import lineup_sim.daily.leaderboard as lb
+
+    monkeypatch.setattr(lb, "LEADERBOARD_PATH", tmp_path / "leaderboard.json")
+
     entry = submit_entry(
         date="2099-01-01",
         sport="nba",
@@ -55,7 +69,11 @@ def test_leaderboard_submit_and_list():
     assert format_leaderboard_record(entry, max_games=82) == "70-12"
 
 
-def test_leaderboard_record_falls_back_without_losses():
+def test_leaderboard_record_falls_back_without_losses(tmp_path, monkeypatch):
+    import lineup_sim.daily.leaderboard as lb
+
+    monkeypatch.setattr(lb, "LEADERBOARD_PATH", tmp_path / "leaderboard.json")
+
     entry = submit_entry(
         date="2099-01-02",
         sport="nba",

@@ -7,7 +7,20 @@ from lineup_sim.sports.registry import get_sport_plugin
 
 NBA_DECADES = ["1960s", "1970s", "1980s", "1990s", "2000s", "2010s", "2020s"]
 OTHER_SPORT_DECADES = ["1970s", "1980s", "1990s", "2000s", "2010s", "2020s"]
-PICK_SPIN_SPORTS = frozenset({"nba", "nfl"})
+PICK_SPIN_SPORTS = frozenset({"nba", "nfl", "mlb"})
+TENURE_SPORTS = frozenset({"mlb"})
+
+
+def decades_for_preset(preset: Preset) -> list[str]:
+    if preset.era_decades:
+        return list(preset.era_decades)
+    if preset.sport == "nba":
+        return NBA_DECADES
+    if preset.sport == "mlb":
+        from lineup_sim.ingest.lahman_common import CLASSIC_DECADES
+
+        return list(CLASSIC_DECADES)
+    return OTHER_SPORT_DECADES
 
 
 def seasons_for_decade(decade: str) -> tuple[int, int]:
@@ -85,7 +98,7 @@ def spin_options_for_pick(
     plugin = get_sport_plugin(preset.sport)
     pool = pool or plugin.load_player_pool()
     teams = plugin.teams()
-    decades = NBA_DECADES if preset.sport == "nba" else OTHER_SPORT_DECADES
+    decades = decades_for_preset(preset)
     required_slots = None
     if lineup is not None and pick_index is not None:
         required_slots = anticipated_open_slots(preset, pick_index, lineup)
@@ -126,7 +139,7 @@ def spin_options_for_slot(
     plugin = get_sport_plugin(preset.sport)
     pool = pool or plugin.load_player_pool()
     teams = plugin.teams()
-    decades = NBA_DECADES if preset.sport == "nba" else OTHER_SPORT_DECADES
+    decades = decades_for_preset(preset)
     options: list[SpinConstraint] = []
 
     for team in teams:

@@ -88,8 +88,8 @@ def lineup_breakdown_caption(preset) -> str:
         )
     if preset.sport == "nfl":
         return (
-            "Season stat totals for each pick; stat score uses per-game fantasy points internally. "
-            "Slot rating shows how much each player pulls team rating up or down."
+            "Season stat totals for each pick; slot rating uses per-game fantasy points × position weight. "
+            "Composite Z is era-relative vs position/season peers — use it with the stats to judge each pick."
         )
     return (
         "Per-game stats for each pick, weighted stat score, and slot rating "

@@ -149,6 +149,30 @@ def test_nfl_dropdown_stats_hide_irrelevant_zeros():
     assert "QB" in label
 
 
+def test_nfl_scoring_help_reflects_20_0_weights():
+    from lineup_sim.core.presets import get_preset
+    from lineup_sim.sports.nfl.scoring_help import nfl_formula_notes, position_weight_summary
+
+    two_way = get_preset("nfl_two_way")
+    offense = get_preset("nfl_offense")
+
+    two_way_weights = position_weight_summary(two_way)
+    assert any("QB 1.5×" in line for line in two_way_weights)
+    assert any("EDGE 1.2×" in line for line in two_way_weights)
+    assert any("CB 1.2×" in line for line in two_way_weights)
+
+    offense_weights = position_weight_summary(offense)
+    assert any("QB 1.5×" in line for line in offense_weights)
+    assert not any("EDGE" in line for line in offense_weights)
+
+    notes = nfl_formula_notes(two_way, rating_baseline=2.0)
+    joined = " ".join(notes)
+    assert "era-relative" in joined.lower() or "Composite Z" in joined
+    assert "Balance" in joined
+    assert "QB:" in joined
+    assert "EDGE:" in joined
+
+
 def test_nfl_stat_tracking_factor_by_side():
     plugin = NFLPlugin()
     qb = PlayerSeason(

@@ -153,7 +153,7 @@ tests/
 4. **Projected record** — logistic curve × season length (`max_games` in preset)
 
 **NBA:** Per-game stats in tables and pickers; STL/BLK omitted before 1973–74.  
-**NFL:** Season totals in tables and pickers; scoring uses per-game fantasy points internally. Offense yards/TD scaling; defense uses sacks, tackles, interceptions. **Offense-first** two-way draft — fill six offense starters before defense opens.  
+**NFL:** Inspired by [20-0.com](https://www.20-0.com/) — era-relative Composite Z vs position/season peers; position-weighted team rating (QB 1.5×, EDGE/CB 1.2× in two-way mode); balance penalty for weak slots. Season totals in tables; scoring uses per-game fantasy points internally. Offense-first two-way draft. Pre-1999 uses PFR box scores; 1999+ uses nflverse.  
 **MLB:** Franchise-decade tenure totals (not single seasons); **Decade** column in breakdown tables; win curve projects ~100–115 wins for strong drafts over 162 games. Negro Leagues excluded.
 
 Composite Z scores are display-only era context vs peers.

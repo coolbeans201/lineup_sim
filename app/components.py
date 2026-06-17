@@ -261,6 +261,12 @@ def render_score_panel(score: ScoreResult, *, preset_slug: str | None = None) ->
             st.write("Fill the lineup to see how projected wins are calculated.")
 
     with st.expander("How scoring works"):
+        preset = get_preset(preset_slug) if preset_slug else None
+        if preset and preset.sport == "nfl":
+            st.caption(
+                "Modeled after [20-0.com](https://www.20-0.com/) — era-relative peers, premium positions, "
+                "and balance matter. This sim shows the full breakdown instead of hiding ratings."
+            )
         for note in score.formula_notes:
             st.write(f"- {note}")
 

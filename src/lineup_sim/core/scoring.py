@@ -243,14 +243,9 @@ def _formula_notes(preset: Preset, rating_baseline: float) -> list[str]:
             "STL/BLK are omitted from scoring for seasons before 1973-74 (not tracked on Basketball Reference)."
         )
     if preset.sport == "nfl":
-        notes.append(
-            "Offense uses per-game fantasy scaling (pass yards 0.04/pt, rush/rec yards 0.1/pt, "
-            "pass TD 4, rush/rec TD 6). Defense uses sacks, tackles, and interceptions."
-        )
-        notes.append(
-            "NFL win curve baseline is the weighted median slot rating across the player pool "
-            "(a typical lineup projects near .500)."
-        )
+        from lineup_sim.sports.nfl.scoring_help import nfl_formula_notes
+
+        return nfl_formula_notes(preset, rating_baseline=rating_baseline)
     if preset.sport == "mlb":
         notes.append(
             "Hitters score on decade tenure totals (HR/RBI/SB per 100 games plus OPS/AVG). "
